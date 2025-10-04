@@ -105,6 +105,18 @@ M  END
 >  <Collaboration_Compound_ID>  (1) 
 Pfizer-01-06
 
+>  <experimental dG reference units>  (1) 
+nM
+
+>  <experimental dG reference field>  (1) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (1) 
+-27.772825890261046
+
+>  <kcal/mol experimental dG>  (1) 
+-6.6378646965251065
+
 $$$$
 Pfizer-01-09
      RDKit          3D
@@ -210,6 +222,18 @@ M  END
 >  <Collaboration_Compound_ID>  (2) 
 Pfizer-01-09
 
+>  <experimental dG reference units>  (2) 
+nM
+
+>  <experimental dG reference field>  (2) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (2) 
+-26.98835035695819
+
+>  <kcal/mol experimental dG>  (2) 
+-6.450370544206068
+
 $$$$
 Pfizer-01-04
      RDKit          3D
@@ -302,6 +326,18 @@ M  END
 
 >  <Collaboration_Compound_ID>  (3) 
 Pfizer-01-04
+
+>  <experimental dG reference units>  (3) 
+nM
+
+>  <experimental dG reference field>  (3) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (3) 
+-30.07146746670021
+
+>  <kcal/mol experimental dG>  (3) 
+-7.187253218618596
 
 $$$$
 Pfizer-01-07
@@ -404,6 +440,18 @@ M  END
 
 >  <Collaboration_Compound_ID>  (4) 
 Pfizer-01-07
+
+>  <experimental dG reference units>  (4) 
+nM
+
+>  <experimental dG reference field>  (4) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (4) 
+-27.043187845575556
+
+>  <kcal/mol experimental dG>  (4) 
+-6.463477018541003
 
 $$$$
 Pfizer-01-10
@@ -508,6 +556,18 @@ M  END
 >  <Collaboration_Compound_ID>  (5) 
 Pfizer-01-10
 
+>  <experimental dG reference units>  (5) 
+nM
+
+>  <experimental dG reference field>  (5) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (5) 
+-26.98835035695819
+
+>  <kcal/mol experimental dG>  (5) 
+-6.450370544206068
+
 $$$$
 1832576-04-1
      RDKit          3D
@@ -609,6 +669,18 @@ M  END
 >  <Collaboration_Compound_ID>  (6) 
 1832576-04-1
 
+>  <experimental dG reference units>  (6) 
+nM
+
+>  <experimental dG reference field>  (6) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (6) 
+-41.97052435395307
+
+>  <kcal/mol experimental dG>  (6) 
+-10.031196069300446
+
 $$$$
 Pfizer-01-01
      RDKit          3D
@@ -707,6 +779,18 @@ M  END
 
 >  <Collaboration_Compound_ID>  (7) 
 Pfizer-01-01
+
+>  <experimental dG reference units>  (7) 
+nM
+
+>  <experimental dG reference field>  (7) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (7) 
+-37.009451999547046
+
+>  <kcal/mol experimental dG>  (7) 
+-8.845471319203405
 
 $$$$
 Pfizer-01-03
@@ -810,6 +894,18 @@ M  END
 >  <Collaboration_Compound_ID>  (8) 
 Pfizer-01-03
 
+>  <experimental dG reference units>  (8) 
+nM
+
+>  <experimental dG reference field>  (8) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (8) 
+-34.825715675356534
+
+>  <kcal/mol experimental dG>  (8) 
+-8.323545811509687
+
 $$$$
 Pfizer-01-11
      RDKit          3D
@@ -901,6 +997,18 @@ M  END
 >  <Collaboration_Compound_ID>  (9) 
 Pfizer-01-11
 
+>  <experimental dG reference units>  (9) 
+nM
+
+>  <experimental dG reference field>  (9) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (9) 
+-26.98835035695819
+
+>  <kcal/mol experimental dG>  (9) 
+-6.450370544206068
+
 $$$$
 Pfizer-01-05
      RDKit          3D
@@ -988,6 +1096,18 @@ M  END
 >  <Collaboration_Compound_ID>  (10) 
 Pfizer-01-05
 
+>  <experimental dG reference units>  (10) 
+nM
+
+>  <experimental dG reference field>  (10) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (10) 
+-27.913535113550964
+
+>  <kcal/mol experimental dG>  (10) 
+-6.671495008018873
+
 $$$$
 Pfizer-01-13
      RDKit          3D
@@ -1068,6 +1188,18 @@ M  END
 
 >  <Collaboration_Compound_ID>  (11) 
 Pfizer-01-13
+
+>  <experimental dG reference units>  (11) 
+nM
+
+>  <experimental dG reference field>  (11) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (11) 
+-26.98835035695819
+
+>  <kcal/mol experimental dG>  (11) 
+-6.450370544206068
 
 $$$$
 2714550-01-1
@@ -1167,6 +1299,18 @@ M  END
 
 >  <Collaboration_Compound_ID>  (12) 
 2714550-01-1
+
+>  <experimental dG reference units>  (12) 
+nM
+
+>  <experimental dG reference field>  (12) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (12) 
+-36.700234843890875
+
+>  <kcal/mol experimental dG>  (12) 
+-8.771566645289406
 
 $$$$
 1832577-09-9
@@ -1268,6 +1412,18 @@ M  END
 
 >  <Collaboration_Compound_ID>  (13) 
 1832577-09-9
+
+>  <experimental dG reference units>  (13) 
+nM
+
+>  <experimental dG reference field>  (13) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (13) 
+-35.08427812349376
+
+>  <kcal/mol experimental dG>  (13) 
+-8.385343719764283
 
 $$$$
 Pfizer-01-02
@@ -1374,6 +1530,18 @@ M  END
 >  <Collaboration_Compound_ID>  (14) 
 Pfizer-01-02
 
+>  <experimental dG reference units>  (14) 
+nM
+
+>  <experimental dG reference field>  (14) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (14) 
+-35.917856971204856
+
+>  <kcal/mol experimental dG>  (14) 
+-8.584573845890262
+
 $$$$
 Pfizer-01-08
      RDKit          3D
@@ -1475,6 +1643,18 @@ M  END
 >  <Collaboration_Compound_ID>  (15) 
 Pfizer-01-08
 
+>  <experimental dG reference units>  (15) 
+nM
+
+>  <experimental dG reference field>  (15) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (15) 
+-26.98835035695819
+
+>  <kcal/mol experimental dG>  (15) 
+-6.450370544206068
+
 $$$$
 Pfizer-01-12
      RDKit          3D
@@ -1563,5 +1743,17 @@ M  END
 
 >  <Collaboration_Compound_ID>  (16) 
 Pfizer-01-12
+
+>  <experimental dG reference units>  (16) 
+nM
+
+>  <experimental dG reference field>  (16) 
+IC50 (nM)
+
+>  <kJ/mol experimental dG>  (16) 
+-26.98835035695819
+
+>  <kcal/mol experimental dG>  (16) 
+-6.450370544206068
 
 $$$$
