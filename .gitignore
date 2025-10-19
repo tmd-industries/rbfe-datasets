@@ -1,4 +1,11 @@
+.idea
+*.pkl
+__pycache__/
+*.so
 *.DS_Store
+oe_license.txt
 *.swp
-*.backup
 .ipynb_checkpoints/
+*.egg-info/
+.coverage*
+.hypothesis/
