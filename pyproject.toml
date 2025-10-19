@@ -1,0 +1,29 @@
+[tool.mypy]
+plugins = ["numpy.typing.mypy_plugin"]
+ignore_missing_imports = true
+check_untyped_defs = false
+disable_error_code = [
+  "has-type",
+  "misc",
+  "var-annotated"
+]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+# https://docs.astral.sh/ruff/rules
+select = [
+  "E", # pycodestyle
+  "F", # Pyflakes
+  "I", # isort
+  "NPY", # numpy-specific rules
+  "UP", # pyupgrade
+  "RUF", # ruff-specific
+  "W", # warning
+]
+ignore = [
+  "E501", # Line too long
+
+  "RUF002", # Docstring contains ambiguous `–` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+]

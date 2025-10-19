@@ -2,14 +2,11 @@
 Split an SDF file into sets of molecules by formal charge.
 """
 
+from argparse import ArgumentParser
 from collections import defaultdict
 from pathlib import Path
-from argparse import ArgumentParser
 
 from rdkit import Chem
-
-from tmd.constants import DEFAULT_FF
-from tmd.ff import Forcefield
 from tmd.fe.utils import read_sdf
 
 
