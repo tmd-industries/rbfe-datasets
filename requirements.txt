@@ -4,4 +4,4 @@ rdkit==2025.09.1
 ruff==0.9.3
 mypy==1.14.1
 pre-commit==4.1.0
-tmd@git+ssh://git@github.com/tmd-industries/tmd.git
+tmd@git+https://github.com/tmd-industries/tmd.git
