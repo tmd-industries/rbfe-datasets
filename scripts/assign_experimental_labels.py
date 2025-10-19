@@ -1,10 +1,10 @@
-from shutil import copy2
-from pathlib import Path
 from argparse import ArgumentParser
-from tmd.fe.utils import read_sdf, convert_uM_to_kJ_per_mole
-from tmd.constants import DEFAULT_TEMP, KCAL_TO_KJ
+from pathlib import Path
+from shutil import copy2
 
 from rdkit import Chem
+from tmd.constants import KCAL_TO_KJ
+from tmd.fe.utils import convert_uM_to_kJ_per_mole, read_sdf
 
 EXPERIMENT_UNIT_TAG = "experimental dG reference units"
 EXPERIMENT_FIELD_TAG = "experimental dG reference field"

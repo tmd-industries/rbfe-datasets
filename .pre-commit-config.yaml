@@ -1,0 +1,34 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+
+-   repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.9.3
+    hooks:
+    -   id: ruff
+        args: [ --fix ]
+    -   id: ruff-format
+
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.14.1
+    hooks:
+    -   id: mypy
+        # include dependencies that export types (i.e. have a py.typed file in the root module) so that they can be used
+        # by mypy in pre-commit
+        additional_dependencies:
+          - "jax==0.4.28"
+          - "numpy==2.2.2"
+          - "scipy==1.15.1"
+          - "matplotlib==3.10.0"
+
+
+exclude: |
+  (?x)(
+    \.pdb$
+  | \.sdf$
+  | \.xml$
+  )
