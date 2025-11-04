@@ -9,3 +9,4 @@ oe_license.txt
 *.egg-info/
 .coverage*
 .hypothesis/
+*.backup
