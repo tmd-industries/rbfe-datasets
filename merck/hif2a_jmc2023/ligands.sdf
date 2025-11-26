@@ -1,21 +1,21 @@
-22g-bindingpose1
+22a
      RDKit          3D
 
  33 35  0  0  0  0  0  0  0  0999 V2000
-   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
    12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
    11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
    12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
     9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
     9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
    15.2820    0.4557   10.1452 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23,59 +23,59 @@
    17.0471   -0.8766   11.1028 C   0  0  0  0  0  0  0  0  0  0  0  0
    16.1073   -1.8094   11.5386 C   0  0  0  0  0  0  0  0  0  0  0  0
    14.7514   -1.6088   11.2756 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.5338    1.1911   10.0225 F   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6176   -3.2119   12.4031 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   18.3614   -1.0732   11.3565 F   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1206   -0.1216   13.1609 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0760    1.5462   12.5982 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6709   -0.2327   11.2483 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6693   -0.2310   11.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0804    1.5435   12.6027 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1176   -0.1255   13.1596 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9707    1.3338    9.5980 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.0965   -1.0273   11.3088 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0275   -2.3408   11.6033 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  2  0
-  1 21  1  0
-  2  5  2  0
-  2 14  1  0
+   14.9658    1.3307    9.5957 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3641    0.9880   10.0888 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4347   -2.6878   12.0746 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0263   -2.3396   11.6023 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  5  1  0
+  1 10  1  0
+  2  3  1  0
+  2  6  1  0
   3  4  2  0
-  3  6  1  0
-  3 14  1  0
+  3  8  1  0
   4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 24  1  0
-  9 25  1  0
-  9 26  1  0
- 10 11  1  0
- 10 13  1  0
- 10 27  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
+  4  9  1  0
+  6  7  1  0
+  6 23  1  0
+  6 24  1  0
+  7  8  1  0
+  7 15  1  0
+  7 16  1  0
+  8 11  1  0
+  8 25  1  1
+  9 12  1  0
+  9 13  2  0
+  9 14  2  0
+ 10 17  2  0
+ 10 21  1  0
+ 11 26  1  0
+ 12 27  1  0
  12 28  1  0
  12 29  1  0
- 13 30  1  0
  17 18  1  0
- 17 31  1  0
+ 17 30  1  0
  18 19  2  0
- 18 22  1  0
+ 18 31  1  0
  19 20  1  0
- 19 32  1  0
+ 19 22  1  0
  20 21  2  0
- 20 23  1  0
+ 20 32  1  0
  21 33  1  0
 M  END
 >  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (1) 
-0.094
+0.82999999999999996
 
 >  <atom.dprop.PartialCharge>  (1) 
-0.047243275 -0.096796155 -0.45593643 -0.02219478 -0.12679219 1.4485176 -0.655039 -0.655039 -0.36741742 0.17394577 0.40178195 -0.033385348 -0.56963265 0.32626787 -0.22916746 -0.22916746 -0.15729374 0.14459667 -0.15770087 0.036235105 -0.123516776 -0.13488796 -0.08177368 0.11585607 0.11585607 0.11585607 0.09038771 0.08674085 0.08674085 0.415176 0.16247222 0.16694385 0.16112277
+-0.084143385 -0.13292685 -0.023359321 -0.45797104 0.3251028 -0.034568556 0.40156996 0.17373377 1.4483056 -0.020725816 -0.5698447 -0.36762947 -0.6552511 -0.6552511 -0.22937953 -0.22937953 -0.089049086 -0.17112911 0.1451032 -0.17112911 -0.089049086 -0.13613445 0.086528815 0.086528815 0.09017567 0.41496396 0.11564402 0.11564402 0.11564402 0.14524317 0.15374511 0.15374511 0.14524317
 
 >  <experimental dG reference units>  (1) 
 uM
@@ -84,13 +84,16 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (1) 
--40.35856522293325
+-34.92553703999371
 
 >  <kcal/mol experimental dG>  (1) 
--9.64592859056722
+-8.347403690247063
+
+>  <AmberAM1BCCCache>  (1) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCH1TTG/PLNW/lIaUUpRoA2gJQwi4QxyHXuP5v5SGlFKUaANoCUMIHNED6Ok04r+UhpRSlGgDaAlDCIJ9oQTHfxPAlIaUUpRoA2gJQwhDRcMo1MgHQJSGlFKUaANoCUMIUT3dn2YE5L+UhpRSlGgDaAlDCLisR7S1nRFAlIaUUpRoA2gJQwjMb3ezj0H+P5SGlFKUaANoCUMIrgYlpPrVMECUhpRSlGgDaAlDCENNlnrTVuG/lIaUUpRoA2gJQwhilqgC1KwawJSGlFKUaANoCUMI2/++4wFdEcCUhpRSlGgDaAlDCJWsflwX5R7AlIaUUpRoA2gJQwiVrH5cF+UewJSGlFKUaANoCUMItkqXtWuGBcCUhpRSlGgDaAlDCLZKl7VrhgXAlIaUUpRoA2gJQwggZ+jkv07wv5SGlFKUaANoCUMICPsykk3U/r+UhpRSlGgDaAlDCEfHgQZixPo/lIaUUpRoA2gJQwgI+zKSTdT+v5SGlFKUaANoCUMIIGfo5L9O8L+UhpRSlGgDaAlDCNr2sV+o3vi/lIaUUpRoA2gJQwijj1c25LvwP5SGlFKUaANoCUMIo49XNuS78D+UhpRSlGgDaAlDCBuC8rnYe/s/lIaUUpRoA2gJQwhhFX4qaJETQJSGlFKUaANoCUMImPNS7iD19j+UhpRSlGgDaAlDCJjzUu4g9fY/lIaUUpRoA2gJQwiY81LuIPX2P5SGlFKUaANoCUMIrFs9pn35+j+UhpRSlGgDaAlDCNcbxwhFhf0/lIaUUpRoA2gJQwjXG8cIRYX9P5SGlFKUaANoCUMIrFs9pn35+j+UhpRSlGUu
 
 $$$$
-22g-bindingpose2
+22b-bindingpose2
      RDKit          3D
 
  33 35  0  0  0  0  0  0  0  0999 V2000
@@ -110,23 +113,23 @@ $$$$
    12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
     9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
     9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7381   -1.6164   11.2675 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.0722   -1.7916   11.6221 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0116   -0.8173   11.2891 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6209    0.3148   10.5758 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.2848    0.4815   10.2086 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4482   -2.9083   12.2838 F   0  0  0  0  0  0  0  0  0  0  0  0
-   17.7869    1.5108   10.1457 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   14.7347   -1.6039   11.2893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0690   -1.7783   11.6438 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0120   -0.8153   11.2886 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6247    0.3040   10.5535 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2883    0.4696   10.1867 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3056   -0.9622   11.6552 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4416   -2.8831   12.3268 F   0  0  0  0  0  0  0  0  0  0  0  0
     7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6693   -0.2310   11.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0804    1.5435   12.6027 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1176   -0.1255   13.1596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6543   -0.2188   11.2370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0518    1.5509   12.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1051   -0.1228   13.1711 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0126   -2.3671   11.5457 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.0457   -0.9507   11.5707 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9838    1.3668    9.6675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0114   -2.3473   11.5898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3592    1.0421   10.2666 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0020    1.3335    9.6047 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   1 17  2  0
   1 21  1  0
@@ -156,18 +159,18 @@ $$$$
  17 18  1  0
  17 31  1  0
  18 19  2  0
- 18 22  1  0
+ 18 23  1  0
  19 20  1  0
- 19 32  1  0
+ 19 22  1  0
  20 21  2  0
- 20 23  1  0
+ 20 32  1  0
  21 33  1  0
 M  END
 >  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (2) 
-0.094
+0.82999999999999996
 
 >  <atom.dprop.PartialCharge>  (2) 
-0.047243275 -0.096796155 -0.45593643 -0.02219478 -0.12679219 1.4485176 -0.655039 -0.655039 -0.36741742 0.17394577 0.40178195 -0.033385348 -0.56963265 0.32626787 -0.22916746 -0.22916746 -0.15729374 0.14459667 -0.15770087 0.036235105 -0.123516776 -0.13488796 -0.08177368 0.11585607 0.11585607 0.11585607 0.09038771 0.08674085 0.08674085 0.415176 0.16247222 0.16694385 0.16112277
+0.015438896 -0.09225258 -0.45719606 -0.022993885 -0.1288329 1.4485902 -0.6549663 -0.6549663 -0.3673447 0.17401849 0.40185466 -0.034169424 -0.56955993 0.3262454 -0.22909471 -0.22909471 -0.12760282 0.09392164 0.106723964 -0.14588381 -0.101951554 -0.120669685 -0.12499973 0.11592879 0.11592879 0.11592879 0.090460435 0.086813584 0.086813584 0.41524872 0.16160159 0.15682605 0.14923528
 
 >  <experimental dG reference units>  (2) 
 uM
@@ -176,10 +179,13 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (2) 
--40.35856522293325
+-34.92553703999371
 
 >  <kcal/mol experimental dG>  (2) 
--9.64592859056722
+-8.347403690247063
+
+>  <AmberAM1BCCCache>  (2) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNHHXX9kqca/lIaUUpRoA2gJQwhpm3XprUPgv5SGlFKUaANoCUMILYKOahtQE8CUhpRSlGgDaAlDCEO0M054W+O/lIaUUpRoA2gJQwjaX9jNIMT4v5SGlFKUaANoCUMI/gYDJs/SMECUhpRSlGgDaAlDCE0uuYuY0x7AlIaUUpRoA2gJQwhNLrmLmNMewJSGlFKUaANoCUMInv5G3K9pEcCUhpRSlGgDaAlDCAlw03kfP/4/lIaUUpRoA2gJQwjHrN6lGZ0RQJSGlFKUaANoCUMI7ikVtWXK5L+UhpRSlGgDaAlDCFOWERFwrRrAlIaUUpRoA2gJQwhHJFWnkRkJQJSGlFKUaANoCUMI9Ewr/n9vBcCUhpRSlGgDaAlDCPRMK/5/bwXAlIaUUpRoA2gJQwiGdtW9auf5v5SGlFKUaANoCUMIHY6GKDDW8j+UhpRSlGgDaAlDCEloZmxtWPQ/lIaUUpRoA2gJQwh0YG0lucj6v5SGlFKUaANoCUMIsz6qNpHr8b+UhpRSlGgDaAlDCNA4jmItPfa/lIaUUpRoA2gJQwgWNAoLdW32v5SGlFKUaANoCUMIGu8qXfgi9z+UhpRSlGgDaAlDCBrvKl34Ivc/lIaUUpRoA2gJQwga7ypd+CL3P5SGlFKUaANoCUMInn3KKLCp+z+UhpRSlGgDaAlDCIKN8dCX0fA/lIaUUpRoA2gJQwiCjfHQl9HwP5SGlFKUaANoCUMIQRQ0Bt6cE0CUhpRSlGgDaAlDCPwU3UtAy/0/lIaUUpRoA2gJQwgSAs3tXoz+P5SGlFKUaANoCUMI0Dr9BwNJ/D+UhpRSlGUu
 
 $$$$
 22b-bindingpose1
@@ -273,97 +279,8 @@ Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 >  <kcal/mol experimental dG>  (3) 
 -8.347403690247063
 
-$$$$
-22b-bindingpose2
-     RDKit          3D
-
- 33 35  0  0  0  0  0  0  0  0999 V2000
-   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7347   -1.6039   11.2893 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.0690   -1.7783   11.6438 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0120   -0.8153   11.2886 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6247    0.3040   10.5535 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.2883    0.4696   10.1867 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.3056   -0.9622   11.6552 F   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4416   -2.8831   12.3268 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6543   -0.2188   11.2370 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0518    1.5509   12.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1051   -0.1228   13.1711 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0114   -2.3473   11.5898 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3592    1.0421   10.2666 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0020    1.3335    9.6047 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  2  0
-  1 21  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 24  1  0
-  9 25  1  0
-  9 26  1  0
- 10 11  1  0
- 10 13  1  0
- 10 27  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 28  1  0
- 12 29  1  0
- 13 30  1  0
- 17 18  1  0
- 17 31  1  0
- 18 19  2  0
- 18 23  1  0
- 19 20  1  0
- 19 22  1  0
- 20 21  2  0
- 20 32  1  0
- 21 33  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (4) 
-0.82999999999999996
-
->  <atom.dprop.PartialCharge>  (4) 
-0.015438896 -0.09225258 -0.45719606 -0.022993885 -0.1288329 1.4485902 -0.6549663 -0.6549663 -0.3673447 0.17401849 0.40185466 -0.034169424 -0.56955993 0.3262454 -0.22909471 -0.22909471 -0.12760282 0.09392164 0.106723964 -0.14588381 -0.101951554 -0.120669685 -0.12499973 0.11592879 0.11592879 0.11592879 0.090460435 0.086813584 0.086813584 0.41524872 0.16160159 0.15682605 0.14923528
-
->  <experimental dG reference units>  (4) 
-uM
-
->  <experimental dG reference field>  (4) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (4) 
--34.92553703999371
-
->  <kcal/mol experimental dG>  (4) 
--8.347403690247063
+>  <AmberAM1BCCCache>  (3) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNHHXX9kqca/lIaUUpRoA2gJQwhpm3XprUPgv5SGlFKUaANoCUMILYKOahtQE8CUhpRSlGgDaAlDCEO0M054W+O/lIaUUpRoA2gJQwjaX9jNIMT4v5SGlFKUaANoCUMI/gYDJs/SMECUhpRSlGgDaAlDCE0uuYuY0x7AlIaUUpRoA2gJQwhNLrmLmNMewJSGlFKUaANoCUMInv5G3K9pEcCUhpRSlGgDaAlDCAlw03kfP/4/lIaUUpRoA2gJQwjHrN6lGZ0RQJSGlFKUaANoCUMI7ikVtWXK5L+UhpRSlGgDaAlDCFOWERFwrRrAlIaUUpRoA2gJQwhHJFWnkRkJQJSGlFKUaANoCUMI9Ewr/n9vBcCUhpRSlGgDaAlDCPRMK/5/bwXAlIaUUpRoA2gJQwiGdtW9auf5v5SGlFKUaANoCUMIHY6GKDDW8j+UhpRSlGgDaAlDCEloZmxtWPQ/lIaUUpRoA2gJQwh0YG0lucj6v5SGlFKUaANoCUMIsz6qNpHr8b+UhpRSlGgDaAlDCNA4jmItPfa/lIaUUpRoA2gJQwgWNAoLdW32v5SGlFKUaANoCUMIGu8qXfgi9z+UhpRSlGgDaAlDCBrvKl34Ivc/lIaUUpRoA2gJQwga7ypd+CL3P5SGlFKUaANoCUMInn3KKLCp+z+UhpRSlGgDaAlDCIKN8dCX0fA/lIaUUpRoA2gJQwiCjfHQl9HwP5SGlFKUaANoCUMIQRQ0Bt6cE0CUhpRSlGgDaAlDCPwU3UtAy/0/lIaUUpRoA2gJQwgSAs3tXoz+P5SGlFKUaANoCUMI0Dr9BwNJ/D+UhpRSlGUu
 
 $$$$
 22e-bindingpose1
@@ -441,23 +358,26 @@ $$$$
  21 34  1  0
  23 24  3  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (5) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (4) 
 0.35999999999999999
 
->  <atom.dprop.PartialCharge>  (5) 
+>  <atom.dprop.PartialCharge>  (4) 
 1.4487401 0.025942098 -0.5694097 0.17416862 0.40200478 -0.03321817 -0.022098392 -0.12680942 -0.09094435 0.32093933 -0.45523837 -0.22894454 -0.22894454 -0.6548161 -0.6548161 -0.36719453 -0.13454568 0.12439505 -0.12575346 0.010084484 -0.08489062 -0.13060333 0.23244984 -0.34728634 0.4153989 0.09061062 0.08696374 0.08696374 0.11607896 0.11607896 0.11607896 0.16380993 0.1685769 0.15622813
 
->  <experimental dG reference units>  (5) 
+>  <experimental dG reference units>  (4) 
 uM
 
->  <experimental dG reference field>  (5) 
+>  <experimental dG reference field>  (4) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (5) 
+>  <kJ/mol experimental dG>  (4) 
 -37.00912445558825
 
->  <kcal/mol experimental dG>  (5) 
+>  <kcal/mol experimental dG>  (4) 
 -8.845393034318414
+
+>  <AmberAM1BCCCache>  (4) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJvNtEDazzBAlIaUUpRoA2gJQwjQnmyx5kOXvpSGlFKUaANoCUMIOX4M0h+hGsCUhpRSlGgDaAlDCObZ7yTRD/4/lIaUUpRoA2gJQwjhxOPkaakRQJSGlFKUaANoCUMINFbcXgIp5b+UhpRSlGgDaAlDCBbX8kikGuS/lIaUUpRoA2gJQwihDVDYCAL4v5SGlFKUaANoCUMIk3L0a1QH5L+UhpRSlGgDaAlDCMFP2815YglAlIaUUpRoA2gJQwjNbg2DgxMTwJSGlFKUaANoCUMIwRwhgN9WBcCUhpRSlGgDaAlDCMEcIYDfVgXAlIaUUpRoA2gJQwiblcNBUc0ewJSGlFKUaANoCUMIm5XDQVHNHsCUhpRSlGgDaAlDCCbkf3GDdRHAlIaUUpRoA2gJQwjLOIlDHFT4v5SGlFKUaANoCUMIZGWmOo9/+D+UhpRSlGgDaAlDCORZJagmAve/lIaUUpRoA2gJQwhvD+CoA6/PP5SGlFKUaANoCUMIdrh1fo0887+UhpRSlGgDaAlDCCCpUfu47ve/lIaUUpRoA2gJQwifjPrnPeoEQJSGlFKUaANoCUMImB4pIOt5D8CUhpRSlGgDaAlDCLku+3AKkRNAlIaUUpRoA2gJQwgG3t4k8dr7P5SGlFKUaANoCUMIjetDofwa8T+UhpRSlGgDaAlDCI3rQ6H8GvE/lIaUUpRoA2gJQwgyKxyVJUT3P5SGlFKUaANoCUMIMisclSVE9z+UhpRSlGgDaAlDCDIrHJUlRPc/lIaUUpRoA2gJQwiqcG3wyCz+P5SGlFKUaANoCUMIHEbJ3E3f/z+UhpRSlGgDaAlDCNl++fbxm/0/lIaUUpRlLg==
 
 $$$$
 22e-bindingpose2
@@ -535,209 +455,26 @@ $$$$
  21 34  1  0
  23 24  3  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (6) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (5) 
 0.35999999999999999
 
->  <atom.dprop.PartialCharge>  (6) 
+>  <atom.dprop.PartialCharge>  (5) 
 1.4487401 0.025942098 -0.5694097 0.17416862 0.40200478 -0.03321817 -0.022098392 -0.12680942 -0.09094435 0.32093933 -0.45523837 -0.22894454 -0.22894454 -0.6548161 -0.6548161 -0.36719453 -0.13454568 0.12439505 -0.12575346 0.010084484 -0.08489062 -0.13060333 0.23244984 -0.34728634 0.4153989 0.09061062 0.08696374 0.08696374 0.11607896 0.11607896 0.11607896 0.16380993 0.1685769 0.15622813
 
->  <experimental dG reference units>  (6) 
+>  <experimental dG reference units>  (5) 
 uM
 
->  <experimental dG reference field>  (6) 
+>  <experimental dG reference field>  (5) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (6) 
+>  <kJ/mol experimental dG>  (5) 
 -37.00912445558825
 
->  <kcal/mol experimental dG>  (6) 
+>  <kcal/mol experimental dG>  (5) 
 -8.845393034318414
 
-$$$$
-22a
-     RDKit          3D
-
- 33 35  0  0  0  0  0  0  0  0999 V2000
-   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.2820    0.4557   10.1452 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6330    0.2650   10.4188 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0471   -0.8766   11.1028 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1073   -1.8094   11.5386 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7514   -1.6088   11.2756 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.3614   -1.0732   11.3565 F   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1206   -0.1216   13.1609 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0760    1.5462   12.5982 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6709   -0.2327   11.2483 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9658    1.3307    9.5957 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3641    0.9880   10.0888 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4347   -2.6878   12.0746 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0263   -2.3396   11.6023 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  2  0
-  1  5  1  0
-  1 10  1  0
-  2  3  1  0
-  2  6  1  0
-  3  4  2  0
-  3  8  1  0
-  4  5  1  0
-  4  9  1  0
-  6  7  1  0
-  6 23  1  0
-  6 24  1  0
-  7  8  1  0
-  7 15  1  0
-  7 16  1  0
-  8 11  1  0
-  8 25  1  1
-  9 12  1  0
-  9 13  2  0
-  9 14  2  0
- 10 17  2  0
- 10 21  1  0
- 11 26  1  0
- 12 27  1  0
- 12 28  1  0
- 12 29  1  0
- 17 18  1  0
- 17 30  1  0
- 18 19  2  0
- 18 31  1  0
- 19 20  1  0
- 19 22  1  0
- 20 21  2  0
- 20 32  1  0
- 21 33  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (7) 
-0.82999999999999996
-
->  <atom.dprop.PartialCharge>  (7) 
--0.084143385 -0.13292685 -0.023359321 -0.45797104 0.3251028 -0.034568556 0.40156996 0.17373377 1.4483056 -0.020725816 -0.5698447 -0.36762947 -0.6552511 -0.6552511 -0.22937953 -0.22937953 -0.089049086 -0.17112911 0.1451032 -0.17112911 -0.089049086 -0.13613445 0.086528815 0.086528815 0.09017567 0.41496396 0.11564402 0.11564402 0.11564402 0.14524317 0.15374511 0.15374511 0.14524317
-
->  <experimental dG reference units>  (7) 
-uM
-
->  <experimental dG reference field>  (7) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (7) 
--34.92553703999371
-
->  <kcal/mol experimental dG>  (7) 
--8.347403690247063
-
-$$$$
-22d-bindingpose1
-     RDKit          3D
-
- 34 36  0  0  0  0  0  0  0  0999 V2000
-   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7514   -1.6088   11.2756 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1073   -1.8094   11.5386 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0471   -0.8766   11.1028 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6330    0.2650   10.4188 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.2820    0.4557   10.1452 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.5539   -3.0330   12.2825 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9284   -3.9667   12.8539 N   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6695   -0.2313   11.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0815    1.5431   12.6023 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1186   -0.1258   13.1586 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0256   -2.3396   11.6011 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.0974   -1.0336   11.3044 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3602    0.9912   10.0854 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9655    1.3294    9.5939 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  2  0
-  1 21  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 24  1  0
-  9 25  1  0
-  9 26  1  0
- 10 11  1  0
- 10 13  1  0
- 10 27  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 28  1  0
- 12 29  1  0
- 13 30  1  0
- 17 18  1  0
- 17 31  1  0
- 18 19  2  0
- 18 22  1  0
- 19 20  1  0
- 19 32  1  0
- 20 21  2  0
- 20 33  1  0
- 21 34  1  0
- 22 23  3  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (8) 
-0.81999999999999995
-
->  <atom.dprop.PartialCharge>  (8) 
--0.005948819 -0.08318415 -0.45597902 -0.022512998 -0.13114119 1.4484936 -0.6550629 -0.6550629 -0.3674413 0.1739219 0.40175807 -0.033580385 -0.5696565 0.3178682 -0.22919133 -0.22919133 -0.07202037 -0.022416156 -0.077576175 -0.14163971 -0.08934377 0.23633343 -0.35796738 0.115832195 0.115832195 0.115832195 0.09036384 0.08671698 0.08671698 0.41515213 0.15196992 0.14908452 0.14609882 0.14694129
-
->  <experimental dG reference units>  (8) 
-uM
-
->  <experimental dG reference field>  (8) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (8) 
--34.9557719964088
-
->  <kcal/mol experimental dG>  (8) 
--8.35463001826214
+>  <AmberAM1BCCCache>  (5) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJvNtEDazzBAlIaUUpRoA2gJQwjQnmyx5kOXvpSGlFKUaANoCUMIOX4M0h+hGsCUhpRSlGgDaAlDCObZ7yTRD/4/lIaUUpRoA2gJQwjhxOPkaakRQJSGlFKUaANoCUMINFbcXgIp5b+UhpRSlGgDaAlDCBbX8kikGuS/lIaUUpRoA2gJQwihDVDYCAL4v5SGlFKUaANoCUMIk3L0a1QH5L+UhpRSlGgDaAlDCMFP2815YglAlIaUUpRoA2gJQwjNbg2DgxMTwJSGlFKUaANoCUMIwRwhgN9WBcCUhpRSlGgDaAlDCMEcIYDfVgXAlIaUUpRoA2gJQwiblcNBUc0ewJSGlFKUaANoCUMIm5XDQVHNHsCUhpRSlGgDaAlDCCbkf3GDdRHAlIaUUpRoA2gJQwjLOIlDHFT4v5SGlFKUaANoCUMIZGWmOo9/+D+UhpRSlGgDaAlDCORZJagmAve/lIaUUpRoA2gJQwhvD+CoA6/PP5SGlFKUaANoCUMIdrh1fo0887+UhpRSlGgDaAlDCCCpUfu47ve/lIaUUpRoA2gJQwifjPrnPeoEQJSGlFKUaANoCUMImB4pIOt5D8CUhpRSlGgDaAlDCLku+3AKkRNAlIaUUpRoA2gJQwgG3t4k8dr7P5SGlFKUaANoCUMIjetDofwa8T+UhpRSlGgDaAlDCI3rQ6H8GvE/lIaUUpRoA2gJQwgyKxyVJUT3P5SGlFKUaANoCUMIMisclSVE9z+UhpRSlGgDaAlDCDIrHJUlRPc/lIaUUpRoA2gJQwiqcG3wyCz+P5SGlFKUaANoCUMIHEbJ3E3f/z+UhpRSlGgDaAlDCNl++fbxm/0/lIaUUpRlLg==
 
 $$$$
 22d-bindingpose2
@@ -815,23 +552,218 @@ $$$$
  21 34  1  0
  22 23  3  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (9) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (6) 
 0.81999999999999995
 
->  <atom.dprop.PartialCharge>  (9) 
+>  <atom.dprop.PartialCharge>  (6) 
 -0.005948819 -0.08318415 -0.45597902 -0.022512998 -0.13114119 1.4484936 -0.6550629 -0.6550629 -0.3674413 0.1739219 0.40175807 -0.033580385 -0.5696565 0.3178682 -0.22919133 -0.22919133 -0.07202037 -0.022416156 -0.077576175 -0.14163971 -0.08934377 0.23633343 -0.35796738 0.115832195 0.115832195 0.115832195 0.09036384 0.08671698 0.08671698 0.41515213 0.15196992 0.14908452 0.14609882 0.14694129
 
->  <experimental dG reference units>  (9) 
+>  <experimental dG reference units>  (6) 
 uM
 
->  <experimental dG reference field>  (9) 
+>  <experimental dG reference field>  (6) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (9) 
+>  <kJ/mol experimental dG>  (6) 
 -34.9557719964088
 
->  <kcal/mol experimental dG>  (9) 
+>  <kcal/mol experimental dG>  (6) 
 -8.35463001826214
+
+>  <AmberAM1BCCCache>  (6) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMQgTBC3Yte/lIaUUpRoA2gJQwghyKlAOQHfv5SGlFKUaANoCUMI5GioFd1PE8CUhpRSlGgDaAlDCADqAqeFWeO/lIaUUpRoA2gJQwhE8TfLtiP5v5SGlFKUaANoCUMIUI08u97SMECUhpRSlGgDaAlDCGyU4itj2R7AlIaUUpRoA2gJQwhslOIrY9kewJSGlFKUaANoCUMIVeVgh3FpEcCUhpRSlGgDaAlDCCrVa80YQP4/lIaUUpRoA2gJQwgQxsT6V50RQJSGlFKUaANoCUMIIGnsvONn5L+UhpRSlGgDaAlDCDl+DNIfoRrAlIaUUpRoA2gJQwjwXWfUotEIQJSGlFKUaANoCUMINhl+PhV7BcCUhpRSlGgDaAlDCDYZfj4VewXAlIaUUpRoA2gJQwifJIT6d07vv5SGlFKUaANoCUMIKE/3DtojuL+UhpRSlGgDaAlDCP1AnAfKLO6/lIaUUpRoA2gJQwidKv088+T4v5SGlFKUaANoCUMIIAS29hI48L+UhpRSlGgDaAlDCCmD8jjNSgVAlIaUUpRoA2gJQwhLgmmfukEQwJSGlFKUaANoCUMI6y+g7N0T9z+UhpRSlGgDaAlDCOsvoOzdE/c/lIaUUpRoA2gJQwjrL6Ds3RP3P5SGlFKUaANoCUMIBd7eJPHa+z+UhpRSlGgDaAlDCKPyiSSR0vA/lIaUUpRoA2gJQwij8okkkdLwP5SGlFKUaANoCUMIuS77cAqRE0CUhpRSlGgDaAlDCHyWjayLqvw/lIaUUpRoA2gJQwh8lo2si6r8P5SGlFKUaANoCUMIIa4hYiW5+z+UhpRSlGgDaAlDCArBMcAG+Po/lIaUUpRlLg==
+
+$$$$
+22d-bindingpose1
+     RDKit          3D
+
+ 34 36  0  0  0  0  0  0  0  0999 V2000
+   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7514   -1.6088   11.2756 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1073   -1.8094   11.5386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0471   -0.8766   11.1028 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6330    0.2650   10.4188 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2820    0.4557   10.1452 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5539   -3.0330   12.2825 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9284   -3.9667   12.8539 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6695   -0.2313   11.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0815    1.5431   12.6023 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1186   -0.1258   13.1586 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0256   -2.3396   11.6011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0974   -1.0336   11.3044 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3602    0.9912   10.0854 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9655    1.3294    9.5939 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  2  0
+  1 21  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 27  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 17 18  1  0
+ 17 31  1  0
+ 18 19  2  0
+ 18 22  1  0
+ 19 20  1  0
+ 19 32  1  0
+ 20 21  2  0
+ 20 33  1  0
+ 21 34  1  0
+ 22 23  3  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (7) 
+0.81999999999999995
+
+>  <atom.dprop.PartialCharge>  (7) 
+-0.005948819 -0.08318415 -0.45597902 -0.022512998 -0.13114119 1.4484936 -0.6550629 -0.6550629 -0.3674413 0.1739219 0.40175807 -0.033580385 -0.5696565 0.3178682 -0.22919133 -0.22919133 -0.07202037 -0.022416156 -0.077576175 -0.14163971 -0.08934377 0.23633343 -0.35796738 0.115832195 0.115832195 0.115832195 0.09036384 0.08671698 0.08671698 0.41515213 0.15196992 0.14908452 0.14609882 0.14694129
+
+>  <experimental dG reference units>  (7) 
+uM
+
+>  <experimental dG reference field>  (7) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (7) 
+-34.9557719964088
+
+>  <kcal/mol experimental dG>  (7) 
+-8.35463001826214
+
+>  <AmberAM1BCCCache>  (7) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMQgTBC3Yte/lIaUUpRoA2gJQwghyKlAOQHfv5SGlFKUaANoCUMI5GioFd1PE8CUhpRSlGgDaAlDCADqAqeFWeO/lIaUUpRoA2gJQwhE8TfLtiP5v5SGlFKUaANoCUMIUI08u97SMECUhpRSlGgDaAlDCGyU4itj2R7AlIaUUpRoA2gJQwhslOIrY9kewJSGlFKUaANoCUMIVeVgh3FpEcCUhpRSlGgDaAlDCCrVa80YQP4/lIaUUpRoA2gJQwgQxsT6V50RQJSGlFKUaANoCUMIIGnsvONn5L+UhpRSlGgDaAlDCDl+DNIfoRrAlIaUUpRoA2gJQwjwXWfUotEIQJSGlFKUaANoCUMINhl+PhV7BcCUhpRSlGgDaAlDCDYZfj4VewXAlIaUUpRoA2gJQwifJIT6d07vv5SGlFKUaANoCUMIKE/3DtojuL+UhpRSlGgDaAlDCP1AnAfKLO6/lIaUUpRoA2gJQwidKv088+T4v5SGlFKUaANoCUMIIAS29hI48L+UhpRSlGgDaAlDCCmD8jjNSgVAlIaUUpRoA2gJQwhLgmmfukEQwJSGlFKUaANoCUMI6y+g7N0T9z+UhpRSlGgDaAlDCOsvoOzdE/c/lIaUUpRoA2gJQwjrL6Ds3RP3P5SGlFKUaANoCUMIBd7eJPHa+z+UhpRSlGgDaAlDCKPyiSSR0vA/lIaUUpRoA2gJQwij8okkkdLwP5SGlFKUaANoCUMIuS77cAqRE0CUhpRSlGgDaAlDCHyWjayLqvw/lIaUUpRoA2gJQwh8lo2si6r8P5SGlFKUaANoCUMIIa4hYiW5+z+UhpRSlGgDaAlDCArBMcAG+Po/lIaUUpRlLg==
+
+$$$$
+22g-bindingpose1
+     RDKit          3D
+
+ 33 35  0  0  0  0  0  0  0  0999 V2000
+   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2820    0.4557   10.1452 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6330    0.2650   10.4188 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0471   -0.8766   11.1028 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1073   -1.8094   11.5386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7514   -1.6088   11.2756 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5338    1.1911   10.0225 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6176   -3.2119   12.4031 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6693   -0.2310   11.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0804    1.5435   12.6027 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1176   -0.1255   13.1596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9707    1.3338    9.5980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0965   -1.0273   11.3088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0275   -2.3408   11.6033 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  2  0
+  1 21  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 27  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 17 18  1  0
+ 17 31  1  0
+ 18 19  2  0
+ 18 22  1  0
+ 19 20  1  0
+ 19 32  1  0
+ 20 21  2  0
+ 20 23  1  0
+ 21 33  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (8) 
+0.094
+
+>  <atom.dprop.PartialCharge>  (8) 
+0.047243275 -0.096796155 -0.45593643 -0.02219478 -0.12679219 1.4485176 -0.655039 -0.655039 -0.36741742 0.17394577 0.40178195 -0.033385348 -0.56963265 0.32626787 -0.22916746 -0.22916746 -0.15729374 0.14459667 -0.15770087 0.036235105 -0.123516776 -0.13488796 -0.08177368 0.11585607 0.11585607 0.11585607 0.09038771 0.08674085 0.08674085 0.415176 0.16247222 0.16694385 0.16112277
+
+>  <experimental dG reference units>  (8) 
+uM
+
+>  <experimental dG reference field>  (8) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (8) 
+-40.35856522293325
+
+>  <kcal/mol experimental dG>  (8) 
+-9.64592859056722
+
+>  <AmberAM1BCCCache>  (8) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCFZj/hKFdcA/lIaUUpRoA2gJQwh0a+VSTi3iv5SGlFKUaANoCUMIRoMC++NEE8CUhpRSlGgDaAlDCCKqw3PbwuO/lIaUUpRoA2gJQwizbbC+szb4v5SGlFKUaANoCUMIA0deh5jSMECUhpRSlGgDaAlDCDcuTAZz1B7AlIaUUpRoA2gJQwg3LkwGc9QewJSGlFKUaANoCUMIiP7ZVopqEcCUhpRSlGgDaAlDCF9wh4+1O/4/lIaUUpRoA2gJQwjdrEsrP5wRQJSGlFKUaANoCUMIQSmtiTnR5L+UhpRSlGgDaAlDCD2WpItKrhrAlIaUUpRoA2gJQwhbHekuSGAJQJSGlFKUaANoCUMI+E0yCSNlBcCUhpRSlGgDaAlDCPhNMgkjZQXAlIaUUpRoA2gJQwjS/OThA8L+v5SGlFKUaANoCUMIZb6JMxcf+z+UhpRSlGgDaAlDCBosDU033/y/lIaUUpRoA2gJQwhHjJb3mCnfP5SGlFKUaANoCUMI38yV7LJ19r+UhpRSlGgDaAlDCHUELoqrU/i/lIaUUpRoA2gJQwgTRcJxeNXpv5SGlFKUaANoCUMIce/eco4f9z+UhpRSlGgDaAlDCHHv3nKOH/c/lIaUUpRoA2gJQwhx795yjh/3P5SGlFKUaANoCUMI9H1+Pkam+z+UhpRSlGgDaAlDCGSEnTe9LvE/lIaUUpRoA2gJQwhkhJ03vS7xP5SGlFKUaANoCUMIVxShiwOcE0CUhpRSlGgDaAlDCMgemRBHZ/0/lIaUUpRoA2gJQwhLbrAjmQUAQJSGlFKUaANoCUMIUxWRYdbH/T+UhpRSlGUu
 
 $$$$
 22f-bindingpose1
@@ -909,11 +841,106 @@ $$$$
  21 34  1  0
  22 24  3  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (10) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (9) 
 0.20999999999999999
 
->  <atom.dprop.PartialCharge>  (10) 
+>  <atom.dprop.PartialCharge>  (9) 
 0.010690875 -0.08909354 -0.45457032 -0.021568459 -0.126396 1.4488562 -0.6547 -0.6547 -0.36707845 0.17428468 0.40212083 -0.03268942 -0.5692936 0.32138807 -0.22882845 -0.22882845 -0.07488184 -0.0068001896 -0.08357839 0.014481667 -0.10076962 0.23520803 -0.07620104 -0.3503914 0.11619503 0.11619503 0.11619503 0.09072666 0.08707981 0.08707981 0.41551495 0.15578645 0.16520482 0.16336103
+
+>  <experimental dG reference units>  (9) 
+uM
+
+>  <experimental dG reference field>  (9) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (9) 
+-38.35357219015115
+
+>  <kcal/mol experimental dG>  (9) 
+-9.166723754816239
+
+>  <AmberAM1BCCCache>  (9) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEo8z046Bsu/lIaUUpRoA2gJQwiz0jGhIN3iv5SGlFKUaANoCUMIFxYxsoQeE8CUhpRSlGgDaAlDCEskICCPseO/lIaUUpRoA2gJQwjHqt6UDS74v5SGlFKUaANoCUMIMmP76SLTMECUhpRSlGgDaAlDCH2913tJ0h7AlIaUUpRoA2gJQwh9vdd7SdIewJSGlFKUaANoCUMIn4yEtnJ0EcCUhpRSlGgDaAlDCAU43RAUFP4/lIaUUpRoA2gJQwhpHN+feqoRQJSGlFKUaANoCUMI9pkBh3wg5b+UhpRSlGgDaAlDCLImERcPoBrAlIaUUpRoA2gJQwiLA1abUzQJQJSGlFKUaANoCUMIgmxJ9M9gBcCUhpRSlGgDaAlDCIJsSfTPYAXAlIaUUpRoA2gJQwgApsgK0DPwv5SGlFKUaANoCUMIQqU2CjGjoj+UhpRSlGgDaAlDCDKOyd60w+2/lIaUUpRoA2gJQwjCnn9JNVXBP5SGlFKUaANoCUMIAKbICtAz8L+UhpRSlGgDaAlDCFE5LzKDBAVAlIaUUpRoA2gJQwizyCbNnGPpv5SGlFKUaANoCUMIz2quUhGoD8CUhpRSlGgDaAlDCFuysJw0KPc/lIaUUpRoA2gJQwhbsrCcNCj3P5SGlFKUaANoCUMIW7KwnDQo9z+UhpRSlGgDaAlDCCY8zBA03/s/lIaUUpRoA2gJQwisSTGNPx/xP5SGlFKUaANoCUMIrEkxjT8f8T+UhpRSlGgDaAlDCECG9isbkhNAlIaUUpRoA2gJQwiz4Wo67W/9P5SGlFKUaANoCUMIa7JCz7lS/z+UhpRSlGgDaAlDCD7YYot80P0/lIaUUpRlLg==
+
+$$$$
+22g-bindingpose2
+     RDKit          3D
+
+ 33 35  0  0  0  0  0  0  0  0999 V2000
+   14.3349   -0.4795   10.5653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7381   -1.6164   11.2675 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0722   -1.7916   11.6221 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0116   -0.8173   11.2891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6209    0.3148   10.5758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2848    0.4815   10.2086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4482   -2.9083   12.2838 F   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7869    1.5108   10.1457 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6693   -0.2310   11.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0804    1.5435   12.6027 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1176   -0.1255   13.1596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0126   -2.3671   11.5457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0457   -0.9507   11.5707 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9838    1.3668    9.6675 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  2  0
+  1 21  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 27  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 17 18  1  0
+ 17 31  1  0
+ 18 19  2  0
+ 18 22  1  0
+ 19 20  1  0
+ 19 32  1  0
+ 20 21  2  0
+ 20 23  1  0
+ 21 33  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (10) 
+0.094
+
+>  <atom.dprop.PartialCharge>  (10) 
+0.047243275 -0.096796155 -0.45593643 -0.02219478 -0.12679219 1.4485176 -0.655039 -0.655039 -0.36741742 0.17394577 0.40178195 -0.033385348 -0.56963265 0.32626787 -0.22916746 -0.22916746 -0.15729374 0.14459667 -0.15770087 0.036235105 -0.123516776 -0.13488796 -0.08177368 0.11585607 0.11585607 0.11585607 0.09038771 0.08674085 0.08674085 0.415176 0.16247222 0.16694385 0.16112277
 
 >  <experimental dG reference units>  (10) 
 uM
@@ -922,10 +949,13 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (10) 
--38.35357219015115
+-40.35856522293325
 
 >  <kcal/mol experimental dG>  (10) 
--9.166723754816239
+-9.64592859056722
+
+>  <AmberAM1BCCCache>  (10) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCFZj/hKFdcA/lIaUUpRoA2gJQwh0a+VSTi3iv5SGlFKUaANoCUMIRoMC++NEE8CUhpRSlGgDaAlDCCKqw3PbwuO/lIaUUpRoA2gJQwizbbC+szb4v5SGlFKUaANoCUMIA0deh5jSMECUhpRSlGgDaAlDCDcuTAZz1B7AlIaUUpRoA2gJQwg3LkwGc9QewJSGlFKUaANoCUMIiP7ZVopqEcCUhpRSlGgDaAlDCF9wh4+1O/4/lIaUUpRoA2gJQwjdrEsrP5wRQJSGlFKUaANoCUMIQSmtiTnR5L+UhpRSlGgDaAlDCD2WpItKrhrAlIaUUpRoA2gJQwhbHekuSGAJQJSGlFKUaANoCUMI+E0yCSNlBcCUhpRSlGgDaAlDCPhNMgkjZQXAlIaUUpRoA2gJQwjS/OThA8L+v5SGlFKUaANoCUMIZb6JMxcf+z+UhpRSlGgDaAlDCBosDU033/y/lIaUUpRoA2gJQwhHjJb3mCnfP5SGlFKUaANoCUMI38yV7LJ19r+UhpRSlGgDaAlDCHUELoqrU/i/lIaUUpRoA2gJQwgTRcJxeNXpv5SGlFKUaANoCUMIce/eco4f9z+UhpRSlGgDaAlDCHHv3nKOH/c/lIaUUpRoA2gJQwhx795yjh/3P5SGlFKUaANoCUMI9H1+Pkam+z+UhpRSlGgDaAlDCGSEnTe9LvE/lIaUUpRoA2gJQwhkhJ03vS7xP5SGlFKUaANoCUMIVxShiwOcE0CUhpRSlGgDaAlDCMgemRBHZ/0/lIaUUpRoA2gJQwhLbrAjmQUAQJSGlFKUaANoCUMIUxWRYdbH/T+UhpRSlGUu
 
 $$$$
 22f-bindingpose2
@@ -1020,6 +1050,9 @@ Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kcal/mol experimental dG>  (11) 
 -9.166723754816239
+
+>  <AmberAM1BCCCache>  (11) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEo8z046Bsu/lIaUUpRoA2gJQwiz0jGhIN3iv5SGlFKUaANoCUMIFxYxsoQeE8CUhpRSlGgDaAlDCEskICCPseO/lIaUUpRoA2gJQwjHqt6UDS74v5SGlFKUaANoCUMIMmP76SLTMECUhpRSlGgDaAlDCH2913tJ0h7AlIaUUpRoA2gJQwh9vdd7SdIewJSGlFKUaANoCUMIn4yEtnJ0EcCUhpRSlGgDaAlDCAU43RAUFP4/lIaUUpRoA2gJQwhpHN+feqoRQJSGlFKUaANoCUMI9pkBh3wg5b+UhpRSlGgDaAlDCLImERcPoBrAlIaUUpRoA2gJQwiLA1abUzQJQJSGlFKUaANoCUMIgmxJ9M9gBcCUhpRSlGgDaAlDCIJsSfTPYAXAlIaUUpRoA2gJQwgApsgK0DPwv5SGlFKUaANoCUMIQqU2CjGjoj+UhpRSlGgDaAlDCDKOyd60w+2/lIaUUpRoA2gJQwjCnn9JNVXBP5SGlFKUaANoCUMIAKbICtAz8L+UhpRSlGgDaAlDCFE5LzKDBAVAlIaUUpRoA2gJQwizyCbNnGPpv5SGlFKUaANoCUMIz2quUhGoD8CUhpRSlGgDaAlDCFuysJw0KPc/lIaUUpRoA2gJQwhbsrCcNCj3P5SGlFKUaANoCUMIW7KwnDQo9z+UhpRSlGgDaAlDCCY8zBA03/s/lIaUUpRoA2gJQwisSTGNPx/xP5SGlFKUaANoCUMIrEkxjT8f8T+UhpRSlGgDaAlDCECG9isbkhNAlIaUUpRoA2gJQwiz4Wo67W/9P5SGlFKUaANoCUMIa7JCz7lS/z+UhpRSlGgDaAlDCD7YYot80P0/lIaUUpRlLg==
 
 $$$$
 35e
@@ -1118,6 +1151,9 @@ Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 >  <kcal/mol experimental dG>  (12) 
 -9.800757479938321
 
+>  <AmberAM1BCCCache>  (12) 
+gASVBwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCAFlhVvNpQnAlIaUUpRoA2gJQwiuzJG2+HX8P5SGlFKUaANoCUMI4lEfJJG9E8CUhpRSlGgDaAlDCHRWYFJCWb+/lIaUUpRoA2gJQwhQTV9zrmwCwJSGlFKUaANoCUMIOY+D8KveMECUhpRSlGgDaAlDCFWDvqe9Ch/AlIaUUpRoA2gJQwhVg76nvQofwJSGlFKUaANoCUMIst1Esjw6EcCUhpRSlGgDaAlDCI0Z/N2uev0/lIaUUpRoA2gJQwic00U9M5ARQJSGlFKUaANoCUMIADvZkArP3L+UhpRSlGgDaAlDCK1wi49ErhrAlIaUUpRoA2gJQwjw/hCloH/8P5SGlFKUaANoCUMIHf57uV6VBcCUhpRSlGgDaAlDCB3+e7lelQXAlIaUUpRoA2gJQwgMKrjdLqf0P5SGlFKUaANoCUMIzcnC7IWh8r+UhpRSlGgDaAlDCAxNmwIEe/G/lIaUUpRoA2gJQwgMTZsCBHvxv5SGlFKUaANoCUMI2WooTgOv9j+UhpRSlGgDaAlDCNlqKE4Dr/Y/lIaUUpRoA2gJQwjZaihOA6/2P5SGlFKUaANoCUMI8RhnhhZ2+z+UhpRSlGgDaAlDCBwkCtdFzvA/lIaUUpRoA2gJQwgcJArXRc7wP5SGlFKUaANoCUMI6Tm6hwmcE0CUhpRSlGgDaAlDCBYKObIR4ek/lIaUUpRoA2gJQwgWCjmyEeHpP5SGlFKUaANoCUMIqGiJiHgb5j+UhpRSlGgDaAlDCJ6yP5mjIuA/lIaUUpRoA2gJQwiesj+ZoyLgP5SGlFKUaANoCUMInrI/maMi4D+UhpRSlGgDaAlDCJ6yP5mjIuA/lIaUUpRoA2gJQwiesj+ZoyLgP5SGlFKUaANoCUMInrI/maMi4D+UhpRSlGUu
+
 $$$$
 35f
      RDKit          3D
@@ -1212,105 +1248,8 @@ Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 >  <kcal/mol experimental dG>  (13) 
 -8.954086721804785
 
-$$$$
-35g
-     RDKit          3D
-
- 37 39  0  0  0  0  0  0  0  0999 V2000
-   14.2394   -0.3874   10.5715 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0689   -0.8199    9.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4809   -0.8852   10.0591 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6818   -1.6390   11.3807 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.7017   -0.5588   11.7658 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9903    0.3729   10.7753 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6711   -0.2329   11.2478 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0741    1.5470   12.5991 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1185   -0.1215   13.1625 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7543   -1.8102    9.2277 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0127   -0.1239    8.7201 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1281   -1.2285    9.2481 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.7952   -1.6618   12.0194 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0777   -2.6524   11.2914 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.6826   -0.2416   12.8101 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.7312   -0.7998   11.4892 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2002    0.9801   11.2243 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.6410    1.0216   10.1858 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 22  1  0
-  9 23  1  0
-  9 24  1  0
- 10 11  1  0
- 10 13  1  0
- 10 25  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 26  1  0
- 12 27  1  0
- 13 28  1  0
- 17 18  1  0
- 17 29  1  0
- 17 30  1  0
- 18 19  1  0
- 18 21  1  0
- 18 31  1  0
- 19 20  1  0
- 19 32  1  0
- 19 33  1  0
- 20 21  1  0
- 20 34  1  0
- 20 35  1  0
- 21 36  1  0
- 21 37  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (14) 
-0.088999999999999996
-
->  <atom.dprop.PartialCharge>  (14) 
--0.27720708 0.16531786 -0.4760477 0.009743247 -0.2491979 1.4526172 -0.6547784 -0.6547784 -0.37111777 0.16785544 0.39953232 0.0015446171 -0.5691676 0.21742618 -0.23006028 -0.23006028 0.14034948 -0.08289951 -0.08144258 -0.093738556 -0.08144258 0.11543971 0.11543971 0.11543971 0.09275712 0.07814643 0.07814643 0.41404784 0.047218025 0.047218025 0.07732069 0.054041833 0.054041833 0.05010564 0.05010564 0.054041833 0.054041833
-
->  <experimental dG reference units>  (14) 
-uM
-
->  <experimental dG reference field>  (14) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (14) 
--40.49490261809527
-
->  <kcal/mol experimental dG>  (14) 
--9.67851401006101
+>  <AmberAM1BCCCache>  (13) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCOE0DR7OignAlIaUUpRoA2gJQwhlNorgZ0v8P5SGlFKUaANoCUMI0zljhRGwE8CUhpRSlGgDaAlDCGVSWqNa+bu/lIaUUpRoA2gJQwgwHec1r1ECwJSGlFKUaANoCUMIiNWqXQffMECUhpRSlGgDaAlDCBZqIfNPCR/AlIaUUpRoA2gJQwgWaiHzTwkfwJSGlFKUaANoCUMIRMPG5+BEEcCUhpRSlGgDaAlDCIl+cLBlgP0/lIaUUpRoA2gJQwjb7OLxoJERQJSGlFKUaANoCUMIE6cHRy+43L+UhpRSlGgDaAlDCG5X7trWrBrAlIaUUpRoA2gJQwhgbY0myCT8P5SGlFKUaANoCUMIn8tBUIOSBcCUhpRSlGgDaAlDCJ/LQVCDkgXAlIaUUpRoA2gJQwgwyrAo63v6P5SGlFKUaANoCUMIraetbQEn+r+UhpRSlGgDaAlDCJYlbdQuLPe/lIaUUpRoA2gJQwiWJW3ULiz3v5SGlFKUaANoCUMI1M+cILq09j+UhpRSlGgDaAlDCNTPnCC6tPY/lIaUUpRoA2gJQwjUz5wgurT2P5SGlFKUaANoCUMI7X3bWM17+z+UhpRSlGgDaAlDCLqGvH0g7PA/lIaUUpRoA2gJQwi6hrx9IOzwP5SGlFKUaANoCUMIKFNXPHedE0CUhpRSlGgDaAlDCBhwJp9Cs+M/lIaUUpRoA2gJQwgYcCafQrPjP5SGlFKUaANoCUMIETt8BZvw8z+UhpRSlGgDaAlDCAeGH7MdCe0/lIaUUpRoA2gJQwgHhh+zHQntP5SGlFKUaANoCUMIB4Yfsx0J7T+UhpRSlGgDaAlDCAeGH7MdCe0/lIaUUpRlLg==
 
 $$$$
 35i
@@ -1397,29 +1336,32 @@ $$$$
  21 38  1  0
  21 39  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (15) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (14) 
 0.074999999999999997
 
->  <atom.dprop.PartialCharge>  (15) 
+>  <atom.dprop.PartialCharge>  (14) 
 -0.27392912 0.1631016 -0.47041827 0.010373704 -0.24826378 1.4532254 -0.6542406 -0.6542406 -0.37058008 0.1683404 0.39973688 0.0026284344 -0.56862986 0.22069657 -0.2295225 -0.2295225 0.13334599 -0.048349448 -0.07966287 -0.07966287 -0.07966287 0.11597742 0.11597742 0.11597742 0.0932948 0.07891413 0.07891413 0.4145855 0.04088497 0.04088497 0.03775842 0.03775842 0.03775842 0.03775842 0.03775842 0.03775842 0.03775842 0.03775842 0.03775842
 
->  <experimental dG reference units>  (15) 
+>  <experimental dG reference units>  (14) 
 uM
 
->  <experimental dG reference field>  (15) 
+>  <experimental dG reference field>  (14) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (15) 
+>  <kJ/mol experimental dG>  (14) 
 -40.92180684660896
 
->  <kcal/mol experimental dG>  (15) 
+>  <kcal/mol experimental dG>  (14) 
 -9.780546569457208
 
+>  <AmberAM1BCCCache>  (14) 
+gASVQAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCLEoGBFfjQnAlIaUUpRoA2gJQwgMSvCijXb8P5SGlFKUaANoCUMIjLIH6Wu9E8CUhpRSlGgDaAlDCFHMuAR5S7y/lIaUUpRoA2gJQwhFDG7Rh4QCwJSGlFKUaANoCUMID3dJP7XeMECUhpRSlGgDaAlDCP3jpmyYCh/AlIaUUpRoA2gJQwj946ZsmAofwJSGlFKUaANoCUMIWz4tdxc6EcCUhpRSlGgDaAlDCOqWWspDe/0/lIaUUpRoA2gJQwjzcl14WJARQJSGlFKUaANoCUMIjkVf37bM3L+UhpRSlGgDaAlDCFbRc1QfrhrAlIaUUpRoA2gJQwgHgfPo7U/8P5SGlFKUaANoCUMIP75rLSahBcCUhpRSlGgDaAlDCD++ay0moQXAlIaUUpRoA2gJQwg9Yod9Ol/1P5SGlFKUaANoCUMICv/PTGvj4r+UhpRSlGgDaAlDCNL/KbXPEfG/lIaUUpRoA2gJQwjS/ym1zxHxv5SGlFKUaANoCUMI0v8ptc8R8b+UhpRSlGgDaAlDCDXohjqYr/Y/lIaUUpRoA2gJQwg16IY6mK/2P5SGlFKUaANoCUMINeiGOpiv9j+UhpRSlGgDaAlDCE6WxXKrdvs/lIaUUpRoA2gJQwjVoyrvtrbwP5SGlFKUaANoCUMI1aMq77a28D+UhpRSlGgDaAlDCD/Z0cIunBNAlIaUUpRoA2gJQwhPqgKCb0jjP5SGlFKUaANoCUMIT6oCgm9I4z+UhpRSlGgDaAlDCMfV9QEdKeA/lIaUUpRoA2gJQwjH1fUBHSngP5SGlFKUaANoCUMIx9X1AR0p4D+UhpRSlGgDaAlDCMfV9QEdKeA/lIaUUpRoA2gJQwjH1fUBHSngP5SGlFKUaANoCUMIx9X1AR0p4D+UhpRSlGgDaAlDCMfV9QEdKeA/lIaUUpRoA2gJQwjH1fUBHSngP5SGlFKUaANoCUMIx9X1AR0p4D+UhpRSlGUu
+
 $$$$
-35j-R
+35g
      RDKit          3D
 
- 39 40  0  0  0  0  0  0  0  0999 V2000
+ 37 39  0  0  0  0  0  0  0  0999 V2000
    14.2394   -0.3874   10.5715 O   0  0  0  0  0  0  0  0  0  0  0  0
    12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1434,13 +1376,13 @@ $$$$
    11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
    12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
     9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
    15.0689   -0.8199    9.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4809   -0.8852   10.0591 C   0  0  2  0  0  0  0  0  0  0  0  0
-   16.5582   -1.8431   11.2108 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9139    0.4776   10.5123 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8366    1.4354    9.3605 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4809   -0.8852   10.0591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6818   -1.6390   11.3807 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7017   -0.5588   11.7658 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9903    0.3729   10.7753 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1450,15 +1392,13 @@ $$$$
     8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
    14.7543   -1.8102    9.2277 H   0  0  0  0  0  0  0  0  0  0  0  0
    15.0127   -0.1239    8.7201 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1361   -1.2269    9.2578 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.9030   -1.5015   12.0122 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.5842   -1.8905   11.5757 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2435   -2.8334   10.8815 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2587    0.8192   11.3136 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.9399    0.4301   10.8771 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1512    2.4257    9.6898 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.8106    1.4829    8.9957 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.4918    1.0938    8.5592 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1281   -1.2285    9.2481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7952   -1.6618   12.0194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0777   -2.6524   11.2914 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6826   -0.2416   12.8101 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7312   -0.7998   11.4892 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2002    0.9801   11.2243 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6410    1.0216   10.1858 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   1 17  1  0
   2  5  2  0
@@ -1488,23 +1428,119 @@ $$$$
  17 29  1  0
  17 30  1  0
  18 19  1  0
- 18 20  1  0
- 18 31  1  6
+ 18 21  1  0
+ 18 31  1  0
+ 19 20  1  0
  19 32  1  0
  19 33  1  0
- 19 34  1  0
  20 21  1  0
+ 20 34  1  0
  20 35  1  0
- 20 36  1  0
+ 21 36  1  0
  21 37  1  0
- 21 38  1  0
- 21 39  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (15) 
+0.088999999999999996
+
+>  <atom.dprop.PartialCharge>  (15) 
+-0.27720708 0.16531786 -0.4760477 0.009743247 -0.2491979 1.4526172 -0.6547784 -0.6547784 -0.37111777 0.16785544 0.39953232 0.0015446171 -0.5691676 0.21742618 -0.23006028 -0.23006028 0.14034948 -0.08289951 -0.08144258 -0.093738556 -0.08144258 0.11543971 0.11543971 0.11543971 0.09275712 0.07814643 0.07814643 0.41404784 0.047218025 0.047218025 0.07732069 0.054041833 0.054041833 0.05010564 0.05010564 0.054041833 0.054041833
+
+>  <experimental dG reference units>  (15) 
+uM
+
+>  <experimental dG reference field>  (15) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (15) 
+-40.49490261809527
+
+>  <kcal/mol experimental dG>  (15) 
+-9.67851401006101
+
+>  <AmberAM1BCCCache>  (15) 
+gASVGgMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCC6qHpu5rwnAlIaUUpRoA2gJQwgNPK/Cf6L8P5SGlFKUaANoCUMIFnNlKpzQE8CUhpRSlGgDaAlDCAUVSRhMlb+/lIaUUpRoA2gJQwipk9nIiGoCwJSGlFKUaANoCUMIbUbUpfDeMECUhpRSlGgDaAlDCNJluEW1EB/AlIaUUpRoA2gJQwjSZbhFtRAfwJSGlFKUaANoCUMI3gAC3Sk5EcCUhpRSlGgDaAlDCNuMBzP6fv0/lIaUUpRoA2gJQwhvsIgSRpERQJSGlFKUaANoCUMIzG2rPN293L+UhpRSlGgDaAlDCNqTSLoxrRrAlIaUUpRoA2gJQwhNbi6xJ6z8P5SGlFKUaANoCUMISEMV+UqfBcCUhpRSlGgDaAlDCEhDFflKnwXAlIaUUpRoA2gJQwhZMhQqLuX2P5SGlFKUaANoCUMIUdGw9hzt97+UhpRSlGgDaAlDCKWaYfam1e+/lIaUUpRoA2gJQwhmoMo7fLXxv5SGlFKUaANoCUMIpZph9qbV77+UhpRSlGgDaAlDCCXeM6NOs/Y/lIaUUpRoA2gJQwgl3jOjTrP2P5SGlFKUaANoCUMIJd4zo06z9j+UhpRSlGgDaAlDCD6Mctthevs/lIaUUpRoA2gJQwholxUskdLwP5SGlFKUaANoCUMIaJcVLJHS8D+UhpRSlGgDaAlDCLsW/VwcnRNAlIaUUpRoA2gJQwgS5O9yZ2rqP5SGlFKUaANoCUMIEuTvcmdq6j+UhpRSlGgDaAlDCBLk73Jnauo/lIaUUpRoA2gJQwgtYrCQ8GLlP5SGlFKUaANoCUMILWKwkPBi5T+UhpRSlGgDaAlDCLly/sL1ueQ/lIaUUpRoA2gJQwi5cv7C9bnkP5SGlFKUaANoCUMILWKwkPBi5T+UhpRSlGgDaAlDCC1isJDwYuU/lIaUUpRlLg==
+
+$$$$
+35c
+     RDKit          3D
+
+ 34 36  0  0  0  0  0  0  0  0999 V2000
+   14.1595   -0.6771   10.5512 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8925   -0.3179   10.2515 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7217   -0.3152    9.0275 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6079    0.1055   10.3317 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8335    0.1188   11.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3999   -0.6289    7.8714 S   0  0  0  0  0  6  0  0  0  0  0  0
+   10.0080   -1.3075    6.7276 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6657    0.6347    7.6904 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3420   -1.8426    8.7651 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4572    0.4902   11.2215 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1253    0.5993   12.6299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6710    0.5272   12.4438 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9821    1.7275   10.7304 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3898   -0.6345    8.6006 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7682    1.7264   13.2571 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7259   -0.4427   13.3786 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1157    0.3727   10.3413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1989    0.3384   11.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2232    0.7410   10.3739 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2855    0.0486    9.3629 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6874   -2.3177    8.0462 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9813   -2.6038    9.2075 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7631   -1.3339    9.5327 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6551   -0.2419   11.2245 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1191    1.4955   12.6136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1279   -0.1815   13.1356 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3153    2.0559   11.3218 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7043    1.3760   10.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1099    1.0757   12.2629 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3918   -0.6671   11.8490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3094    1.8169   10.2339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1836    0.2684   10.4763 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4537   -1.0147    9.2913 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2025    0.5168    8.3801 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 24  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 17 18  1  0
+ 17 20  1  0
+ 17 28  1  0
+ 18 19  1  0
+ 18 29  1  0
+ 18 30  1  0
+ 19 20  1  0
+ 19 31  1  0
+ 19 32  1  0
+ 20 33  1  0
+ 20 34  1  0
 M  END
 >  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (16) 
-0.050000000000000003
+0.37
 
 >  <atom.dprop.PartialCharge>  (16) 
--0.2831127 0.17192213 -0.4709584 0.009674035 -0.25007436 1.4530581 -0.654408 -0.654408 -0.3707474 0.1681731 0.39956957 0.0020230226 -0.56879723 0.21792327 -0.22968984 -0.22968984 0.1337187 -0.06366536 -0.085703425 -0.074894994 -0.09183936 0.115810096 0.115810096 0.115810096 0.09312749 0.07874681 0.07874681 0.4144182 0.043415233 0.043415233 0.06271944 0.03852944 0.03852944 0.03852944 0.043802805 0.043802805 0.035571154 0.035571154 0.035571154
+-0.27345416 0.15375665 -0.47633404 0.019330706 -0.23651202 1.4578694 -0.6547845 -0.6547845 -0.3710504 0.16655459 0.39890102 0.0017164722 -0.56873924 0.23614046 -0.22969425 -0.22969425 0.12775257 -0.110600516 -0.09240709 -0.110600516 0.115450546 0.115450546 0.115450546 0.0939703 0.07810168 0.07810168 0.41405866 0.05724108 0.06508311 0.06508311 0.059237912 0.059237912 0.06508311 0.06508311
 
 >  <experimental dG reference units>  (16) 
 uM
@@ -1513,10 +1549,107 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (16) 
--41.93318010283475
+-36.94078173216336
 
 >  <kcal/mol experimental dG>  (16) 
--10.022270579071401
+-8.829058731396596
+
+>  <AmberAM1BCCCache>  (16) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCCUL+wryzQjAlIaUUpRoA2gJQwiEoUK8udP8P5SGlFKUaANoCUMIfxvSzDKyE8CUhpRSlGgDaAlDCNJx0gYnhr+/lIaUUpRoA2gJQwgr3gKZFW4CwJSGlFKUaANoCUMIHh3PC3/eMECUhpRSlGgDaAlDCCvLny96ER/AlIaUUpRoA2gJQwgry58vehEfwJSGlFKUaANoCUMIH6YWRfA6EcCUhpRSlGgDaAlDCNj3tJLgd/0/lIaUUpRoA2gJQwgvC3Sqf48RQJSGlFKUaANoCUMI2cH1vUPa3L+UhpRSlGgDaAlDCBo5XSL4rhrAlIaUUpRoA2gJQwiA2EUCGq38P5SGlFKUaANoCUMI944f38WWBcCUhpRSlGgDaAlDCPeOH9/FlgXAlIaUUpRoA2gJQwhbVnM2wofxP5SGlFKUaANoCUMIxB2JJvyt8r+UhpRSlGgDaAlDCLBK72VT4/C/lIaUUpRoA2gJQwjEHYkm/K3yv5SGlFKUaANoCUMII0nhAjWs9j+UhpRSlGgDaAlDCCNJ4QI1rPY/lIaUUpRoA2gJQwgjSeECNaz2P5SGlFKUaANoCUMIPPcfO0hz+z+UhpRSlGgDaAlDCGYCw4t3y/A/lIaUUpRoA2gJQwhmAsOLd8vwP5SGlFKUaANoCUMIe3Ho9FWbE0CUhpRSlGgDaAlDCAjjwijHueg/lIaUUpRoA2gJQwiSv2SY4CPqP5SGlFKUaANoCUMIkr9kmOAj6j+UhpRSlGgDaAlDCMcb80JrduY/lIaUUpRoA2gJQwjHG/NCa3bmP5SGlFKUaANoCUMIkr9kmOAj6j+UhpRSlGgDaAlDCJK/ZJjgI+o/lIaUUpRlLg==
+
+$$$$
+35d
+     RDKit          3D
+
+ 33 34  0  0  0  0  0  0  0  0999 V2000
+   14.2378   -0.3426   10.5162 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9063   -0.2677   10.2458 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7230   -0.3283    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6039    0.0985   10.3319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8313    0.1139   11.0207 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4029   -0.6244    7.8710 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6748    0.6441    7.6966 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0034   -1.3117    6.7221 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3365   -1.8477    8.7589 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4597    0.4939   11.2180 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1198    0.6007   12.6308 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6686    0.5374   12.4464 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9851    1.7326   10.7240 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3944   -0.6277    8.6014 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7675    1.7277   13.2587 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7230   -0.4443   13.3761 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8470   -1.6382   10.2964 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3989   -1.5255   10.1834 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0983   -1.0512   11.4917 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6670   -2.3138    8.0356 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9658   -2.6264    9.2048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7529   -1.3503    9.5303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6493   -0.2396   11.2170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1322   -0.1600   13.1415 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1155    1.5171   12.6045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3242    2.0639   11.3221 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4879   -2.1114    9.3825 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5834   -2.2996   11.1219 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6552   -0.8429    9.3692 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8055   -2.4974    9.9037 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1776   -0.9951   11.3391 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8974   -1.7444   12.3042 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7399   -0.0717   11.7834 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 23  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 17 18  1  0
+ 17 27  1  0
+ 17 28  1  0
+ 18 19  1  0
+ 18 29  1  0
+ 18 30  1  0
+ 19 31  1  0
+ 19 32  1  0
+ 19 33  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (17) 
+0.32000000000000001
+
+>  <atom.dprop.PartialCharge>  (17) 
+-0.2771139 0.16477606 -0.4733222 0.008205336 -0.2464015 1.4526829 -0.6547836 -0.6547836 -0.37112296 0.16779761 0.3991941 0.0007417351 -0.5691728 0.2231082 -0.23006545 -0.23006545 0.14051026 -0.08553574 -0.08597526 0.11543454 0.11543454 0.11543454 0.09275194 0.078371264 0.078371264 0.41404265 0.042935744 0.042935744 0.057049125 0.057049125 0.037171885 0.037171885 0.037171885
+
+>  <experimental dG reference units>  (17) 
+uM
+
+>  <experimental dG reference field>  (17) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (17) 
+-37.30291696675095
+
+>  <kcal/mol experimental dG>  (17) 
+-8.91561112972059
+
+>  <AmberAM1BCCCache>  (17) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCESOolHmzQnAlIaUUpRoA2gJQwhxddNyDlb8P5SGlFKUaANoCUMIlqh3RX68E8CUhpRSlGgDaAlDCPcVhgZsU76/lIaUUpRoA2gJQwi1+g+2iGoCwJSGlFKUaANoCUMIjHktqPDeMECUhpRSlGgDaAlDCAfaFsmqCR/AlIaUUpRoA2gJQwgH2hbJqgkfwJSGlFKUaANoCUMIZDSd0yk5EcCUhpRSlGgDaAlDCMS+mlj6fv0/lIaUUpRoA2gJQwjqfO0bRpERQJSGlFKUaANoCUMIJ6Zepty93L+UhpRSlGgDaAlDCF/H47AxrRrAlIaUUpRoA2gJQwj4os4J/o/8P5SGlFKUaANoCUMIgass/DiTBcCUhpRSlGgDaAlDCIGrLPw4kwXAlIaUUpRoA2gJQwi8oVvBinH0P5SGlFKUaANoCUMIXf+YDRAk9r+UhpRSlGgDaAlDCBqjeDAAp/G/lIaUUpRoA2gJQwgPEMfITrP2P5SGlFKUaANoCUMIDxDHyE6z9j+UhpRSlGgDaAlDCA8Qx8hOs/Y/lIaUUpRoA2gJQwgovgUBYnr7P5SGlFKUaANoCUMIUsmoUZHS8D+UhpRSlGgDaAlDCFLJqFGR0vA/lIaUUpRoA2gJQwg142FmHJ0TQJSGlFKUaANoCUMID1gZ6XLF6T+UhpRSlGgDaAlDCA9YGelyxek/lIaUUpRoA2gJQwihtmm/2f/lP5SGlFKUaANoCUMIobZpv9n/5T+UhpRSlGgDaAlDCN/m3BPN9d8/lIaUUpRoA2gJQwjf5twTzfXfP5SGlFKUaANoCUMI3+bcE8313z+UhpRSlGUu
 
 $$$$
 35j-S
@@ -1603,29 +1736,32 @@ $$$$
  21 38  1  0
  21 39  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (17) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (18) 
 0.050000000000000003
 
->  <atom.dprop.PartialCharge>  (17) 
+>  <atom.dprop.PartialCharge>  (18) 
 -0.2831127 0.17192213 -0.4709584 0.009674035 -0.25007436 1.4530581 -0.654408 -0.654408 -0.3707474 0.1681731 0.39956957 0.0020230226 -0.56879723 0.21792327 -0.22968984 -0.22968984 0.1337187 -0.06366536 -0.085703425 -0.074894994 -0.09183936 0.115810096 0.115810096 0.115810096 0.09312749 0.07874681 0.07874681 0.4144182 0.043415233 0.043415233 0.06271944 0.03852944 0.03852944 0.03852944 0.043802805 0.043802805 0.035571154 0.035571154 0.035571154
 
->  <experimental dG reference units>  (17) 
+>  <experimental dG reference units>  (18) 
 uM
 
->  <experimental dG reference field>  (17) 
+>  <experimental dG reference field>  (18) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (17) 
+>  <kJ/mol experimental dG>  (18) 
 -41.93318010283475
 
->  <kcal/mol experimental dG>  (17) 
+>  <kcal/mol experimental dG>  (18) 
 -10.022270579071401
 
+>  <AmberAM1BCCCache>  (18) 
+gASVQAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCGRqfvKruwnAlIaUUpRoA2gJQwgtvRsxg3r8P5SGlFKUaANoCUMI4m68fELBE8CUhpRSlGgDaAlDCHNOwamaEL+/lIaUUpRoA2gJQwhyINkb5XgCwJSGlFKUaANoCUMIQS4smPTeMECUhpRSlGgDaAlDCJ+GK/6jDx/AlIaUUpRoA2gJQwifhiv+ow8fwJSGlFKUaANoCUMIkWGiExo5EcCUhpRSlGgDaAlDCA8Khlg5f/0/lIaUUpRoA2gJQwi8T+jbVZERQJSGlFKUaANoCUMIAXmxpuC83L+UhpRSlGgDaAlDCI/06PAhrRrAlIaUUpRoA2gJQwjtipxC23D8P5SGlFKUaANoCUMIbdLWd4OVBcCUhpRSlGgDaAlDCG3S1neDlQXAlIaUUpRoA2gJQwhJ6MJpEaL0P5SGlFKUaANoCUMI/kvDVXQf8r+UhpRSlGgDaAlDCCiRUqL9Z/G/lIaUUpRoA2gJQwhw4px0PTHtv5SGlFKUaANoCUMI9bnJ4TTS8b+UhpRSlGgDaAlDCFdbssiNs/Y/lIaUUpRoA2gJQwhXW7LIjbP2P5SGlFKUaANoCUMIV1uyyI2z9j+UhpRSlGgDaAlDCHAJ8QChevs/lIaUUpRoA2gJQwibFJRR0NLwP5SGlFKUaANoCUMImxSUUdDS8D+UhpRSlGgDaAlDCAm2XCYsnRNAlIaUUpRoA2gJQwjjE8TmXVTqP5SGlFKUaANoCUMI4xPE5l1U6j+UhpRSlGgDaAlDCAGduNA/3OQ/lIaUUpRoA2gJQwgygsCCTQjgP5SGlFKUaANoCUMIMoLAgk0I4D+UhpRSlGgDaAlDCDKCwIJNCOA/lIaUUpRoA2gJQwiBo2n8O4/iP5SGlFKUaANoCUMIgaNp/DuP4j+UhpRSlGgDaAlDCJCAtrn8fNs/lIaUUpRoA2gJQwiQgLa5/HzbP5SGlFKUaANoCUMIkIC2ufx82z+UhpRSlGUu
+
 $$$$
-35h-R
+35j-R
      RDKit          3D
 
- 40 42  0  0  0  0  0  0  0  0999 V2000
+ 39 40  0  0  0  0  0  0  0  0999 V2000
    14.2394   -0.3874   10.5715 O   0  0  0  0  0  0  0  0  0  0  0  0
    12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1642,12 +1778,11 @@ $$$$
    12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
     9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
     9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0689   -0.8199    9.5570 C   0  0  1  0  0  0  0  0  0  0  0  0
-   16.4997   -0.6539    9.9759 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8140   -1.2235   11.3659 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.5085    0.1693   11.9335 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8279    0.7340   10.5426 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7964   -2.2670    9.2709 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0689   -0.8199    9.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4809   -0.8852   10.0591 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.5582   -1.8431   11.2108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9139    0.4776   10.5123 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8366    1.4354    9.3605 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1655,17 +1790,17 @@ $$$$
    12.0741    1.5470   12.5991 H   0  0  0  0  0  0  0  0  0  0  0  0
    12.1185   -0.1215   13.1625 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8825   -0.2307    8.6591 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1459   -0.9989    9.1666 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1583   -2.0270   11.7067 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.8529   -1.5380   11.4934 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.4688    0.3062   12.2414 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1621    0.5043   12.7410 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1837    1.5474   10.2035 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.8711    1.0326   10.4123 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.4515   -2.6086    8.4696 H   0  0  0  0  0  0  0  0  0  0  0  0
-   13.7567   -2.3876    8.9665 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9828   -2.8562   10.1688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7543   -1.8102    9.2277 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0127   -0.1239    8.7201 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1361   -1.2269    9.2578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9030   -1.5015   12.0122 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5842   -1.8905   11.5757 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2435   -2.8334   10.8815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2587    0.8192   11.3136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9399    0.4301   10.8771 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1512    2.4257    9.6898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8106    1.4829    8.9957 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4918    1.0938    8.5592 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   1 17  1  0
   2  5  2  0
@@ -1679,53 +1814,54 @@ $$$$
   6  7  2  0
   6  8  2  0
   6  9  1  0
+  9 22  1  0
   9 23  1  0
   9 24  1  0
-  9 25  1  0
  10 11  1  0
  10 13  1  0
- 10 26  1  1
+ 10 25  1  1
  11 12  1  0
  11 15  1  0
  11 16  1  0
+ 12 26  1  0
  12 27  1  0
- 12 28  1  0
- 13 29  1  0
+ 13 28  1  0
  17 18  1  0
- 17 22  1  0
- 17 30  1  6
+ 17 29  1  0
+ 17 30  1  0
  18 19  1  0
- 18 21  1  0
- 18 31  1  0
- 19 20  1  0
+ 18 20  1  0
+ 18 31  1  6
  19 32  1  0
  19 33  1  0
+ 19 34  1  0
  20 21  1  0
- 20 34  1  0
  20 35  1  0
- 21 36  1  0
+ 20 36  1  0
  21 37  1  0
- 22 38  1  0
- 22 39  1  0
- 22 40  1  0
+ 21 38  1  0
+ 21 39  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (18) 
-0.32000000000000001
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (19) 
+0.050000000000000003
 
->  <atom.dprop.PartialCharge>  (18) 
--0.2928725 0.17379189 -0.4810548 0.005523097 -0.25095466 1.4538599 -0.65444344 -0.65444344 -0.37078288 0.1691375 0.40080836 -0.0035436228 -0.5688327 0.23855911 -0.22972533 -0.22972533 0.13421063 -0.080502145 -0.08079293 -0.09573488 -0.08079293 -0.1090044 0.11577462 0.11577462 0.11577462 0.093092 0.079166636 0.079166636 0.4143827 0.047574498 0.07489621 0.05405534 0.05405534 0.051244497 0.051244497 0.05405534 0.05405534 0.05100092 0.05100092 0.05100092
+>  <atom.dprop.PartialCharge>  (19) 
+-0.2831127 0.17192213 -0.4709584 0.009674035 -0.25007436 1.4530581 -0.654408 -0.654408 -0.3707474 0.1681731 0.39956957 0.0020230226 -0.56879723 0.21792327 -0.22968984 -0.22968984 0.1337187 -0.06366536 -0.085703425 -0.074894994 -0.09183936 0.115810096 0.115810096 0.115810096 0.09312749 0.07874681 0.07874681 0.4144182 0.043415233 0.043415233 0.06271944 0.03852944 0.03852944 0.03852944 0.043802805 0.043802805 0.035571154 0.035571154 0.035571154
 
->  <experimental dG reference units>  (18) 
+>  <experimental dG reference units>  (19) 
 uM
 
->  <experimental dG reference field>  (18) 
+>  <experimental dG reference field>  (19) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (18) 
--37.30291696675095
+>  <kJ/mol experimental dG>  (19) 
+-41.93318010283475
 
->  <kcal/mol experimental dG>  (18) 
--8.91561112972059
+>  <kcal/mol experimental dG>  (19) 
+-10.022270579071401
+
+>  <AmberAM1BCCCache>  (19) 
+gASVQAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEUzkWF9wQnAlIaUUpRoA2gJQwi1JnL7J5/8P5SGlFKUaANoCUMImrkVMmDFE8CUhpRSlGgDaAlDCDf+QNRL+72/lIaUUpRoA2gJQwgwUKyT4nkCwJSGlFKUaANoCUMIScgx6dTeMECUhpRSlGgDaAlDCH4eFboiEB/AlIaUUpRoA2gJQwh+HhW6IhAfwJSGlFKUaANoCUMIcfmLz5g5EcCUhpRSlGgDaAlDCJGq32g+ff0/lIaUUpRoA2gJQwjct/4f15ARQJSGlFKUaANoCUMI+vZKZczE3L+UhpRSlGgDaAlDCG2M0qygrRrAlIaUUpRoA2gJQwiyXXVBiHj8P5SGlFKUaANoCUMIdeh57bWXBcCUhpRSlGgDaAlDCHXoee21lwXAlIaUUpRoA2gJQwhTthcRBtr0P5SGlFKUaANoCUMIwqbl7bZR8r+UhpRSlGgDaAlDCCWM+rSoVvG/lIaUUpRoA2gJQwhuoelTMzXtv5SGlFKUaANoCUMIA9lk3F5b8r+UhpRSlGgDaAlDCNn7C9mSsfY/lIaUUpRoA2gJQwjZ+wvZkrH2P5SGlFKUaANoCUMI2fsL2ZKx9j+UhpRSlGgDaAlDCPKpShGmePs/lIaUUpRoA2gJQwiaUO+Ehb3wP5SGlFKUaANoCUMImlDvhIW98D+UhpRSlGgDaAlDCCkec2qtnBNAlIaUUpRoA2gJQwheJ3xweBbqP5SGlFKUaANoCUMIXid8cHgW6j+UhpRSlGgDaAlDCKbBU+T3+eU/lIaUUpRoA2gJQwjAuWv05mTgP5SGlFKUaANoCUMIwLlr9OZk4D+UhpRSlGgDaAlDCMC5a/TmZOA/lIaUUpRoA2gJQwgo/LDS35nhP5SGlFKUaANoCUMIKPyw0t+Z4T+UhpRSlGgDaAlDCGOM25CIdtw/lIaUUpRoA2gJQwhjjNuQiHbcP5SGlFKUaANoCUMIY4zbkIh23D+UhpRSlGUu
 
 $$$$
 35h-S
@@ -1815,23 +1951,26 @@ $$$$
  22 39  1  0
  22 40  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (19) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (20) 
 0.32000000000000001
 
->  <atom.dprop.PartialCharge>  (19) 
+>  <atom.dprop.PartialCharge>  (20) 
 -0.2928725 0.17379189 -0.4810548 0.005523097 -0.25095466 1.4538599 -0.65444344 -0.65444344 -0.37078288 0.1691375 0.40080836 -0.0035436228 -0.5688327 0.23855911 -0.22972533 -0.22972533 0.13421063 -0.080502145 -0.08079293 -0.09573488 -0.08079293 -0.1090044 0.11577462 0.11577462 0.11577462 0.093092 0.079166636 0.079166636 0.4143827 0.047574498 0.07489621 0.05405534 0.05405534 0.051244497 0.051244497 0.05405534 0.05405534 0.05100092 0.05100092 0.05100092
 
->  <experimental dG reference units>  (19) 
+>  <experimental dG reference units>  (20) 
 uM
 
->  <experimental dG reference field>  (19) 
+>  <experimental dG reference field>  (20) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (19) 
+>  <kJ/mol experimental dG>  (20) 
 -37.30291696675095
 
->  <kcal/mol experimental dG>  (19) 
+>  <kcal/mol experimental dG>  (20) 
 -8.91561112972059
+
+>  <AmberAM1BCCCache>  (20) 
+gASVUwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCPe9DMS6OgrAlIaUUpRoA2gJQwii2RKFTuX9P5SGlFKUaANoCUMIAgSW61zOE8CUhpRSlGgDaAlDCIuGDa2V17y/lIaUUpRoA2gJQwjurlh8GKkCwJSGlFKUaANoCUMIRKIUzNTeMECUhpRSlGgDaAlDCJW2iS4jEB/AlIaUUpRoA2gJQwiVtokuIxAfwJSGlFKUaANoCUMIh5EARJk5EcCUhpRSlGgDaAlDCDpKDZc8ff0/lIaUUpRoA2gJQwjHH4qr1pARQJSGlFKUaANoCUMICIeEZ58u3L+UhpRSlGgDaAlDCIIkRyGhrRrAlIaUUpRoA2gJQwiOTWaIaFD7P5SGlFKUaANoCUMIaWMxsTusBcCUhpRSlGgDaAlDCGljMbE7rAXAlIaUUpRoA2gJQwjJu55uegD7P5SGlFKUaANoCUMIIluZDfkX9b+UhpRSlGgDaAlDCFINN5FjB/C/lIaUUpRoA2gJQwid3zpDGNrxv5SGlFKUaANoCUMIUg03kWMH8L+UhpRSlGgDaAlDCDLqO/7DePO/lIaUUpRoA2gJQwjh6APncKH2P5SGlFKUaANoCUMI4egD53Ch9j+UhpRSlGgDaAlDCOHoA+dwofY/lIaUUpRoA2gJQwidSXg/pHj7P5SGlFKUaANoCUMIJVfdu6+48D+UhpRSlGgDaAlDCCVX3buvuPA/lIaUUpRoA2gJQwgThv71rJwTQJSGlFKUaANoCUMIMwzkw6h84z+UhpRSlGgDaAlDCE9UKyM20uo/lIaUUpRoA2gJQwhU4EXtljzlP5SGlFKUaANoCUMIVOBF7ZY85T+UhpRSlGgDaAlDCJv1F3dUY+Q/lIaUUpRoA2gJQwib9Rd3VGPkP5SGlFKUaANoCUMIVOBF7ZY85T+UhpRSlGgDaAlDCFTgRe2WPOU/lIaUUpRoA2gJQwgKKAZlJVHlP5SGlFKUaANoCUMICigGZSVR5T+UhpRSlGgDaAlDCAooBmUlUeU/lIaUUpRlLg==
 
 $$$$
 35s
@@ -1912,23 +2051,423 @@ $$$$
  22 35  1  0
  22 36  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (20) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (21) 
 0.17999999999999999
 
->  <atom.dprop.PartialCharge>  (20) 
+>  <atom.dprop.PartialCharge>  (21) 
 -0.26229045 0.14103772 -0.47257602 0.008951377 -0.23854282 1.4534284 -0.65403736 -0.65403736 -0.37037686 0.16854356 0.39994004 0.0014877282 -0.5684266 0.23352683 0.12743688 -0.12893829 0.41015303 -0.22931926 -0.22931926 -0.2401942 -0.2401942 -0.14498207 0.11618063 0.11618063 0.11618063 0.09349801 0.07911732 0.07911732 0.41478872 0.04946834 0.04946834 0.0892195 0.0892195 0.065430015 0.065430015 0.065430015
 
->  <experimental dG reference units>  (20) 
+>  <experimental dG reference units>  (21) 
 uM
 
->  <experimental dG reference field>  (20) 
+>  <experimental dG reference field>  (21) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (20) 
+>  <kJ/mol experimental dG>  (21) 
 -38.73807845687712
 
->  <kcal/mol experimental dG>  (20) 
+>  <kcal/mol experimental dG>  (21) 
 -9.258622958144626
+
+>  <AmberAM1BCCCache>  (21) 
+gASVBwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJsbANJUvAnAlIaUUpRoA2gJQwjPIL6oXLP6P5SGlFKUaANoCUMIpbZkjkVoE8CUhpRSlGgDaAlDCOC4zniXr8G/lIaUUpRoA2gJQwjSFupHF8IBwJSGlFKUaANoCUMIZTi0AdvbMECUhpRSlGgDaAlDCCcuTpU++h7AlIaUUpRoA2gJQwgnLk6VPvoewJSGlFKUaANoCUMI0TehV5JREcCUhpRSlGgDaAlDCKKngpnnff0/lIaUUpRoA2gJQwjzdUZWE50RQJSGlFKUaANoCUMI4dye5mRE3r+UhpRSlGgDaAlDCAg0ammiqBrAlIaUUpRoA2gJQwj+qUTFw2X9P5SGlFKUaANoCUMIZ3y3+04B9T+UhpRSlGgDaAlDCNjKcFSdKfm/lIaUUpRoA2gJQwjYR/8AznMTQJSGlFKUaANoCUMIIB9aetyCBcCUhpRSlGgDaAlDCCAfWnrcggXAlIaUUpRoA2gJQwi2hfSjXYYGwJSGlFKUaANoCUMItoX0o12GBsCUhpRSlGgDaAlDCHLLBaw1Lvu/lIaUUpRoA2gJQwg0vArS1tj2P5SGlFKUaANoCUMINLwK0tbY9j+UhpRSlGgDaAlDCDS8CtLW2PY/lIaUUpRoA2gJQwhMomnqlqn7P5SGlFKUaANoCUMI13jLIEIQ8T+UhpRSlGgDaAlDCNd4yyBCEPE/lIaUUpRoA2gJQwht3Zu215wTQJSGlFKUaANoCUMI2BaQcylv5j+UhpRSlGgDaAlDCNgWkHMpb+Y/lIaUUpRoA2gJQwjqthTqNqHwP5SGlFKUaANoCUMI6rYU6jah8D+UhpRSlGgDaAlDCITwD/88Buk/lIaUUpRoA2gJQwiE8A//PAbpP5SGlFKUaANoCUMIhPAP/zwG6T+UhpRSlGUu
+
+$$$$
+35h-R
+     RDKit          3D
+
+ 40 42  0  0  0  0  0  0  0  0999 V2000
+   14.2394   -0.3874   10.5715 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0689   -0.8199    9.5570 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.4997   -0.6539    9.9759 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8140   -1.2235   11.3659 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5085    0.1693   11.9335 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8279    0.7340   10.5426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7964   -2.2670    9.2709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6711   -0.2329   11.2478 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0741    1.5470   12.5991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1185   -0.1215   13.1625 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8825   -0.2307    8.6591 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1459   -0.9989    9.1666 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1583   -2.0270   11.7067 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8529   -1.5380   11.4934 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4688    0.3062   12.2414 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1621    0.5043   12.7410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1837    1.5474   10.2035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8711    1.0326   10.4123 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4515   -2.6086    8.4696 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7567   -2.3876    8.9665 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9828   -2.8562   10.1688 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 26  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 27  1  0
+ 12 28  1  0
+ 13 29  1  0
+ 17 18  1  0
+ 17 22  1  0
+ 17 30  1  6
+ 18 19  1  0
+ 18 21  1  0
+ 18 31  1  0
+ 19 20  1  0
+ 19 32  1  0
+ 19 33  1  0
+ 20 21  1  0
+ 20 34  1  0
+ 20 35  1  0
+ 21 36  1  0
+ 21 37  1  0
+ 22 38  1  0
+ 22 39  1  0
+ 22 40  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (22) 
+0.32000000000000001
+
+>  <atom.dprop.PartialCharge>  (22) 
+-0.2928725 0.17379189 -0.4810548 0.005523097 -0.25095466 1.4538599 -0.65444344 -0.65444344 -0.37078288 0.1691375 0.40080836 -0.0035436228 -0.5688327 0.23855911 -0.22972533 -0.22972533 0.13421063 -0.080502145 -0.08079293 -0.09573488 -0.08079293 -0.1090044 0.11577462 0.11577462 0.11577462 0.093092 0.079166636 0.079166636 0.4143827 0.047574498 0.07489621 0.05405534 0.05405534 0.051244497 0.051244497 0.05405534 0.05405534 0.05100092 0.05100092 0.05100092
+
+>  <experimental dG reference units>  (22) 
+uM
+
+>  <experimental dG reference field>  (22) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (22) 
+-37.30291696675095
+
+>  <kcal/mol experimental dG>  (22) 
+-8.91561112972059
+
+>  <AmberAM1BCCCache>  (22) 
+gASVUwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCIQIDtQHNQrAlIaUUpRoA2gJQwh4Q0j8bvv9P5SGlFKUaANoCUMILqcGovjgE8CUhpRSlGgDaAlDCPgjdyW9HLm/lIaUUpRoA2gJQwiN9WtDocsCwJSGlFKUaANoCUMIA/mggN/eMECUhpRSlGgDaAlDCP/aZ1EBFh/AlIaUUpRoA2gJQwj/2mdRARYfwJSGlFKUaANoCUMIijbPcW45EcCUhpRSlGgDaAlDCCq20t/nff0/lIaUUpRoA2gJQwjDert9AZERQJSGlFKUaANoCUMId9uO5wcB3L+UhpRSlGgDaAlDCIbJFU92rRrAlIaUUpRoA2gJQwjst/+zK2H7P5SGlFKUaANoCUMIoK6vItSfBcCUhpRSlGgDaAlDCKCuryLUnwXAlIaUUpRoA2gJQwi1MdAaOZv6P5SGlFKUaANoCUMINGGYrTiL8L+UhpRSlGgDaAlDCI2aXR91TPC/lIaUUpRoA2gJQwj/b7kL+v7xv5SGlFKUaANoCUMIjZpdH3VM8L+UhpRSlGgDaAlDCNcDcoYCWvi/lIaUUpRoA2gJQwiBMKZrCJL2P5SGlFKUaANoCUMIgTCmawiS9j+UhpRSlGgDaAlDCIEwpmsIkvY/lIaUUpRoA2gJQwiNtT2IT3n7P5SGlFKUaANoCUMIFcOiBFu58D+UhpRSlGgDaAlDCBXDogRbufA/lIaUUpRoA2gJQwgP4S/I15wTQJSGlFKUaANoCUMIntpmpo7e4z+UhpRSlGgDaAlDCDTunY6NTO0/lIaUUpRoA2gJQwgmvL7HsRXlP5SGlFKUaANoCUMIJry+x7EV5T+UhpRSlGgDaAlDCCnRXvcdP+Q/lIaUUpRoA2gJQwgp0V73HT/kP5SGlFKUaANoCUMIJry+x7EV5T+UhpRSlGgDaAlDCCa8vsexFeU/lIaUUpRoA2gJQwhVqz47W8HlP5SGlFKUaANoCUMIVas+O1vB5T+UhpRSlGgDaAlDCFWrPjtbweU/lIaUUpRlLg==
+
+$$$$
+35t
+     RDKit          3D
+
+ 36 37  0  0  0  0  0  0  0  0999 V2000
+   14.2394   -0.3878   10.5716 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0689   -0.8202    9.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4808   -0.8859   10.0593 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5578   -1.8441   11.2107 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6562   -1.3741   12.3135 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7340   -2.2329   13.3286 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0515   -0.1643   12.7065 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4069   -1.3203   11.8546 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6712   -0.2328   11.2480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0738    1.5471   12.5990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1187   -0.1212   13.1627 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7541   -1.8103    9.2274 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0129   -0.1239    8.7203 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1359   -1.2274    9.2579 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7956    0.1043   10.3888 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2430   -2.8342   10.8811 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5838   -1.8918   11.5757 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 27  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 17 18  1  0
+ 17 31  1  0
+ 17 32  1  0
+ 18 19  1  0
+ 18 33  1  0
+ 18 34  1  0
+ 19 20  1  0
+ 19 35  1  0
+ 19 36  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 20 23  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (23) 
+0.23000000000000001
+
+>  <atom.dprop.PartialCharge>  (23) 
+-0.27718058 0.16827796 -0.47222212 0.009305194 -0.24592175 1.453782 -0.6536834 -0.6536834 -0.370023 0.16889735 0.4002938 0.001841519 -0.5680728 0.22306648 -0.22896537 -0.22896537 0.12967749 -0.0847573 -0.1170089 0.6295083 -0.23854364 -0.23854364 -0.23854364 0.11653447 0.11653447 0.11653447 0.09385183 0.07947115 0.07947115 0.41514254 0.046558432 0.046558432 0.0787029 0.0787029 0.0817011 0.0817011
+
+>  <experimental dG reference units>  (23) 
+uM
+
+>  <experimental dG reference field>  (23) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (23) 
+-38.12665642919242
+
+>  <kcal/mol experimental dG>  (23) 
+-9.11248958632706
+
+>  <AmberAM1BCCCache>  (23) 
+gASVBwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNNzcr9UpQnAlIaUUpRoA2gJQwhap9wTvbr6P5SGlFKUaANoCUMIMBZ+iVtaE8CUhpRSlGgDaAlDCLCha6PtoLc/lIaUUpRoA2gJQwgidqK4q2IBwJSGlFKUaANoCUMIOvodhSDeMECUhpRSlGgDaAlDCAXxhFe2Cx/AlIaUUpRoA2gJQwgF8YRXtgsfwJSGlFKUaANoCUMInMk5QVBNEcCUhpRSlGgDaAlDCG1gIPPvjv0/lIaUUpRoA2gJQwhiTTChXYQRQJSGlFKUaANoCUMIbftUVIfj27+UhpRSlGgDaAlDCB6Ke7VH+xrAlIaUUpRoA2gJQwh+78Ljuu/7P5SGlFKUaANoCUMIbnFn+jWoBcCUhpRSlGgDaAlDCG5xZ/o1qAXAlIaUUpRoA2gJQwiGwspx3o/1P5SGlFKUaANoCUMIJz16MyNA8b+UhpRSlGgDaAlDCMC4CaH5h/a/lIaUUpRoA2gJQwhr0L2j+KUdQJSGlFKUaANoCUMI992cQVdIBsCUhpRSlGgDaAlDCPfdnEFXSAbAlIaUUpRoA2gJQwj33ZxBV0gGwJSGlFKUaANoCUMI7CE9Wvr59j+UhpRSlGgDaAlDCOwhPVr6+fY/lIaUUpRoA2gJQwjsIT1a+vn2P5SGlFKUaANoCUMISNRCUxTw+D+UhpRSlGgDaAlDCGL/6YuiF/E/lIaUUpRoA2gJQwhi/+mLohfxP5SGlFKUaANoCUMI+HcdThvnE0CUhpRSlGgDaAlDCKEBBzavxuM/lIaUUpRoA2gJQwihAQc2r8bjP5SGlFKUaANoCUMIPFbeahey7j+UhpRSlGgDaAlDCDxW3moXsu4/lIaUUpRoA2gJQwhjGUBtGA7wP5SGlFKUaANoCUMIYxlAbRgO8D+UhpRSlGUu
+
+$$$$
+35l
+     RDKit          3D
+
+ 30 31  0  0  0  0  0  0  0  0999 V2000
+   14.2260   -0.2989   10.5384 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9028   -0.2517   10.2505 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7251   -0.3271    9.0249 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6080    0.1006   10.3339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8304    0.1200   11.0229 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3988   -0.6276    7.8779 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6677    0.6368    7.7011 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0079   -1.3132    6.7313 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3422   -1.8445    8.7672 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4611    0.4904   11.2194 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1182    0.6044   12.6367 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6652    0.5428   12.4495 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9828    1.7311   10.7319 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3924   -0.6266    8.6086 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7622    1.7298   13.2617 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7256   -0.4426   13.3778 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8497   -1.5644   10.2925 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3264   -1.5649   10.8154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3457   -1.8380   12.1303 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9230   -0.3744   10.5867 F   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0135   -2.5196   10.1562 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6507   -2.2975    8.0546 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9767   -2.6250    9.1958 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7740   -1.3450    9.5503 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6542   -0.2460   11.2292 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1271   -0.1503   13.1494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1117    1.5273   12.6073 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3275    2.0640   11.3259 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8453   -1.8048    9.2279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2929   -2.3500   10.8029 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 25  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 17 18  1  0
+ 17 29  1  0
+ 17 30  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 18 21  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (24) 
+0.085000000000000006
+
+>  <atom.dprop.PartialCharge>  (24) 
+-0.24262612 0.118512996 -0.4684873 0.011254687 -0.22178365 1.4548668 -0.6525975 -0.6525975 -0.36893722 0.16998291 0.40137935 0.0020150654 -0.5669869 0.25484523 -0.22787948 -0.22787948 0.07714088 0.6350987 -0.22696455 -0.22696455 -0.22696455 0.117620215 0.117620215 0.117620215 0.09493753 0.08055685 0.08055685 0.41622823 0.0802158 0.0802158
+
+>  <experimental dG reference units>  (24) 
+uM
+
+>  <experimental dG reference field>  (24) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (24) 
+-40.60960573998482
+
+>  <kcal/mol experimental dG>  (24) 
+-9.70592871414551
+
+>  <AmberAM1BCCCache>  (24) 
+gASVlQIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCP/Z0/PVaQjAlIaUUpRoA2gJQwjZn5UytWL3P5SGlFKUaANoCUMIBZcvNfSyEsCUhpRSlGgDaAlDCHiGlPvzGcq/lIaUUpRoA2gJQwjNxpPggr3/v5SGlFKUaANoCUMIU8X9NOPVMECUhpRSlGgDaAlDCC+z/C5j2R7AlIaUUpRoA2gJQwgvs/wuY9kewJSGlFKUaANoCUMI6QKadIN1EcCUhpRSlGgDaAlDCMZxl3ayTv0/lIaUUpRoA2gJQwgfpsnhaakRQJSGlFKUaANoCUMIxL0NrEqi4L+UhpRSlGgDaAlDCPucJtUfoRrAlIaUUpRoA2gJQwhsHnwjAJf+P5SGlFKUaANoCUMIF1l0cPFiBcCUhpRSlGgDaAlDCBdZdHDxYgXAlIaUUpRoA2gJQwg6LfrGkQvpP5SGlFKUaANoCUMItB9PNZQrHkCUhpRSlGgDaAlDCF5hmwl0DgXAlIaUUpRoA2gJQwheYZsJdA4FwJSGlFKUaANoCUMIXmGbCXQOBcCUhpRSlGgDaAlDCCiws4glRPc/lIaUUpRoA2gJQwgosLOIJUT3P5SGlFKUaANoCUMIKLCziCVE9z+UhpRSlGgDaAlDCLZn+m+pqvs/lIaUUpRoA2gJQwiZXcs2G9zxP5SGlFKUaANoCUMImV3LNhvc8T+UhpRSlGgDaAlDCGoMPixAtRNAlIaUUpRoA2gJQwj3eeNDbbrwP5SGlFKUaANoCUMI93njQ2268D+UhpRSlGUu
+
+$$$$
+35q
+     RDKit          3D
+
+ 36 37  0  0  0  0  0  0  0  0999 V2000
+   14.2395   -0.3875   10.5714 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0688   -0.8200    9.5568 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4808   -0.8854   10.0588 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.5582   -1.8434   11.2105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9140    0.4773   10.5120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1713   -3.0482   10.7948 F   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8159   -1.8919   11.6462 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7538   -1.4145   12.1818 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6711   -0.2329   11.2479 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1187   -0.1212   13.1626 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0738    1.5471   12.5990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7541   -1.8103    9.2275 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0126   -0.1239    8.7199 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1359   -1.2270    9.2574 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2588    0.8190   11.3134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8578    1.1734    9.6752 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9400    0.4298   10.8768 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 27  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 17 18  1  0
+ 17 31  1  0
+ 17 32  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 18 33  1  6
+ 19 21  1  0
+ 19 22  1  0
+ 19 23  1  0
+ 20 34  1  0
+ 20 35  1  0
+ 20 36  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (25) 
+0.041000000000000002
+
+>  <atom.dprop.PartialCharge>  (25) 
+-0.258331 0.14417444 -0.46999502 0.010637231 -0.23974039 1.4540206 -0.6534445 -0.6534445 -0.36978412 0.1691362 0.40053266 0.0029861517 -0.56783384 0.23206724 -0.22872645 -0.22872645 0.1278316 -0.09732478 0.62640786 -0.09401676 -0.23875523 -0.23875523 -0.23875523 0.11677335 0.11677335 0.11677335 0.0940907 0.07971003 0.07971003 0.41538143 0.05540222 0.05540222 0.10190336 0.059306417 0.059306417 0.059306417
+
+>  <experimental dG reference units>  (25) 
+uM
+
+>  <experimental dG reference field>  (25) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (25) 
+-42.428186869347066
+
+>  <kcal/mol experimental dG>  (25) 
+-10.140580035694805
+
+>  <AmberAM1BCCCache>  (25) 
+gASVBwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCPWOf4FlvAnAlIaUUpRoA2gJQwi5v1mLlXT5P5SGlFKUaANoCUMIr3LmESpQE8CUhpRSlGgDaAlDCLV+khCeGsS/lIaUUpRoA2gJQwhEka96vHkBwJSGlFKUaANoCUMIRYo8cdTYMECUhpRSlGgDaAlDCHEcTwfL6x7AlIaUUpRoA2gJQwhxHE8Hy+sewJSGlFKUaANoCUMITvB/maxdEcCUhpRSlGgDaAlDCPHAgzrGff0/lIaUUpRoA2gJQwhGvIb+Cp0RQJSGlFKUaANoCUMIvmSKBAkG37+UhpRSlGgDaAlDCAOISs5soRrAlIaUUpRoA2gJQwhiX9zg6lb/P5SGlFKUaANoCUMIyiz6Nq97BcCUhpRSlGgDaAlDCMos+javewXAlIaUUpRoA2gJQwgUstCpf9/zP5SGlFKUaANoCUMIbCI7kG6e8r+UhpRSlGgDaAlDCApEmFhejh1AlIaUUpRoA2gJQwiPaiFgbNPzv5SGlFKUaANoCUMIax2NGpgYBsCUhpRSlGgDaAlDCGsdjRqYGAbAlIaUUpRoA2gJQwhrHY0amBgGwJSGlFKUaANoCUMIIVZy24kC9z+UhpRSlGgDaAlDCCFWctuJAvc/lIaUUpRoA2gJQwghVnLbiQL3P5SGlFKUaANoCUMIm7tqi3Wp+z+UhpRSlGgDaAlDCB/JzweB6fA/lIaUUpRoA2gJQwgfyc8HgenwP5SGlFKUaANoCUMIwCPcXs+cE0CUhpRSlGgDaAlDCExiUBqxhuk/lIaUUpRoA2gJQwhMYlAasYbpP5SGlFKUaANoCUMI4tpH6bZJ9D+UhpRSlGgDaAlDCKvjxrx8Y+c/lIaUUpRoA2gJQwir48a8fGPnP5SGlFKUaANoCUMIq+PGvHxj5z+UhpRSlGUu
 
 $$$$
 35n
@@ -2012,23 +2551,26 @@ $$$$
  21 36  1  0
  21 37  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (21) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (26) 
 0.079000000000000001
 
->  <atom.dprop.PartialCharge>  (21) 
+>  <atom.dprop.PartialCharge>  (26) 
 -0.27709568 0.16868576 -0.47544032 0.0103505105 -0.24859062 1.453224 -0.654171 -0.654171 -0.37051046 0.16846263 0.40013948 0.0021518357 -0.56856024 0.21803336 -0.2294529 -0.2294529 0.14028765 -0.07976491 -0.12174003 0.39466077 -0.12174003 -0.22823119 -0.22823119 0.11604701 0.11604701 0.11604701 0.09336439 0.0787537 0.0787537 0.4146551 0.048248015 0.048248015 0.08811644 0.08321891 0.08321891 0.08321891 0.08321891
 
->  <experimental dG reference units>  (21) 
+>  <experimental dG reference units>  (26) 
 uM
 
->  <experimental dG reference field>  (21) 
+>  <experimental dG reference field>  (26) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (21) 
+>  <kJ/mol experimental dG>  (26) 
 -40.79220089703617
 
->  <kcal/mol experimental dG>  (21) 
+>  <kcal/mol experimental dG>  (26) 
 -9.74957000407174
+
+>  <AmberAM1BCCCache>  (26) 
+gASVGgMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEg7StAu6gnAlIaUUpRoA2gJQwhgo+Dis8b6P5SGlFKUaANoCUMIIa8bt0NoE8CUhpRSlGgDaAlDCEmkuqfdFMG/lIaUUpRoA2gJQwhtBZZtN9oBwJSGlFKUaANoCUMIRnqGd9vbMECUhpRSlGgDaAlDCHvZdLfb/R7AlIaUUpRoA2gJQwh72XS32/0ewJSGlFKUaANoCUMITDBYgJBREcCUhpRSlGgDaAlDCLPFpvbuff0/lIaUUpRoA2gJQwh3fY8tFZ0RQJSGlFKUaANoCUMInWQOckdE3r+UhpRSlGgDaAlDCNLGQZ9ioRrAlIaUUpRoA2gJQwigobMOcOP8P5SGlFKUaANoCUMIOakHw6yHBcCUhpRSlGgDaAlDCDmpB8OshwXAlIaUUpRoA2gJQwikdLuck4P2P5SGlFKUaANoCUMIjeXA9ndy7r+UhpRSlGgDaAlDCBDcdGLJRve/lIaUUpRoA2gJQwhFhK/R/lwSQJSGlFKUaANoCUMIENx0YslG97+UhpRSlGgDaAlDCJmWHUR2QAXAlIaUUpRoA2gJQwiZlh1EdkAFwJSGlFKUaANoCUMIQhJPD4vi9j+UhpRSlGgDaAlDCEISTw+L4vY/lIaUUpRoA2gJQwhCEk8Pi+L2P5SGlFKUaANoCUMIXcCNR56p+z+UhpRSlGgDaAlDCOLN8sOp6fA/lIaUUpRoA2gJQwjizfLDqenwP5SGlFKUaANoCUMI8eTkjdmcE0CUhpRSlGgDaAlDCNjT7hfaYOU/lIaUUpRoA2gJQwjY0+4X2mDlP5SGlFKUaANoCUMI01imtFR/8T+UhpRSlGgDaAlDCBpAWgLcWu8/lIaUUpRoA2gJQwgaQFoC3FrvP5SGlFKUaANoCUMIGkBaAtxa7z+UhpRSlGgDaAlDCBpAWgLcWu8/lIaUUpRlLg==
 
 $$$$
 35r
@@ -2109,217 +2651,26 @@ $$$$
  20 35  1  0
  20 36  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (22) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (27) 
 0.042000000000000003
 
->  <atom.dprop.PartialCharge>  (22) 
+>  <atom.dprop.PartialCharge>  (27) 
 -0.258331 0.14417444 -0.46999502 0.010637231 -0.23974039 1.4540206 -0.6534445 -0.6534445 -0.36978412 0.1691362 0.40053266 0.0029861517 -0.56783384 0.23206724 -0.22872645 -0.22872645 0.1278316 -0.09732478 0.62640786 -0.09401676 -0.23875523 -0.23875523 -0.23875523 0.11677335 0.11677335 0.11677335 0.0940907 0.07971003 0.07971003 0.41538143 0.05540222 0.05540222 0.10190336 0.059306417 0.059306417 0.059306417
 
->  <experimental dG reference units>  (22) 
+>  <experimental dG reference units>  (27) 
 uM
 
->  <experimental dG reference field>  (22) 
+>  <experimental dG reference field>  (27) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (22) 
+>  <kJ/mol experimental dG>  (27) 
 -42.3680790605117
 
->  <kcal/mol experimental dG>  (22) 
+>  <kcal/mol experimental dG>  (27) 
 -10.126213924596485
 
-$$$$
-35q
-     RDKit          3D
-
- 36 37  0  0  0  0  0  0  0  0999 V2000
-   14.2395   -0.3875   10.5714 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0688   -0.8200    9.5568 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4808   -0.8854   10.0588 C   0  0  2  0  0  0  0  0  0  0  0  0
-   16.5582   -1.8434   11.2105 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9140    0.4773   10.5120 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1713   -3.0482   10.7948 F   0  0  0  0  0  0  0  0  0  0  0  0
-   17.8159   -1.8919   11.6462 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.7538   -1.4145   12.1818 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6711   -0.2329   11.2479 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1187   -0.1212   13.1626 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0738    1.5471   12.5990 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7541   -1.8103    9.2275 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0126   -0.1239    8.7199 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1359   -1.2270    9.2574 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2588    0.8190   11.3134 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8578    1.1734    9.6752 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.9400    0.4298   10.8768 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 24  1  0
-  9 25  1  0
-  9 26  1  0
- 10 11  1  0
- 10 13  1  0
- 10 27  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 28  1  0
- 12 29  1  0
- 13 30  1  0
- 17 18  1  0
- 17 31  1  0
- 17 32  1  0
- 18 19  1  0
- 18 20  1  0
- 18 33  1  6
- 19 21  1  0
- 19 22  1  0
- 19 23  1  0
- 20 34  1  0
- 20 35  1  0
- 20 36  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (23) 
-0.041000000000000002
-
->  <atom.dprop.PartialCharge>  (23) 
--0.258331 0.14417444 -0.46999502 0.010637231 -0.23974039 1.4540206 -0.6534445 -0.6534445 -0.36978412 0.1691362 0.40053266 0.0029861517 -0.56783384 0.23206724 -0.22872645 -0.22872645 0.1278316 -0.09732478 0.62640786 -0.09401676 -0.23875523 -0.23875523 -0.23875523 0.11677335 0.11677335 0.11677335 0.0940907 0.07971003 0.07971003 0.41538143 0.05540222 0.05540222 0.10190336 0.059306417 0.059306417 0.059306417
-
->  <experimental dG reference units>  (23) 
-uM
-
->  <experimental dG reference field>  (23) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (23) 
--42.428186869347066
-
->  <kcal/mol experimental dG>  (23) 
--10.140580035694805
-
-$$$$
-35t
-     RDKit          3D
-
- 36 37  0  0  0  0  0  0  0  0999 V2000
-   14.2394   -0.3878   10.5716 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9060   -0.2855   10.2311 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7535   -0.3301    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6111    0.1075   10.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8336    0.1177   11.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4158   -0.6233    7.8509 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6915    0.6438    7.7066 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9975   -1.3084    6.6953 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3394   -1.8463    8.7737 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4667    0.5095   11.2358 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1202    0.5960   12.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6426    0.5559   12.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9486    1.7279   10.7317 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4043   -0.6285    8.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7807    1.7291   13.2472 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7320   -0.4360   13.3814 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0689   -0.8202    9.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4808   -0.8859   10.0593 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.5578   -1.8441   11.2107 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.6562   -1.3741   12.3135 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.7340   -2.2329   13.3286 F   0  0  0  0  0  0  0  0  0  0  0  0
-   16.0515   -0.1643   12.7065 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.4069   -1.3203   11.8546 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6476   -1.3018    9.4112 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9811   -2.4976    9.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7955   -2.4396    8.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6712   -0.2328   11.2480 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0738    1.5471   12.5990 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1187   -0.1212   13.1627 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2302    2.0274   11.3003 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7541   -1.8103    9.2274 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0129   -0.1239    8.7203 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1359   -1.2274    9.2579 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.7956    0.1043   10.3888 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2430   -2.8342   10.8811 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.5838   -1.8918   11.5757 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 24  1  0
-  9 25  1  0
-  9 26  1  0
- 10 11  1  0
- 10 13  1  0
- 10 27  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 28  1  0
- 12 29  1  0
- 13 30  1  0
- 17 18  1  0
- 17 31  1  0
- 17 32  1  0
- 18 19  1  0
- 18 33  1  0
- 18 34  1  0
- 19 20  1  0
- 19 35  1  0
- 19 36  1  0
- 20 21  1  0
- 20 22  1  0
- 20 23  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (24) 
-0.23000000000000001
-
->  <atom.dprop.PartialCharge>  (24) 
--0.27718058 0.16827796 -0.47222212 0.009305194 -0.24592175 1.453782 -0.6536834 -0.6536834 -0.370023 0.16889735 0.4002938 0.001841519 -0.5680728 0.22306648 -0.22896537 -0.22896537 0.12967749 -0.0847573 -0.1170089 0.6295083 -0.23854364 -0.23854364 -0.23854364 0.11653447 0.11653447 0.11653447 0.09385183 0.07947115 0.07947115 0.41514254 0.046558432 0.046558432 0.0787029 0.0787029 0.0817011 0.0817011
-
->  <experimental dG reference units>  (24) 
-uM
-
->  <experimental dG reference field>  (24) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (24) 
--38.12665642919242
-
->  <kcal/mol experimental dG>  (24) 
--9.11248958632706
+>  <AmberAM1BCCCache>  (27) 
+gASVBwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEvAeF90ugnAlIaUUpRoA2gJQwgKXWfPd3j5P5SGlFKUaANoCUMIWwvjgDFPE8CUhpRSlGgDaAlDCCuUJfCL+8O/lIaUUpRoA2gJQwibwqhYy3cBwJSGlFKUaANoCUMIGmR9lRLZMECUhpRSlGgDaAlDCB21S3bS6h7AlIaUUpRoA2gJQwgdtUt20uoewJSGlFKUaANoCUMIKIpdHqJQEcCUhpRSlGgDaAlDCEFekX6ogf0/lIaUUpRoA2gJQwibI4qPA54RQJSGlFKUaANoCUMIee9T9H/23r+UhpRSlGgDaAlDCK8gRz10oBrAlIaUUpRoA2gJQwiz/OkkzVr/P5SGlFKUaANoCUMIIl7zFL55BcCUhpRSlGgDaAlDCCJe8xS+eQXAlIaUUpRoA2gJQwhlT97tYePzP5SGlFKUaANoCUMIG4UtTIya8r+UhpRSlGgDaAlDCF6rm+lWjx1AlIaUUpRoA2gJQwg+zRMcis/zv5SGlFKUaANoCUMI6+CX2rAeBsCUhpRSlGgDaAlDCOvgl9qwHgbAlIaUUpRoA2gJQwjr4JfasB4GwJSGlFKUaANoCUMIIM9cW1j29j+UhpRSlGgDaAlDCCDPXFtY9vY/lIaUUpRoA2gJQwggz1xbWPb2P5SGlFKUaANoCUMI61h4z1et+z+UhpRSlGgDaAlDCHFm3Utj7fA/lIaUUpRoA2gJQwhxZt1LY+3wP5SGlFKUaANoCUMIFYvf78edE0CUhpRSlGgDaAlDCO+ca6J1juk/lIaUUpRoA2gJQwjvnGuidY7pP5SGlFKUaANoCUMIUxGVJG1S9D+UhpRSlGgDaAlDCAyNVTTyKuc/lIaUUpRoA2gJQwgMjVU08irnP5SGlFKUaANoCUMIDI1VNPIq5z+UhpRSlGUu
 
 $$$$
 35b
@@ -2394,281 +2745,11 @@ $$$$
  19 32  1  0
  19 33  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (25) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (28) 
 1.8
 
->  <atom.dprop.PartialCharge>  (25) 
--0.2934953 0.17753491 -0.484781 0.0028697662 -0.25272602 1.4543667 -0.65427977 -0.65427977 -0.37061924 0.16920334 0.40074158 -0.005320862 -0.568669 0.25866944 -0.22956167 -0.22956167 0.13043532 -0.1048241 -0.1048241 0.11593826 0.11593826 0.11593826 0.09325564 0.07952786 0.07952786 0.41454634 0.04595147 0.049749553 0.049749553 0.049749553 0.049749553 0.049749553 0.049749553
-
->  <experimental dG reference units>  (25) 
-uM
-
->  <experimental dG reference field>  (25) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (25) 
--32.99461758522771
-
->  <kcal/mol experimental dG>  (25) 
--7.885902864538171
-
-$$$$
-35d
-     RDKit          3D
-
- 33 34  0  0  0  0  0  0  0  0999 V2000
-   14.2378   -0.3426   10.5162 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9063   -0.2677   10.2458 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7230   -0.3283    9.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6039    0.0985   10.3319 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8313    0.1139   11.0207 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4029   -0.6244    7.8710 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6748    0.6441    7.6966 O   0  0  0  0  0  0  0  0  0  0  0  0
-   10.0034   -1.3117    6.7221 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3365   -1.8477    8.7589 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4597    0.4939   11.2180 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1198    0.6007   12.6308 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6686    0.5374   12.4464 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9851    1.7326   10.7240 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.3944   -0.6277    8.6014 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7675    1.7277   13.2587 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7230   -0.4443   13.3761 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8470   -1.6382   10.2964 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3989   -1.5255   10.1834 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0983   -1.0512   11.4917 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6670   -2.3138    8.0356 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9658   -2.6264    9.2048 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7529   -1.3503    9.5303 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6493   -0.2396   11.2170 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1322   -0.1600   13.1415 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1155    1.5171   12.6045 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3242    2.0639   11.3221 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.4879   -2.1114    9.3825 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.5834   -2.2996   11.1219 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6552   -0.8429    9.3692 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8055   -2.4974    9.9037 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.1776   -0.9951   11.3391 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8974   -1.7444   12.3042 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.7399   -0.0717   11.7834 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 20  1  0
-  9 21  1  0
-  9 22  1  0
- 10 11  1  0
- 10 13  1  0
- 10 23  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 24  1  0
- 12 25  1  0
- 13 26  1  0
- 17 18  1  0
- 17 27  1  0
- 17 28  1  0
- 18 19  1  0
- 18 29  1  0
- 18 30  1  0
- 19 31  1  0
- 19 32  1  0
- 19 33  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (26) 
-0.32000000000000001
-
->  <atom.dprop.PartialCharge>  (26) 
--0.2771139 0.16477606 -0.4733222 0.008205336 -0.2464015 1.4526829 -0.6547836 -0.6547836 -0.37112296 0.16779761 0.3991941 0.0007417351 -0.5691728 0.2231082 -0.23006545 -0.23006545 0.14051026 -0.08553574 -0.08597526 0.11543454 0.11543454 0.11543454 0.09275194 0.078371264 0.078371264 0.41404265 0.042935744 0.042935744 0.057049125 0.057049125 0.037171885 0.037171885 0.037171885
-
->  <experimental dG reference units>  (26) 
-uM
-
->  <experimental dG reference field>  (26) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (26) 
--37.30291696675095
-
->  <kcal/mol experimental dG>  (26) 
--8.91561112972059
-
-$$$$
-35c
-     RDKit          3D
-
- 34 36  0  0  0  0  0  0  0  0999 V2000
-   14.1595   -0.6771   10.5512 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.8925   -0.3179   10.2515 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7217   -0.3152    9.0275 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6079    0.1055   10.3317 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8335    0.1188   11.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.3999   -0.6289    7.8714 S   0  0  0  0  0  6  0  0  0  0  0  0
-   10.0080   -1.3075    6.7276 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6657    0.6347    7.6904 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3420   -1.8426    8.7651 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4572    0.4902   11.2215 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1253    0.5993   12.6299 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6710    0.5272   12.4438 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9821    1.7275   10.7304 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.3898   -0.6345    8.6006 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7682    1.7264   13.2571 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7259   -0.4427   13.3786 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.1157    0.3727   10.3413 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1989    0.3384   11.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.2232    0.7410   10.3739 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2855    0.0486    9.3629 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6874   -2.3177    8.0462 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9813   -2.6038    9.2075 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7631   -1.3339    9.5327 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6551   -0.2419   11.2245 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1191    1.4955   12.6136 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1279   -0.1815   13.1356 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3153    2.0559   11.3218 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7043    1.3760   10.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1099    1.0757   12.2629 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3918   -0.6671   11.8490 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3094    1.8169   10.2339 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.1836    0.2684   10.4763 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4537   -1.0147    9.2913 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2025    0.5168    8.3801 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 21  1  0
-  9 22  1  0
-  9 23  1  0
- 10 11  1  0
- 10 13  1  0
- 10 24  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 25  1  0
- 12 26  1  0
- 13 27  1  0
- 17 18  1  0
- 17 20  1  0
- 17 28  1  0
- 18 19  1  0
- 18 29  1  0
- 18 30  1  0
- 19 20  1  0
- 19 31  1  0
- 19 32  1  0
- 20 33  1  0
- 20 34  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (27) 
-0.37
-
->  <atom.dprop.PartialCharge>  (27) 
--0.27345416 0.15375665 -0.47633404 0.019330706 -0.23651202 1.4578694 -0.6547845 -0.6547845 -0.3710504 0.16655459 0.39890102 0.0017164722 -0.56873924 0.23614046 -0.22969425 -0.22969425 0.12775257 -0.110600516 -0.09240709 -0.110600516 0.115450546 0.115450546 0.115450546 0.0939703 0.07810168 0.07810168 0.41405866 0.05724108 0.06508311 0.06508311 0.059237912 0.059237912 0.06508311 0.06508311
-
->  <experimental dG reference units>  (27) 
-uM
-
->  <experimental dG reference field>  (27) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (27) 
--36.94078173216336
-
->  <kcal/mol experimental dG>  (27) 
--8.829058731396596
-
-$$$$
-35k
-     RDKit          3D
-
- 30 31  0  0  0  0  0  0  0  0999 V2000
-   14.2404   -0.2610   10.5010 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9033   -0.2390   10.2405 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7252   -0.3364    9.0214 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6034    0.0875   10.3307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8322    0.1183   11.0266 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.3989   -0.6294    7.8665 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6837    0.6436    7.7011 O   0  0  0  0  0  0  0  0  0  0  0  0
-   10.0054   -1.3141    6.7245 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3392   -1.8478    8.7736 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4623    0.4854   11.2162 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1228    0.5958   12.6263 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6588    0.5432   12.4496 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9748    1.7337   10.7182 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.3968   -0.6282    8.6064 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7637    1.7329   13.2576 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7277   -0.4372   13.3819 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8986   -1.5380   10.3413 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9854   -2.5427    9.7078 F   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4267   -1.3648   10.0784 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0571   -0.8927   11.1800 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6716   -2.3125    8.0472 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9858   -2.6115    9.2232 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7635   -1.3381    9.5292 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6544   -0.2375   11.2065 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1272   -0.1486   13.1469 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1005    1.5265   12.6104 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3026    2.0434   11.3216 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.4641   -2.0932    9.5224 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7549   -2.1232   11.2476 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6192   -0.6536    9.2658 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 21  1  0
-  9 22  1  0
-  9 23  1  0
- 10 11  1  0
- 10 13  1  0
- 10 24  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 25  1  0
- 12 26  1  0
- 13 27  1  0
- 17 19  1  0
- 17 28  1  0
- 17 29  1  0
- 18 19  1  0
- 19 20  1  0
- 19 30  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (28) 
-0.58999999999999997
-
 >  <atom.dprop.PartialCharge>  (28) 
--0.26332945 0.12333903 -0.46854478 0.01044859 -0.22786407 1.4542326 -0.6532323 -0.6532323 -0.36957192 0.16934836 0.4007448 0.0022177845 -0.56762165 0.24529311 -0.22851422 -0.22851422 0.06796065 -0.22955169 0.39850858 -0.22955169 0.116985545 0.116985545 0.116985545 0.09430289 0.079922214 0.079922214 0.4155936 0.070906416 0.070906416 0.08492428
+-0.2934953 0.17753491 -0.484781 0.0028697662 -0.25272602 1.4543667 -0.65427977 -0.65427977 -0.37061924 0.16920334 0.40074158 -0.005320862 -0.568669 0.25866944 -0.22956167 -0.22956167 0.13043532 -0.1048241 -0.1048241 0.11593826 0.11593826 0.11593826 0.09325564 0.07952786 0.07952786 0.41454634 0.04595147 0.049749553 0.049749553 0.049749553 0.049749553 0.049749553 0.049749553
 
 >  <experimental dG reference units>  (28) 
 uM
@@ -2677,95 +2758,13 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (28) 
--35.77686773484699
+-32.99461758522771
 
 >  <kcal/mol experimental dG>  (28) 
--8.550876609667062
+-7.885902864538171
 
-$$$$
-35l
-     RDKit          3D
-
- 30 31  0  0  0  0  0  0  0  0999 V2000
-   14.2260   -0.2989   10.5384 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.9028   -0.2517   10.2505 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7251   -0.3271    9.0249 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6080    0.1006   10.3339 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8304    0.1200   11.0229 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.3988   -0.6276    7.8779 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6677    0.6368    7.7011 O   0  0  0  0  0  0  0  0  0  0  0  0
-   10.0079   -1.3132    6.7313 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3422   -1.8445    8.7672 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4611    0.4904   11.2194 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1182    0.6044   12.6367 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6652    0.5428   12.4495 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9828    1.7311   10.7319 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.3924   -0.6266    8.6086 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7622    1.7298   13.2617 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7256   -0.4426   13.3778 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8497   -1.5644   10.2925 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3264   -1.5649   10.8154 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3457   -1.8380   12.1303 F   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9230   -0.3744   10.5867 F   0  0  0  0  0  0  0  0  0  0  0  0
-   17.0135   -2.5196   10.1562 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6507   -2.2975    8.0546 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9767   -2.6250    9.1958 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7740   -1.3450    9.5503 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6542   -0.2460   11.2292 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1271   -0.1503   13.1494 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1117    1.5273   12.6073 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3275    2.0640   11.3259 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8453   -1.8048    9.2279 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.2929   -2.3500   10.8029 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 22  1  0
-  9 23  1  0
-  9 24  1  0
- 10 11  1  0
- 10 13  1  0
- 10 25  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 26  1  0
- 12 27  1  0
- 13 28  1  0
- 17 18  1  0
- 17 29  1  0
- 17 30  1  0
- 18 19  1  0
- 18 20  1  0
- 18 21  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (29) 
-0.085000000000000006
-
->  <atom.dprop.PartialCharge>  (29) 
--0.24262612 0.118512996 -0.4684873 0.011254687 -0.22178365 1.4548668 -0.6525975 -0.6525975 -0.36893722 0.16998291 0.40137935 0.0020150654 -0.5669869 0.25484523 -0.22787948 -0.22787948 0.07714088 0.6350987 -0.22696455 -0.22696455 -0.22696455 0.117620215 0.117620215 0.117620215 0.09493753 0.08055685 0.08055685 0.41622823 0.0802158 0.0802158
-
->  <experimental dG reference units>  (29) 
-uM
-
->  <experimental dG reference field>  (29) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (29) 
--40.60960573998482
-
->  <kcal/mol experimental dG>  (29) 
--9.70592871414551
+>  <AmberAM1BCCCache>  (28) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMnduGFrNwrAlIaUUpRoA2gJQwjvmPLgp/b9P5SGlFKUaANoCUMILxSelAbKE8CUhpRSlGgDaAlDCIvM0douabm/lIaUUpRoA2gJQwgvzdj84LUCwJSGlFKUaANoCUMIWp7rDpPeMECUhpRSlGgDaAlDCDjGLSMqER/AlIaUUpRoA2gJQwg4xi0jKhEfwJSGlFKUaANoCUMILaGkOKA6EcCUhpRSlGgDaAlDCKELfcQgef0/lIaUUpRoA2gJQwghEOa2z48RQJSGlFKUaANoCUMInIXlVCQU3L+UhpRSlGgDaAlDCCc06xWorhrAlIaUUpRoA2gJQwgdEi7wHCz7P5SGlFKUaANoCUMI5INasDeiBcCUhpRSlGgDaAlDCOSDWrA3ogXAlIaUUpRoA2gJQwhfybLIhvL3P5SGlFKUaANoCUMIrPdF7nJy9b+UhpRSlGgDaAlDCKz3Re5ycvW/lIaUUpRoA2gJQwjsXKk0da32P5SGlFKUaANoCUMI7FypNHWt9j+UhpRSlGgDaAlDCOxcqTR1rfY/lIaUUpRoA2gJQwgFC+hsiHT7P5SGlFKUaANoCUMILxaLvbfM8D+UhpRSlGgDaAlDCC8Wi723zPA/lIaUUpRoA2gJQwhsdloBppsTQJSGlFKUaANoCUMIAo/DHnF04z+UhpRSlGgDaAlDCM6x6erVFuU/lIaUUpRoA2gJQwjOsenq1RblP5SGlFKUaANoCUMIzrHp6tUW5T+UhpRSlGgDaAlDCM6x6erVFuU/lIaUUpRoA2gJQwjOsenq1RblP5SGlFKUaANoCUMIzrHp6tUW5T+UhpRSlGUu
 
 $$$$
 35m
@@ -2840,11 +2839,108 @@ $$$$
  18 32  1  0
  18 33  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (30) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (29) 
 0.091999999999999998
 
->  <atom.dprop.PartialCharge>  (30) 
+>  <atom.dprop.PartialCharge>  (29) 
 -0.25913736 0.13675842 -0.4704254 0.009822115 -0.23424974 1.453897 -0.65356827 -0.65356827 -0.36990786 0.16901246 0.40040892 0.0012524761 -0.56795764 0.23777416 0.09038 0.40535977 -0.22588745 -0.14031595 -0.22588745 -0.22885022 -0.22885022 0.11664961 0.11664961 0.11664961 0.09396696 0.07958628 0.07958628 0.41525766 0.06601596 0.06601596 0.06785415 0.06785415 0.06785415
+
+>  <experimental dG reference units>  (29) 
+uM
+
+>  <experimental dG reference field>  (29) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (29) 
+-40.412209298264095
+
+>  <kcal/mol experimental dG>  (29) 
+-9.658749832281092
+
+>  <AmberAM1BCCCache>  (29) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCKcn3H8DKgnAlIaUUpRoA2gJQwi5qribq3f5P5SGlFKUaANoCUMITLqQuUA3E8CUhpRSlGgDaAlDCOcAe9EqhMW/lIaUUpRoA2gJQwjbIsb1xS8BwJSGlFKUaANoCUMI9XhC0gXZMECUhpRSlGgDaAlDCPiYvvi15h7AlIaUUpRoA2gJQwj4mL74teYewJSGlFKUaANoCUMIjjVoFedcEcCUhpRSlGgDaAlDCO+r4krcgP0/lIaUUpRoA2gJQwgGd56C0J0RQJSGlFKUaANoCUMI1aX+ZM+637+UhpRSlGgDaAlDCEPNMkqnoBrAlIaUUpRoA2gJQwigBHWdhDf/P5SGlFKUaANoCUMIHmtM7+LF5T+UhpRSlGgDaAlDCHPU49SDuRNAlIaUUpRoA2gJQwgGGg8/OOoFwJSGlFKUaANoCUMIhOO9B5MJ+r+UhpRSlGgDaAlDCAYaDz846gXAlIaUUpRoA2gJQwhJt8ouJHoFwJSGlFKUaANoCUMISbfKLiR6BcCUhpRSlGgDaAlDCOeUkxYk+vY/lIaUUpRoA2gJQwjnlJMWJPr2P5SGlFKUaANoCUMI55STFiT69j+UhpRSlGgDaAlDCF3sj+8Hz/s/lIaUUpRoA2gJQwhG0o3qHC7xP5SGlFKUaANoCUMIRtKN6hwu8T+UhpRSlGgDaAlDCOBLIbgHoRNAlIaUUpRoA2gJQwhnMpQW1LPsP5SGlFKUaANoCUMIZzKUFtSz7D+UhpRSlGgDaAlDCKUCuVxKGOs/lIaUUpRoA2gJQwilArlcShjrP5SGlFKUaANoCUMIpQK5XEoY6z+UhpRSlGUu
+
+$$$$
+19a-bindingpose1
+     RDKit          3D
+
+ 34 36  0  0  0  0  0  0  0  0999 V2000
+   14.0278    0.5510    9.9466 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7818    0.0780   10.0226 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5698   -0.3676    9.0447 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5129    0.0255   10.3539 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7734    0.1731   10.9446 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2672   -0.6259    7.9019 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.5777    0.6558    7.7047 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8771   -1.3378    6.7721 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1922   -1.7881    8.7713 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4221    0.4352   11.2712 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1367    0.6145   12.6359 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6718    0.5895   12.3714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9843    1.6801   10.7747 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2119   -0.5361    8.5095 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7836   -0.4256   13.3919 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7567    1.7239   13.2741 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0698   -0.1091   10.5029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1835    0.6903   10.7429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2859    0.1644   11.3867 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3833   -1.2345   11.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2636   -2.0474   11.3555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0870   -1.4822   10.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1832    1.0441   11.8932 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4660   -2.1768    8.0662 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7924   -2.6106    9.1577 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6754   -1.2770    9.5753 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5993   -0.2742   11.3198 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1049    1.5790   12.5097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1887   -0.0968   13.0449 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3174    2.0290   11.3542 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1831    1.7443   10.5193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2824   -1.6822   11.9698 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3093   -3.1032   11.5748 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2329   -2.1123   10.6390 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 27  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 31  1  0
+ 19 20  2  0
+ 19 23  1  0
+ 20 21  1  0
+ 20 32  1  0
+ 21 22  2  0
+ 21 33  1  0
+ 22 34  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (30) 
+1
+
+>  <atom.dprop.PartialCharge>  (30) 
+-0.211349 0.10272254 -0.47846502 -9.5363706e-05 -0.19667278 1.4588176 -0.6532229 -0.6532229 -0.37071386 0.17399955 0.40345502 -0.008703634 -0.56768435 0.28463835 -0.22847736 -0.22847736 0.10870431 -0.16610003 0.13966629 -0.16663398 -0.09063284 -0.14960188 -0.13196415 0.11677599 0.11677599 0.11677599 0.093198985 0.079748966 0.079748966 0.41538405 0.16259627 0.15293413 0.14417052 0.15190351
 
 >  <experimental dG reference units>  (30) 
 uM
@@ -2853,10 +2949,13 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (30) 
--40.412209298264095
+-34.46076522989647
 
 >  <kcal/mol experimental dG>  (30) 
--9.658749832281092
+-8.236320561638735
+
+>  <AmberAM1BCCCache>  (30) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCAUseDA8oAPAlIaUUpRoA2gJQwii54B5UYP1P5SGlFKUaANoCUMItbUHB7bHE8CUhpRSlGgDaAlDCGPr7Mfkzda/lIaUUpRoA2gJQwjj8DxReeYBwJSGlFKUaANoCUMI2/a5whnWMECUhpRSlGgDaAlDCODrKuKa5B7AlIaUUpRoA2gJQwjg6yrimuQewJSGlFKUaANoCUMI+D2KU5doEcCUhpRSlGgDaAlDCBV8zkvy4v0/lIaUUpRoA2gJQwg+bLoYRKoRQJSGlFKUaANoCUMIClRX2tTe4r+UhpRSlGgDaAlDCNzWNZ5FoBrAlIaUUpRoA2gJQwjZuqBCgEIIQJSGlFKUaANoCUMIGv8R8eRqBcCUhpRSlGgDaAlDCBr/EfHkagXAlIaUUpRoA2gJQwjYbbASREn2P5SGlFKUaANoCUMIjN54se2WAMCUhpRSlGgDaAlDCIyfLNzYePw/lIaUUpRoA2gJQwjS2fRZNccAwJSGlFKUaANoCUMIEwbnaPgl7r+UhpRSlGgDaAlDCEXJpicwcAHAlIaUUpRoA2gJQwjB+ObNbqz4v5SGlFKUaANoCUMIsfEdgFon9z+UhpRSlGgDaAlDCLHxHYBaJ/c/lIaUUpRoA2gJQwix8R2AWif3P5SGlFKUaANoCUMINIC9SxKu+z+UhpRSlGgDaAlDCEaEGhmtTvE/lIaUUpRoA2gJQwhGhBoZrU7xP5SGlFKUaANoCUMI59TwjvadE0CUhpRSlGgDaAlDCGvvTyp/CQBAlIaUUpRoA2gJQwhNHFTGWp/9P5SGlFKUaANoCUMI20b42dXs+z+UhpRSlGgDaAlDCHwq4MyDDv0/lIaUUpRlLg==
 
 $$$$
 35o
@@ -2949,99 +3048,8 @@ Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 >  <kcal/mol experimental dG>  (31) 
 -9.226389986052087
 
-$$$$
-19a-bindingpose1
-     RDKit          3D
-
- 34 36  0  0  0  0  0  0  0  0999 V2000
-   14.0278    0.5510    9.9466 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.7818    0.0780   10.0226 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.5698   -0.3676    9.0447 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.5129    0.0255   10.3539 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.7734    0.1731   10.9446 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.2672   -0.6259    7.9019 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.5777    0.6558    7.7047 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.8771   -1.3378    6.7721 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.1922   -1.7881    8.7713 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4221    0.4352   11.2712 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1367    0.6145   12.6359 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6718    0.5895   12.3714 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9843    1.6801   10.7747 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.2119   -0.5361    8.5095 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7836   -0.4256   13.3919 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7567    1.7239   13.2741 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0698   -0.1091   10.5029 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1835    0.6903   10.7429 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.2859    0.1644   11.3867 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3833   -1.2345   11.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2636   -2.0474   11.3555 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0870   -1.4822   10.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.1832    1.0441   11.8932 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.4660   -2.1768    8.0662 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.7924   -2.6106    9.1577 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6754   -1.2770    9.5753 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.5993   -0.2742   11.3198 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1049    1.5790   12.5097 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1887   -0.0968   13.0449 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3174    2.0290   11.3542 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1831    1.7443   10.5193 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.2824   -1.6822   11.9698 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3093   -3.1032   11.5748 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.2329   -2.1123   10.6390 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 24  1  0
-  9 25  1  0
-  9 26  1  0
- 10 11  1  0
- 10 13  1  0
- 10 27  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 28  1  0
- 12 29  1  0
- 13 30  1  0
- 17 18  2  0
- 17 22  1  0
- 18 19  1  0
- 18 31  1  0
- 19 20  2  0
- 19 23  1  0
- 20 21  1  0
- 20 32  1  0
- 21 22  2  0
- 21 33  1  0
- 22 34  1  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (32) 
-1
-
->  <atom.dprop.PartialCharge>  (32) 
--0.211349 0.10272254 -0.47846502 -9.5363706e-05 -0.19667278 1.4588176 -0.6532229 -0.6532229 -0.37071386 0.17399955 0.40345502 -0.008703634 -0.56768435 0.28463835 -0.22847736 -0.22847736 0.10870431 -0.16610003 0.13966629 -0.16663398 -0.09063284 -0.14960188 -0.13196415 0.11677599 0.11677599 0.11677599 0.093198985 0.079748966 0.079748966 0.41538405 0.16259627 0.15293413 0.14417052 0.15190351
-
->  <experimental dG reference units>  (32) 
-uM
-
->  <experimental dG reference field>  (32) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (32) 
--34.46076522989647
-
->  <kcal/mol experimental dG>  (32) 
--8.236320561638735
+>  <AmberAM1BCCCache>  (31) 
+gASVzgIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCHk/LiJGuQnAlIaUUpRoA2gJQwjjYhzt6U/5P5SGlFKUaANoCUMI3MvsHTdFE8CUhpRSlGgDaAlDCOVVvOrnvbq/lIaUUpRoA2gJQwi5RUxkYU4BwJSGlFKUaANoCUMIJTSaBuTZMECUhpRSlGgDaAlDCCt0QqOY7x7AlIaUUpRoA2gJQwgrdEKjmO8ewJSGlFKUaANoCUMIskjwlsVaEcCUhpRSlGgDaAlDCNheXpC/jv0/lIaUUpRoA2gJQwisZKwP5pcRQJSGlFKUaANoCUMItvl/lmRB3r+UhpRSlGgDaAlDCAve+J+pthrAlIaUUpRoA2gJQwhB/O7NnnL/P5SGlFKUaANoCUMIQNzgbkqDBcCUhpRSlGgDaAlDCEDc4G5KgwXAlIaUUpRoA2gJQwiVR2u5TUb0P5SGlFKUaANoCUMIvyrFXrws+L+UhpRSlGgDaAlDCN7l25pHzB1AlIaUUpRoA2gJQwjIOyrZbg0GwJSGlFKUaANoCUMIyDsq2W4NBsCUhpRSlGgDaAlDCMg7KtluDQbAlIaUUpRoA2gJQwg/0I0hEv72P5SGlFKUaANoCUMIP9CNIRL+9j+UhpRSlGgDaAlDCD/QjSES/vY/lIaUUpRoA2gJQwh6bR2ole76P5SGlFKUaANoCUMIuGWwmuMH8T+UhpRSlGgDaAlDCLhlsJrjB/E/lIaUUpRoA2gJQwinySaXJbETQJSGlFKUaANoCUMIwKD5S9GN6T+UhpRSlGgDaAlDCMCg+UvRjek/lIaUUpRoA2gJQwi2LE4m7k3zP5SGlFKUaANoCUMItixOJu5N8z+UhpRSlGUu
 
 $$$$
 19a-bindingpose2
@@ -3119,11 +3127,99 @@ $$$$
  21 33  1  0
  22 34  1  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (33) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (32) 
 1
 
->  <atom.dprop.PartialCharge>  (33) 
+>  <atom.dprop.PartialCharge>  (32) 
 -0.211349 0.10272254 -0.47846502 -9.5363706e-05 -0.19667278 1.4588176 -0.6532229 -0.6532229 -0.37071386 0.17399955 0.40345502 -0.008703634 -0.56768435 0.28463835 -0.22847736 -0.22847736 0.10870431 -0.16610003 0.13966629 -0.16663398 -0.09063284 -0.14960188 -0.13196415 0.11677599 0.11677599 0.11677599 0.093198985 0.079748966 0.079748966 0.41538405 0.16259627 0.15293413 0.14417052 0.15190351
+
+>  <experimental dG reference units>  (32) 
+uM
+
+>  <experimental dG reference field>  (32) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (32) 
+-34.46076522989647
+
+>  <kcal/mol experimental dG>  (32) 
+-8.236320561638735
+
+>  <AmberAM1BCCCache>  (32) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCAUseDA8oAPAlIaUUpRoA2gJQwii54B5UYP1P5SGlFKUaANoCUMItbUHB7bHE8CUhpRSlGgDaAlDCGPr7Mfkzda/lIaUUpRoA2gJQwjj8DxReeYBwJSGlFKUaANoCUMI2/a5whnWMECUhpRSlGgDaAlDCODrKuKa5B7AlIaUUpRoA2gJQwjg6yrimuQewJSGlFKUaANoCUMI+D2KU5doEcCUhpRSlGgDaAlDCBV8zkvy4v0/lIaUUpRoA2gJQwg+bLoYRKoRQJSGlFKUaANoCUMIClRX2tTe4r+UhpRSlGgDaAlDCNzWNZ5FoBrAlIaUUpRoA2gJQwjZuqBCgEIIQJSGlFKUaANoCUMIGv8R8eRqBcCUhpRSlGgDaAlDCBr/EfHkagXAlIaUUpRoA2gJQwjYbbASREn2P5SGlFKUaANoCUMIjN54se2WAMCUhpRSlGgDaAlDCIyfLNzYePw/lIaUUpRoA2gJQwjS2fRZNccAwJSGlFKUaANoCUMIEwbnaPgl7r+UhpRSlGgDaAlDCEXJpicwcAHAlIaUUpRoA2gJQwjB+ObNbqz4v5SGlFKUaANoCUMIsfEdgFon9z+UhpRSlGgDaAlDCLHxHYBaJ/c/lIaUUpRoA2gJQwix8R2AWif3P5SGlFKUaANoCUMINIC9SxKu+z+UhpRSlGgDaAlDCEaEGhmtTvE/lIaUUpRoA2gJQwhGhBoZrU7xP5SGlFKUaANoCUMI59TwjvadE0CUhpRSlGgDaAlDCGvvTyp/CQBAlIaUUpRoA2gJQwhNHFTGWp/9P5SGlFKUaANoCUMI20b42dXs+z+UhpRSlGgDaAlDCHwq4MyDDv0/lIaUUpRlLg==
+
+$$$$
+35k
+     RDKit          3D
+
+ 30 31  0  0  0  0  0  0  0  0999 V2000
+   14.2404   -0.2610   10.5010 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9033   -0.2390   10.2405 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7252   -0.3364    9.0214 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6034    0.0875   10.3307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8322    0.1183   11.0266 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3989   -0.6294    7.8665 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6837    0.6436    7.7011 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0054   -1.3141    6.7245 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3392   -1.8478    8.7736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4623    0.4854   11.2162 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1228    0.5958   12.6263 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6588    0.5432   12.4496 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9748    1.7337   10.7182 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3968   -0.6282    8.6064 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7637    1.7329   13.2576 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7277   -0.4372   13.3819 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8986   -1.5380   10.3413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9854   -2.5427    9.7078 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4267   -1.3648   10.0784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0571   -0.8927   11.1800 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6716   -2.3125    8.0472 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9858   -2.6115    9.2232 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7635   -1.3381    9.5292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6544   -0.2375   11.2065 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1272   -0.1486   13.1469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1005    1.5265   12.6104 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3026    2.0434   11.3216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4641   -2.0932    9.5224 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7549   -2.1232   11.2476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6192   -0.6536    9.2658 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 24  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 17 19  1  0
+ 17 28  1  0
+ 17 29  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 19 30  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (33) 
+0.58999999999999997
+
+>  <atom.dprop.PartialCharge>  (33) 
+-0.26332945 0.12333903 -0.46854478 0.01044859 -0.22786407 1.4542326 -0.6532323 -0.6532323 -0.36957192 0.16934836 0.4007448 0.0022177845 -0.56762165 0.24529311 -0.22851422 -0.22851422 0.06796065 -0.22955169 0.39850858 -0.22955169 0.116985545 0.116985545 0.116985545 0.09430289 0.079922214 0.079922214 0.4155936 0.070906416 0.070906416 0.08492428
 
 >  <experimental dG reference units>  (33) 
 uM
@@ -3132,10 +3228,110 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (33) 
--34.46076522989647
+-35.77686773484699
 
 >  <kcal/mol experimental dG>  (33) 
--8.236320561638735
+-8.550876609667062
+
+>  <AmberAM1BCCCache>  (33) 
+gASVlQIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCOE3xszg7AnAlIaUUpRoA2gJQwgmaUid5kP5P5SGlFKUaANoCUMIPM7POvwfE8CUhpRSlGgDaAlDCE4zHYEVoMW/lIaUUpRoA2gJQwhfSILMYBkBwJSGlFKUaANoCUMIkTTj/M3YMECUhpRSlGgDaAlDCNvzpOPb5R7AlIaUUpRoA2gJQwjb86Tj2+UewJSGlFKUaANoCUMIIUflasZdEcCUhpRSlGgDaAlDCKJl7vReff0/lIaUUpRoA2gJQwhyZSEt8ZwRQJSGlFKUaANoCUMICr/PvMTI37+UhpRSlGgDaAlDCNfer5+GoRrAlIaUUpRoA2gJQwih+j7sErf/P5SGlFKUaANoCUMIn9ul79BvBcCUhpRSlGgDaAlDCJ/bpe/QbwXAlIaUUpRoA2gJQwidyEDBRz7iP5SGlFKUaANoCUMIEctXvcsYBsCUhpRSlGgDaAlDCEjxj1TfLhNAlIaUUpRoA2gJQwgRy1e9yxgGwJSGlFKUaANoCUMI0/rclSIC9z+UhpRSlGgDaAlDCNP63JUiAvc/lIaUUpRoA2gJQwjT+tyVIgL3P5SGlFKUaANoCUMITWDVRQ6p+z+UhpRSlGgDaAlDCBdptmphGfE/lIaUUpRoA2gJQwgXabZqYRnxP5SGlFKUaANoCUMIvsuVd8eoE0CUhpRSlGgDaAlDCMAwvaspbe4/lIaUUpRoA2gJQwjAML2rKW3uP5SGlFKUaANoCUMIuEyeXQ878j+UhpRSlGUu
+
+$$$$
+19b
+     RDKit          3D
+
+ 34 36  0  0  0  0  0  0  0  0999 V2000
+   14.0062    0.5464    9.9710 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7797    0.0355   10.0488 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6015   -0.3740    9.0410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5287    0.0221   10.3505 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7752    0.1323   10.9724 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3038   -0.6405    7.8940 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.6124    0.6423    7.6989 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9268   -1.3415    6.7694 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2275   -1.8234    8.7680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4230    0.4412   11.2470 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1181    0.5962   12.6290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6600    0.5532   12.4008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9833    1.6803   10.7291 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2404   -0.5734    8.5239 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7364   -0.4391   13.3829 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7680    1.7235   13.2511 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0680   -0.1177   10.4908 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1909    0.6989   10.7005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3099    0.1916   11.3523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4071   -1.2087   11.5721 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2802   -2.0357   11.4012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0867   -1.4943   10.8577 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1831    1.0872   11.8832 F   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3490   -3.3122   11.8486 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5148   -2.2448    8.0636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8458   -2.6244    9.1735 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6914   -1.3187    9.5672 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5973   -0.2678   11.2847 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1090    1.5357   12.5452 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1573   -0.1414   13.0784 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6952    2.2994   10.7842 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1708    1.7518   10.4602 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3086   -1.6437   11.9721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2161   -2.1206   10.7348 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 17  1  0
+  2  5  2  0
+  2 14  1  0
+  3  4  2  0
+  3  6  1  0
+  3 14  1  0
+  4  5  1  0
+  4 10  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 10 28  1  1
+ 11 12  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 32  1  0
+ 19 20  2  0
+ 19 23  1  0
+ 20 21  1  0
+ 20 33  1  0
+ 21 22  2  0
+ 21 24  1  0
+ 22 34  1  0
+M  END
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (34) 
+0.88
+
+>  <atom.dprop.PartialCharge>  (34) 
+-0.2081464 0.1053849 -0.47773367 0.0006358512 -0.19456972 1.4595482 -0.65249145 -0.65249145 -0.3699826 0.17473069 0.40418616 -0.007972471 -0.566953 0.28675374 -0.227746 -0.227746 0.14030293 -0.18862304 0.1668933 -0.20996986 0.1668933 -0.18862304 -0.13036072 -0.13036072 0.11750725 0.11750725 0.11750725 0.09393021 0.08048019 0.08048019 0.41611528 0.16749409 0.16992451 0.16749409
+
+>  <experimental dG reference units>  (34) 
+uM
+
+>  <experimental dG reference field>  (34) 
+Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
+
+>  <kJ/mol experimental dG>  (34) 
+-34.77962683010051
+
+>  <kcal/mol experimental dG>  (34) 
+-8.312530313121536
+
+>  <AmberAM1BCCCache>  (34) 
+gASV4QIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMReY6t/LQPAlIaUUpRoA2gJQwgJ849Ral3zP5SGlFKUaANoCUMIEeQRG8FyE8CUhpRSlGgDaAlDCP49GAmb0ti/lIaUUpRoA2gJQwgP+ccX99AAwJSGlFKUaANoCUMI+sjE3g/UMECUhpRSlGgDaAlDCMalwZ2e1B7AlIaUUpRoA2gJQwjGpcGdntQewJSGlFKUaANoCUMIgPVe475wEcCUhpRSlGgDaAlDCP0I57Xq3f0/lIaUUpRoA2gJQwiY18iyWrMRQJSGlFKUaANoCUMIypuJAApl47+UhpRSlGgDaAlDCPL8GBnOnxrAlIaUUpRoA2gJQwgLcZx4SysIQJSGlFKUaANoCUMIcj/fY1ZNBcCUhpRSlGgDaAlDCHI/32NWTQXAlIaUUpRoA2gJQwjKFPXv7A/7P5SGlFKUaANoCUMICfx86xDoA8CUhpRSlGgDaAlDCC5ySaxZHwFAlIaUUpRoA2gJQwgWm3+gMNsEwJSGlFKUaANoCUMILnJJrFkfAUCUhpRSlGgDaAlDCAn8fOsQ6APAlIaUUpRoA2gJQwhU+ped82L3v5SGlFKUaANoCUMIVPqXnfNi97+UhpRSlGgDaAlDCNzm5rYaMPc/lIaUUpRoA2gJQwjc5ua2GjD3P5SGlFKUaANoCUMI3Obmthow9z+UhpRSlGgDaAlDCGEIUl5S2fs/lIaUUpRoA2gJQwhzDK8r7XnxP5SGlFKUaANoCUMIcwyvK+158T+UhpRSlGgDaAlDCNGuDRRunhNAlIaUUpRoA2gJQwhkwegG9EsAQJSGlFKUaANoCUMI6HaeW79ZAECUhpRSlGgDaAlDCGTB6Ab0SwBAlIaUUpRlLg==
 
 $$$$
 19c-bindingpose1
@@ -3215,23 +3411,26 @@ $$$$
  22 35  1  0
  24 25  3  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (34) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (35) 
 0.95999999999999996
 
->  <atom.dprop.PartialCharge>  (34) 
+>  <atom.dprop.PartialCharge>  (35) 
 0.124895975 -0.20352152 0.10302239 -0.1950494 0.00068752095 -0.477682 0.2878521 1.4595999 -0.6524398 -0.36993092 -0.6524398 0.17478235 0.4042378 -0.007920805 -0.2276943 -0.2276943 -0.5669013 -0.11442585 0.031108383 -0.14288718 0.1417144 -0.17531396 -0.12803717 0.23036522 -0.34102693 0.11755893 0.11755893 0.11755893 0.09398188 0.080531865 0.080531865 0.41616696 0.16432437 0.16831546 0.16816986
 
->  <experimental dG reference units>  (34) 
+>  <experimental dG reference units>  (35) 
 uM
 
->  <experimental dG reference field>  (34) 
+>  <experimental dG reference field>  (35) 
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
->  <kJ/mol experimental dG>  (34) 
+>  <kJ/mol experimental dG>  (35) 
 -34.5625897092363
 
->  <kcal/mol experimental dG>  (34) 
+>  <kcal/mol experimental dG>  (35) 
 -8.260657196280185
+
+>  <AmberAM1BCCCache>  (35) 
+gASV9AIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDCMCCC61PY/lIaUUpRoA2gJQwjZHMwpgVoDwJSGlFKUaANoCUMIi2QpXS5J8j+UhpRSlGgDaAlDCCYinD+PGQHAlIaUUpRoA2gJQwiDACxexCbZv5SGlFKUaANoCUMICLQW8X5oE8CUhpRSlGgDaAlDCHe5/hY2MQlAlIaUUpRoA2gJQwjweXA5v9IwQJSGlFKUaANoCUMItGPkU8bHHsCUhpRSlGgDaAlDCKcxsHgBdhHAlIaUUpRoA2gJQwi0Y+RTxscewJSGlFKUaANoCUMInqiyX5Hd/T+UhpRSlGgDaAlDCDF20sf9tBFAlIaUUpRoA2gJQwia3nalRAvkv5SGlFKUaANoCUMIILpDurc/BcCUhpRSlGgDaAlDCCC6Q7q3PwXAlIaUUpRoA2gJQwjpzB3vi5UawJSGlFKUaANoCUMIaOrZzeqd/b+UhpRSlGgDaAlDCMXHBKYhNOA/lIaUUpRoA2gJQwixGQI5Hrv7v5SGlFKUaANoCUMIWseMmL+j/D+UhpRSlGgDaAlDCDncTcfBLv6/lIaUUpRoA2gJQwhS7Z4e2l/3v5SGlFKUaANoCUMIV/YdMfq4BECUhpRSlGgDaAlDCGvFUwk0Ag/AlIaUUpRoA2gJQwiAGX48QVL3P5SGlFKUaANoCUMIgBl+PEFS9z+UhpRSlGgDaAlDCIAZfjxBUvc/lIaUUpRoA2gJQwhEOC4Hqu37P5SGlFKUaANoCUMIz7D+LExJ8T+UhpRSlGgDaAlDCM+w/ixMSfE/lIaUUpRoA2gJQwgJ4OlTnpwTQJSGlFKUaANoCUMIjRkQb8Z8/z+UhpRSlGgDaAlDCK4FQrTOBgBAlIaUUpRoA2gJQwh+97WtpZcAQJSGlFKUZS4=
 
 $$$$
 19c-bindingpose2
@@ -3311,107 +3510,11 @@ $$$$
  22 35  1  0
  24 25  3  0
 M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (35) 
+>  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (36) 
 0.95999999999999996
 
->  <atom.dprop.PartialCharge>  (35) 
-0.124895975 -0.20352152 0.10302239 -0.1950494 0.00068752095 -0.477682 0.2878521 1.4595999 -0.6524398 -0.36993092 -0.6524398 0.17478235 0.4042378 -0.007920805 -0.2276943 -0.2276943 -0.5669013 -0.11442585 0.031108383 -0.14288718 0.1417144 -0.17531396 -0.12803717 0.23036522 -0.34102693 0.11755893 0.11755893 0.11755893 0.09398188 0.080531865 0.080531865 0.41616696 0.16432437 0.16831546 0.16816986
-
->  <experimental dG reference units>  (35) 
-uM
-
->  <experimental dG reference field>  (35) 
-Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
-
->  <kJ/mol experimental dG>  (35) 
--34.5625897092363
-
->  <kcal/mol experimental dG>  (35) 
--8.260657196280185
-
-$$$$
-19d-bindingpose2
-     RDKit          3D
-
- 35 37  0  0  0  0  0  0  0  0999 V2000
-   13.7141    0.2350    8.9994 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.5040   -0.1138    9.4114 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.1929   -0.4866    8.8668 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.3523   -0.0568   10.1604 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6954    0.0977   10.5040 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.7600   -0.7266    7.9356 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.1219    0.5892    7.7760 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.1316   -1.5649    6.7843 O   0  0  0  0  0  0  0  0  0  0  0  0
-    7.8878   -1.7136    9.1461 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4414    0.3623   11.2640 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.4000    0.6843   12.4426 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8530    0.6033   11.9085 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.7519    1.4886   10.7722 O   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6845   -0.8730    8.1227 S   0  0  0  0  0  0  0  0  0  0  0  0
-   10.2068   -0.2485   13.3767 F   0  0  0  0  0  0  0  0  0  0  0  0
-   10.1745    1.8735   12.9991 F   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7459   -0.0719    9.7772 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9285   -1.3524   10.3448 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.0075   -1.5003   11.2165 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.7446   -0.4067   11.5606 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.5842    0.7808   10.9307 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.6271    0.9815    9.9720 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.4516    2.0115   11.5655 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-   16.5130   -2.6510   11.8597 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9828   -3.5336   12.3932 N   0  0  0  0  0  0  0  0  0  0  0  0
-    6.9838   -2.1583    8.7676 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.5682   -2.5045    9.4770 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6145   -1.0811    9.9729 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.7398   -0.4130   11.5737 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4617   -0.0534   12.5231 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.3128    1.5896   11.9138 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2572    1.8876   11.4799 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.2558   -2.1554   10.1012 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3831   -0.3970   12.3712 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.4484    1.9723    9.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0
-  1 17  1  0
-  2  5  2  0
-  2 14  1  0
-  3  4  2  0
-  3  6  1  0
-  3 14  1  0
-  4  5  1  0
-  4 10  1  0
-  5 12  1  0
-  6  7  2  0
-  6  8  2  0
-  6  9  1  0
-  9 26  1  0
-  9 27  1  0
-  9 28  1  0
- 10 11  1  0
- 10 13  1  0
- 10 29  1  1
- 11 12  1  0
- 11 15  1  0
- 11 16  1  0
- 12 30  1  0
- 12 31  1  0
- 13 32  1  0
- 17 18  2  0
- 17 22  1  0
- 18 19  1  0
- 18 33  1  0
- 19 20  2  0
- 19 24  1  0
- 20 21  1  0
- 20 34  1  0
- 21 22  2  0
- 21 23  1  0
- 22 35  1  0
- 24 25  3  0
-M  END
->  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (36) 
-1.7
-
 >  <atom.dprop.PartialCharge>  (36) 
--0.20103581 0.10031378 -0.47757623 0.0007932596 -0.19530176 1.4597055 -0.65233403 -0.65233403 -0.36982515 0.17488807 0.40434355 -0.007815074 -0.5667956 0.28801462 -0.22758855 -0.22758855 0.10375641 -0.09615318 0.007874079 -0.09943855 0.02280144 -0.12417124 -0.073728144 0.23459855 -0.34532082 0.117664665 0.117664665 0.117664665 0.09408762 0.080637604 0.080637604 0.4162727 0.16472083 0.16573876 0.16482775
+0.124895975 -0.20352152 0.10302239 -0.1950494 0.00068752095 -0.477682 0.2878521 1.4595999 -0.6524398 -0.36993092 -0.6524398 0.17478235 0.4042378 -0.007920805 -0.2276943 -0.2276943 -0.5669013 -0.11442585 0.031108383 -0.14288718 0.1417144 -0.17531396 -0.12803717 0.23036522 -0.34102693 0.11755893 0.11755893 0.11755893 0.09398188 0.080531865 0.080531865 0.41616696 0.16432437 0.16831546 0.16816986
 
 >  <experimental dG reference units>  (36) 
 uM
@@ -3420,10 +3523,13 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (36) 
--33.13719086704654
+-34.5625897092363
 
 >  <kcal/mol experimental dG>  (36) 
--7.919978696712844
+-8.260657196280185
+
+>  <AmberAM1BCCCache>  (36) 
+gASV9AIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDCMCCC61PY/lIaUUpRoA2gJQwjZHMwpgVoDwJSGlFKUaANoCUMIi2QpXS5J8j+UhpRSlGgDaAlDCCYinD+PGQHAlIaUUpRoA2gJQwiDACxexCbZv5SGlFKUaANoCUMICLQW8X5oE8CUhpRSlGgDaAlDCHe5/hY2MQlAlIaUUpRoA2gJQwjweXA5v9IwQJSGlFKUaANoCUMItGPkU8bHHsCUhpRSlGgDaAlDCKcxsHgBdhHAlIaUUpRoA2gJQwi0Y+RTxscewJSGlFKUaANoCUMInqiyX5Hd/T+UhpRSlGgDaAlDCDF20sf9tBFAlIaUUpRoA2gJQwia3nalRAvkv5SGlFKUaANoCUMIILpDurc/BcCUhpRSlGgDaAlDCCC6Q7q3PwXAlIaUUpRoA2gJQwjpzB3vi5UawJSGlFKUaANoCUMIaOrZzeqd/b+UhpRSlGgDaAlDCMXHBKYhNOA/lIaUUpRoA2gJQwixGQI5Hrv7v5SGlFKUaANoCUMIWseMmL+j/D+UhpRSlGgDaAlDCDncTcfBLv6/lIaUUpRoA2gJQwhS7Z4e2l/3v5SGlFKUaANoCUMIV/YdMfq4BECUhpRSlGgDaAlDCGvFUwk0Ag/AlIaUUpRoA2gJQwiAGX48QVL3P5SGlFKUaANoCUMIgBl+PEFS9z+UhpRSlGgDaAlDCIAZfjxBUvc/lIaUUpRoA2gJQwhEOC4Hqu37P5SGlFKUaANoCUMIz7D+LExJ8T+UhpRSlGgDaAlDCM+w/ixMSfE/lIaUUpRoA2gJQwgJ4OlTnpwTQJSGlFKUaANoCUMIjRkQb8Z8/z+UhpRSlGgDaAlDCK4FQrTOBgBAlIaUUpRoA2gJQwh+97WtpZcAQJSGlFKUZS4=
 
 $$$$
 19d-bindingpose1
@@ -3521,45 +3627,49 @@ Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 >  <kcal/mol experimental dG>  (37) 
 -7.919978696712844
 
+>  <AmberAM1BCCCache>  (37) 
+gASV9AIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJLLkNmlVwPAlIaUUpRoA2gJQwjp+BP3u9/yP5SGlFKUaANoCUMICAk3HTV/E8CUhpRSlGgDaAlDCB+ccZisjde/lIaUUpRoA2gJQwgLWitr0HMBwJSGlFKUaANoCUMIGeR3oxrTMECUhpRSlGgDaAlDCHY61qBhzB7AlIaUUpRoA2gJQwh2OtagYcwewJSGlFKUaANoCUMIA4mS0JN0EcCUhpRSlGgDaAlDCCxLKQBI4/0/lIaUUpRoA2gJQwjVHvBva7YRQJSGlFKUaANoCUMI86KRE0if47+UhpRSlGgDaAlDCEQkAEcelBrAlIaUUpRoA2gJQwh8D76+yQMJQJSGlFKUaANoCUMIqmcnVO5IBcCUhpRSlGgDaAlDCKpnJ1TuSAXAlIaUUpRoA2gJQwiUiEs/H0XzP5SGlFKUaANoCUMI+JyrVCoz+r+UhpRSlGgDaAlDCDduBWv26tI/lIaUUpRoA2gJQwi2Z12heJLzv5SGlFKUaANoCUMIw46equ2+1z+UhpRSlGgDaAlDCHQODIlyrPW/lIaUUpRoA2gJQwgl274I2YHnv5SGlFKUaANoCUMIQkWXVfnTBECUhpRSlGgDaAlDCAxt0jXERw/AlIaUUpRoA2gJQwi8l9EY5Ef3P5SGlFKUaANoCUMIvJfRGORH9z+UhpRSlGgDaAlDCLyX0RjkR/c/lIaUUpRoA2gJQwiOSpSor977P5SGlFKUaANoCUMIulU3+d428T+UhpRSlGgDaAlDCLpVN/neNvE/lIaUUpRoA2gJQwisiAf8C54TQJSGlFKUaANoCUMI1cAKZzVS/z+UhpRSlGgDaAlDCBu8hg99gv8/lIaUUpRoA2gJQwh/TXVVOWoAQJSGlFKUZS4=
+
 $$$$
-19b
+19d-bindingpose2
      RDKit          3D
 
- 34 36  0  0  0  0  0  0  0  0999 V2000
-   14.0062    0.5464    9.9710 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.7797    0.0355   10.0488 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6015   -0.3740    9.0410 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.5287    0.0221   10.3505 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.7752    0.1323   10.9724 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.3038   -0.6405    7.8940 S   0  0  0  0  0  6  0  0  0  0  0  0
-    8.6124    0.6423    7.6989 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9268   -1.3415    6.7694 O   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2275   -1.8234    8.7680 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.4230    0.4412   11.2470 C   0  0  1  0  0  0  0  0  0  0  0  0
-   10.1181    0.5962   12.6290 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6600    0.5532   12.4008 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9833    1.6803   10.7291 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.2404   -0.5734    8.5239 S   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7364   -0.4391   13.3829 F   0  0  0  0  0  0  0  0  0  0  0  0
-    9.7680    1.7235   13.2511 F   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0680   -0.1177   10.4908 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1909    0.6989   10.7005 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3099    0.1916   11.3523 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.4071   -1.2087   11.5721 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2802   -2.0357   11.4012 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0867   -1.4943   10.8577 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.1831    1.0872   11.8832 F   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3490   -3.3122   11.8486 F   0  0  0  0  0  0  0  0  0  0  0  0
-    7.5148   -2.2448    8.0636 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.8458   -2.6244    9.1735 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6914   -1.3187    9.5672 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.5973   -0.2678   11.2847 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1090    1.5357   12.5452 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.1573   -0.1414   13.0784 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.6952    2.2994   10.7842 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1708    1.7518   10.4602 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.3086   -1.6437   11.9721 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.2161   -2.1206   10.7348 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+   13.7141    0.2350    8.9994 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5040   -0.1138    9.4114 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1929   -0.4866    8.8668 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3523   -0.0568   10.1604 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6954    0.0977   10.5040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7600   -0.7266    7.9356 S   0  0  0  0  0  6  0  0  0  0  0  0
+    8.1219    0.5892    7.7760 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1316   -1.5649    6.7843 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8878   -1.7136    9.1461 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4414    0.3623   11.2640 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.4000    0.6843   12.4426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8530    0.6033   11.9085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7519    1.4886   10.7722 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6845   -0.8730    8.1227 S   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2068   -0.2485   13.3767 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1745    1.8735   12.9991 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7459   -0.0719    9.7772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9285   -1.3524   10.3448 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0075   -1.5003   11.2165 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7446   -0.4067   11.5606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5842    0.7808   10.9307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6271    0.9815    9.9720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4516    2.0115   11.5655 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   16.5130   -2.6510   11.8597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9828   -3.5336   12.3932 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9838   -2.1583    8.7676 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5682   -2.5045    9.4770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6145   -1.0811    9.9729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7398   -0.4130   11.5737 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4617   -0.0534   12.5231 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3128    1.5896   11.9138 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2572    1.8876   11.4799 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2558   -2.1554   10.1012 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3831   -0.3970   12.3712 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4484    1.9723    9.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   1 17  1  0
   2  5  2  0
@@ -3573,35 +3683,36 @@ $$$$
   6  7  2  0
   6  8  2  0
   6  9  1  0
-  9 25  1  0
   9 26  1  0
   9 27  1  0
+  9 28  1  0
  10 11  1  0
  10 13  1  0
- 10 28  1  1
+ 10 29  1  1
  11 12  1  0
  11 15  1  0
  11 16  1  0
- 12 29  1  0
  12 30  1  0
- 13 31  1  0
+ 12 31  1  0
+ 13 32  1  0
  17 18  2  0
  17 22  1  0
  18 19  1  0
- 18 32  1  0
+ 18 33  1  0
  19 20  2  0
- 19 23  1  0
+ 19 24  1  0
  20 21  1  0
- 20 33  1  0
+ 20 34  1  0
  21 22  2  0
- 21 24  1  0
- 22 34  1  0
+ 21 23  1  0
+ 22 35  1  0
+ 24 25  3  0
 M  END
 >  <Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)>  (38) 
-0.88
+1.7
 
 >  <atom.dprop.PartialCharge>  (38) 
--0.2081464 0.1053849 -0.47773367 0.0006358512 -0.19456972 1.4595482 -0.65249145 -0.65249145 -0.3699826 0.17473069 0.40418616 -0.007972471 -0.566953 0.28675374 -0.227746 -0.227746 0.14030293 -0.18862304 0.1668933 -0.20996986 0.1668933 -0.18862304 -0.13036072 -0.13036072 0.11750725 0.11750725 0.11750725 0.09393021 0.08048019 0.08048019 0.41611528 0.16749409 0.16992451 0.16749409
+-0.20103581 0.10031378 -0.47757623 0.0007932596 -0.19530176 1.4597055 -0.65233403 -0.65233403 -0.36982515 0.17488807 0.40434355 -0.007815074 -0.5667956 0.28801462 -0.22758855 -0.22758855 0.10375641 -0.09615318 0.007874079 -0.09943855 0.02280144 -0.12417124 -0.073728144 0.23459855 -0.34532082 0.117664665 0.117664665 0.117664665 0.09408762 0.080637604 0.080637604 0.4162727 0.16472083 0.16573876 0.16482775
 
 >  <experimental dG reference units>  (38) 
 uM
@@ -3610,9 +3721,12 @@ uM
 Protein/Binding/ITC_Mean_KD_uM_HIF2a_240-350_human;(Num)
 
 >  <kJ/mol experimental dG>  (38) 
--34.77962683010051
+-33.13719086704654
 
 >  <kcal/mol experimental dG>  (38) 
--8.312530313121536
+-7.919978696712844
+
+>  <AmberAM1BCCCache>  (38) 
+gASV9AIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJLLkNmlVwPAlIaUUpRoA2gJQwjp+BP3u9/yP5SGlFKUaANoCUMICAk3HTV/E8CUhpRSlGgDaAlDCB+ccZisjde/lIaUUpRoA2gJQwgLWitr0HMBwJSGlFKUaANoCUMIGeR3oxrTMECUhpRSlGgDaAlDCHY61qBhzB7AlIaUUpRoA2gJQwh2OtagYcwewJSGlFKUaANoCUMIA4mS0JN0EcCUhpRSlGgDaAlDCCxLKQBI4/0/lIaUUpRoA2gJQwjVHvBva7YRQJSGlFKUaANoCUMI86KRE0if47+UhpRSlGgDaAlDCEQkAEcelBrAlIaUUpRoA2gJQwh8D76+yQMJQJSGlFKUaANoCUMIqmcnVO5IBcCUhpRSlGgDaAlDCKpnJ1TuSAXAlIaUUpRoA2gJQwiUiEs/H0XzP5SGlFKUaANoCUMI+JyrVCoz+r+UhpRSlGgDaAlDCDduBWv26tI/lIaUUpRoA2gJQwi2Z12heJLzv5SGlFKUaANoCUMIw46equ2+1z+UhpRSlGgDaAlDCHQODIlyrPW/lIaUUpRoA2gJQwgl274I2YHnv5SGlFKUaANoCUMIQkWXVfnTBECUhpRSlGgDaAlDCAxt0jXERw/AlIaUUpRoA2gJQwi8l9EY5Ef3P5SGlFKUaANoCUMIvJfRGORH9z+UhpRSlGgDaAlDCLyX0RjkR/c/lIaUUpRoA2gJQwiOSpSor977P5SGlFKUaANoCUMIulU3+d428T+UhpRSlGgDaAlDCLpVN/neNvE/lIaUUpRoA2gJQwisiAf8C54TQJSGlFKUaANoCUMI1cAKZzVS/z+UhpRSlGgDaAlDCBu8hg99gv8/lIaUUpRoA2gJQwh/TXVVOWoAQJSGlFKUZS4=
 
 $$$$
