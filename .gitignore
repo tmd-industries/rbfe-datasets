@@ -10,3 +10,4 @@ oe_license.txt
 .coverage*
 .hypothesis/
 *.backup
+*_cache/
