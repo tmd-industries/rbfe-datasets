@@ -1,5 +1,7 @@
 # Tyk2 Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 0.51
 - RMSE: 0.68

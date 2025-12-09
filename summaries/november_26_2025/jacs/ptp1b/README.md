@@ -1,5 +1,7 @@
 # Ptp1B Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 0.93
 - RMSE: 1.61

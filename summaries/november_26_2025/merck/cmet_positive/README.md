@@ -1,5 +1,7 @@
 # Cmet Positive Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.59
 - RMSE: 1.84

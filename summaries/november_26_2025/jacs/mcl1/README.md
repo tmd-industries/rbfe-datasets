@@ -1,5 +1,7 @@
 # Mcl1 Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.74
 - RMSE: 2.19

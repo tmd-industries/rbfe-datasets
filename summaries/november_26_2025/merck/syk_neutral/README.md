@@ -1,5 +1,7 @@
 # Syk Neutral Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.26
 - RMSE: 1.52

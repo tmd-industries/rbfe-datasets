@@ -1,5 +1,7 @@
 # Tnks2 Positive Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.08
 - RMSE: 1.19

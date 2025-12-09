@@ -1,5 +1,7 @@
 # Shp2 Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.54
 - RMSE: 1.96

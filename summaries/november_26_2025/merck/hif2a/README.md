@@ -1,5 +1,7 @@
 # Hif2A Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.68
 - RMSE: 2.05

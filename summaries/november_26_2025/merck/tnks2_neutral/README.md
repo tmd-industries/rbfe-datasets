@@ -1,5 +1,7 @@
 # Tnks2 Neutral Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 0.57
 - RMSE: 0.74

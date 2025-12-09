@@ -1,5 +1,7 @@
 # Pfkfb3 Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 0.98
 - RMSE: 1.22

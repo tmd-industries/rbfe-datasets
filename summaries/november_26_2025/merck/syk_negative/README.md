@@ -1,5 +1,7 @@
 # Syk Negative Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 0.40
 - RMSE: 0.51

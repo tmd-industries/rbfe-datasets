@@ -1,5 +1,7 @@
 # P38 Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 1.24
 - RMSE: 1.50

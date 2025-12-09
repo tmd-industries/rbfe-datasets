@@ -1,5 +1,7 @@
 # Eg5 Neutral Map
 
+![Retrospective dG performance](dg_plot.png)
+
 ## Statistics Summary
 - MUE: 0.87
 - RMSE: 1.03
