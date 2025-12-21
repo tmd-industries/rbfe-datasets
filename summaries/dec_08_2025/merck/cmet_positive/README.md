@@ -23,7 +23,7 @@
 - TMD Sha: [c1f675e11c1e05722eb072dcd5938757baab1a6b](https://github.com/tmd-industries/tmd/tree/c1f675e11c1e05722eb072dcd5938757baab1a6b)
 - GPU: RTX 4090
 - MPS Processes: 12
-- Total Wallclock Time: 8.73 Hours
+- Total Wallclock Time: 8.72 Hours
 - Total Nanoseconds Simulated: 3718.40
 - TMD Forcefield: smirnoff_2_2_1_amber_am1bcc.py
 - Ligand Charges: Amber AM1BCC ELF10
