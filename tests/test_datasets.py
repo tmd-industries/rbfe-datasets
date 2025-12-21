@@ -46,6 +46,15 @@ def test_maps_are_connected(ds):
     assert nx.edge_connectivity(graph) == 3
 
 
+@pytest.mark.parametrize("ds", list(files_with_ext(datasets_dir, "map.json")))
+def test_maps_dont_have_node_bottlenecks(ds):
+    with open(ds) as ifs:
+        edges = json.load(ifs)
+    graph = build_graph_from_edges(edges)
+    if len(list(nx.all_node_cuts(graph, k=1))) > 0:
+        pytest.xfail(reason="Single node is a bottleneck in map")
+
+
 @pytest.mark.parametrize("ds", list(files_with_ext(datasets_dir, ".sdf")))
 def test_datasets_have_experimental_labels(ds):
     # Don't remove hydrogens, throws warnings
