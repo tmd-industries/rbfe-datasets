@@ -1,5 +1,5 @@
 CHEMBL3265014
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  52 55  0  0  0  0  0  0  0  0999 V2000
    -4.6839   -2.1048   15.7915 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,65 +54,68 @@ CHEMBL3265014
    -1.7659   -0.5534   10.7207 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6191   -1.6715   11.4971 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6687    0.0377   11.9915 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  1 34  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 29  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 35  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 36  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 28  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 37  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 38  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 39  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 40  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 27  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 41  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 42  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 23 43  1  0  0  0  0
- 23 44  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 27  2  0  0  0  0
- 25 26  1  0  0  0  0
- 26 45  1  0  0  0  0
- 26 46  1  0  0  0  0
- 26 47  1  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 49  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 31  1  0  0  0  0
- 31 50  1  0  0  0  0
- 31 51  1  0  0  0  0
- 31 52  1  0  0  0  0
+  1  2  1  0
+  1 32  1  0
+  1 33  1  0
+  1 34  1  0
+  2  3  1  0
+  3  4  2  0
+  3 29  1  0
+  4  5  1  0
+  4 35  1  0
+  5  6  2  0
+  5 36  1  0
+  6  7  1  0
+  6 28  1  0
+  7  8  1  0
+  7 37  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 38  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 39  1  0
+ 14 15  1  0
+ 14 40  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 27  1  0
+ 18 19  1  0
+ 18 41  1  0
+ 19 20  2  0
+ 19 42  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 23 43  1  0
+ 23 44  1  0
+ 24 25  1  0
+ 24 27  2  0
+ 25 26  1  0
+ 26 45  1  0
+ 26 46  1  0
+ 26 47  1  0
+ 27 48  1  0
+ 28 29  2  0
+ 28 49  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 50  1  0
+ 31 51  1  0
+ 31 52  1  0
 M  END
+>  <AmberAM1BCCCache>  (1) 
+gASVNwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJ8tRmO2bfU/lIaUUpRoA2gJQwg0nWH7oB0PwJSGlFKUaANoCUMIdrHaN4kq6z+UhpRSlGgDaAlDCJDr4zAzqf6/lIaUUpRoA2gJQwiEmvjW1673v5SGlFKUaANoCUMI2nxytkha9j+UhpRSlGgDaAlDCAjVSh4DrSDAlIaUUpRoA2gJQwi5pfXZjLcgQJSGlFKUaANoCUMIPuwlhRxIIcCUhpRSlGgDaAlDCMPfy4dtZBVAlIaUUpRoA2gJQwiUO9/V/bYEwJSGlFKUaANoCUMITgieATxm3z+UhpRSlGgDaAlDCK1P0EnN6QPAlIaUUpRoA2gJQwi3v9EJe+Wdv5SGlFKUaANoCUMIeg2YgLiNBsCUhpRSlGgDaAlDCBCglBkLtQDAlIaUUpRoA2gJQwgr5jhPXar0v5SGlFKUaANoCUMIO2vQa6SR+b+UhpRSlGgDaAlDCAEmr+yVHvK/lIaUUpRoA2gJQwiGxJnFPyL8v5SGlFKUaANoCUMIkfa7kY0LIECUhpRSlGgDaAlDCHzVq+2BjhzAlIaUUpRoA2gJQwiZLZQxLysfwJSGlFKUaANoCUMIkE1KSxU9+D+UhpRSlGgDaAlDCMe1O7JIjBDAlIaUUpRoA2gJQwjnQhjtc5T0P5SGlFKUaANoCUMIQ+1+0vFh9L+UhpRSlGgDaAlDCOGcugK0lve/lIaUUpRoA2gJQwgNv6p/XbbzP5SGlFKUaANoCUMI15qfz8Q1D8CUhpRSlGgDaAlDCBEDok87IPc/lIaUUpRoA2gJQwhoMP178/TgP5SGlFKUaANoCUMIaDD9e/P04D+UhpRSlGgDaAlDCGgw/Xvz9OA/lIaUUpRoA2gJQwgQfpxleWP6P5SGlFKUaANoCUMIEH6cZXlj+j+UhpRSlGgDaAlDCBZy69pXqRRAlIaUUpRoA2gJQwhI7Ee3on4AQJSGlFKUaANoCUMI6c8vqlCgAUCUhpRSlGgDaAlDCKPUswEJcAFAlIaUUpRoA2gJQwhtgF6RVUv6P5SGlFKUaANoCUMIamYIsN9U+z+UhpRSlGgDaAlDCGCodEzPaQ1AlIaUUpRoA2gJQwhgqHRMz2kNQJSGlFKUaANoCUMIOVi0SteI4z+UhpRSlGgDaAlDCDlYtErXiOM/lIaUUpRoA2gJQwg5WLRK14jjP5SGlFKUaANoCUMIwQByVuRi/z+UhpRSlGgDaAlDCH0fTI8SKf4/lIaUUpRoA2gJQwhT3q5EWzXhP5SGlFKUaANoCUMIU96uRFs14T+UhpRSlGgDaAlDCFPerkRbNeE/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265036
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  55 60  0  0  0  0  0  0  0  0999 V2000
    -5.9354   -0.1728   14.7156 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,70 +173,73 @@ CHEMBL3265036
     3.6921    3.3345   12.3670 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.1990   -2.3993   17.3436 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6484   -2.3939   17.0111 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  7  1  0  0  0  0
-  1 33  1  0  0  0  0
-  1 34  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2 35  1  0  0  0  0
-  2 36  1  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 37  1  0  0  0  0
-  4 38  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 39  1  0  0  0  0
-  5 40  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6  8  1  0  0  0  0
-  7 41  1  0  0  0  0
-  7 42  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 32  1  0  0  0  0
-  9 10  1  0  0  0  0
-  9 43  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 44  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 31  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 45  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 21  1  0  0  0  0
- 14 15  1  0  0  0  0
- 15 16  2  0  0  0  0
- 15 22  1  0  0  0  0
- 16 17  1  0  0  0  0
- 16 46  1  0  0  0  0
- 17 18  1  0  0  0  0
- 17 21  1  0  0  0  0
- 18 19  2  0  0  0  0
- 18 47  1  0  0  0  0
- 19 20  1  0  0  0  0
- 19 48  1  0  0  0  0
- 20 21  2  0  0  0  0
- 22 23  2  0  0  0  0
- 22 30  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 49  1  0  0  0  0
- 24 25  2  0  0  0  0
- 24 50  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 29  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 51  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 28 52  1  0  0  0  0
- 29 30  2  0  0  0  0
- 30 53  1  0  0  0  0
- 31 32  2  0  0  0  0
- 31 54  1  0  0  0  0
- 32 55  1  0  0  0  0
+  1  2  1  0
+  1  7  1  0
+  1 33  1  0
+  1 34  1  0
+  2  3  1  0
+  2 35  1  0
+  2 36  1  0
+  3  4  1  0
+  4  5  1  0
+  4 37  1  0
+  4 38  1  0
+  5  6  1  0
+  5 39  1  0
+  5 40  1  0
+  6  7  1  0
+  6  8  1  0
+  7 41  1  0
+  7 42  1  0
+  8  9  2  0
+  8 32  1  0
+  9 10  1  0
+  9 43  1  0
+ 10 11  2  0
+ 10 44  1  0
+ 11 12  1  0
+ 11 31  1  0
+ 12 13  1  0
+ 12 45  1  0
+ 13 14  2  0
+ 13 21  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 22  1  0
+ 16 17  1  0
+ 16 46  1  0
+ 17 18  1  0
+ 17 21  1  0
+ 18 19  2  0
+ 18 47  1  0
+ 19 20  1  0
+ 19 48  1  0
+ 20 21  2  0
+ 22 23  2  0
+ 22 30  1  0
+ 23 24  1  0
+ 23 49  1  0
+ 24 25  2  0
+ 24 50  1  0
+ 25 26  1  0
+ 25 29  1  0
+ 26 27  2  0
+ 26 51  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 28 52  1  0
+ 29 30  2  0
+ 30 53  1  0
+ 31 32  2  0
+ 31 54  1  0
+ 32 55  1  0
 M  END
+>  <AmberAM1BCCCache>  (2) 
+gASVcAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCA4Cbx79dvq/lIaUUpRoA2gJQwhy2NxUXwr4P5SGlFKUaANoCUMIQ0MDa6/HE8CUhpRSlGgDaAlDCBXwcAr5GPc/lIaUUpRoA2gJQwheqt6YXPb9P5SGlFKUaANoCUMIgcwbupukHsCUhpRSlGgDaAlDCMwEq3zwLwJAlIaUUpRoA2gJQwhp2zPY0/b5P5SGlFKUaANoCUMIEkZm7trg/b+UhpRSlGgDaAlDCK9AuwwF4vO/lIaUUpRoA2gJQwgxsGg6O3rxP5SGlFKUaANoCUMIWSD7FfiTIMCUhpRSlGgDaAlDCIze2C5ZpiBAlIaUUpRoA2gJQwiatCNGPk0hwJSGlFKUaANoCUMIf0stxF9+FUCUhpRSlGgDaAlDCI5TzioULAXAlIaUUpRoA2gJQwh+a+KSICLgP5SGlFKUaANoCUMIv24FIngWBMCUhpRSlGgDaAlDCHOkMJJzHaq/lIaUUpRoA2gJQwgYMHCaLZYGwJSGlFKUaANoCUMIrsJsM4C9AMCUhpRSlGgDaAlDCN9ORxMuUfO/lIaUUpRoA2gJQwjw7TQR6y73v5SGlFKUaANoCUMIjtobDpv/6b+UhpRSlGgDaAlDCIjo1YiFUAPAlIaUUpRoA2gJQwifx3a9BosQQJSGlFKUaANoCUMIGlcXmRYYGMCUhpRSlGgDaAlDCEvi8yiasMm/lIaUUpRoA2gJQwhCgVK0/27nv5SGlFKUaANoCUMI1syYrOCA+L+UhpRSlGgDaAlDCK9AuwwF4vO/lIaUUpRoA2gJQwgSRmbu2uD9v5SGlFKUaANoCUMIRMFRRDTs5j+UhpRSlGgDaAlDCETBUUQ07OY/lIaUUpRoA2gJQwg2PLon7QTiP5SGlFKUaANoCUMINjy6J+0E4j+UhpRSlGgDaAlDCKTdaVGGyuU/lIaUUpRoA2gJQwik3WlRhsrlP5SGlFKUaANoCUMIezc20DQ14j+UhpRSlGgDaAlDCHs3NtA0NeI/lIaUUpRoA2gJQwjXH6IamybjP5SGlFKUaANoCUMI1x+iGpsm4z+UhpRSlGgDaAlDCARHeDi4wfk/lIaUUpRoA2gJQwjsPzK1Iwr6P5SGlFKUaANoCUMIgmWDpdV0FECUhpRSlGgDaAlDCHrIjoc/ggBAlIaUUpRoA2gJQwh6rjimyYsBQJSGlFKUaANoCUMINbO8/YFbAUCUhpRSlGgDaAlDCHMCfkPHffw/lIaUUpRoA2gJQwgBLSJXQsv6P5SGlFKUaANoCUMIWhnx7p5z5T+UhpRSlGgDaAlDCCgaWNJ1lg1AlIaUUpRoA2gJQwgBLSJXQsv6P5SGlFKUaANoCUMI7D8ytSMK+j+UhpRSlGgDaAlDCARHeDi4wfk/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265020
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  48 52  0  0  0  0  0  0  0  0999 V2000
    -4.6697   -2.1569   15.8368 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -284,62 +290,65 @@ CHEMBL3265020
    -1.8072   -0.6002   10.7360 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6428   -1.7023   11.5091 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7067    0.0088   11.9954 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 41  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 42  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 43  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 44  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 45  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
- 29 48  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  1  0
+ 21 41  1  0
+ 22 23  2  0
+ 22 42  1  0
+ 23 24  1  0
+ 23 43  1  0
+ 24 25  2  0
+ 25 44  1  0
+ 26 27  2  0
+ 26 45  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 46  1  0
+ 29 47  1  0
+ 29 48  1  0
 M  END
+>  <AmberAM1BCCCache>  (3) 
+gASV6wMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCIj01B9ydPU/lIaUUpRoA2gJQwjAORodQxoPwJSGlFKUaANoCUMIp1sQvlIW6j+UhpRSlGgDaAlDCAMnF6BTiv6/lIaUUpRoA2gJQwiCzCOXh/D3v5SGlFKUaANoCUMIlDV1bNvx9j+UhpRSlGgDaAlDCFr9mbwZoCDAlIaUUpRoA2gJQwjoA/yzE4IgQJSGlFKUaANoCUMIJ5VlLio1IcCUhpRSlGgDaAlDCDZ8He1ePxZAlIaUUpRoA2gJQwjBu3/qTdUFwJSGlFKUaANoCUMIsWLEDmKj4T+UhpRSlGgDaAlDCAje/GRGdwTAlIaUUpRoA2gJQwgN1A4SMC2qv5SGlFKUaANoCUMIv6EpCdjeBsCUhpRSlGgDaAlDCA85qvni1QDAlIaUUpRoA2gJQwiWc1CBDYsAwJSGlFKUaANoCUMIdEeMekAJ87+UhpRSlGgDaAlDCMBfR7r3Rvy/lIaUUpRoA2gJQwhojiLKF8Xcv5SGlFKUaANoCUMIGnpKRkxTAsCUhpRSlGgDaAlDCMC6q7VRkPS/lIaUUpRoA2gJQwhwBGnfXuQAwJSGlFKUaANoCUMISAL9LbfA87+UhpRSlGgDaAlDCA0RZoj9mdm/lIaUUpRoA2gJQwgNwxvoFlH4v5SGlFKUaANoCUMIVIj7Z/Wk8z+UhpRSlGgDaAlDCAQ1lsWKSg/AlIaUUpRoA2gJQwj6yTAM9yb3P5SGlFKUaANoCUMIsccipNuh4D+UhpRSlGgDaAlDCLHHIqTboeA/lIaUUpRoA2gJQwixxyKk26HgP5SGlFKUaANoCUMItEmvee05+j+UhpRSlGgDaAlDCD5Ap8p8mvo/lIaUUpRoA2gJQwgiqYMstnQUQJSGlFKUaANoCUMIGlJRwdxpAECUhpRSlGgDaAlDCBg4+99mcwFAlIaUUpRoA2gJQwjTPH83H0MBQJSGlFKUaANoCUMIQ3RTjWiH+D+UhpRSlGgDaAlDCFlhQy+HSPk/lIaUUpRoA2gJQwjhxLZwHSwMQJSGlFKUaANoCUMICcrCPnxR/z+UhpRSlGgDaAlDCGfm2kvOL/4/lIaUUpRoA2gJQwg7DPsHka38P5SGlFKUaANoCUMIIuteo4b//T+UhpRSlGgDaAlDCDu+GvVqAuE/lIaUUpRoA2gJQwg7vhr1agLhP5SGlFKUaANoCUMIO74a9WoC4T+UhpRSlGUu
+
 $$$$
 CHEMBL3265023
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  50 54  0  0  0  0  0  0  0  0999 V2000
    -4.6705   -2.1549   15.8350 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -392,64 +401,67 @@ CHEMBL3265023
    -1.8056   -0.5985   10.7355 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6419   -1.7012   11.5087 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7052    0.0098   11.9954 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 26  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 26  2  0  0  0  0
- 22 23  2  0  0  0  0
- 22 42  1  0  0  0  0
- 23 24  1  0  0  0  0
- 24 25  1  0  0  0  0
- 25 43  1  0  0  0  0
- 25 44  1  0  0  0  0
- 25 45  1  0  0  0  0
- 26 46  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 47  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 48  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 26  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  1  0
+ 21 26  2  0
+ 22 23  2  0
+ 22 42  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 43  1  0
+ 25 44  1  0
+ 25 45  1  0
+ 26 46  1  0
+ 27 28  2  0
+ 27 47  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 48  1  0
+ 30 49  1  0
+ 30 50  1  0
 M  END
+>  <AmberAM1BCCCache>  (4) 
+gASVEQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCBCfqluQbfU/lIaUUpRoA2gJQwh8ZC//sx0PwJSGlFKUaANoCUMIzZ2r163J6j+UhpRSlGgDaAlDCHt8QWQ1kf6/lIaUUpRoA2gJQwi1JtKyIcf3v5SGlFKUaANoCUMIS+7WriJa9j+UhpRSlGgDaAlDCAlIH/X1oCDAlIaUUpRoA2gJQwjctrRPW5kgQJSGlFKUaANoCUMIeN0oOypOIcCUhpRSlGgDaAlDCO/tWP869RVAlIaUUpRoA2gJQwiU7dpPU5AFwJSGlFKUaANoCUMINcF3NQ814T+UhpRSlGgDaAlDCN0PWMpLMgTAlIaUUpRoA2gJQwgWg1mXaAmrv5SGlFKUaANoCUMINtHCQgGyBsCUhpRSlGgDaAlDCMtjv9tT2QDAlIaUUpRoA2gJQwgEWePTTvv/v5SGlFKUaANoCUMIlb22hVCp5r+UhpRSlGgDaAlDCK2+eS1K7fu/lIaUUpRoA2gJQwhK5MvanuDcv5SGlFKUaANoCUMI0mMIdZbuBMCUhpRSlGgDaAlDCBB3TekcfRBAlIaUUpRoA2gJQwh5swpITa0XwJSGlFKUaANoCUMIWr5EF6Wd7z+UhpRSlGgDaAlDCJVy4DkVTeI/lIaUUpRoA2gJQwicJQ8LKIPiv5SGlFKUaANoCUMItSbSsiHH97+UhpRSlGgDaAlDCNwy0aMTnvM/lIaUUpRoA2gJQwjAX6un+00PwJSGlFKUaANoCUMIgnQGSBUg9z+UhpRSlGgDaAlDCAmCOVxYtOA/lIaUUpRoA2gJQwgJgjlcWLTgP5SGlFKUaANoCUMICYI5XFi04D+UhpRSlGgDaAlDCILvAF5TY/o/lIaUUpRoA2gJQwjG6nwGm5P6P5SGlFKUaANoCUMIlRKYpQ9/FECUhpRSlGgDaAlDCAAlerOPfgBAlIaUUpRoA2gJQwj/CiTSGYgBQJSGlFKUaANoCUMIuQ+oKdJXAUCUhpRSlGgDaAlDCMO20EOvpvw/lIaUUpRoA2gJQwjG6nwGm5P6P5SGlFKUaANoCUMI5JSmTVAE5T+UhpRSlGgDaAlDCEOrbefPGuU/lIaUUpRoA2gJQwhDq23nzxrlP5SGlFKUaANoCUMIQ6tt588a5T+UhpRSlGgDaAlDCDz0hLULM/o/lIaUUpRoA2gJQwiqlTTfpPj9P5SGlFKUaANoCUMINcF3NQ814T+UhpRSlGgDaAlDCDXBdzUPNeE/lIaUUpRoA2gJQwg1wXc1DzXhP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265033
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  54 59  0  0  0  0  0  0  0  0999 V2000
    -5.8942   -4.1480   12.4728 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -506,69 +518,72 @@ CHEMBL3265033
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.2439   -2.4123   17.3180 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6920   -2.4063   16.9760 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  2  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  2  8  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  4 35  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 36  1  0  0  0  0
-  5 37  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6  9  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 38  1  0  0  0  0
-  7 39  1  0  0  0  0
-  8 40  1  0  0  0  0
-  8 41  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 33  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 42  1  0  0  0  0
- 11 12  2  0  0  0  0
- 11 43  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 32  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 44  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 22  1  0  0  0  0
- 15 16  1  0  0  0  0
- 16 17  2  0  0  0  0
- 16 23  1  0  0  0  0
- 17 18  1  0  0  0  0
- 17 45  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 22  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 46  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 47  1  0  0  0  0
- 21 22  2  0  0  0  0
- 23 24  2  0  0  0  0
- 23 31  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 48  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 49  1  0  0  0  0
- 26 27  1  0  0  0  0
- 26 30  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 50  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 51  1  0  0  0  0
- 30 31  2  0  0  0  0
- 31 52  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 53  1  0  0  0  0
- 33 54  1  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+  2  4  1  0
+  2  8  1  0
+  4  5  1  0
+  4 34  1  0
+  4 35  1  0
+  5  6  1  0
+  5 36  1  0
+  5 37  1  0
+  6  7  1  0
+  6  9  1  0
+  7  8  1  0
+  7 38  1  0
+  7 39  1  0
+  8 40  1  0
+  8 41  1  0
+  9 10  2  0
+  9 33  1  0
+ 10 11  1  0
+ 10 42  1  0
+ 11 12  2  0
+ 11 43  1  0
+ 12 13  1  0
+ 12 32  1  0
+ 13 14  1  0
+ 13 44  1  0
+ 14 15  2  0
+ 14 22  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 23  1  0
+ 17 18  1  0
+ 17 45  1  0
+ 18 19  1  0
+ 18 22  1  0
+ 19 20  2  0
+ 19 46  1  0
+ 20 21  1  0
+ 20 47  1  0
+ 21 22  2  0
+ 23 24  2  0
+ 23 31  1  0
+ 24 25  1  0
+ 24 48  1  0
+ 25 26  2  0
+ 25 49  1  0
+ 26 27  1  0
+ 26 30  1  0
+ 27 28  2  0
+ 27 50  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 29 51  1  0
+ 30 31  2  0
+ 31 52  1  0
+ 32 33  2  0
+ 32 53  1  0
+ 33 54  1  0
 M  END
+>  <AmberAM1BCCCache>  (5) 
+gASVXQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCAQJDBGXnB7AlIaUUpRoA2gJQwiPxcGOnkIvQJSGlFKUaANoCUMIBAkMEZecHsCUhpRSlGgDaAlDCI6oIWifFBDAlIaUUpRoA2gJQwidpIgzxFcFQJSGlFKUaANoCUMIoFL51S29HsCUhpRSlGgDaAlDCJ2kiDPEVwVAlIaUUpRoA2gJQwiOqCFonxQQwJSGlFKUaANoCUMIRd/Vdd1y+D+UhpRSlGgDaAlDCFF9tpZRCf2/lIaUUpRoA2gJQwjUVm9QcVz0v5SGlFKUaANoCUMINlo+WZaL8z+UhpRSlGgDaAlDCGjj6SNBoCDAlIaUUpRoA2gJQwgUnNorB5QgQJSGlFKUaANoCUMIzfuloEgvIcCUhpRSlGgDaAlDCC/EbpLfcRVAlIaUUpRoA2gJQwj/bRVpYcwEwJSGlFKUaANoCUMIkCfmVa4e4D+UhpRSlGgDaAlDCHWEyAgN5wPAlIaUUpRoA2gJQwioenVSokukv5SGlFKUaANoCUMI/DlppnXfBsCUhpRSlGgDaAlDCKrTq8JcvgDAlIaUUpRoA2gJQwhhZ72CdrPzv5SGlFKUaANoCUMI5g+zL6Qw97+UhpRSlGgDaAlDCPEnIPp9oum/lIaUUpRoA2gJQwji+9ZDPjkDwJSGlFKUaANoCUMIIT/XdZiKEECUhpRSlGgDaAlDCMXgl/ZyDBjAlIaUUpRoA2gJQwgE8uQcY77Jv5SGlFKUaANoCUMIMcVO8XFy57+UhpRSlGgDaAlDCM3uFsuZgvi/lIaUUpRoA2gJQwjUVm9QcVz0v5SGlFKUaANoCUMIUX22llEJ/b+UhpRSlGgDaAlDCNt0civnm/g/lIaUUpRoA2gJQwjbdHIr55v4P5SGlFKUaANoCUMIWJer6Dff5T+UhpRSlGgDaAlDCFiXq+g33+U/lIaUUpRoA2gJQwhYl6voN9/lP5SGlFKUaANoCUMIWJer6Dff5T+UhpRSlGgDaAlDCNt0civnm/g/lIaUUpRoA2gJQwjbdHIr55v4P5SGlFKUaANoCUMIryI47iLY+T+UhpRSlGgDaAlDCMQPKJBBmfo/lIaUUpRoA2gJQwjV2wJIeYAUQJSGlFKUaANoCUMII7WNzIaZAECUhpRSlGgDaAlDCMSYdb80uwFAlIaUUpRoA2gJQwjan7tCyXIBQJSGlFKUaANoCUMIe+D/JA58/D+UhpRSlGgDaAlDCE8GIOHQ+fo/lIaUUpRoA2gJQwhr1fSxLHDlP5SGlFKUaANoCUMIzgZXF72tDUCUhpRSlGgDaAlDCMQPKJBBmfo/lIaUUpRoA2gJQwjEDyiQQZn6P5SGlFKUaANoCUMIryI47iLY+T+UhpRSlGUu
+
 $$$$
 CHEMBL3265027
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  39 43  0  0  0  0  0  0  0  0999 V2000
     1.6406   -1.8262   15.5034 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -610,53 +625,56 @@ CHEMBL3265027
    -0.5769    4.8802    9.2747 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.2726    5.5233   10.4731 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  8  1  0  0  0  0
-  1 26  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  7  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  2  0  0  0  0
-  4 28  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 29  1  0  0  0  0
-  6  7  2  0  0  0  0
-  6 30  1  0  0  0  0
-  7 31  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 32  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 33  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 34  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 35  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 36  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 37  1  0  0  0  0
- 22 23  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 38  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 39  1  0  0  0  0
+  1  2  1  0
+  1  8  1  0
+  1 26  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  3 27  1  0
+  4  5  2  0
+  4 28  1  0
+  5  6  1  0
+  5 29  1  0
+  6  7  2  0
+  6 30  1  0
+  7 31  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 32  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 33  1  0
+ 14 15  1  0
+ 14 34  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 35  1  0
+ 19 20  2  0
+ 19 36  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 37  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 38  1  0
+ 24 25  2  0
+ 25 39  1  0
 M  END
+>  <AmberAM1BCCCache>  (6) 
+gASVQAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJk/9cLOviDAlIaUUpRoA2gJQwg409Zp9TD5P5SGlFKUaANoCUMIBrufOUlQ+r+UhpRSlGgDaAlDCGs/EMxyCPW/lIaUUpRoA2gJQwgyr9Ve/Mj6v5SGlFKUaANoCUMIaz8QzHII9b+UhpRSlGgDaAlDCAa7nzlJUPq/lIaUUpRoA2gJQwhXPCxLr5kgQJSGlFKUaANoCUMIiVtUgaApIcCUhpRSlGgDaAlDCHMJlijoTBVAlIaUUpRoA2gJQwip8VJDeYUEwJSGlFKUaANoCUMIZZAwsASv3j+UhpRSlGgDaAlDCKr+/TO0AATAlIaUUpRoA2gJQwiFm6viGzWRv5SGlFKUaANoCUMIYMIq2EVoBsCUhpRSlGgDaAlDCPZUJ3GYjwDAlIaUUpRoA2gJQwg/ZTCINYbzv5SGlFKUaANoCUMICgmi3aoz97+UhpRSlGgDaAlDCMQQ9qYaCeq/lIaUUpRoA2gJQwh0eM6awToDwJSGlFKUaANoCUMI2YBbytaJEECUhpRSlGgDaAlDCA+fE6I0DRjAlIaUUpRoA2gJQwgju1yMmNbJv5SGlFKUaANoCUMIebcsTX9457+UhpRSlGgDaAlDCDfjgSHotfi/lIaUUpRoA2gJQwheHKaGyYsUQJSGlFKUaANoCUMI0STF6GMF+j+UhpRSlGgDaAlDCHU8WZ79E/k/lIaUUpRoA2gJQwh1PFme/RP5P5SGlFKUaANoCUMIdTxZnv0T+T+UhpRSlGgDaAlDCNEkxehjBfo/lIaUUpRoA2gJQwiQOJZ1A5gAQJSGlFKUaANoCUMIjx5AlI2hAUCUhpRSlGgDaAlDCOwgAsBpiQFAlIaUUpRoA2gJQwhX5xB3B3n8P5SGlFKUaANoCUMIKw0xM8r2+j+UhpRSlGgDaAlDCCTjFlYfauU/lIaUUpRoA2gJQwg+il/AOawNQJSGlFKUaANoCUMIoBY54jqW+j+UhpRSlGUu
+
 $$$$
 CHEMBL3265028
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  43 47  0  0  0  0  0  0  0  0999 V2000
    -3.6104   -1.1846   12.5585 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -702,57 +720,60 @@ CHEMBL3265028
     3.2726    5.5233   10.4731 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3284   -1.2323   13.2424 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 28  1  0  0  0  0
-  1 29  1  0  0  0  0
-  1 30  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 31  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 32  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 33  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 27  2  0  0  0  0
-  8  9  1  0  0  0  0
-  8 34  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 17  1  0  0  0  0
- 10 11  1  0  0  0  0
- 11 12  2  0  0  0  0
- 11 18  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 35  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 17  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 36  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 37  1  0  0  0  0
- 16 17  2  0  0  0  0
- 18 19  2  0  0  0  0
- 18 26  1  0  0  0  0
- 19 20  1  0  0  0  0
- 19 38  1  0  0  0  0
- 20 21  2  0  0  0  0
- 20 39  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 25  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 40  1  0  0  0  0
- 23 24  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 41  1  0  0  0  0
- 25 26  2  0  0  0  0
- 26 42  1  0  0  0  0
- 27 43  1  0  0  0  0
+  1  2  1  0
+  1 28  1  0
+  1 29  1  0
+  1 30  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 31  1  0
+  5  6  2  0
+  5 32  1  0
+  6  7  1  0
+  6 33  1  0
+  7  8  1  0
+  7 27  2  0
+  8  9  1  0
+  8 34  1  0
+  9 10  2  0
+  9 17  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 18  1  0
+ 12 13  1  0
+ 12 35  1  0
+ 13 14  1  0
+ 13 17  1  0
+ 14 15  2  0
+ 14 36  1  0
+ 15 16  1  0
+ 15 37  1  0
+ 16 17  2  0
+ 18 19  2  0
+ 18 26  1  0
+ 19 20  1  0
+ 19 38  1  0
+ 20 21  2  0
+ 20 39  1  0
+ 21 22  1  0
+ 21 25  1  0
+ 22 23  2  0
+ 22 40  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 24 41  1  0
+ 25 26  2  0
+ 26 42  1  0
+ 27 43  1  0
 M  END
+>  <AmberAM1BCCCache>  (7) 
+gASVjAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCKMRSRGVoPU/lIaUUpRoA2gJQwgzK2CkMQQPwJSGlFKUaANoCUMIefZas3PL+j+UhpRSlGgDaAlDCI4A4cTudgTAlIaUUpRoA2gJQwiUSgHZrOvrv5SGlFKUaANoCUMIIF8xm1WxAMCUhpRSlGgDaAlDCNs3lPq2FQBAlIaUUpRoA2gJQwj8dOcG3cogwJSGlFKUaANoCUMIxgVZ8bKZIECUhpRSlGgDaAlDCA8V2hFwCyHAlIaUUpRoA2gJQwitnrGgyzQVQJSGlFKUaANoCUMIZdWnWdskBMCUhpRSlGgDaAlDCBzR2dNa7t0/lIaUUpRoA2gJQwjx2EqbpQAEwJSGlFKUaANoCUMIwb4Yic8tkb+UhpRSlGgDaAlDCASfOWsTUAbAlIaUUpRoA2gJQwj3M/gvQl8AwJSGlFKUaANoCUMIzBnKVhiG87+UhpRSlGgDaAlDCJe9O6yNM/e/lIaUUpRoA2gJQwhTgzHzUKjpv5SGlFKUaANoCUMIulIbArM6A8CUhpRSlGgDaAlDCIYS1ADwlRBAlIaUUpRoA2gJQwgxDLpVLQ0YwJSGlFKUaANoCUMIil8qAa/Vyb+UhpRSlGgDaAlDCJIgYOpEeOe/lIaUUpRoA2gJQwjElxvwyrX4v5SGlFKUaANoCUMIIF8xm1WxAMCUhpRSlGgDaAlDCKRwfnbSueA/lIaUUpRoA2gJQwikcH520rngP5SGlFKUaANoCUMIpHB+dtK54D+UhpRSlGgDaAlDCENwKxqBBfo/lIaUUpRoA2gJQwjnh7/PGhT5P5SGlFKUaANoCUMIiWunwsg1+j+UhpRSlGgDaAlDCK6rXJEGsBRAlIaUUpRoA2gJQwhJXkkOEpgAQJSGlFKUaANoCUMISETzLJyhAUCUhpRSlGgDaAlDCKVGtVh4iQFAlIaUUpRoA2gJQwjKMneoJHn8P5SGlFKUaANoCUMInViXZOf2+j+UhpRSlGgDaAlDCAp647hZauU/lIaUUpRoA2gJQwj2rxJZSKwNQJSGlFKUaANoCUMIEmKfE1iW+j+UhpRSlGgDaAlDCCUb4/KKav0/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265032
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  52 57  0  0  0  0  0  0  0  0999 V2000
    -5.8425   -2.2016   13.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -807,67 +828,70 @@ CHEMBL3265032
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3284   -1.2323   13.2424 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.1197   -1.2263   12.9004 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  6  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2 34  1  0  0  0  0
-  2 35  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3  7  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 36  1  0  0  0  0
-  4 37  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 38  1  0  0  0  0
-  5 39  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 31  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 40  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 41  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 30  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 42  1  0  0  0  0
- 12 13  2  0  0  0  0
- 12 20  1  0  0  0  0
- 13 14  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 21  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 43  1  0  0  0  0
- 16 17  1  0  0  0  0
- 16 20  1  0  0  0  0
- 17 18  2  0  0  0  0
- 17 44  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 45  1  0  0  0  0
- 19 20  2  0  0  0  0
- 21 22  2  0  0  0  0
- 21 29  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 46  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 47  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 28  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 48  1  0  0  0  0
- 26 27  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 49  1  0  0  0  0
- 28 29  2  0  0  0  0
- 29 50  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 51  1  0  0  0  0
- 31 52  1  0  0  0  0
+  1  2  1  0
+  1  6  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  2 34  1  0
+  2 35  1  0
+  3  4  1  0
+  3  7  1  0
+  4  5  1  0
+  4 36  1  0
+  4 37  1  0
+  5  6  1  0
+  5 38  1  0
+  5 39  1  0
+  7  8  2  0
+  7 31  1  0
+  8  9  1  0
+  8 40  1  0
+  9 10  2  0
+  9 41  1  0
+ 10 11  1  0
+ 10 30  1  0
+ 11 12  1  0
+ 11 42  1  0
+ 12 13  2  0
+ 12 20  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 21  1  0
+ 15 16  1  0
+ 15 43  1  0
+ 16 17  1  0
+ 16 20  1  0
+ 17 18  2  0
+ 17 44  1  0
+ 18 19  1  0
+ 18 45  1  0
+ 19 20  2  0
+ 21 22  2  0
+ 21 29  1  0
+ 22 23  1  0
+ 22 46  1  0
+ 23 24  2  0
+ 23 47  1  0
+ 24 25  1  0
+ 24 28  1  0
+ 25 26  2  0
+ 25 48  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 27 49  1  0
+ 28 29  2  0
+ 29 50  1  0
+ 30 31  2  0
+ 30 51  1  0
+ 31 52  1  0
 M  END
+>  <AmberAM1BCCCache>  (8) 
+gASVNwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJjWUY2nOvY/lIaUUpRoA2gJQwgmjDvEUkj9P5SGlFKUaANoCUMIMiWDbBohHsCUhpRSlGgDaAlDCCaMO8RSSP0/lIaUUpRoA2gJQwiY1lGNpzr2P5SGlFKUaANoCUMIl4z9ABfhE8CUhpRSlGgDaAlDCLuZMnPjsvo/lIaUUpRoA2gJQwgyXcM/UNf+v5SGlFKUaANoCUMIGIdAya318r+UhpRSlGgDaAlDCJ2PAzpV5PA/lIaUUpRoA2gJQwgxRtn2mZQgwJSGlFKUaANoCUMIs7j6TbelIECUhpRSlGgDaAlDCHLaASfgTSHAlIaUUpRoA2gJQwjO/3ACHH0VQJSGlFKUaANoCUMI8epGrpsuBcCUhpRSlGgDaAlDCIEE+NWReOA/lIaUUpRoA2gJQwh/CEDR2wAEwJSGlFKUaANoCUMI9XxWcFS/qr+UhpRSlGgDaAlDCB3FJvLYsAbAlIaUUpRoA2gJQwgQWuW2B8AAwJSGlFKUaANoCUMIo304Gj1W87+UhpRSlGgDaAlDCLQcJhj6M/e/lIaUUpRoA2gJQwgXOP4buQnqv5SGlFKUaANoCUMI639ODA1TA8CUhpRSlGgDaAlDCO57uvvCiRBAlIaUUpRoA2gJQwjKotNaWhkYwJSGlFKUaANoCUMIbFh9YBLZyb+UhpRSlGgDaAlDCMreNMIdeee/lIaUUpRoA2gJQwia+4mz74X4v5SGlFKUaANoCUMIGIdAya318r+UhpRSlGgDaAlDCDJdwz9Q1/6/lIaUUpRoA2gJQwiSo+XTTlbkP5SGlFKUaANoCUMIkqPl005W5D+UhpRSlGgDaAlDCC2W79sZ3+Q/lIaUUpRoA2gJQwgtlu/bGd/kP5SGlFKUaANoCUMILZbv2xnf5D+UhpRSlGgDaAlDCC2W79sZ3+Q/lIaUUpRoA2gJQwiSo+XTTlbkP5SGlFKUaANoCUMIkqPl005W5D+UhpRSlGgDaAlDCPocC4lhjPk/lIaUUpRoA2gJQwhuDL1WXDX6P5SGlFKUaANoCUMI0BnH45FzFECUhpRSlGgDaAlDCBgxFgS4fwBAlIaUUpRoA2gJQwi6FP72ZaEBQJSGlFKUaANoCUMI0xtEevpYAUCUhpRSlGgDaAlDCK/TjDy4ePw/lIaUUpRoA2gJQwg9/jBQM8b6P5SGlFKUaANoCUMI0bsO4YBp5T+UhpRSlGgDaAlDCGiAHSMSrA1AlIaUUpRoA2gJQwg9/jBQM8b6P5SGlFKUaANoCUMIbgy9Vlw1+j+UhpRSlGgDaAlDCPocC4lhjPk/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265031
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  58 63  0  0  0  0  0  0  0  0999 V2000
    -7.9764   -2.5658   13.3099 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -928,73 +952,76 @@ CHEMBL3265031
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3284   -1.2323   13.2424 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.1197   -1.2263   12.9004 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 34  1  0  0  0  0
-  1 35  1  0  0  0  0
-  1 36  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2  4  1  0  0  0  0
-  2  8  1  0  0  0  0
-  3 37  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 38  1  0  0  0  0
-  4 39  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 40  1  0  0  0  0
-  5 41  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6  9  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 42  1  0  0  0  0
-  7 43  1  0  0  0  0
-  8 44  1  0  0  0  0
-  8 45  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 33  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 46  1  0  0  0  0
- 11 12  2  0  0  0  0
- 11 47  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 32  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 48  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 22  1  0  0  0  0
- 15 16  1  0  0  0  0
- 16 17  2  0  0  0  0
- 16 23  1  0  0  0  0
- 17 18  1  0  0  0  0
- 17 49  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 22  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 50  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 51  1  0  0  0  0
- 21 22  2  0  0  0  0
- 23 24  2  0  0  0  0
- 23 31  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 52  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 53  1  0  0  0  0
- 26 27  1  0  0  0  0
- 26 30  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 54  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 55  1  0  0  0  0
- 30 31  2  0  0  0  0
- 31 56  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 57  1  0  0  0  0
- 33 58  1  0  0  0  0
+  1  2  1  0
+  1 34  1  0
+  1 35  1  0
+  1 36  1  0
+  2  3  1  0
+  2  4  1  0
+  2  8  1  0
+  3 37  1  0
+  4  5  1  0
+  4 38  1  0
+  4 39  1  0
+  5  6  1  0
+  5 40  1  0
+  5 41  1  0
+  6  7  1  0
+  6  9  1  0
+  7  8  1  0
+  7 42  1  0
+  7 43  1  0
+  8 44  1  0
+  8 45  1  0
+  9 10  2  0
+  9 33  1  0
+ 10 11  1  0
+ 10 46  1  0
+ 11 12  2  0
+ 11 47  1  0
+ 12 13  1  0
+ 12 32  1  0
+ 13 14  1  0
+ 13 48  1  0
+ 14 15  2  0
+ 14 22  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 23  1  0
+ 17 18  1  0
+ 17 49  1  0
+ 18 19  1  0
+ 18 22  1  0
+ 19 20  2  0
+ 19 50  1  0
+ 20 21  1  0
+ 20 51  1  0
+ 21 22  2  0
+ 23 24  2  0
+ 23 31  1  0
+ 24 25  1  0
+ 24 52  1  0
+ 25 26  2  0
+ 25 53  1  0
+ 26 27  1  0
+ 26 30  1  0
+ 27 28  2  0
+ 27 54  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 29 55  1  0
+ 30 31  2  0
+ 31 56  1  0
+ 32 33  2  0
+ 32 57  1  0
+ 33 58  1  0
 M  END
+>  <AmberAM1BCCCache>  (9) 
+gASVqQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCLYx2ozvLPe/lIaUUpRoA2gJQwjOVxi/loT8P5SGlFKUaANoCUMIs6WHJf5EHMCUhpRSlGgDaAlDCN9MyOoQAvK/lIaUUpRoA2gJQwi3mPpuYBYCQJSGlFKUaANoCUMIbHZfusonHsCUhpRSlGgDaAlDCLeY+m5gFgJAlIaUUpRoA2gJQwjfTMjqEALyv5SGlFKUaANoCUMIXIK80hHS+j+UhpRSlGgDaAlDCBeiNHcR8v6/lIaUUpRoA2gJQwii40W2CB/yv5SGlFKUaANoCUMIamuDFsAf7T+UhpRSlGgDaAlDCFpyal+8cyDAlIaUUpRoA2gJQwhFke08TZYgQJSGlFKUaANoCUMINlCAVJlNIcCUhpRSlGgDaAlDCHQVVb2XcRVAlIaUUpRoA2gJQwg+K8OYiBAFwJSGlFKUaANoCUMIsrEYrW8c4D+UhpRSlGgDaAlDCDLdd1vkFwTAlIaUUpRoA2gJQwiR2EzfjG+kv5SGlFKUaANoCUMIlDDcR9nkBsCUhpRSlGgDaAlDCLbTJhMxYwDAlIaUUpRoA2gJQwhExy2ptkDzv5SGlFKUaANoCUMI0gEdyiML97+UhpRSlGgDaAlDCFuU5fNLBeq/lIaUUpRoA2gJQwj8VkjC8VEDwJSGlFKUaANoCUMIFfack46REECUhpRSlGgDaAlDCHQnEK2gHRjAlIaUUpRoA2gJQwiAyRrAXcfJv5SGlFKUaANoCUMIDzscmrB057+UhpRSlGgDaAlDCMByetlYqvi/lIaUUpRoA2gJQwii40W2CB/yv5SGlFKUaANoCUMIF6I0dxHy/r+UhpRSlGgDaAlDCFT8mGkwneA/lIaUUpRoA2gJQwhU/JhpMJ3gP5SGlFKUaANoCUMIVPyYaTCd4D+UhpRSlGgDaAlDCGYlDpgExBJAlIaUUpRoA2gJQwi4OQdNK/DmP5SGlFKUaANoCUMIuDkHTSvw5j+UhpRSlGgDaAlDCNhsOQlQ2N8/lIaUUpRoA2gJQwjYbDkJUNjfP5SGlFKUaANoCUMI2Gw5CVDY3z+UhpRSlGgDaAlDCNhsOQlQ2N8/lIaUUpRoA2gJQwi4OQdNK/DmP5SGlFKUaANoCUMIuDkHTSvw5j+UhpRSlGgDaAlDCD0D07yzw/k/lIaUUpRoA2gJQwgujoatXln6P5SGlFKUaANoCUMIwQDP8S86FECUhpRSlGgDaAlDCMYnnV8rdwBAlIaUUpRoA2gJQwhnC4VS2ZgBQJSGlFKUaANoCUMIgRLL1W1QAUCUhpRSlGgDaAlDCIwlmdDuevw/lIaUUpRoA2gJQwjf5rqvYeX6P5SGlFKUaANoCUMIiZYqT05H5T+UhpRSlGgDaAlDCBZ3pH6Fow1AlIaUUpRoA2gJQwhYub8Ycqv6P5SGlFKUaANoCUMILo6GrV5Z+j+UhpRSlGgDaAlDCD0D07yzw/k/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265037
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  56 61  0  0  0  0  0  0  0  0999 V2000
    -1.2978   -0.8452   11.6675 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1053,71 +1080,74 @@ CHEMBL3265037
    -6.4816   -4.1012   15.4179 H   0  0  0  0  0  0  0  0  0  0  0  0
    -3.8872   -3.7075   15.6303 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.5759   -3.7124   14.0380 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 34  1  0  0  0  0
-  1 35  1  0  0  0  0
-  1 36  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 37  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 25  2  0  0  0  0
-  6  7  1  0  0  0  0
-  6 38  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 15  1  0  0  0  0
-  8  9  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 16  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 39  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 15  1  0  0  0  0
- 12 13  2  0  0  0  0
- 12 40  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 41  1  0  0  0  0
- 14 15  2  0  0  0  0
- 16 17  2  0  0  0  0
- 16 24  1  0  0  0  0
- 17 18  1  0  0  0  0
- 17 42  1  0  0  0  0
- 18 19  2  0  0  0  0
- 18 43  1  0  0  0  0
- 19 20  1  0  0  0  0
- 19 23  1  0  0  0  0
- 20 21  2  0  0  0  0
- 20 44  1  0  0  0  0
- 21 22  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 45  1  0  0  0  0
- 23 24  2  0  0  0  0
- 24 46  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 47  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 48  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 28 33  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 49  1  0  0  0  0
- 29 50  1  0  0  0  0
- 30 31  1  0  0  0  0
- 30 51  1  0  0  0  0
- 30 52  1  0  0  0  0
- 31 32  1  0  0  0  0
- 32 33  1  0  0  0  0
- 32 53  1  0  0  0  0
- 32 54  1  0  0  0  0
- 33 55  1  0  0  0  0
- 33 56  1  0  0  0  0
+  1  2  1  0
+  1 34  1  0
+  1 35  1  0
+  1 36  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 37  1  0
+  5  6  1  0
+  5 25  2  0
+  6  7  1  0
+  6 38  1  0
+  7  8  2  0
+  7 15  1  0
+  8  9  1  0
+  9 10  2  0
+  9 16  1  0
+ 10 11  1  0
+ 10 39  1  0
+ 11 12  1  0
+ 11 15  1  0
+ 12 13  2  0
+ 12 40  1  0
+ 13 14  1  0
+ 13 41  1  0
+ 14 15  2  0
+ 16 17  2  0
+ 16 24  1  0
+ 17 18  1  0
+ 17 42  1  0
+ 18 19  2  0
+ 18 43  1  0
+ 19 20  1  0
+ 19 23  1  0
+ 20 21  2  0
+ 20 44  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 22 45  1  0
+ 23 24  2  0
+ 24 46  1  0
+ 25 26  1  0
+ 25 47  1  0
+ 26 27  2  0
+ 26 48  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 28 33  1  0
+ 29 30  1  0
+ 29 49  1  0
+ 29 50  1  0
+ 30 31  1  0
+ 30 51  1  0
+ 30 52  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 32 53  1  0
+ 32 54  1  0
+ 33 55  1  0
+ 33 56  1  0
 M  END
+>  <AmberAM1BCCCache>  (10) 
+gASVgwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNhwzGRlrPU/lIaUUpRoA2gJQwgqBJA/GKwPwJSGlFKUaANoCUMIMS+XwGMq8j+UhpRSlGgDaAlDCA6Ti6XGQ/+/lIaUUpRoA2gJQwhYu3RgP8n2P5SGlFKUaANoCUMI0A37UxuZIMCUhpRSlGgDaAlDCETyuQYklSBAlIaUUpRoA2gJQwiV8XW2njYhwJSGlFKUaANoCUMIfz+Pb19eFUCUhpRSlGgDaAlDCB18WAYawwTAlIaUUpRoA2gJQwgdKMdl2Z/fP5SGlFKUaANoCUMId8LIaJH/A8CUhpRSlGgDaAlDCHvj2AacH5+/lIaUUpRoA2gJQwiPUbTynnUGwJSGlFKUaANoCUMIJOSwi/GcAMCUhpRSlGgDaAlDCJe6RgNIevO/lIaUUpRoA2gJQwhiXrhYvSf3v5SGlFKUaANoCUMI9x8heo8E6r+UhpRSlGgDaAlDCKIHWLUaSAPAlIaUUpRoA2gJQwjyHvYvaIoQQJSGlFKUaANoCUMI9AB5PKMMGMCUhpRSlGgDaAlDCO73CNlrxMm/lIaUUpRoA2gJQwirxlcg9HPnv5SGlFKUaANoCUMIjziYnPqp+L+UhpRSlGgDaAlDCJMBlVaa0Pi/lIaUUpRoA2gJQwh/Pkaj44L8v5SGlFKUaANoCUMILXblE7aA9z+UhpRSlGgDaAlDCEHAkAFqsR3AlIaUUpRoA2gJQwjgp2HdSrD9P5SGlFKUaANoCUMITGB+MmBV9j+UhpRSlGgDaAlDCKYaYKUr9hPAlIaUUpRoA2gJQwhMYH4yYFX2P5SGlFKUaANoCUMI4Kdh3Uqw/T+UhpRSlGgDaAlDCGzkBGGyUOA/lIaUUpRoA2gJQwhs5ARhslDgP5SGlFKUaANoCUMIbOQEYbJQ4D+UhpRSlGgDaAlDCHDSBfHF/fs/lIaUUpRoA2gJQwgjVyMl+WwUQJSGlFKUaANoCUMIw3TLQCaZAECUhpRSlGgDaAlDCMJadV+wogFAlIaUUpRoA2gJQwh8X/m2aHIBQJSGlFKUaANoCUMI/5H6+/SE/D+UhpRSlGgDaAlDCJGFm8kP+fo/lIaUUpRoA2gJQwjy0+uCqm7lP5SGlFKUaANoCUMIcMaUi1ytDUCUhpRSlGgDaAlDCAaPo3iAmPo/lIaUUpRoA2gJQwj6M61KoST6P5SGlFKUaANoCUMI8qGz1mHX+T+UhpRSlGgDaAlDCN6Vorm13eU/lIaUUpRoA2gJQwjelaK5td3lP5SGlFKUaANoCUMIX2VQn1G34z+UhpRSlGgDaAlDCF9lUJ9Rt+M/lIaUUpRoA2gJQwhfZVCfUbfjP5SGlFKUaANoCUMIX2VQn1G34z+UhpRSlGgDaAlDCN6Vorm13eU/lIaUUpRoA2gJQwjelaK5td3lP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265026
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 55  0  0  0  0  0  0  0  0999 V2000
    -4.6615   -2.2004   15.8714 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1171,65 +1201,68 @@ CHEMBL3265026
    -1.8377   -0.6339   10.7521 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6611   -1.7259   11.5212 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7348   -0.0143   12.0043 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 26  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 25  1  0  0  0  0
- 21 22  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 42  1  0  0  0  0
- 22 43  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 44  1  0  0  0  0
- 23 45  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 46  1  0  0  0  0
- 25 26  2  0  0  0  0
- 26 47  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
- 30 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 26  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 25  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 22 42  1  0
+ 22 43  1  0
+ 23 24  1  0
+ 23 44  1  0
+ 23 45  1  0
+ 24 25  1  0
+ 24 46  1  0
+ 25 26  2  0
+ 26 47  1  0
+ 27 28  2  0
+ 27 48  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 49  1  0
+ 30 50  1  0
+ 30 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (11) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCP2Pvs5scfU/lIaUUpRoA2gJQwgFbKXFxRsPwJSGlFKUaANoCUMIcJq/rdC/6T+UhpRSlGgDaAlDCEmQsUgRXf6/lIaUUpRoA2gJQwhULLaQ1CP4v5SGlFKUaANoCUMIGM1w0hEX9z+UhpRSlGgDaAlDCAgJVNaHqSDAlIaUUpRoA2gJQwjhdERc2JogQJSGlFKUaANoCUMIA6IAXoYyIcCUhpRSlGgDaAlDCJjo8f5JBhZAlIaUUpRoA2gJQwhN9jEsU4IFwJSGlFKUaANoCUMINab3VZgc4T+UhpRSlGgDaAlDCD8UdlaNUATAlIaUUpRoA2gJQwid45tSY4alv5SGlFKUaANoCUMIYtZ23TbIBsCUhpRSlGgDaAlDCLJt981BvwDAlIaUUpRoA2gJQwhA4qE1Nxj7v5SGlFKUaANoCUMIzODknCXx8L+UhpRSlGgDaAlDCOYTjMxGHfm/lIaUUpRoA2gJQwiMAROg3djvP5SGlFKUaANoCUMI34KjbGsyDsCUhpRSlGgDaAlDCEDck56KcfQ/lIaUUpRoA2gJQwiTu4vavNT5P5SGlFKUaANoCUMI/GbqphJ9IMCUhpRSlGgDaAlDCFUzbLvDpuM/lIaUUpRoA2gJQwgWPG605YL3v5SGlFKUaANoCUMI3yKu4WOE+L+UhpRSlGgDaAlDCFIa3Wd/AvQ/lIaUUpRoA2gJQwhLZyFuDUwPwJSGlFKUaANoCUMIb2Uau/Ej9z+UhpRSlGgDaAlDCOJjYUIRvOA/lIaUUpRoA2gJQwjiY2FCEbzgP5SGlFKUaANoCUMI4mNhQhG84D+UhpRSlGgDaAlDCMvi1vwLT/o/lIaUUpRoA2gJQwil337CO2/6P5SGlFKUaANoCUMIpoxAmieWFECUhpRSlGgDaAlDCAIhpy5IXABAlIaUUpRoA2gJQwhuBSUw6nUBQJSGlFKUaANoCUMILwgyY8BZAUCUhpRSlGgDaAlDCHqoesV/ovw/lIaUUpRoA2gJQwivp+S2i6r8P5SGlFKUaANoCUMIP/fir/MW6D+UhpRSlGgDaAlDCD/34q/zFug/lIaUUpRoA2gJQwijLVGeu+vlP5SGlFKUaANoCUMIoy1Rnrvr5T+UhpRSlGgDaAlDCGBGrMa8SBJAlIaUUpRoA2gJQwgn5Zgo6Db6P5SGlFKUaANoCUMIloZIUoH8/T+UhpRSlGgDaAlDCIM1iEMQMuE/lIaUUpRoA2gJQwiDNYhDEDLhP5SGlFKUaANoCUMIgzWIQxAy4T+UhpRSlGUu
+
 $$$$
 CHEMBL3265012
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  48 51  0  0  0  0  0  0  0  0999 V2000
    -4.6739   -2.1410   15.8230 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1280,61 +1313,64 @@ CHEMBL3265012
    -1.7930   -0.5860   10.7321 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6344   -1.6933   11.5063 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6936    0.0171   11.9953 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 26  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 23 42  1  0  0  0  0
- 23 43  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 26  2  0  0  0  0
- 26 44  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 45  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 46  1  0  0  0  0
- 30 47  1  0  0  0  0
- 30 48  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 26  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 23 42  1  0
+ 23 43  1  0
+ 24 25  1  0
+ 24 26  2  0
+ 26 44  1  0
+ 27 28  2  0
+ 27 45  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 46  1  0
+ 30 47  1  0
+ 30 48  1  0
 M  END
+>  <AmberAM1BCCCache>  (12) 
+gASV6wMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCK2sLINLrvQ/lIaUUpRoA2gJQwj3puy3/5AMwJSGlFKUaANoCUMIvTvPcxYP8z+UhpRSlGgDaAlDCFN4x+vq7/6/lIaUUpRoA2gJQwijD0jc9eb4v5SGlFKUaANoCUMIztq8cdPs9j+UhpRSlGgDaAlDCLMI8bu6oCDAlIaUUpRoA2gJQwjV8yBdurEgQJSGlFKUaANoCUMIix0K9/dTIcCUhpRSlGgDaAlDCEGESSdLBBVAlIaUUpRoA2gJQwgPFkInKQ0EwJSGlFKUaANoCUMInPEnI68p3T+UhpRSlGgDaAlDCFUeacCruAPAlIaUUpRoA2gJQwhg5Td1oGaRv5SGlFKUaANoCUMIrt/TOGE4BsCUhpRSlGgDaAlDCIltTHr7jwDAlIaUUpRoA2gJQwjJ5j5qOVLwv5SGlFKUaANoCUMItciLuyi7+7+UhpRSlGgDaAlDCKTR2qENRea/lIaUUpRoA2gJQwjmALmwuZ3/v5SGlFKUaANoCUMIoJH1wvi2H0CUhpRSlGgDaAlDCPOz4IR30BzAlIaUUpRoA2gJQwiRkh5BwiofwJSGlFKUaANoCUMIbzmfer9R+z+UhpRSlGgDaAlDCPRLZNGmlPq/lIaUUpRoA2gJQwj/97MmXNj5v5SGlFKUaANoCUMIJ6KNlH+BAMCUhpRSlGgDaAlDCAADn1lyUvU/lIaUUpRoA2gJQwg9omhgR8EMwJSGlFKUaANoCUMIrawsg0uu9D+UhpRSlGgDaAlDCG93He8LuOA/lIaUUpRoA2gJQwhvdx3vC7jgP5SGlFKUaANoCUMIb3cd7wu44D+UhpRSlGgDaAlDCL7gani8xfo/lIaUUpRoA2gJQwjv7vZ+5TT6P5SGlFKUaANoCUMIQpH0F4Z/FECUhpRSlGgDaAlDCP0fcWyglwBAlIaUUpRoA2gJQwieA1lfTrkBQJSGlFKUaANoCUMI+wUbiyqhAUCUhpRSlGgDaAlDCErXYslLJvs/lIaUUpRoA2gJQwjPZQKVA63/P5SGlFKUaANoCUMIz9N2aErXDUCUhpRSlGgDaAlDCM/TdmhK1w1AlIaUUpRoA2gJQwgtLv1yyQYAQJSGlFKUaANoCUMI67pKvPlH/D+UhpRSlGgDaAlDCLAIqv9a+OA/lIaUUpRoA2gJQwiwCKr/WvjgP5SGlFKUaANoCUMIsAiq/1r44D+UhpRSlGUu
+
 $$$$
 CHEMBL3265029
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  43 47  0  0  0  0  0  0  0  0999 V2000
    -4.6729   -2.0540   15.8603 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1380,57 +1416,60 @@ CHEMBL3265029
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3284   -1.2323   13.2424 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.1197   -1.2263   12.9004 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 28  1  0  0  0  0
-  1 29  1  0  0  0  0
-  1 30  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 31  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 32  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 33  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 34  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 35  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 36  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 37  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 38  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 39  1  0  0  0  0
- 22 23  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 40  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 41  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 42  1  0  0  0  0
- 27 43  1  0  0  0  0
+  1  2  1  0
+  1 28  1  0
+  1 29  1  0
+  1 30  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 31  1  0
+  5  6  2  0
+  5 32  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 33  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 34  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 35  1  0
+ 14 15  1  0
+ 14 36  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 37  1  0
+ 19 20  2  0
+ 19 38  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 39  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 40  1  0
+ 24 25  2  0
+ 25 41  1  0
+ 26 27  2  0
+ 26 42  1  0
+ 27 43  1  0
 M  END
+>  <AmberAM1BCCCache>  (13) 
+gASVjAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCCuT9kaMcvU/lIaUUpRoA2gJQwiGcc+MytIOwJSGlFKUaANoCUMITtvcFoqn9j+UhpRSlGgDaAlDCBlzI+97Zf+/lIaUUpRoA2gJQwgYvjzd4zHyv5SGlFKUaANoCUMI/HQfM3GG8D+UhpRSlGgDaAlDCB1KpoJNmiDAlIaUUpRoA2gJQwjItC3CA6AgQJSGlFKUaANoCUMIjN+vyIFHIcCUhpRSlGgDaAlDCPf31uq0cRVAlIaUUpRoA2gJQwi2AcFg/vwEwJSGlFKUaANoCUMIysUnGVkd4D+UhpRSlGgDaAlDCIoaNiyG/wPAlIaUUpRoA2gJQwi0XLgdArCcv5SGlFKUaANoCUMIhdneeF+XBsCUhpRSlGgDaAlDCL1pGebV1gDAlIaUUpRoA2gJQwi5oSTQkVPzv5SGlFKUaANoCUMIykASzk4x97+UhpRSlGgDaAlDCEKA1odiBOq/lIaUUpRoA2gJQwj2kURnt1EDwJSGlFKUaANoCUMI6HI/zm2KEECUhpRSlGgDaAlDCNCrToivGBjAlIaUUpRoA2gJQwgeed4PuMPJv5SGlFKUaANoCUMI9yYNLsdz57+UhpRSlGgDaAlDCPUa8hGMs/i/lIaUUpRoA2gJQwgYvjzd4zHyv5SGlFKUaANoCUMIGXMj73tl/7+UhpRSlGgDaAlDCD9q0TJQvuA/lIaUUpRoA2gJQwg/atEyUL7gP5SGlFKUaANoCUMIP2rRMlC+4D+UhpRSlGgDaAlDCPfLuJO1Wfs/lIaUUpRoA2gJQwhA4Yodc4D6P5SGlFKUaANoCUMI+REtzCpoFECUhpRSlGgDaAlDCA4fIKkNgQBAlIaUUpRoA2gJQwivAgicu6IBQJSGlFKUaANoCUMIageM83NyAUCUhpRSlGgDaAlDCJmvoIZje/w/lIaUUpRoA2gJQwgn2kSa3sj6P5SGlFKUaANoCUMIpXM2dddu5T+UhpRSlGgDaAlDCF1uJ8hnrQ1AlIaUUpRoA2gJQwgn2kSa3sj6P5SGlFKUaANoCUMIQOGKHXOA+j+UhpRSlGgDaAlDCPfLuJO1Wfs/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265035
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 55  0  0  0  0  0  0  0  0999 V2000
    -4.8961   -2.1590   15.8177 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1484,65 +1523,68 @@ CHEMBL3265035
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3284   -1.2323   13.2424 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.1197   -1.2263   12.9004 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2  6  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3 34  1  0  0  0  0
-  3 35  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 36  1  0  0  0  0
-  4 37  1  0  0  0  0
-  5 38  1  0  0  0  0
-  6  7  2  0  0  0  0
-  6 30  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 39  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 40  1  0  0  0  0
-  9 10  1  0  0  0  0
-  9 29  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 41  1  0  0  0  0
- 11 12  2  0  0  0  0
- 11 19  1  0  0  0  0
- 12 13  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 20  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 42  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 19  1  0  0  0  0
- 16 17  2  0  0  0  0
- 16 43  1  0  0  0  0
- 17 18  1  0  0  0  0
- 17 44  1  0  0  0  0
- 18 19  2  0  0  0  0
- 20 21  2  0  0  0  0
- 20 28  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 45  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 46  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 27  1  0  0  0  0
- 24 25  2  0  0  0  0
- 24 47  1  0  0  0  0
- 25 26  1  0  0  0  0
- 26 27  1  0  0  0  0
- 26 48  1  0  0  0  0
- 27 28  2  0  0  0  0
- 28 49  1  0  0  0  0
- 29 30  2  0  0  0  0
- 29 50  1  0  0  0  0
- 30 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  2  6  1  0
+  3  4  1  0
+  3 34  1  0
+  3 35  1  0
+  4  5  1  0
+  4 36  1  0
+  4 37  1  0
+  5 38  1  0
+  6  7  2  0
+  6 30  1  0
+  7  8  1  0
+  7 39  1  0
+  8  9  2  0
+  8 40  1  0
+  9 10  1  0
+  9 29  1  0
+ 10 11  1  0
+ 10 41  1  0
+ 11 12  2  0
+ 11 19  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 20  1  0
+ 14 15  1  0
+ 14 42  1  0
+ 15 16  1  0
+ 15 19  1  0
+ 16 17  2  0
+ 16 43  1  0
+ 17 18  1  0
+ 17 44  1  0
+ 18 19  2  0
+ 20 21  2  0
+ 20 28  1  0
+ 21 22  1  0
+ 21 45  1  0
+ 22 23  2  0
+ 22 46  1  0
+ 23 24  1  0
+ 23 27  1  0
+ 24 25  2  0
+ 24 47  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 26 48  1  0
+ 27 28  2  0
+ 28 49  1  0
+ 29 30  2  0
+ 29 50  1  0
+ 30 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (14) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCG56JYbe1wBAlIaUUpRoA2gJQwhyV94MJZMewJSGlFKUaANoCUMI7iLSmck/AECUhpRSlGgDaAlDCG4Zr+bJ+fM/lIaUUpRoA2gJQwiTRiFiMi8cwJSGlFKUaANoCUMId7vzZ/vD+T+UhpRSlGgDaAlDCL9qKrZr4/2/lIaUUpRoA2gJQwiKZmDqg9jzv5SGlFKUaANoCUMIKIniRs6P8T+UhpRSlGgDaAlDCO6k8y5KlCDAlIaUUpRoA2gJQwhCmlibAqMgQJSGlFKUaANoCUMIe3mU5ItKIcCUhpRSlGgDaAlDCINDHaipcRVAlIaUUpRoA2gJQwhxaVPQJgkFwJSGlFKUaANoCUMIwk28tW7Z3z+UhpRSlGgDaAlDCBaB54XAFwTAlIaUUpRoA2gJQwhG0TV7l2akv5SGlFKUaANoCUMI+0X1P0BzBsCUhpRSlGgDaAlDCATVTpfIvgDAlIaUUpRoA2gJQwiKcwvbvlPzv5SGlFKUaANoCUMI+RS7BFgZ97+UhpRSlGgDaAlDCOYjpJ28BOq/lIaUUpRoA2gJQwjf+rfszVEDwJSGlFKUaANoCUMIdL6Fi2KKEECUhpRSlGgDaAlDCERgCMu6GBjAlIaUUpRoA2gJQwisBxVnIMXJv5SGlFKUaANoCUMImsraQyF057+UhpRSlGgDaAlDCMjs2By5s/i/lIaUUpRoA2gJQwiKZmDqg9jzv5SGlFKUaANoCUMIv2oqtmvj/b+UhpRSlGgDaAlDCCkIcB2llNw/lIaUUpRoA2gJQwgpCHAdpZTcP5SGlFKUaANoCUMIKQhwHaWU3D+UhpRSlGgDaAlDCDSNmz7QDeY/lIaUUpRoA2gJQwg0jZs+0A3mP5SGlFKUaANoCUMIlnPccTFX3j+UhpRSlGgDaAlDCJZz3HExV94/lIaUUpRoA2gJQwiw0QRiMdYSQJSGlFKUaANoCUMItCR2nAOn+T+UhpRSlGgDaAlDCOIYrMG2H/o/lIaUUpRoA2gJQwiFXXOJH2gUQJSGlFKUaANoCUMIJbasI/eAAECUhpRSlGgDaAlDCMaZlBalogFAlIaUUpRoA2gJQwivn/mDS2YBQJSGlFKUaANoCUMIaNv3T1qT/D+UhpRSlGgDaAlDCPYFnGPV4Po/lIaUUpRoA2gJQwgC0GhffW7lP5SGlFKUaANoCUMIpAaVWD+hDUCUhpRSlGgDaAlDCLEKILuNsPo/lIaUUpRoA2gJQwjiGKzBth/6P5SGlFKUaANoCUMItCR2nAOn+T+UhpRSlGUu
+
 $$$$
 CHEMBL3265024
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  50 54  0  0  0  0  0  0  0  0999 V2000
    -4.6627   -2.1934   15.8668 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1595,64 +1637,67 @@ CHEMBL3265024
    -1.8324   -0.6292   10.7504 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6579   -1.7228   11.5203 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7298   -0.0113   12.0038 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  1 34  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 29  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 35  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 36  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 28  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 37  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 38  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 39  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 40  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 27  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 41  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 42  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 26  1  0  0  0  0
- 21 22  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 43  1  0  0  0  0
- 22 44  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 45  1  0  0  0  0
- 26 27  2  0  0  0  0
- 27 46  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 47  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 31  1  0  0  0  0
- 31 48  1  0  0  0  0
- 31 49  1  0  0  0  0
- 31 50  1  0  0  0  0
+  1  2  1  0
+  1 32  1  0
+  1 33  1  0
+  1 34  1  0
+  2  3  1  0
+  3  4  2  0
+  3 29  1  0
+  4  5  1  0
+  4 35  1  0
+  5  6  2  0
+  5 36  1  0
+  6  7  1  0
+  6 28  1  0
+  7  8  1  0
+  7 37  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 38  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 39  1  0
+ 14 15  1  0
+ 14 40  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 27  1  0
+ 18 19  1  0
+ 18 41  1  0
+ 19 20  2  0
+ 19 42  1  0
+ 20 21  1  0
+ 20 26  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 22 43  1  0
+ 22 44  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 45  1  0
+ 26 27  2  0
+ 27 46  1  0
+ 28 29  2  0
+ 28 47  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 48  1  0
+ 31 49  1  0
+ 31 50  1  0
 M  END
+>  <AmberAM1BCCCache>  (15) 
+gASVEQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCKkDNBp2cPU/lIaUUpRoA2gJQwgusuofQRwPwJSGlFKUaANoCUMIZVpeazhQ6z+UhpRSlGgDaAlDCLkUYGt/rv6/lIaUUpRoA2gJQwjWxsxL9JP3v5SGlFKUaANoCUMIeVSMivBM9j+UhpRSlGgDaAlDCBWaxyOuriDAlIaUUpRoA2gJQwh7YNPQ5LcgQJSGlFKUaANoCUMIsjCyf9BPIcCUhpRSlGgDaAlDCPhO1wB9pRVAlIaUUpRoA2gJQwi8RJ4fUS4FwJSGlFKUaANoCUMIoqNKhVw54D+UhpRSlGgDaAlDCEtil0KRAATAlIaUUpRoA2gJQwjkPFxOjTWdv5SGlFKUaANoCUMIRiFAj2qYBsCUhpRSlGgDaAlDCH6xevzg1wDAlIaUUpRoA2gJQwjkwt4CMLz3v5SGlFKUaANoCUMI4WLRk7da8b+UhpRSlGgDaAlDCOfcNOSlsva/lIaUUpRoA2gJQwgGPkZe5nHsP5SGlFKUaANoCUMIvNyOM7xpDcCUhpRSlGgDaAlDCFdcjPbXJuc/lIaUUpRoA2gJQwj+m/iCB9kfQJSGlFKUaANoCUMIm3LafgjVHMCUhpRSlGgDaAlDCE+D4M4mChbAlIaUUpRoA2gJQwgW3FEF3gDHP5SGlFKUaANoCUMILXuM026Y+r+UhpRSlGgDaAlDCELFoC4MpPe/lIaUUpRoA2gJQwhPlAIoKcHzP5SGlFKUaANoCUMI0a8o9GQ0D8CUhpRSlGgDaAlDCBvZjwb7Ivc/lIaUUpRoA2gJQwj0bsERu+/gP5SGlFKUaANoCUMI9G7BEbvv4D+UhpRSlGgDaAlDCPRuwRG77+A/lIaUUpRoA2gJQwgcVIocOWb6P5SGlFKUaANoCUMIHFSKHDlm+j+UhpRSlGgDaAlDCDFol9P+oxRAlIaUUpRoA2gJQwir2YC+3mcAQJSGlFKUaANoCUMI7rqmhbChAUCUhpRSlGgDaAlDCKi/Kt1ocQFAlIaUUpRoA2gJQwiQAG4SK7v9P5SGlFKUaANoCUMIkABuEiu7/T+UhpRSlGgDaAlDCOhq9pBZUvE/lIaUUpRoA2gJQwjoavaQWVLxP5SGlFKUaANoCUMI51eu2rTKD0CUhpRSlGgDaAlDCMxN2qeYpvo/lIaUUpRoA2gJQwiJ9TlG0iv+P5SGlFKUaANoCUMIaoqKsto64T+UhpRSlGgDaAlDCGqKirLaOuE/lIaUUpRoA2gJQwhqioqy2jrhP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265018
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  47 51  0  0  0  0  0  0  0  0999 V2000
    -4.6697   -2.1558   15.8359 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1702,61 +1747,64 @@ CHEMBL3265018
    -1.8066   -0.5992   10.7355 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6423   -1.7014   11.5087 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7060    0.0096   11.9951 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 22 23  1  0  0  0  0
- 22 41  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 42  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 43  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 44  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 45  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 22 41  1  0
+ 23 24  1  0
+ 23 42  1  0
+ 24 25  2  0
+ 25 43  1  0
+ 26 27  2  0
+ 26 44  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 45  1  0
+ 29 46  1  0
+ 29 47  1  0
 M  END
+>  <AmberAM1BCCCache>  (16) 
+gASV2AMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCGD4IaJlcPU/lIaUUpRoA2gJQwjTt/NbSRwPwJSGlFKUaANoCUMIa1CaZFjP6j+UhpRSlGgDaAlDCCwjyh1gjv6/lIaUUpRoA2gJQwhmzVpsTMT3v5SGlFKUaANoCUMI4ELKnT+N9j+UhpRSlGgDaAlDCEjcX0GkpiDAlIaUUpRoA2gJQwhuIZPtvp8gQJSGlFKUaANoCUMIrPQbvqs1IcCUhpRSlGgDaAlDCP7IeqioxRVAlIaUUpRoA2gJQwhKQ2HYxHYFwJSGlFKUaANoCUMISX1ucSra4D+UhpRSlGgDaAlDCNhgWvsESQTAlIaUUpRoA2gJQwh18O64yqWkv5SGlFKUaANoCUMIjiSHn5awBsCUhpRSlGgDaAlDCIG5RWTFvwDAlIaUUpRoA2gJQwjc8Lj8Mlr2v5SGlFKUaANoCUMIaQEHLzix9b+UhpRSlGgDaAlDCI+GV2Z86+u/lIaUUpRoA2gJQwjPyv8i/g3sP5SGlFKUaANoCUMI3JPuqe6YGsCUhpRSlGgDaAlDCKIPEerK+RNAlIaUUpRoA2gJQwhJRgH1e3gLwJSGlFKUaANoCUMIU7IlKShC7r+UhpRSlGgDaAlDCGbNWmxMxPe/lIaUUpRoA2gJQwhmzVpsTMT3v5SGlFKUaANoCUMIcYfEkjDR8z+UhpRSlGgDaAlDCBezbwSRTA/AlIaUUpRoA2gJQwjSzX2O6iL3P5SGlFKUaANoCUMIqTQo6QK64D+UhpRSlGgDaAlDCKk0KOkCuuA/lIaUUpRoA2gJQwipNCjpArrgP5SGlFKUaANoCUMI0Uh4pChm+j+UhpRSlGgDaAlDCNFIeKQoZvo/lIaUUpRoA2gJQwiM5nPL6JcUQJSGlFKUaANoCUMIBdR3gtZnAECUhpRSlGgDaAlDCKa3X3WEiQFAlIaUUpRoA2gJQwhhvOPMPFkBQJSGlFKUaANoCUMIzBTM4Tx5/D+UhpRSlGgDaAlDCFcLxDLM2fw/lIaUUpRoA2gJQwgewyRI0VHqP5SGlFKUaANoCUMIQTaP/xHTDECUhpRSlGgDaAlDCLpbiAIKpfk/lIaUUpRoA2gJQwj47qslevv9P5SGlFKUaANoCUMINCsgOpIa4T+UhpRSlGgDaAlDCDQrIDqSGuE/lIaUUpRoA2gJQwg0KyA6khrhP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265008
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  48 51  0  0  0  0  0  0  0  0999 V2000
    -4.6688   -2.1658   15.8444 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1807,61 +1855,64 @@ CHEMBL3265008
    -1.8122   -0.6093   10.7403 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6459   -1.7096   11.5132 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7113    0.0017   11.9984 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 23  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 22  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 24  1  0  0  0  0
- 23 42  1  0  0  0  0
- 24 25  2  0  0  0  0
- 24 26  1  0  0  0  0
- 26 43  1  0  0  0  0
- 26 44  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 45  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 46  1  0  0  0  0
- 30 47  1  0  0  0  0
- 30 48  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 23  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 22 23  2  0
+ 22 24  1  0
+ 23 42  1  0
+ 24 25  2  0
+ 24 26  1  0
+ 26 43  1  0
+ 26 44  1  0
+ 27 28  2  0
+ 27 45  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 46  1  0
+ 30 47  1  0
+ 30 48  1  0
 M  END
+>  <AmberAM1BCCCache>  (17) 
+gASV6wMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCB8aGOaV4PQ/lIaUUpRoA2gJQwjh7bRa/o8MwJSGlFKUaANoCUMI1MBOjPpP8j+UhpRSlGgDaAlDCJ0PYOBYjf6/lIaUUpRoA2gJQwiOisjDEab5v5SGlFKUaANoCUMIVTWYdjzg9z+UhpRSlGgDaAlDCG0ao2R6oCDAlIaUUpRoA2gJQwhK40/K6KUgQJSGlFKUaANoCUMIFi7biclfIcCUhpRSlGgDaAlDCBFcYX4TNRVAlIaUUpRoA2gJQwi0YY4h4NsDwJSGlFKUaANoCUMIYafVrtjy3T+UhpRSlGgDaAlDCPpptbpihwPAlIaUUpRoA2gJQwi/K1r42/ecv5SGlFKUaANoCUMIOyTar4NPBsCUhpRSlGgDaAlDCBayUvEdpwDAlIaUUpRoA2gJQwiIPMYfsML8v5SGlFKUaANoCUMI30tMA2974r+UhpRSlGgDaAlDCJ3fTYgN4QDAlIaUUpRoA2gJQwiXd2Jy1mb9P5SGlFKUaANoCUMIg954blxi+r+UhpRSlGgDaAlDCBayUvEdpwDAlIaUUpRoA2gJQwhqQkRU/tviv5SGlFKUaANoCUMIz2vPRZ3PH0CUhpRSlGgDaAlDCH7R32hQDB3AlIaUUpRoA2gJQwgEtoKSQSofwJSGlFKUaANoCUMI4trJMFURAcCUhpRSlGgDaAlDCLZrBmUEtfU/lIaUUpRoA2gJQwgn6TADRsAMwJSGlFKUaANoCUMI2R6cPU6w9D+UhpRSlGgDaAlDCN2tSpupe+A/lIaUUpRoA2gJQwjdrUqbqXvgP5SGlFKUaANoCUMI3a1Km6l74D+UhpRSlGgDaAlDCOpS2jK/x/o/lIaUUpRoA2gJQwgbYWY56Db6P5SGlFKUaANoCUMIKnBS8uJnFECUhpRSlGgDaAlDCEDN3u5UEQFAlIaUUpRoA2gJQwj5twxll+oBQJSGlFKUaANoCUMIbsEUFAiKAUCUhpRSlGgDaAlDCM79kQvJLP4/lIaUUpRoA2gJQwi3EKJpqmv9P5SGlFKUaANoCUMIKeb9VS8e/z+UhpRSlGgDaAlDCFmJC4SB/A1AlIaUUpRoA2gJQwhZiQuEgfwNQJSGlFKUaANoCUMI0TE+zrQZ/D+UhpRSlGgDaAlDCMdb/GMRvOA/lIaUUpRoA2gJQwjHW/xjEbzgP5SGlFKUaANoCUMIx1v8YxG84D+UhpRSlGUu
+
 $$$$
 CHEMBL3265016
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  48 52  0  0  0  0  0  0  0  0999 V2000
    -4.6697   -2.1558   15.8359 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1912,62 +1963,65 @@ CHEMBL3265016
    -1.8066   -0.5992   10.7355 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6423   -1.7014   11.5086 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7060    0.0096   11.9951 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 41  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 42  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 43  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 44  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 45  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
- 29 48  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 41  1  0
+ 22 23  1  0
+ 22 42  1  0
+ 23 24  1  0
+ 23 43  1  0
+ 24 25  2  0
+ 25 44  1  0
+ 26 27  2  0
+ 26 45  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 46  1  0
+ 29 47  1  0
+ 29 48  1  0
 M  END
+>  <AmberAM1BCCCache>  (18) 
+gASV6wMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCOevI0q4o/U/lIaUUpRoA2gJQwg80CgtU3sPwJSGlFKUaANoCUMI9jD+6EWv5j+UhpRSlGgDaAlDCAOI4IJfOf2/lIaUUpRoA2gJQwhQ67SwfkP5v5SGlFKUaANoCUMI2c8nMhdz+D+UhpRSlGgDaAlDCFelX+w5oCDAlIaUUpRoA2gJQwhU20V5/IcgQJSGlFKUaANoCUMIgT/tiSYdIcCUhpRSlGgDaAlDCOA2e1J90hVAlIaUUpRoA2gJQwjjaSKw90QFwJSGlFKUaANoCUMIQv+BH7F/4D+UhpRSlGgDaAlDCFmA1U+jXwTAlIaUUpRoA2gJQwg5aDfIakSkv5SGlFKUaANoCUMIykiGS+2WBsCUhpRSlGgDaAlDCGDbguQ/vgDAlIaUUpRoA2gJQwiwISOfRhj3v5SGlFKUaANoCUMIgi3teZOf9r+UhpRSlGgDaAlDCBjA6RLmxvC/lIaUUpRoA2gJQwj3Sv2zr5fvv5SGlFKUaANoCUMIwIzr6EXWAcCUhpRSlGgDaAlDCMAbdZhdP/O/lIaUUpRoA2gJQwhTFd2tFIQCwJSGlFKUaANoCUMInUL7TmWs47+UhpRSlGgDaAlDCFDrtLB+Q/m/lIaUUpRoA2gJQwg1yhhMdJX6v5SGlFKUaANoCUMIJBmmfsCG9T+UhpRSlGgDaAlDCLPZMNzDGg/AlIaUUpRoA2gJQwhZhX82PVb3P5SGlFKUaANoCUMI40fIp9if4D+UhpRSlGgDaAlDCONHyKfYn+A/lIaUUpRoA2gJQwjjR8in2J/gP5SGlFKUaANoCUMIzgmC++s4+j+UhpRSlGgDaAlDCFcAekx7mfo/lIaUUpRoA2gJQwj6Vxe3h4AUQJSGlFKUaANoCUMIJrI6AlxpAECUhpRSlGgDaAlDCCWY5CDmcgFAlIaUUpRoA2gJQwiCmqZMwloBQJSGlFKUaANoCUMIs+jlluGK+z+UhpRSlGgDaAlDCIgOBlOkCPo/lIaUUpRoA2gJQwg7qzElhf79P5SGlFKUaANoCUMI3I4ZGDMg/z+UhpRSlGgDaAlDCO4koLGcKwxAlIaUUpRoA2gJQwhyIRaxhUf5P5SGlFKUaANoCUMIO6sxJYX+/T+UhpRSlGgDaAlDCG0+wPhnAOE/lIaUUpRoA2gJQwhtPsD4ZwDhP5SGlFKUaANoCUMIbT7A+GcA4T+UhpRSlGUu
+
 $$$$
 CHEMBL3265025 flip
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  50 54  0  0  0  0  0  0  0  0999 V2000
    -4.6684   -2.1675   15.8477 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2020,64 +2074,67 @@ CHEMBL3265025 flip
    -1.8137   -0.6090   10.7431 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6470   -1.7095   11.5151 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7123    0.0016   12.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  1 34  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 29  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 35  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 36  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 28  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 37  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 38  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 39  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 40  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 27  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 41  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 42  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 26  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 43  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 24  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 44  1  0  0  0  0
- 24 45  1  0  0  0  0
- 25 26  1  0  0  0  0
- 26 27  2  0  0  0  0
- 27 46  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 47  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 31  1  0  0  0  0
- 31 48  1  0  0  0  0
- 31 49  1  0  0  0  0
- 31 50  1  0  0  0  0
+  1  2  1  0
+  1 32  1  0
+  1 33  1  0
+  1 34  1  0
+  2  3  1  0
+  3  4  2  0
+  3 29  1  0
+  4  5  1  0
+  4 35  1  0
+  5  6  2  0
+  5 36  1  0
+  6  7  1  0
+  6 28  1  0
+  7  8  1  0
+  7 37  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 38  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 39  1  0
+ 14 15  1  0
+ 14 40  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 27  1  0
+ 18 19  1  0
+ 18 41  1  0
+ 19 20  2  0
+ 19 42  1  0
+ 20 21  1  0
+ 20 26  1  0
+ 21 22  1  0
+ 21 43  1  0
+ 22 23  2  0
+ 22 24  1  0
+ 24 25  1  0
+ 24 44  1  0
+ 24 45  1  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 46  1  0
+ 28 29  2  0
+ 28 47  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 48  1  0
+ 31 49  1  0
+ 31 50  1  0
 M  END
+>  <AmberAM1BCCCache>  (19) 
+gASVEQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCHQYQijTQPU/lIaUUpRoA2gJQwhuv3dOrEIOwJSGlFKUaANoCUMIJzXi1JwV7j+UhpRSlGgDaAlDCD8GAtLCnf6/lIaUUpRoA2gJQwhJogYahmT4v5SGlFKUaANoCUMInlEG47MO9z+UhpRSlGgDaAlDCHhYQZSTqiDAlIaUUpRoA2gJQwiqo4V956sgQJSGlFKUaANoCUMIfm475b5RIcCUhpRSlGgDaAlDCATRAgrEuRVAlIaUUpRoA2gJQwgDQwk5n+0EwJSGlFKUaANoCUMI5Ma2LHYa4D+UhpRSlGgDaAlDCERaUuc+AATAlIaUUpRoA2gJQwjWt+uKKIyiv5SGlFKUaANoCUMI0honUQCIBsCUhpRSlGgDaAlDCAurYb52xwDAlIaUUpRoA2gJQwg4ckigXk/6v5SGlFKUaANoCUMIlSD3nd7M7b+UhpRSlGgDaAlDCDIkRvz8a/2/lIaUUpRoA2gJQwiMEuBZzdPWP5SGlFKUaANoCUMI3wBqvuX5FcCUhpRSlGgDaAlDCAEgm7Aw2R9AlIaUUpRoA2gJQwj18Pl8u7wcwJSGlFKUaANoCUMIcnygYyEo5z+UhpRSlGgDaAlDCI7R8Z2ZiQ3AlIaUUpRoA2gJQwgk7ypHmqrmP5SGlFKUaANoCUMIxhNnTs7d87+UhpRSlGgDaAlDCMlZHtzQSPu/lIaUUpRoA2gJQwgGk6id1HL0P5SGlFKUaANoCUMIfbuJBehqDsCUhpRSlGgDaAlDCKj9VThpUvY/lIaUUpRoA2gJQwisJBbhHMbgP5SGlFKUaANoCUMIrCQW4RzG4D+UhpRSlGgDaAlDCKwkFuEcxuA/lIaUUpRoA2gJQwiWYui19Xb6P5SGlFKUaANoCUMIKmQU091m+j+UhpRSlGgDaAlDCJHu+ywEjBRAlIaUUpRoA2gJQwhU3wPuVIAAQJSGlFKUaANoCUMI9cLr4AKiAUCUhpRSlGgDaAlDCOfG2SnHeQFAlIaUUpRoA2gJQwjtFqg9cHv9P5SGlFKUaANoCUMIZVRcr8wH+z+UhpRSlGgDaAlDCDSt7GetARBAlIaUUpRoA2gJQwjnfm6QwirxP5SGlFKUaANoCUMI535ukMIq8T+UhpRSlGgDaAlDCM4ehM/4Kv0/lIaUUpRoA2gJQwiBGNRaWGv9P5SGlFKUaANoCUMIrK32WfQb4T+UhpRSlGgDaAlDCKyt9ln0G+E/lIaUUpRoA2gJQwisrfZZ9BvhP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265013
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 54  0  0  0  0  0  0  0  0999 V2000
    -4.6741   -2.1614   15.8110 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2131,64 +2188,67 @@ CHEMBL3265013
    -1.7959   -0.4921   10.7549 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6345   -1.6124   11.5061 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6984    0.0873   12.0309 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 26  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 23 42  1  0  0  0  0
- 23 43  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 26  2  0  0  0  0
- 25 44  1  0  0  0  0
- 25 45  1  0  0  0  0
- 25 46  1  0  0  0  0
- 26 47  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
- 30 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 26  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 23 42  1  0
+ 23 43  1  0
+ 24 25  1  0
+ 24 26  2  0
+ 25 44  1  0
+ 25 45  1  0
+ 25 46  1  0
+ 26 47  1  0
+ 27 28  2  0
+ 27 48  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 49  1  0
+ 30 50  1  0
+ 30 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (20) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMIAoCT04vQ/lIaUUpRoA2gJQwiP+nA7z44MwJSGlFKUaANoCUMIAp7OG+iy8j+UhpRSlGgDaAlDCIQf0PKJ6/6/lIaUUpRoA2gJQwgZssyL3BL5v5SGlFKUaANoCUMIKSqsu8NR9z+UhpRSlGgDaAlDCDCewqclmiDAlIaUUpRoA2gJQwi1YBGdK6AgQJSGlFKUaANoCUMIN7S8+FBBIcCUhpRSlGgDaAlDCNFPnqAEchVAlIaUUpRoA2gJQwhgVPQgO+QEwJSGlFKUaANoCUMIGhzV7I5+3z+UhpRSlGgDaAlDCHlo5ZQKFwTAlIaUUpRoA2gJQwjtgmBWTGCcv5SGlFKUaANoCUMIjC7UZHhmBsCUhpRSlGgDaAlDCMS+DtLupQDAlIaUUpRoA2gJQwjaBFOH9sX1v5SGlFKUaANoCUMIJU7R05/Z8r+UhpRSlGgDaAlDCCiCfZaLxvC/lIaUUpRoA2gJQwgLV9Zd/Z74v5SGlFKUaANoCUMIMWr1LO2fH0CUhpRSlGgDaAlDCJLpbCGsVhzAlIaUUpRoA2gJQwiiqrG6tt4fwJSGlFKUaANoCUMI/PihRFi147+UhpRSlGgDaAlDCCWf1cWpSue/lIaUUpRoA2gJQwhJwFiSBYL4v5SGlFKUaANoCUMIBfGNwJavAMCUhpRSlGgDaAlDCBRXEvsah/U/lIaUUpRoA2gJQwjV9ezjFr8MwJSGlFKUaANoCUMIfQUkfKyy9D+UhpRSlGgDaAlDCNNWN1RScOA/lIaUUpRoA2gJQwjTVjdUUnDgP5SGlFKUaANoCUMI01Y3VFJw4D+UhpRSlGgDaAlDCEg+5sjVmfo/lIaUUpRoA2gJQwgEQ2ogjmn6P5SGlFKUaANoCUMIpWgTbIx0FECUhpRSlGgDaAlDCB/RcECJaQBAlIaUUpRoA2gJQwjAtFgzN4sBQJSGlFKUaANoCUMIHbcaXxNzAUCUhpRSlGgDaAlDCFv3KagIbv0/lIaUUpRoA2gJQwiLBbauMd38P5SGlFKUaANoCUMIrIn6k+t4DUCUhpRSlGgDaAlDCKyJ+pPreA1AlIaUUpRoA2gJQwgFi3CG6ePiP5SGlFKUaANoCUMIBYtwhunj4j+UhpRSlGgDaAlDCAWLcIbp4+I/lIaUUpRoA2gJQwjuVXp+b6j5P5SGlFKUaANoCUMIdRjGDBMc/D+UhpRSlGgDaAlDCK5xUmn14OA/lIaUUpRoA2gJQwiucVJp9eDgP5SGlFKUaANoCUMIrnFSafXg4D+UhpRSlGUu
+
 $$$$
 CHEMBL3259820
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  48 51  0  0  0  0  0  0  0  0999 V2000
    -4.6918   -2.0680   15.7892 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2239,61 +2299,64 @@ CHEMBL3259820
    -1.7526   -0.5835   10.7105 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6123   -1.6971   11.5029 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6572    0.0177   11.9781 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 23  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 41  1  0  0  0  0
- 22 42  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 43  1  0  0  0  0
- 25 44  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 45  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
- 29 48  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 23  1  0
+ 21 22  2  0
+ 21 41  1  0
+ 22 42  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 43  1  0
+ 25 44  1  0
+ 26 27  2  0
+ 26 45  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 46  1  0
+ 29 47  1  0
+ 29 48  1  0
 M  END
+>  <AmberAM1BCCCache>  (21) 
+gASV6wMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNrn1amU3/Q/lIaUUpRoA2gJQwgDB9b4fpAMwJSGlFKUaANoCUMIGoUEoYiv8j+UhpRSlGgDaAlDCGw4mm3p7v6/lIaUUpRoA2gJQwgCy5YGPBb5v5SGlFKUaANoCUMIQRHiQGRO9z+UhpRSlGgDaAlDCLZgK4yaoCDAlIaUUpRoA2gJQwgAnceiyKUgQJSGlFKUaANoCUMIvHYl3cVHIcCUhpRSlGgDaAlDCMbKzNcaZRVAlIaUUpRoA2gJQwgxYxsKx80EwJSGlFKUaANoCUMIerisARFx3z+UhpRSlGgDaAlDCEp3DH6WAATAlIaUUpRoA2gJQwjxvOYIKzidv5SGlFKUaANoCUMIADs5IihoBsCUhpRSlGgDaAlDCDnLc4+epwDAlIaUUpRoA2gJQwg3JyWxxmj1v5SGlFKUaANoCUMIHyDfLTKx9b+UhpRSlGgDaAlDCFR8bdi8A/K/lIaUUpRoA2gJQwjFYRTSMzP5v5SGlFKUaANoCUMIVHxt2LwD8r+UhpRSlGgDaAlDCB8g3y0ysfW/lIaUUpRoA2gJQwgm5SNkA5MfQJSGlFKUaANoCUMI4mm6kt2THMCUhpRSlGgDaAlDCDkzJsVqxx/AlIaUUpRoA2gJQwh5/fJ9RrEAwJSGlFKUaANoCUMILD5IgLuD9T+UhpRSlGgDaAlDCEkCUqHGwAzAlIaUUpRoA2gJQwiV7FkBTa/0P5SGlFKUaANoCUMIU0nGIqd54D+UhpRSlGgDaAlDCFNJxiKneeA/lIaUUpRoA2gJQwhTScYip3ngP5SGlFKUaANoCUMIYCUcTnaW+j+UhpRSlGgDaAlDCNYuJP3mNfo/lIaUUpRoA2gJQwhr4mCNtHMUQJSGlFKUaANoCUMIq8QLg9lnAECUhpRSlGgDaAlDCO+lMUqroQFAlIaUUpRoA2gJQwhMqPN1h4kBQJSGlFKUaANoCUMIXgvGbACg+z+UhpRSlGgDaAlDCEYEgOlr6Ps/lIaUUpRoA2gJQwhGBIDpa+j7P5SGlFKUaANoCUMIXgvGbACg+z+UhpRSlGgDaAlDCAp8tMBNgw1AlIaUUpRoA2gJQwgKfLTATYMNQJSGlFKUaANoCUMIjP/7kbMY/D+UhpRSlGgDaAlDCN4/vnM22uA/lIaUUpRoA2gJQwjeP75zNtrgP5SGlFKUaANoCUMI3j++czba4D+UhpRSlGUu
+
 $$$$
 CHEMBL3265006
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 54  0  0  0  0  0  0  0  0999 V2000
     2.2210    7.1755    9.2464 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2347,64 +2410,67 @@ CHEMBL3265006
    -0.6613   -1.7987   11.5492 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7397   -0.0787   12.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3135   -1.2842   13.2676 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2 34  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3  5  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 10  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 35  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 37  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 11  1  0  0  0  0
- 10 38  1  0  0  0  0
- 11 12  2  0  0  0  0
- 11 30  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 39  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 17  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 40  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 41  1  0  0  0  0
- 16 17  2  0  0  0  0
- 17 18  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 30  2  0  0  0  0
- 19 20  1  0  0  0  0
- 19 42  1  0  0  0  0
- 20 21  2  0  0  0  0
- 20 29  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 43  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 44  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 26  1  0  0  0  0
- 24 25  1  0  0  0  0
- 25 45  1  0  0  0  0
- 25 46  1  0  0  0  0
- 25 47  1  0  0  0  0
- 26 27  1  0  0  0  0
- 26 29  2  0  0  0  0
- 27 28  1  0  0  0  0
- 28 48  1  0  0  0  0
- 28 49  1  0  0  0  0
- 28 50  1  0  0  0  0
- 29 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  2 34  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  2  0
+  5 10  1  0
+  6  7  1  0
+  6 35  1  0
+  7  8  2  0
+  7 36  1  0
+  8  9  1  0
+  8 37  1  0
+  9 10  2  0
+  9 11  1  0
+ 10 38  1  0
+ 11 12  2  0
+ 11 30  1  0
+ 12 13  1  0
+ 12 39  1  0
+ 13 14  1  0
+ 13 17  1  0
+ 14 15  2  0
+ 14 40  1  0
+ 15 16  1  0
+ 15 41  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 18 30  2  0
+ 19 20  1  0
+ 19 42  1  0
+ 20 21  2  0
+ 20 29  1  0
+ 21 22  1  0
+ 21 43  1  0
+ 22 23  2  0
+ 22 44  1  0
+ 23 24  1  0
+ 23 26  1  0
+ 24 25  1  0
+ 25 45  1  0
+ 25 46  1  0
+ 25 47  1  0
+ 26 27  1  0
+ 26 29  2  0
+ 27 28  1  0
+ 28 48  1  0
+ 28 49  1  0
+ 28 50  1  0
+ 29 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (22) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCBl2ZevAu+0/lIaUUpRoA2gJQwgMGyQlkggbwJSGlFKUaANoCUMIEYxZfLmlH0CUhpRSlGgDaAlDCJzAwk5LmRzAlIaUUpRoA2gJQwhejQ1Xtyv7v5SGlFKUaANoCUMIHdBIRd9h8r+UhpRSlGgDaAlDCDz0zV/jJvu/lIaUUpRoA2gJQwgalmJRMPXqv5SGlFKUaANoCUMIEACYOjCu+r+UhpRSlGgDaAlDCBqWYlEw9eq/lIaUUpRoA2gJQwhrdoZHiUcVQJSGlFKUaANoCUMIGCffIU7zA8CUhpRSlGgDaAlDCFVpP06H+N0/lIaUUpRoA2gJQwgwLiWl4qoDwJSGlFKUaANoCUMIzaM+8vyTlr+UhpRSlGgDaAlDCHHoSZoDcwbAlIaUUpRoA2gJQwgHe0YzVpoAwJSGlFKUaANoCUMIH7McYPuTIECUhpRSlGgDaAlDCOOKTlRjryDAlIaUUpRoA2gJQwj+f1Ji5WP5P5SGlFKUaANoCUMI4gtiFX01+r+UhpRSlGgDaAlDCEEoeiLPE/m/lIaUUpRoA2gJQwg7KfvDCrfsP5SGlFKUaANoCUMInoEbxFyiDsCUhpRSlGgDaAlDCD6IMGIl+vQ/lIaUUpRoA2gJQwjyFBEnFHPzP5SGlFKUaANoCUMI+4Pd7ziKDsCUhpRSlGgDaAlDCJuK8o0B4vQ/lIaUUpRoA2gJQwgHmD+1WNT+v5SGlFKUaANoCUMISKMK0Wo+IcCUhpRSlGgDaAlDCKeAc+RXD+E/lIaUUpRoA2gJQwingHPkVw/hP5SGlFKUaANoCUMIp4Bz5FcP4T+UhpRSlGgDaAlDCCXSRoo8VA1AlIaUUpRoA2gJQwhp3Qq8oL/5P5SGlFKUaANoCUMIOs9+tXdQ+j+UhpRSlGgDaAlDCAaNRuxi9Pw/lIaUUpRoA2gJQwh6fPi5XZ39P5SGlFKUaANoCUMIOQpQGsPhAECUhpRSlGgDaAlDCMPznHoXxwFAlIaUUpRoA2gJQwjb+uL9q34BQJSGlFKUaANoCUMI7QmHsGGAFECUhpRSlGgDaAlDCIDK+l2/gPo/lIaUUpRoA2gJQwjasmaoJXL7P5SGlFKUaANoCUMIEmHUd/zO4D+UhpRSlGgDaAlDCBJh1Hf8zuA/lIaUUpRoA2gJQwgSYdR3/M7gP5SGlFKUaANoCUMIp4Bz5FcP4T+UhpRSlGgDaAlDCKeAc+RXD+E/lIaUUpRoA2gJQwingHPkVw/hP5SGlFKUaANoCUMIwZHKQxvE/D+UhpRSlGUu
+
 $$$$
 CHEMBL3265030_n
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  52 57  0  0  0  0  0  0  0  0999 V2000
    -6.8937   -1.9320   13.9875 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2459,67 +2525,70 @@ CHEMBL3265030_n
     3.6667    3.3286   12.3649 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3284   -1.2323   13.2424 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.1197   -1.2263   12.9004 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  1 34  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2  4  1  0  0  0  0
-  2  6  1  0  0  0  0
-  3 35  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 36  1  0  0  0  0
-  4 37  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5  7  1  0  0  0  0
-  6 38  1  0  0  0  0
-  6 39  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 31  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 40  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 41  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 30  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 42  1  0  0  0  0
- 12 13  2  0  0  0  0
- 12 20  1  0  0  0  0
- 13 14  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 21  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 43  1  0  0  0  0
- 16 17  1  0  0  0  0
- 16 20  1  0  0  0  0
- 17 18  2  0  0  0  0
- 17 44  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 45  1  0  0  0  0
- 19 20  2  0  0  0  0
- 21 22  2  0  0  0  0
- 21 29  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 46  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 47  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 28  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 48  1  0  0  0  0
- 26 27  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 49  1  0  0  0  0
- 28 29  2  0  0  0  0
- 29 50  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 51  1  0  0  0  0
- 31 52  1  0  0  0  0
+  1  2  1  0
+  1 32  1  0
+  1 33  1  0
+  1 34  1  0
+  2  3  1  0
+  2  4  1  0
+  2  6  1  0
+  3 35  1  0
+  4  5  1  0
+  4 36  1  0
+  4 37  1  0
+  5  6  1  0
+  5  7  1  0
+  6 38  1  0
+  6 39  1  0
+  7  8  2  0
+  7 31  1  0
+  8  9  1  0
+  8 40  1  0
+  9 10  2  0
+  9 41  1  0
+ 10 11  1  0
+ 10 30  1  0
+ 11 12  1  0
+ 11 42  1  0
+ 12 13  2  0
+ 12 20  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 21  1  0
+ 15 16  1  0
+ 15 43  1  0
+ 16 17  1  0
+ 16 20  1  0
+ 17 18  2  0
+ 17 44  1  0
+ 18 19  1  0
+ 18 45  1  0
+ 19 20  2  0
+ 21 22  2  0
+ 21 29  1  0
+ 22 23  1  0
+ 22 46  1  0
+ 23 24  2  0
+ 23 47  1  0
+ 24 25  1  0
+ 24 28  1  0
+ 25 26  2  0
+ 25 48  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 27 49  1  0
+ 28 29  2  0
+ 29 50  1  0
+ 30 31  2  0
+ 30 51  1  0
+ 31 52  1  0
 M  END
+>  <AmberAM1BCCCache>  (23) 
+gASVNwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCHSAGGoEtfW/lIaUUpRoA2gJQwj1x6dik1T0P5SGlFKUaANoCUMIZUaCTT5iG8CUhpRSlGgDaAlDCLsdFxSnHvs/lIaUUpRoA2gJQwiXA7UskQEcwJSGlFKUaANoCUMIux0XFKce+z+UhpRSlGgDaAlDCLBhfLH/XfY/lIaUUpRoA2gJQwh1JbRuqmv9v5SGlFKUaANoCUMIEiAJjdRs87+UhpRSlGgDaAlDCBbm7EMpFvE/lIaUUpRoA2gJQwjLmqtqaJQgwJSGlFKUaANoCUMIGmQo2uilIECUhpRSlGgDaAlDCHWu44+3UyHAlIaUUpRoA2gJQwj4WI5GW2UVQJSGlFKUaANoCUMItD9SqbEVBcCUhpRSlGgDaAlDCKObxe0Xdd8/lIaUUpRoA2gJQwgrVgVJXTAEwJSGlFKUaANoCUMIZIpYR7z3nL+UhpRSlGgDaAlDCFYjOpxfNwbAlIaUUpRoA2gJQwh2rC6GQb8AwJSGlFKUaANoCUMIKidPEGkk87+UhpRSlGgDaAlDCIDBuLZtMve/lIaUUpRoA2gJQwivgSNZoAbqv5SGlFKUaANoCUMIUdKX20ZSA8CUhpRSlGgDaAlDCLvSFRQmihBAlIaUUpRoA2gJQwjPSpcsCSUYwJSGlFKUaANoCUMI1H4SVa/Myb+UhpRSlGgDaAlDCGQoWv8Edue/lIaUUpRoA2gJQwism5j6qrT4v5SGlFKUaANoCUMIEiAJjdRs87+UhpRSlGgDaAlDCHUltG6qa/2/lIaUUpRoA2gJQwhVweBXvT/jP5SGlFKUaANoCUMIVcHgV70/4z+UhpRSlGgDaAlDCFXB4Fe9P+M/lIaUUpRoA2gJQwhHXl5caSQTQJSGlFKUaANoCUMIe84Jganp6T+UhpRSlGgDaAlDCHvOCYGp6ek/lIaUUpRoA2gJQwh7zgmBqenpP5SGlFKUaANoCUMIe84Jganp6T+UhpRSlGgDaAlDCC14eOrtjfk/lIaUUpRoA2gJQwhbbK4PoQb6P5SGlFKUaANoCUMI+nLkJ9FbFECUhpRSlGgDaAlDCLPezDR+gABAlIaUUpRoA2gJQwixxHZTCIoBQJSGlFKUaANoCUMIDsc4f+RxAUCUhpRSlGgDaAlDCOIu+p1Eevw/lIaUUpRoA2gJQwhwWZ6xv8f6P5SGlFKUaANoCUMIrXvxUgoM5T+UhpRSlGgDaAlDCF8wln+0lA1AlIaUUpRoA2gJQwhwWZ6xv8f6P5SGlFKUaANoCUMIW2yuD6EG+j+UhpRSlGgDaAlDCC14eOrtjfk/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265022
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  50 54  0  0  0  0  0  0  0  0999 V2000
    -4.6697   -2.1558   15.8359 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2572,64 +2641,67 @@ CHEMBL3265022
    -1.8066   -0.5992   10.7355 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6423   -1.7014   11.5087 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7060    0.0096   11.9951 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 26  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 25  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 42  1  0  0  0  0
- 22 23  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 25  1  0  0  0  0
- 24 43  1  0  0  0  0
- 24 44  1  0  0  0  0
- 24 45  1  0  0  0  0
- 25 26  2  0  0  0  0
- 26 46  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 47  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 48  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 26  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 25  1  0
+ 21 22  2  0
+ 21 42  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 24 43  1  0
+ 24 44  1  0
+ 24 45  1  0
+ 25 26  2  0
+ 26 46  1  0
+ 27 28  2  0
+ 27 47  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 48  1  0
+ 30 49  1  0
+ 30 50  1  0
 M  END
+>  <AmberAM1BCCCache>  (24) 
+gASVEQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJf3ZASo3vQ/lIaUUpRoA2gJQwglf45L9ZAMwJSGlFKUaANoCUMIB6MfAsUd8j+UhpRSlGgDaAlDCCQyE8JGj/6/lIaUUpRoA2gJQwgWrXul/6f5v5SGlFKUaANoCUMIEw5hPZYO+D+UhpRSlGgDaAlDCL5+2SC4oCDAlIaUUpRoA2gJQwi/AOsukJMgQJSGlFKUaANoCUMIIpeVnb8vIcCUhpRSlGgDaAlDCFiMroIDfRVAlIaUUpRoA2gJQwiY1k8Fhf4EwJSGlFKUaANoCUMIQnLshj4X4D+UhpRSlGgDaAlDCLLqQHlUMQTAlIaUUpRoA2gJQwi6zSJlVHOdv5SGlFKUaANoCUMIxbAvScKABsCUhpRSlGgDaAlDCFpDLOIUqADAlIaUUpRoA2gJQwjCRr7B5obzv5SGlFKUaANoCUMIXtyjEDPF97+UhpRSlGgDaAlDCLTmIXheSem/lIaUUpRoA2gJQwh7ZBHgYWsDwJSGlFKUaANoCUMIjw8+/z5BEECUhpRSlGgDaAlDCHAkIuGbiBfAlIaUUpRoA2gJQwjxZbG5Y+DuP5SGlFKUaANoCUMIzf00z4Gx4j+UhpRSlGgDaAlDCBLZmJZItOO/lIaUUpRoA2gJQwgAwIsD4eb4v5SGlFKUaANoCUMIJmyjIUwSAcCUhpRSlGgDaAlDCC5JU4MWs/U/lIaUUpRoA2gJQwhregr0PMEMwJSGlFKUaANoCUMIUfzoW2Cu9D+UhpRSlGgDaAlDCM1o5NfNd+A/lIaUUpRoA2gJQwjNaOTXzXfgP5SGlFKUaANoCUMIzWjk18134D+UhpRSlGgDaAlDCBw1q6iJlfo/lIaUUpRoA2gJQwiTPrNX+jT6P5SGlFKUaANoCUMIWqYEZHlzFECUhpRSlGgDaAlDCIlMUzBjZwBAlIaUUpRoA2gJQwgqMDsjEYkBQJSGlFKUaANoCUMIhzL9Tu1wAUCUhpRSlGgDaAlDCI4KB5UOSPw/lIaUUpRoA2gJQwhiMCdR0cX6P5SGlFKUaANoCUMIHSD74rxo5T+UhpRSlGgDaAlDCGZJ0todvuQ/lIaUUpRoA2gJQwhmSdLaHb7kP5SGlFKUaANoCUMIZknS2h2+5D+UhpRSlGgDaAlDCJM+s1f6NPo/lIaUUpRoA2gJQwhJD4vsxhf8P5SGlFKUaANoCUMIV1/cKF3Y4D+UhpRSlGgDaAlDCFdf3Chd2OA/lIaUUpRoA2gJQwhXX9woXdjgP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265019
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  46 50  0  0  0  0  0  0  0  0999 V2000
    -4.6719   -2.1428   15.8247 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2678,60 +2750,63 @@ CHEMBL3265019
    -1.7993   -0.5865   10.7295 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6380   -1.6916   11.5031 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6993    0.0191   11.9911 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 22 23  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 41  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 42  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 43  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 44  1  0  0  0  0
- 29 45  1  0  0  0  0
- 29 46  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 41  1  0
+ 24 25  2  0
+ 25 42  1  0
+ 26 27  2  0
+ 26 43  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 44  1  0
+ 29 45  1  0
+ 29 46  1  0
 M  END
+>  <AmberAM1BCCCache>  (25) 
+gASVxQMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCK77gqU6bfU/lIaUUpRoA2gJQwiKOAUGuwUPwJSGlFKUaANoCUMIHkRMDSGK6z+UhpRSlGgDaAlDCCIb5cLSwf6/lIaUUpRoA2gJQwiM0wEY6Gb3v5SGlFKUaANoCUMIo08zUIUp9j+UhpRSlGgDaAlDCEY7A5YSrSDAlIaUUpRoA2gJQwjkvkxXhr0gQJSGlFKUaANoCUMI5NHt8TROIcCUhpRSlGgDaAlDCHUUPK48WBVAlIaUUpRoA2gJQwjSzzxdg+cEwJSGlFKUaANoCUMIiUCRCk1k3z+UhpRSlGgDaAlDCKXosSgL6gPAlIaUUpRoA2gJQwgCPJ56agSev5SGlFKUaANoCUMIoadadeSBBsCUhpRSlGgDaAlDCNk3leJawQDAlIaUUpRoA2gJQwiVVbB+NTfyv5SGlFKUaANoCUMIduYRdsml9r+UhpRSlGgDaAlDCOxiVshi5OK/lIaUUpRoA2gJQwgSjA/OOaHLP5SGlFKUaANoCUMInEkNxJAhBMCUhpRSlGgDaAlDCPQWZJAtzPi/lIaUUpRoA2gJQwhSB111cJbov5SGlFKUaANoCUMI6u2b65Kk67+UhpRSlGgDaAlDCBfK+Wh3x/e/lIaUUpRoA2gJQwiM0wEY6Gb3v5SGlFKUaANoCUMIeY+p7b2d8z+UhpRSlGgDaAlDCM8zga4CNg/AlIaUUpRoA2gJQwgg0d6Rvx/3P5SGlFKUaANoCUMIhsx2APzz4D+UhpRSlGgDaAlDCIbMdgD88+A/lIaUUpRoA2gJQwiGzHYA/PPgP5SGlFKUaANoCUMIIEzZp/1i+j+UhpRSlGgDaAlDCCBM2af9Yvo/lIaUUpRoA2gJQwgDJYrgQa8UQJSGlFKUaANoCUMIUFNm2GR+AECUhpRSlGgDaAlDCPE2TssSoAFAlIaUUpRoA2gJQwhOORD37ocBQJSGlFKUaANoCUMIvfsU2L+X/T+UhpRSlGgDaAlDCAL3kIAHyP0/lIaUUpRoA2gJQwjMfE07/CwPQJSGlFKUaANoCUMINTnJSRwk+z+UhpRSlGgDaAlDCI3tiNGWKP4/lIaUUpRoA2gJQwhweijJYzThP5SGlFKUaANoCUMIcHooyWM04T+UhpRSlGgDaAlDCHB6KMljNOE/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265009
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 54  0  0  0  0  0  0  0  0999 V2000
    -4.6697   -2.1558   15.8359 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2785,64 +2860,67 @@ CHEMBL3265009
    -1.8066   -0.5992   10.7355 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6423   -1.7014   11.5086 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7060    0.0096   11.9951 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 23  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 22  1  0  0  0  0
- 21 42  1  0  0  0  0
- 21 43  1  0  0  0  0
- 21 44  1  0  0  0  0
- 22 23  2  0  0  0  0
- 22 24  1  0  0  0  0
- 23 45  1  0  0  0  0
- 24 25  2  0  0  0  0
- 24 26  1  0  0  0  0
- 26 46  1  0  0  0  0
- 26 47  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
- 30 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 23  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 21 44  1  0
+ 22 23  2  0
+ 22 24  1  0
+ 23 45  1  0
+ 24 25  2  0
+ 24 26  1  0
+ 26 46  1  0
+ 26 47  1  0
+ 27 28  2  0
+ 27 48  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 49  1  0
+ 30 50  1  0
+ 30 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (26) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCO+ODWaW4PQ/lIaUUpRoA2gJQwh5M7oa/o8MwJSGlFKUaANoCUMIGT9Mu2vv8T+UhpRSlGgDaAlDCMyaamBYjf6/lIaUUpRoA2gJQwgDEU/sWNb5v5SGlFKUaANoCUMIsaCFR8xA+D+UhpRSlGgDaAlDCDzrs0mDpiDAlIaUUpRoA2gJQwh7Ej/l358gQJSGlFKUaANoCUMIQgGumq5NIcCUhpRSlGgDaAlDCNCvVu+ilRVAlIaUUpRoA2gJQwhhlIOD/pwEwJSGlFKUaANoCUMIzlSL8hd13z+UhpRSlGgDaAlDCB2mssvx5wPAlIaUUpRoA2gJQwiz9/z6u/ecv5SGlFKUaANoCUMIdmcdRKdnBsCUhpRSlGgDaAlDCK73V7EdpwDAlIaUUpRoA2gJQwiL7fBbckD7v5SGlFKUaANoCUMIppu4py9n6r+UhpRSlGgDaAlDCC7rLjCWWPu/lIaUUpRoA2gJQwg9nE7st2bev5SGlFKUaANoCUMIa2biNRNx6L+UhpRSlGgDaAlDCNyUvFlvtPq/lIaUUpRoA2gJQwjQdZjrbOnrv5SGlFKUaANoCUMIvc1QvVWfH0CUhpRSlGgDaAlDCKmDT2VnbxzAlIaUUpRoA2gJQwhESDdAPNMfwJSGlFKUaANoCUMIHR4NxXgpAcCUhpRSlGgDaAlDCMzbd41M5fU/lIaUUpRoA2gJQwi/LjbDRcAMwJSGlFKUaANoCUMIqpORvU6w9D+UhpRSlGgDaAlDCN1O7xKDW+A/lIaUUpRoA2gJQwjdTu8Sg1vgP5SGlFKUaANoCUMI3U7vEoNb4D+UhpRSlGgDaAlDCHXMUwp4l/o/lIaUUpRoA2gJQwjr1Vu56Db6P5SGlFKUaANoCUMIMMxu/PRzFECUhpRSlGgDaAlDCNiVZTV+gABAlIaUUpRoA2gJQwh5eU0oLKIBQJSGlFKUaANoCUMIM37Rf+RxAUCUhpRSlGgDaAlDCLeTI/DT2vw/lIaUUpRoA2gJQwjr1Vu56Db6P5SGlFKUaANoCUMI651DWr0/4z+UhpRSlGgDaAlDCOudQ1q9P+M/lIaUUpRoA2gJQwjrnUNavT/jP5SGlFKUaANoCUMIcZinR4yq/D+UhpRSlGgDaAlDCJNP0J7Ogw1AlIaUUpRoA2gJQwiTT9CezoMNQJSGlFKUaANoCUMIoaYzTrUZ/D+UhpRSlGgDaAlDCKjWc3Rh/OA/lIaUUpRoA2gJQwio1nN0YfzgP5SGlFKUaANoCUMIqNZzdGH84D+UhpRSlGUu
+
 $$$$
 CHEMBL3265021
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  47 51  0  0  0  0  0  0  0  0999 V2000
    -4.6795   -2.1369   15.8169 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2892,61 +2970,64 @@ CHEMBL3265021
    -1.7990   -0.5822   10.7256 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6401   -1.6892   11.5001 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6997    0.0214   11.9887 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  1  0  0  0  0
- 21 41  1  0  0  0  0
- 22 23  2  0  0  0  0
- 23 24  1  0  0  0  0
- 23 42  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 43  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 44  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 45  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  1  0
+ 21 41  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 23 42  1  0
+ 24 25  2  0
+ 25 43  1  0
+ 26 27  2  0
+ 26 44  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 45  1  0
+ 29 46  1  0
+ 29 47  1  0
 M  END
+>  <AmberAM1BCCCache>  (27) 
+gASV2AMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDERdOVlcPU/lIaUUpRoA2gJQwhsq0o6SRwPwJSGlFKUaANoCUMIDYI+61jP6j+UhpRSlGgDaAlDCFsKeNpfjv6/lIaUUpRoA2gJQwhPuYyABJT3v5SGlFKUaANoCUMIbGCgOPhc9j+UhpRSlGgDaAlDCC2Z9TikpiDAlIaUUpRoA2gJQwiJZP31vp8gQJSGlFKUaANoCUMINK/vic9NIcCUhpRSlGgDaAlDCKZLrHfe6RVAlIaUUpRoA2gJQwiENPaK6I4FwJSGlFKUaANoCUMI664S+Cra4D+UhpRSlGgDaAlDCCpZNTG9GATAlIaUUpRoA2gJQwgEPytet66qv5SGlFKUaANoCUMIJRjefZawBsCUhpRSlGgDaAlDCLuq2hbp1wDAlIaUUpRoA2gJQwhZ8CH56Zf/v5SGlFKUaANoCUMIU9kjcqWj5r+UhpRSlGgDaAlDCI1MsKN06vu/lIaUUpRoA2gJQwgJ43WZpBjfv5SGlFKUaANoCUMI+9KYWS1x0b+UhpRSlGgDaAlDCNpPUmID9RfAlIaUUpRoA2gJQwjH1KBhwHEQQJSGlFKUaANoCUMIH63l2wfVBMCUhpRSlGgDaAlDCOY3dEgM3uK/lIaUUpRoA2gJQwiUtAgpTMT3v5SGlFKUaANoCUMI/KSaLemg8z+UhpRSlGgDaAlDCLCmxuKQTA/AlIaUUpRoA2gJQwij5s/R6iL3P5SGlFKUaANoCUMIS2bMbwO64D+UhpRSlGgDaAlDCEtmzG8DuuA/lIaUUpRoA2gJQwhLZsxvA7rgP5SGlFKUaANoCUMIomHK5yhm+j+UhpRSlGgDaAlDCOZcRpBwlvo/lIaUUpRoA2gJQwjvbSny1osUQJSGlFKUaANoCUMIEd5eePp/AECUhpRSlGgDaAlDCLLBRmuooQFAlIaUUpRoA2gJQwjKyIzuPFkBQJSGlFKUaANoCUMI4yiazYSp/D+UhpRSlGgDaAlDCHFTPuH/9vo/lIaUUpRoA2gJQwgZGJQNl4UOQJSGlFKUaANoCUMIJnk5YfsJ5T+UhpRSlGgDaAlDCKJhyucoZvo/lIaUUpRoA2gJQwjKB/5oevv9P5SGlFKUaANoCUMIdqUKSbo64T+UhpRSlGgDaAlDCHalCkm6OuE/lIaUUpRoA2gJQwh2pQpJujrhP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265005
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  48 51  0  0  0  0  0  0  0  0999 V2000
    -4.6617   -2.2032   15.9064 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2997,61 +3078,64 @@ CHEMBL3265005
    -1.8405   -0.7243   10.7597 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6613   -1.7987   11.5492 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7397   -0.0787   12.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 41  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 42  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 43  1  0  0  0  0
- 25 44  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 45  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
- 29 48  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 41  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 42  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 43  1  0
+ 25 44  1  0
+ 26 27  2  0
+ 26 45  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 46  1  0
+ 29 47  1  0
+ 29 48  1  0
 M  END
+>  <AmberAM1BCCCache>  (28) 
+gASV6wMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCKggvaQBKfU/lIaUUpRoA2gJQwgmRwTr4dUNwJSGlFKUaANoCUMI3Rfcf6647z+UhpRSlGgDaAlDCJ3/snJ8pf6/lIaUUpRoA2gJQwiQlHE3q7T4v5SGlFKUaANoCUMI4VWTFh4f9z+UhpRSlGgDaAlDCG147dZ+oyDAlIaUUpRoA2gJQwhJhQVY5KIgQJSGlFKUaANoCUMI3A33HLNQIcCUhpRSlGgDaAlDCJEZdyFtcRVAlIaUUpRoA2gJQwjize0PpWAEwJSGlFKUaANoCUMIFbhh+hZ13z+UhpRSlGgDaAlDCBLceRbOzwPAlIaUUpRoA2gJQwj+FYtGYIChv5SGlFKUaANoCUMIsJhgN8t/BsCUhpRSlGgDaAlDCEUrXdAdpwDAlIaUUpRoA2gJQwiMYMV0v8f6v5SGlFKUaANoCUMIvW5Re+g26r+UhpRSlGgDaAlDCFxSOW6WWPu/lIaUUpRoA2gJQwgQOn4u3xryv5SGlFKUaANoCUMIOPD8vCIt+7+UhpRSlGgDaAlDCAJqzSMwZ+q/lIaUUpRoA2gJQwjxM86tVZ8fQJSGlFKUaANoCUMIZ5PZuv/VHMCUhpRSlGgDaAlDCD/jmmUqxx/AlIaUUpRoA2gJQwgsKleG9/L8v5SGlFKUaANoCUMIW5NHiHqr9D+UhpRSlGgDaAlDCGtCgJMpBg7AlIaUUpRoA2gJQwi/Da1GIOr1P5SGlFKUaANoCUMIFqB5A96b4D+UhpRSlGgDaAlDCBageQPem+A/lIaUUpRoA2gJQwgWoHkD3pvgP5SGlFKUaANoCUMIRmVJzHeX+j+UhpRSlGgDaAlDCAJqzSMwZ/o/lIaUUpRoA2gJQwjNsfvh/XkUQJSGlFKUaANoCUMIhl3cvsWwAECUhpRSlGgDaAlDCIVDht1PugFAlIaUUpRoA2gJQwicSsxg5HEBQJSGlFKUaANoCUMIcSXTLj8j/T+UhpRSlGgDaAlDCF9sj08MT/o/lIaUUpRoA2gJQwhhhuUwgkX5P5SGlFKUaANoCUMIzQ0/eaUU/j+UhpRSlGgDaAlDCPwby3/Ogw1AlIaUUpRoA2gJQwj8G8t/zoMNQJSGlFKUaANoCUMIzieVWhsL/T+UhpRSlGgDaAlDCEHft9yUHOE/lIaUUpRoA2gJQwhB37fclBzhP5SGlFKUaANoCUMIQd+33JQc4T+UhpRSlGUu
+
 $$$$
 CHEMBL3265017
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  47 51  0  0  0  0  0  0  0  0999 V2000
    -4.6697   -2.1558   15.8359 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3101,61 +3185,64 @@ CHEMBL3265017
    -1.8066   -0.5992   10.7355 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6423   -1.7014   11.5087 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7060    0.0096   11.9951 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 30  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 27  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 33  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 34  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 26  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 35  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 36  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 37  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 38  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 25  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 39  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 40  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 41  1  0  0  0  0
- 22 23  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 42  1  0  0  0  0
- 24 25  2  0  0  0  0
- 25 43  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 44  1  0  0  0  0
- 27 28  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 45  1  0  0  0  0
- 29 46  1  0  0  0  0
- 29 47  1  0  0  0  0
+  1  2  1  0
+  1 30  1  0
+  1 31  1  0
+  1 32  1  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4  5  1  0
+  4 33  1  0
+  5  6  2  0
+  5 34  1  0
+  6  7  1  0
+  6 26  1  0
+  7  8  1  0
+  7 35  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 37  1  0
+ 14 15  1  0
+ 14 38  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 25  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 40  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 41  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 42  1  0
+ 24 25  2  0
+ 25 43  1  0
+ 26 27  2  0
+ 26 44  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 45  1  0
+ 29 46  1  0
+ 29 47  1  0
 M  END
+>  <AmberAM1BCCCache>  (29) 
+gASV2AMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCG72FRKr4/Q/lIaUUpRoA2gJQwi5/7XEc44MwJSGlFKUaANoCUMI3qHQD8gi8j+UhpRSlGgDaAlDCE0zYrRDiv6/lIaUUpRoA2gJQwg/rsqX/KL5v5SGlFKUaANoCUMIpRGWolHj9z+UhpRSlGgDaAlDCONeI78XoCDAlIaUUpRoA2gJQwiZIKGQMJQgQJSGlFKUaANoCUMIsPbuMCg1IcCUhpRSlGgDaAlDCJrPvYcOWhVAlIaUUpRoA2gJQwhFXr0BmLMEwJSGlFKUaANoCUMIyvKsomqB3z+UhpRSlGgDaAlDCABw7EmL/gPAlIaUUpRoA2gJQwj1F+P4kDKcv5SGlFKUaANoCUMItjMZ7hxmBsCUhpRSlGgDaAlDCO/DU1uTpQDAlIaUUpRoA2gJQwjrRw2044Hzv5SGlFKUaANoCUMIt+t+CVkv97+UhpRSlGgDaAlDCBzWr/52AOq/lIaUUpRoA2gJQwhs5/qEvFADwJSGlFKUaANoCUMILkhkP+uKEECUhpRSlGgDaAlDCIvWKRcyGBjAlIaUUpRoA2gJQwiG0EPrCbTJv5SGlFKUaANoCUMI0XzmpNtv57+UhpRSlGgDaAlDCOPFXk2Wsfi/lIaUUpRoA2gJQwi77Mqayg8BwJSGlFKUaANoCUMIBkgEkRm49T+UhpRSlGgDaAlDCP/6MW27vgzAlIaUUpRoA2gJQwgp+5lpY7P0P5SGlFKUaANoCUMIe2ZG89OB4D+UhpRSlGgDaAlDCHtmRvPTgeA/lIaUUpRoA2gJQwh7Zkbz04HgP5SGlFKUaANoCUMI9DNctoya+j+UhpRSlGgDaAlDCGo9ZGX9Ofo/lIaUUpRoA2gJQwgQ5nAnunQUQJSGlFKUaANoCUMIOsenXyyaAECUhpRSlGgDaAlDCDmtUX62owFAlIaUUpRoA2gJQwjzsdXVbnMBQJSGlFKUaANoCUMIqwQ0S1l9/D+UhpRSlGgDaAlDCH8qVAcc+/o/lIaUUpRoA2gJQwjLHV3+wnLlP5SGlFKUaANoCUMI6BhxqmKuDUCUhpRSlGgDaAlDCPQzXLaMmvo/lIaUUpRoA2gJQwggDjz6yRz8P5SGlFKUaANoCUMIBl0+RGPi4D+UhpRSlGgDaAlDCAZdPkRj4uA/lIaUUpRoA2gJQwgGXT5EY+LgP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265010
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  52 55  0  0  0  0  0  0  0  0999 V2000
    -4.6543   -2.2328   15.9029 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3210,65 +3297,68 @@ CHEMBL3265010
    -1.8522   -0.6742   10.7693 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6687   -1.7581   11.5392 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7484   -0.0450   12.0159 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  1 34  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 29  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 35  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 36  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 28  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 37  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 38  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 39  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 40  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 24  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 41  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 42  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 23  1  0  0  0  0
- 21 22  1  0  0  0  0
- 22 43  1  0  0  0  0
- 22 44  1  0  0  0  0
- 22 45  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 24 46  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 27  1  0  0  0  0
- 27 47  1  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 49  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 31  1  0  0  0  0
- 31 50  1  0  0  0  0
- 31 51  1  0  0  0  0
- 31 52  1  0  0  0  0
+  1  2  1  0
+  1 32  1  0
+  1 33  1  0
+  1 34  1  0
+  2  3  1  0
+  3  4  2  0
+  3 29  1  0
+  4  5  1  0
+  4 35  1  0
+  5  6  2  0
+  5 36  1  0
+  6  7  1  0
+  6 28  1  0
+  7  8  1  0
+  7 37  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 38  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 39  1  0
+ 14 15  1  0
+ 14 40  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 24  1  0
+ 18 19  1  0
+ 18 41  1  0
+ 19 20  2  0
+ 19 42  1  0
+ 20 21  1  0
+ 20 23  1  0
+ 21 22  1  0
+ 22 43  1  0
+ 22 44  1  0
+ 22 45  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 24 46  1  0
+ 25 26  2  0
+ 25 27  1  0
+ 27 47  1  0
+ 27 48  1  0
+ 28 29  2  0
+ 28 49  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 50  1  0
+ 31 51  1  0
+ 31 52  1  0
 M  END
+>  <AmberAM1BCCCache>  (30) 
+gASVNwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMix6si63vQ/lIaUUpRoA2gJQwiwn4m9D6kMwJSGlFKUaANoCUMI82EpHpDt8T+UhpRSlGgDaAlDCK58EVXsXv6/lIaUUpRoA2gJQwgr7nGJNNj5v5SGlFKUaANoCUMIicNiqvA++D+UhpRSlGgDaAlDCHjHSMi1oCDAlIaUUpRoA2gJQwicOGySiY0gQJSGlFKUaANoCUMIUNxhA/NTIcCUhpRSlGgDaAlDCLX57h0aiRVAlIaUUpRoA2gJQwgNClvVgFUEwJSGlFKUaANoCUMIMuD/falt3z+UhpRSlGgDaAlDCGsZyPGXuAPAlIaUUpRoA2gJQwhriVmxRsCkv5SGlFKUaANoCUMIrNPs5riABsCUhpRSlGgDaAlDCOVjJ1QvwADAlIaUUpRoA2gJQwgPnAuwfY0AwJSGlFKUaANoCUMIEBwP5Nrw27+UhpRSlGgDaAlDCJQ3VmxwjwTAlIaUUpRoA2gJQwjcKSCOCWD+P5SGlFKUaANoCUMI7KJenzAfEMCUhpRSlGgDaAlDCCOaVhMh0PU/lIaUUpRoA2gJQwid7W5kIf7/v5SGlFKUaANoCUMIaNDOa1X13r+UhpRSlGgDaAlDCP4MACdu/x9AlIaUUpRoA2gJQwhOIwSXRGEdwJSGlFKUaANoCUMISh5aYOGZHsCUhpRSlGgDaAlDCFOK3GeKQgHAlIaUUpRoA2gJQwil/lTwcOP1P5SGlFKUaANoCUMIU53HkTPBDMCUhpRSlGgDaAlDCIO2biBzrvQ/lIaUUpRoA2gJQwiPlKnYy1fgP5SGlFKUaANoCUMIj5Sp2MtX4D+UhpRSlGgDaAlDCI+UqdjLV+A/lIaUUpRoA2gJQwhN7zBtnJX6P5SGlFKUaANoCUMICfS0xFRl+j+UhpRSlGgDaAlDCEMX6EBaWxRAlIaUUpRoA2gJQwgVGUhgZxABQJSGlFKUaANoCUMIKwY4AobRAUCUhpRSlGgDaAlDCKAPQLH2cAFAlIaUUpRoA2gJQwjVsXz7Pwn9P5SGlFKUaANoCUMIHuGkZnMm+z+UhpRSlGgDaAlDCBLtBc922+I/lIaUUpRoA2gJQwgS7QXPdtviP5SGlFKUaANoCUMIEu0Fz3bb4j+UhpRSlGgDaAlDCLyQ4JY1W/4/lIaUUpRoA2gJQwgu4h/mznYNQJSGlFKUaANoCUMILuIf5s52DUCUhpRSlGgDaAlDCHrJELHZF/w/lIaUUpRoA2gJQwi60+exgtjgP5SGlFKUaANoCUMIutPnsYLY4D+UhpRSlGgDaAlDCLrT57GC2OA/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265034
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  53 58  0  0  0  0  0  0  0  0999 V2000
    -5.9095   -2.3286   13.2962 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3324,68 +3414,71 @@ CHEMBL3265034
     3.6240    3.2844   12.3068 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.1531   -2.3761   17.4522 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6082   -2.3851   17.1648 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  6  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2 34  1  0  0  0  0
-  2 35  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3  7  1  0  0  0  0
-  3 36  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 37  1  0  0  0  0
-  4 38  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5 39  1  0  0  0  0
-  5 40  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 31  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 41  1  0  0  0  0
-  9 10  2  0  0  0  0
-  9 42  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 30  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 43  1  0  0  0  0
- 12 13  2  0  0  0  0
- 12 20  1  0  0  0  0
- 13 14  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 21  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 44  1  0  0  0  0
- 16 17  1  0  0  0  0
- 16 20  1  0  0  0  0
- 17 18  2  0  0  0  0
- 17 45  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 46  1  0  0  0  0
- 19 20  2  0  0  0  0
- 21 22  2  0  0  0  0
- 21 29  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 47  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 48  1  0  0  0  0
- 24 25  1  0  0  0  0
- 24 28  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 49  1  0  0  0  0
- 26 27  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 50  1  0  0  0  0
- 28 29  2  0  0  0  0
- 29 51  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 52  1  0  0  0  0
- 31 53  1  0  0  0  0
+  1  2  1  0
+  1  6  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  2 34  1  0
+  2 35  1  0
+  3  4  1  0
+  3  7  1  0
+  3 36  1  0
+  4  5  1  0
+  4 37  1  0
+  4 38  1  0
+  5  6  1  0
+  5 39  1  0
+  5 40  1  0
+  7  8  2  0
+  7 31  1  0
+  8  9  1  0
+  8 41  1  0
+  9 10  2  0
+  9 42  1  0
+ 10 11  1  0
+ 10 30  1  0
+ 11 12  1  0
+ 11 43  1  0
+ 12 13  2  0
+ 12 20  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 21  1  0
+ 15 16  1  0
+ 15 44  1  0
+ 16 17  1  0
+ 16 20  1  0
+ 17 18  2  0
+ 17 45  1  0
+ 18 19  1  0
+ 18 46  1  0
+ 19 20  2  0
+ 21 22  2  0
+ 21 29  1  0
+ 22 23  1  0
+ 22 47  1  0
+ 23 24  2  0
+ 23 48  1  0
+ 24 25  1  0
+ 24 28  1  0
+ 25 26  2  0
+ 25 49  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 27 50  1  0
+ 28 29  2  0
+ 29 51  1  0
+ 30 31  2  0
+ 30 52  1  0
+ 31 53  1  0
 M  END
+>  <AmberAM1BCCCache>  (31) 
+gASVSgQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCMNGwQ705fc/lIaUUpRoA2gJQwjssyL57Df0v5SGlFKUaANoCUMIIS6btfJRx7+UhpRSlGgDaAlDCOyzIvnsN/S/lIaUUpRoA2gJQwjDRsEO9OX3P5SGlFKUaANoCUMIrYthxg2oE8CUhpRSlGgDaAlDCAF3cayjhfC/lIaUUpRoA2gJQwgNTWLwwDz0v5SGlFKUaANoCUMIeLplV24V+r+UhpRSlGgDaAlDCMbguzwL5/g/lIaUUpRoA2gJQwitH2op8bUgwJSGlFKUaANoCUMI5L3MQvSRIECUhpRSlGgDaAlDCFH7UGLHIyHAlIaUUpRoA2gJQwgRy318iEwVQJSGlFKUaANoCUMInG9ksSZ6BMCUhpRSlGgDaAlDCEGqrO4Jqd4/lIaUUpRoA2gJQwhvey6McwEEwJSGlFKUaANoCUMIxv3p+seUkb+UhpRSlGgDaAlDCMg8mQQpgQbAlIaUUpRoA2gJQwi60VfJV5AAwJSGlFKUaANoCUMIyF6ROLSH87+UhpRSlGgDaAlDCPEExbkFHfe/lIaUUpRoA2gJQwjuCv6KrMPpv5SGlFKUaANoCUMIOPX+8oA7A8CUhpRSlGgDaAlDCCoCy5h7jBBAlIaUUpRoA2gJQwhw3StOlA0YwJSGlFKUaANoCUMIbIdkD47iyb+UhpRSlGgDaAlDCIqq7q18e+e/lIaUUpRoA2gJQwgd36T9Qp/4v5SGlFKUaANoCUMIeLplV24V+r+UhpRSlGgDaAlDCA1NYvDAPPS/lIaUUpRoA2gJQwi0oZo/kGHhP5SGlFKUaANoCUMItKGaP5Bh4T+UhpRSlGgDaAlDCEbUiKYleOQ/lIaUUpRoA2gJQwhG1IimJXjkP5SGlFKUaANoCUMIu9DlZFuc5D+UhpRSlGgDaAlDCEbUiKYleOQ/lIaUUpRoA2gJQwhG1IimJXjkP5SGlFKUaANoCUMItKGaP5Bh4T+UhpRSlGgDaAlDCLShmj+QYeE/lIaUUpRoA2gJQwhsvKJ14VT5P5SGlFKUaANoCUMIjSbg4Cw0+j+UhpRSlGgDaAlDCJNefuVghRRAlIaUUpRoA2gJQwjMu2UdRJcAQJSGlFKUaANoCUMIyqEPPM6gAUCUhpRSlGgDaAlDCCek0WeqiAFAlIaUUpRoA2gJQwhx6+2arI/8P5SGlFKUaANoCUMIohPQgkv1+j+UhpRSlGgDaAlDCBLwVPUhZ+U/lIaUUpRoA2gJQwh5DS9oeqsNQJSGlFKUaANoCUMIFx3YMbyU+j+UhpRSlGgDaAlDCI0m4OAsNPo/lIaUUpRoA2gJQwhsvKJ14VT5P5SGlFKUZS4=
+
 $$$$
 intermediate
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  44 47  0  0  0  0  0  0  0  0999 V2000
    -4.6741   -2.1614   15.8110 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3432,57 +3525,60 @@ intermediate
    -0.6984    0.0873   12.0309 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9884    2.4619   10.9872 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.2516    4.3755   10.0382 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 27  1  0  0  0  0
-  1 28  1  0  0  0  0
-  1 29  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 24  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 30  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 31  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 23  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 32  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 33  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 34  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 35  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 36  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 37  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 44  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 43  1  0  0  0  0
- 22 38  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 39  1  0  0  0  0
- 24 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 26 40  1  0  0  0  0
- 26 41  1  0  0  0  0
- 26 42  1  0  0  0  0
+  1  2  1  0
+  1 27  1  0
+  1 28  1  0
+  1 29  1  0
+  2  3  1  0
+  3  4  2  0
+  3 24  1  0
+  4  5  1  0
+  4 30  1  0
+  5  6  2  0
+  5 31  1  0
+  6  7  1  0
+  6 23  1  0
+  7  8  1  0
+  7 32  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 33  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 34  1  0
+ 14 15  1  0
+ 14 35  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 36  1  0
+ 19 20  2  0
+ 19 37  1  0
+ 20 21  1  0
+ 20 44  1  0
+ 21 22  2  0
+ 21 43  1  0
+ 22 38  1  0
+ 23 24  2  0
+ 23 39  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 40  1  0
+ 26 41  1  0
+ 26 42  1  0
 M  END
+>  <AmberAM1BCCCache>  (32) 
+gASVnwMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEfNpJFscfU/lIaUUpRoA2gJQwhgTTLkxRsPwJSGlFKUaANoCUMIOfqfQ2bR6j+UhpRSlGgDaAlDCEVORy5Zjf6/lIaUUpRoA2gJQwh/+Nd8RcP3v5SGlFKUaANoCUMIxxdNjUaO9j+UhpRSlGgDaAlDCEICYG56oCDAlIaUUpRoA2gJQwg6fWThzZMgQJSGlFKUaANoCUMIdxk71ZM7IcCUhpRSlGgDaAlDCGZ/PHrYuRVAlIaUUpRoA2gJQwju3+Xj1S0FwJSGlFKUaANoCUMIFyd0UDjc4D+UhpRSlGgDaAlDCML4Wq9dMATAlIaUUpRoA2gJQwiSU5TI7ISkv5SGlFKUaANoCUMIvbcD/DbIBsCUhpRSlGgDaAlDCA1PhOxBvwDAlIaUUpRoA2gJQwhkveU2xR76v5SGlFKUaANoCUMIKF5u1kC187+UhpRSlGgDaAlDCPDNM2nKdfm/lIaUUpRoA2gJQwjdFPCJl6H2v5SGlFKUaANoCUMI8M0zacp1+b+UhpRSlGgDaAlDCChebtZAtfO/lIaUUpRoA2gJQwjE81MljfP3v5SGlFKUaANoCUMIEmHL2e+h8z+UhpRSlGgDaAlDCKRIrowNTA/AlIaUUpRoA2gJQwi5ogB+8SP3P5SGlFKUaANoCUMId94tyBC84D+UhpRSlGgDaAlDCHfeLcgQvOA/lIaUUpRoA2gJQwh33i3IELzgP5SGlFKUaANoCUMIuB37ky9n+j+UhpRSlGgDaAlDCPwYdzx3l/o/lIaUUpRoA2gJQwj1nDWdGIwUQJSGlFKUaANoCUMIHDx3zn2AAECUhpRSlGgDaAlDCBoiIe0HigFAlIaUUpRoA2gJQwjVJqVEwFkBQJSGlFKUaANoCUMIWxs5aFN/+j+UhpRSlGgDaAlDCBc6E6GBRfk/lIaUUpRoA2gJQwhbGzloU3/6P5SGlFKUaANoCUMI4MMuFYH8/T+UhpRSlGgDaAlDCALVJRmgHOE/lIaUUpRoA2gJQwgC1SUZoBzhP5SGlFKUaANoCUMIAtUlGaAc4T+UhpRSlGgDaAlDCBc6E6GBRfk/lIaUUpRoA2gJQwjRPpf4ORX5P5SGlFKUZS4=
+
 $$$$
 CHEMBL3265011 flip
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 54  0  0  0  0  0  0  0  0999 V2000
    -4.6695   -2.1636   15.8424 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3536,64 +3632,67 @@ CHEMBL3265011 flip
    -1.8124   -0.6075   10.7384 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6462   -1.7078   11.5114 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7116    0.0035   11.9966 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 24  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 41  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 42  1  0  0  0  0
- 22 23  1  0  0  0  0
- 23 43  1  0  0  0  0
- 23 44  1  0  0  0  0
- 23 45  1  0  0  0  0
- 24 25  2  0  0  0  0
- 24 26  1  0  0  0  0
- 26 46  1  0  0  0  0
- 26 47  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
- 30 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 24  1  0
+ 20 21  1  0
+ 20 41  1  0
+ 21 22  2  0
+ 21 42  1  0
+ 22 23  1  0
+ 23 43  1  0
+ 23 44  1  0
+ 23 45  1  0
+ 24 25  2  0
+ 24 26  1  0
+ 26 46  1  0
+ 26 47  1  0
+ 27 28  2  0
+ 27 48  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 49  1  0
+ 30 50  1  0
+ 30 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (33) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCHVtwy7mcfU/lIaUUpRoA2gJQwhJ/aIViRsPwJSGlFKUaANoCUMI9Fb1iquw6T+UhpRSlGgDaAlDCNKyrOiXXP6/lIaUUpRoA2gJQwgiSi3ZolP4v5SGlFKUaANoCUMIaacd+Lo39z+UhpRSlGgDaAlDCA4t2yR9rCDAlIaUUpRoA2gJQwiMkYCa2JAgQJSGlFKUaANoCUMIoEZ4t3IvIcCUhpRSlGgDaAlDCLgvq3p5ZRVAlIaUUpRoA2gJQwjxo0eJaGAEwJSGlFKUaANoCUMIGBGb3msW3z+UhpRSlGgDaAlDCCCy04+RzwPAlIaUUpRoA2gJQwjgTcAkuXWkv5SGlFKUaANoCUMIBGo2WdavBsCUhpRSlGgDaAlDCFQBt0nhpgDAlIaUUpRoA2gJQwhK8GBa9Oj7v5SGlFKUaANoCUMIbQRt0lLC57+UhpRSlGgDaAlDCN94Uh/Dlvy/lIaUUpRoA2gJQwhz+wOrI0Hxv5SGlFKUaANoCUMIj+vcAjwZ/L+UhpRSlGgDaAlDCNQbMq64CMG/lIaUUpRoA2gJQwi/xY6xxSzmv5SGlFKUaANoCUMII8dP0I6xH0CUhpRSlGgDaAlDCG9+hnfh1RzAlIaUUpRoA2gJQwjdTjgtA8EfwJSGlFKUaANoCUMIrUAlKjK0+L+UhpRSlGgDaAlDCBHzXXBAM/Q/lIaUUpRoA2gJQwiN+B6+0EsPwJSGlFKUaANoCUMI5kIfG2sk9z+UhpRSlGgDaAlDCNIeawIEveA/lIaUUpRoA2gJQwjSHmsCBL3gP5SGlFKUaANoCUMI0h5rAgS94D+UhpRSlGgDaAlDCOW9GTGpZ/o/lIaUUpRoA2gJQwhDwNtchU/6P5SGlFKUaANoCUMI0kOc7kiYFECUhpRSlGgDaAlDCI+BHdhb7QBAlIaUUpRoA2gJQwhIbEtOnsYBQJSGlFKUaANoCUMIjnRy5yByAUCUhpRSlGgDaAlDCFNfyVpCLf4/lIaUUpRoA2gJQwjn128SH175P5SGlFKUaANoCUMIoMKdiGE3+j+UhpRSlGgDaAlDCKU2jCdJUuQ/lIaUUpRoA2gJQwilNownSVLkP5SGlFKUaANoCUMIpTaMJ0lS5D+UhpRSlGgDaAlDCIXGYRECfg1AlIaUUpRoA2gJQwiFxmERAn4NQJSGlFKUaANoCUMIDWRNsvr8/T+UhpRSlGgDaAlDCP1dqdu6PeE/lIaUUpRoA2gJQwj9Xanbuj3hP5SGlFKUaANoCUMI/V2p27o94T+UhpRSlGUu
+
 $$$$
 CHEMBL3265015 flip
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  51 54  0  0  0  0  0  0  0  0999 V2000
    -4.6714   -2.1184   15.7592 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3647,64 +3746,67 @@ CHEMBL3265015 flip
    -1.7546   -0.4335   10.7305 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6082   -1.5727   11.4762 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6565    0.1227   12.0162 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 31  1  0  0  0  0
-  1 32  1  0  0  0  0
-  1 33  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 28  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 34  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 35  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 27  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 36  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 37  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 38  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 39  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 40  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 41  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 42  1  0  0  0  0
- 22 23  1  0  0  0  0
- 23 43  1  0  0  0  0
- 23 44  1  0  0  0  0
- 23 45  1  0  0  0  0
- 24 25  2  0  0  0  0
- 24 26  1  0  0  0  0
- 26 46  1  0  0  0  0
- 26 47  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 48  1  0  0  0  0
- 28 29  1  0  0  0  0
- 29 30  1  0  0  0  0
- 30 49  1  0  0  0  0
- 30 50  1  0  0  0  0
- 30 51  1  0  0  0  0
+  1  2  1  0
+  1 31  1  0
+  1 32  1  0
+  1 33  1  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4  5  1  0
+  4 34  1  0
+  5  6  2  0
+  5 35  1  0
+  6  7  1  0
+  6 27  1  0
+  7  8  1  0
+  7 36  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 38  1  0
+ 14 15  1  0
+ 14 39  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 40  1  0
+ 19 20  2  0
+ 19 41  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 42  1  0
+ 22 23  1  0
+ 23 43  1  0
+ 23 44  1  0
+ 23 45  1  0
+ 24 25  2  0
+ 24 26  1  0
+ 26 46  1  0
+ 26 47  1  0
+ 27 28  2  0
+ 27 48  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 49  1  0
+ 30 50  1  0
+ 30 51  1  0
 M  END
+>  <AmberAM1BCCCache>  (34) 
+gASVJAQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCOB4JIoPKPU/lIaUUpRoA2gJQwgKm1D4WtYNwJSGlFKUaANoCUMIksMm8xHn7z+UhpRSlGgDaAlDCGWnS41upv6/lIaUUpRoA2gJQwgTQY6pVYX4v5SGlFKUaANoCUMIGa76+yse9z+UhpRSlGgDaAlDCGaNQBqdoyDAlIaUUpRoA2gJQwgzMRuluJkgQJSGlFKUaANoCUMIFuZ0HKAvIcCUhpRSlGgDaAlDCGRxorsVXxVAlIaUUpRoA2gJQwgiF1FYv80EwJSGlFKUaANoCUMI8xj/j05x3z+UhpRSlGgDaAlDCAwqYbagDATAlIaUUpRoA2gJQwgOD6CZo56hv5SGlFKUaANoCUMIlOysRESABsCUhpRSlGgDaAlDCPt9yMeoswDAlIaUUpRoA2gJQwgufIDv1Sn2v5SGlFKUaANoCUMIjZiY/CcI9b+UhpRSlGgDaAlDCKSFiJ5GyfW/lIaUUpRoA2gJQwhK4RMkvkH4v5SGlFKUaANoCUMIIRE/tAQ58L+UhpRSlGgDaAlDCOzieL1ereS/lIaUUpRoA2gJQwjSwdxYVP/lv5SGlFKUaANoCUMILQsJPQeTH0CUhpRSlGgDaAlDCH1BE479qxzAlIaUUpRoA2gJQwiajFDhb80fwJSGlFKUaANoCUMIrtZz+KHD/L+UhpRSlGgDaAlDCDXp7EGswvQ/lIaUUpRoA2gJQwhQlsygogYOwJSGlFKUaANoCUMI9mUULC7p9T+UhpRSlGgDaAlDCNV0a5INquA/lIaUUpRoA2gJQwjVdGuSDargP5SGlFKUaANoCUMI1XRrkg2q4D+UhpRSlGgDaAlDCN2/ct1hfvo/lIaUUpRoA2gJQwiYxPY0Gk76P5SGlFKUaANoCUMIFQaEOtyLFECUhpRSlGgDaAlDCP8LUt0omABAlIaUUpRoA2gJQwj+8fv7sqEBQJSGlFKUaANoCUMIivWePX19AUCUhpRSlGgDaAlDCJaqoFOkV/s/lIaUUpRoA2gJQwiB1waT+4z5P5SGlFKUaANoCUMIBWamXrMT/j+UhpRSlGgDaAlDCEJ7eVEgbuM/lIaUUpRoA2gJQwhCe3lRIG7jP5SGlFKUaANoCUMIQnt5USBu4z+UhpRSlGgDaAlDCIFHjmdeiQ1AlIaUUpRoA2gJQwiBR45nXokNQJSGlFKUaANoCUMIBoD8PykK/T+UhpRSlGgDaAlDCF9rY+OcCuE/lIaUUpRoA2gJQwhfa2PjnArhP5SGlFKUaANoCUMIX2tj45wK4T+UhpRSlGUu
+
 $$$$
 CHEMBL3265002
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  65 70  0  0  0  0  0  0  0  0999 V2000
    -4.2787   -3.0724   13.6807 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3772,80 +3874,83 @@ CHEMBL3265002
    -2.7073    1.2663   12.0155 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2483    0.2469   12.0303 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5553    1.3808   13.3676 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 41  1  0  0  0  0
-  1 42  1  0  0  0  0
-  1 43  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 38  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 44  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 45  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 37  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 46  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 47  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 48  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 49  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 50  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 51  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 52  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 53  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 54  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 55  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 56  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 57  1  0  0  0  0
- 31 58  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 36  1  0  0  0  0
- 33 34  1  0  0  0  0
- 34 35  2  0  0  0  0
- 34 59  1  0  0  0  0
- 35 36  1  0  0  0  0
- 35 60  1  0  0  0  0
- 36 61  1  0  0  0  0
- 37 38  2  0  0  0  0
- 37 62  1  0  0  0  0
- 38 39  1  0  0  0  0
- 39 40  1  0  0  0  0
- 40 63  1  0  0  0  0
- 40 64  1  0  0  0  0
- 40 65  1  0  0  0  0
+  1  2  1  0
+  1 41  1  0
+  1 42  1  0
+  1 43  1  0
+  2  3  1  0
+  3  4  2  0
+  3 38  1  0
+  4  5  1  0
+  4 44  1  0
+  5  6  2  0
+  5 45  1  0
+  6  7  1  0
+  6 37  1  0
+  7  8  1  0
+  7 46  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 47  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 48  1  0
+ 14 15  1  0
+ 14 49  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 50  1  0
+ 19 20  2  0
+ 19 51  1  0
+ 20 21  1  0
+ 20 52  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 53  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 54  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 55  1  0
+ 28 29  2  0
+ 28 56  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 57  1  0
+ 31 58  1  0
+ 32 33  2  0
+ 32 36  1  0
+ 33 34  1  0
+ 34 35  2  0
+ 34 59  1  0
+ 35 36  1  0
+ 35 60  1  0
+ 36 61  1  0
+ 37 38  2  0
+ 37 62  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 63  1  0
+ 40 64  1  0
+ 40 65  1  0
 M  END
+>  <AmberAM1BCCCache>  (35) 
+gASVLgUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCCN5shxfEPU/lIaUUpRoA2gJQwi7ptMJgGkNwJSGlFKUaANoCUMIZ0qN1j7N8D+UhpRSlGgDaAlDCEqqFTXvnf6/lIaUUpRoA2gJQwi6ObqTceX4v5SGlFKUaANoCUMIRKdCC+dO9z+UhpRSlGgDaAlDCF7N7ieTpiDAlIaUUpRoA2gJQwiTrjLm6rEgQJSGlFKUaANoCUMINuIHY9BZIcCUhpRSlGgDaAlDCOLvGYNBaRVAlIaUUpRoA2gJQwgRIMc2Dn0EwJSGlFKUaANoCUMIIx2PFF3y3j+UhpRSlGgDaAlDCGAzIpzptwPAlIaUUpRoA2gJQwiba+CSuI6gv5SGlFKUaANoCUMIyPCey9pfBsCUhpRSlGgDaAlDCG5/rRtprwDAlIaUUpRoA2gJQwhqGbQ9Wy/6v5SGlFKUaANoCUMI2NPOI9+G6b+UhpRSlGgDaAlDCG8Kkig+yPq/lIaUUpRoA2gJQwgS3G5Q1Wvyv5SGlFKUaANoCUMIEnU/w9Kn/L+UhpRSlGgDaAlDCKK6DlFdiOq/lIaUUpRoA2gJQwih/mKP9w0gQJSGlFKUaANoCUMIWmDv5RR2G8CUhpRSlGgDaAlDCITnbKsUEhbAlIaUUpRoA2gJQwiPAfeJDUTtP5SGlFKUaANoCUMIgL325F1AAMCUhpRSlGgDaAlDCJFHgv8sH++/lIaUUpRoA2gJQwhu8DtHyNH7v5SGlFKUaANoCUMIkUeC/ywf77+UhpRSlGgDaAlDCIC99uRdQADAlIaUUpRoA2gJQwiSwYjdXTcVQJSGlFKUaANoCUMIQx7cRE8eH8CUhpRSlGgDaAlDCHSPTIiWpQtAlIaUUpRoA2gJQwgTw6J9jzIIwJSGlFKUaANoCUMIZ69FqvwQDcCUhpRSlGgDaAlDCHGtbW+/ff6/lIaUUpRoA2gJQwg539wWlxP1P5SGlFKUaANoCUMIAaJPsseZDcCUhpRSlGgDaAlDCBpuflAGgfU/lIaUUpRoA2gJQwi+30ZVlKXgP5SGlFKUaANoCUMIvt9GVZSl4D+UhpRSlGgDaAlDCL7fRlWUpeA/lIaUUpRoA2gJQwhju3wY+Zb6P5SGlFKUaANoCUMIssEsjZlW+j+UhpRSlGgDaAlDCFgGzSLtgxRAlIaUUpRoA2gJQwjyCriQYpgAQJSGlFKUaANoCUMIlO6fgxC6AUCUhpRSlGgDaAlDCBb0uem8gQFAlIaUUpRoA2gJQwicdxgy/Er9P5SGlFKUaANoCUMIqLb4wEDH+j+UhpRSlGgDaAlDCNnEhMdpNvo/lIaUUpRoA2gJQwhOcWi9W4v9P5SGlFKUaANoCUMIT7W13Zs4DkCUhpRSlGgDaAlDCEiAitJ48vw/lIaUUpRoA2gJQwiQr7I9rA/7P5SGlFKUaANoCUMIkK+yPawP+z+UhpRSlGgDaAlDCEiAitJ48vw/lIaUUpRoA2gJQwiQoiifW8DfP5SGlFKUaANoCUMIlAj2ZIawAECUhpRSlGgDaAlDCFx7WxTHcgxAlIaUUpRoA2gJQwjMhaQ4Jbr8P5SGlFKUaANoCUMIvmgnzmv74D+UhpRSlGgDaAlDCL5oJ85r++A/lIaUUpRoA2gJQwi+aCfOa/vgP5SGlFKUZS4=
+
 $$$$
 docked CHEMBL3264998
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  63 67  0  0  0  0  0  0  0  0999 V2000
    -4.3478   -2.7613   13.4633 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3880,7 +3985,7 @@ docked CHEMBL3264998
    -6.5547    5.8961   12.7292 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.2499    6.3917   11.4498 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.2528    5.6203   10.4568 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.7859    7.5265   11.5041 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -7.7859    7.5265   11.5041 O   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1582    5.7646   13.4491 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.8476    5.3378   13.2788 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5048   -0.9835   14.3179 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3911,77 +4016,81 @@ docked CHEMBL3264998
    -2.9584    0.8784   11.6664 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9145    1.4226   12.9937 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2886    0.2946   11.7795 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 40  1  0  0  0  0
-  1 41  1  0  0  0  0
-  1 42  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 37  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 43  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 44  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 36  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 45  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 46  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 47  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 48  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 49  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 50  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 51  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 52  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 53  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 35  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 54  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 55  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 34  1  0  0  0  0
- 30 31  1  0  0  0  0
- 30 56  1  0  0  0  0
- 30 57  1  0  0  0  0
- 31 32  2  0  0  0  0
- 31 33  1  0  0  0  0
- 34 35  2  0  0  0  0
- 34 58  1  0  0  0  0
- 35 59  1  0  0  0  0
- 36 37  2  0  0  0  0
- 36 60  1  0  0  0  0
- 37 38  1  0  0  0  0
- 38 39  1  0  0  0  0
- 39 61  1  0  0  0  0
- 39 62  1  0  0  0  0
- 39 63  1  0  0  0  0
+  1  2  1  0
+  1 40  1  0
+  1 41  1  0
+  1 42  1  0
+  2  3  1  0
+  3  4  2  0
+  3 37  1  0
+  4  5  1  0
+  4 43  1  0
+  5  6  2  0
+  5 44  1  0
+  6  7  1  0
+  6 36  1  0
+  7  8  1  0
+  7 45  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 46  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 47  1  0
+ 14 15  1  0
+ 14 48  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 49  1  0
+ 19 20  2  0
+ 19 50  1  0
+ 20 21  1  0
+ 20 51  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 52  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 53  1  0
+ 26 27  2  0
+ 26 35  1  0
+ 27 28  1  0
+ 27 54  1  0
+ 28 29  2  0
+ 28 55  1  0
+ 29 30  1  0
+ 29 34  1  0
+ 30 31  1  0
+ 30 56  1  0
+ 30 57  1  0
+ 31 32  2  0
+ 31 33  1  0
+ 34 35  2  0
+ 34 58  1  0
+ 35 59  1  0
+ 36 37  2  0
+ 36 60  1  0
+ 37 38  1  0
+ 38 39  1  0
+ 39 61  1  0
+ 39 62  1  0
+ 39 63  1  0
+M  CHG  1  33  -1
 M  END
+>  <AmberAM1BCCCache>  (36) 
+gASVCAUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDq/zCqoFfU/lIaUUpRoA2gJQwjgkVKJBNYMwJSGlFKUaANoCUMIZ6O3QmkR8D+UhpRSlGgDaAlDCGt9u/knl/2/lIaUUpRoA2gJQwhYxHca9cL6v5SGlFKUaANoCUMIKKskUBv4+T+UhpRSlGgDaAlDCPiG7THGjSDAlIaUUpRoA2gJQwiQgs/X6T8gQJSGlFKUaANoCUMIdkIYqB79IMCUhpRSlGgDaAlDCBF9Z3bVlhVAlIaUUpRoA2gJQwjJDHLTetkDwJSGlFKUaANoCUMI/QrEgq8k4D+UhpRSlGgDaAlDCPgNU+lozQPAlIaUUpRoA2gJQwj1vopZNwOzv5SGlFKUaANoCUMIxL5vLxn2BsCUhpRSlGgDaAlDCENkfCZNXADAlIaUUpRoA2gJQwhslxHbnY38v5SGlFKUaANoCUMICNPhmDQj7r+UhpRSlGgDaAlDCG6xZ7wThPu/lIaUUpRoA2gJQwjcnTDUFBbyv5SGlFKUaANoCUMIBm4FRM4e+r+UhpRSlGgDaAlDCFACCgRoQOy/lIaUUpRoA2gJQwjnoMaxLmQfQJSGlFKUaANoCUMIxLgAChFWHMCUhpRSlGgDaAlDCEZruPF/NxXAlIaUUpRoA2gJQwj3mOTnI1OmP5SGlFKUaANoCUMIDGGj7NW4/r+UhpRSlGgDaAlDCBkkqQZK8fa/lIaUUpRoA2gJQwixCVO6hoDRv5SGlFKUaANoCUMIWl4XuaaYAMCUhpRSlGgDaAlDCF3IPBVOoiVAlIaUUpRoA2gJQwhnNUhMms4jwJSGlFKUaANoCUMIZzVITJrOI8CUhpRSlGgDaAlDCBkkqQZK8fa/lIaUUpRoA2gJQwgMYaPs1bj+v5SGlFKUaANoCUMI9mtXAXoYAsCUhpRSlGgDaAlDCBcMN1JeGvY/lIaUUpRoA2gJQwgljc4xTAYNwJSGlFKUaANoCUMI9cNQgmDl9D+UhpRSlGgDaAlDCOUomGNAiN8/lIaUUpRoA2gJQwjlKJhjQIjfP5SGlFKUaANoCUMI5SiYY0CI3z+UhpRSlGgDaAlDCDYGG376a/o/lIaUUpRoA2gJQwjA/BLPicz6P5SGlFKUaANoCUMIWp/k8M04FECUhpRSlGgDaAlDCM4fORHeKwFAlIaUUpRoA2gJQwhBD+ve2NQBQJSGlFKUaANoCUMIzh85Ed4rAUCUhpRSlGgDaAlDCNbpAnGojfs/lIaUUpRoA2gJQwggGSvc26r5P5SGlFKUaANoCUMIkO6GyGBd+z+UhpRSlGgDaAlDCI262gV1cP0/lIaUUpRoA2gJQwhc8hhGtjENQJSGlFKUaANoCUMIOTrHQOZY+D+UhpRSlGgDaAlDCKOnyqeTMf4/lIaUUpRoA2gJQwi4TrgfAwbeP5SGlFKUaANoCUMIuE64HwMG3j+UhpRSlGgDaAlDCKOnyqeTMf4/lIaUUpRoA2gJQwg5OsdA5lj4P5SGlFKUaANoCUMIG+V+GfC9+z+UhpRSlGgDaAlDCJ5TCgvXROA/lIaUUpRoA2gJQwieUwoL10TgP5SGlFKUaANoCUMInlMKC9dE4D+UhpRSlGUu
+
 $$$$
 CHEMBL3264997
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  60 64  0  0  0  0  0  0  0  0999 V2000
    -4.2787   -3.0724   13.6807 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4017,7 +4126,7 @@ CHEMBL3264997
    -3.4533    4.3290   11.6152 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.8605    4.3945   10.9316 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.6462    3.7028    9.9250 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.0007    4.8038   11.1963 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -7.0007    4.8038   11.1963 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5726   -0.8180   14.3041 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9478   -1.0608   14.1631 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.7138   -0.2780   13.3234 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4044,74 +4153,78 @@ CHEMBL3264997
    -2.7073    1.2663   12.0155 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2483    0.2469   12.0303 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5553    1.3808   13.3676 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 39  1  0  0  0  0
-  1 40  1  0  0  0  0
-  1 41  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 36  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 42  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 43  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 35  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 44  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 45  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 46  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 47  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 48  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 49  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 50  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 51  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 52  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 53  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 54  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 55  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 32  1  0  0  0  0
- 31 56  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 34  1  0  0  0  0
- 35 36  2  0  0  0  0
- 35 57  1  0  0  0  0
- 36 37  1  0  0  0  0
- 37 38  1  0  0  0  0
- 38 58  1  0  0  0  0
- 38 59  1  0  0  0  0
- 38 60  1  0  0  0  0
+  1  2  1  0
+  1 39  1  0
+  1 40  1  0
+  1 41  1  0
+  2  3  1  0
+  3  4  2  0
+  3 36  1  0
+  4  5  1  0
+  4 42  1  0
+  5  6  2  0
+  5 43  1  0
+  6  7  1  0
+  6 35  1  0
+  7  8  1  0
+  7 44  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 45  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 46  1  0
+ 14 15  1  0
+ 14 47  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 48  1  0
+ 19 20  2  0
+ 19 49  1  0
+ 20 21  1  0
+ 20 50  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 51  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 52  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 53  1  0
+ 28 29  2  0
+ 28 54  1  0
+ 29 30  1  0
+ 29 55  1  0
+ 30 31  2  0
+ 30 32  1  0
+ 31 56  1  0
+ 32 33  2  0
+ 32 34  1  0
+ 35 36  2  0
+ 35 57  1  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 58  1  0
+ 38 59  1  0
+ 38 60  1  0
+M  CHG  1  34  -1
 M  END
+>  <AmberAM1BCCCache>  (37) 
+gASVzwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCIW5ykGEMPU/lIaUUpRoA2gJQwhig+88nXkNwJSGlFKUaANoCUMIeVHTSzx37z+UhpRSlGgDaAlDCDVwrYRqPf6/lIaUUpRoA2gJQwiU6elKO2b5v5SGlFKUaANoCUMIZcNmkTHh+D+UhpRSlGgDaAlDCK3HDa9qiiDAlIaUUpRoA2gJQwjSQyZ/Jy8gQJSGlFKUaANoCUMINWRdeDPvIMCUhpRSlGgDaAlDCNv6kG2YpRVAlIaUUpRoA2gJQwg3ER/l9LsDwJSGlFKUaANoCUMIvAIY6zc64D+UhpRSlGgDaAlDCD8PqMAS0APAlIaUUpRoA2gJQwgenOrL7Fy2v5SGlFKUaANoCUMIULtArwopB8CUhpRSlGgDaAlDCMFkO+8CZwDAlIaUUpRoA2gJQwiFkLPagPP8v5SGlFKUaANoCUMIrc4tR2uO7r+UhpRSlGgDaAlDCPyzEWtnifu/lIaUUpRoA2gJQwjfqeIx2brxv5SGlFKUaANoCUMICXq3oZLD+b+UhpRSlGgDaAlDCGoHXmEPS+y/lIaUUpRoA2gJQwhzIf3bx1YfQJSGlFKUaANoCUMIWDDuTe+zHMCUhpRSlGgDaAlDCKPw5jSNCBXAlIaUUpRoA2gJQwhhqRCwu+q5P5SGlFKUaANoCUMI/Vbtseg+/7+UhpRSlGgDaAlDCIeqCbz26fu/lIaUUpRoA2gJQwgdPQZVSRH2v5SGlFKUaANoCUMIbf4nNLx79L+UhpRSlGgDaAlDCIeqCbz26fu/lIaUUpRoA2gJQwjNQDwG6WglQJSGlFKUaANoCUMIgzzrv92JI8CUhpRSlGgDaAlDCIM867/diSPAlIaUUpRoA2gJQwisnyx+JxgAwJSGlFKUaANoCUMIQDeJ8VVC9D+UhpRSlGgDaAlDCO15540s2g3AlIaUUpRoA2gJQwjzt54knED1P5SGlFKUaANoCUMI/zZhD0He3z+UhpRSlGgDaAlDCP82YQ9B3t8/lIaUUpRoA2gJQwj/NmEPQd7fP5SGlFKUaANoCUMIPAWd7I5W+j+UhpRSlGgDaAlDCHf15Mh99/o/lIaUUpRoA2gJQwi3HjoFeTcUQJSGlFKUaANoCUMIzRlg4ntZAUCUhpRSlGgDaAlDCDENAPk62gFAlIaUUpRoA2gJQwjkIKZlEBEBQJSGlFKUaANoCUMIA+zcGQ1Y+z+UhpRSlGgDaAlDCJIWgS2Ipfk/lIaUUpRoA2gJQwiO4tRqnLj7P5SGlFKUaANoCUMIury0rtk6/T+UhpRSlGgDaAlDCObiN2jjvw1AlIaUUpRoA2gJQwgD7NwZDVj7P5SGlFKUaANoCUMIg5HpEEG+9D+UhpRSlGgDaAlDCC/GvF1K2vw/lIaUUpRoA2gJQwjpykC1Aqr8P5SGlFKUaANoCUMIXtRIZHNJ/D+UhpRSlGgDaAlDCG9zh/2/JOA/lIaUUpRoA2gJQwhvc4f9vyTgP5SGlFKUaANoCUMIb3OH/b8k4D+UhpRSlGUu
+
 $$$$
 docked CHEMBL3264994
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  64 68  0  0  0  0  0  0  0  0999 V2000
    -4.7888   -1.8114   15.8536 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4148,7 +4261,7 @@ docked CHEMBL3264994
    -4.0001    3.5433   10.9479 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.3461    6.0021   12.7000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.2440    6.1647   11.8425 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.4222    6.4050   13.8858 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -6.4222    6.4050   13.8858 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.3073    2.5176   12.1294 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.4100   -2.6160   16.0898 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7632   -2.8768   15.8974 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4178,78 +4291,82 @@ docked CHEMBL3264994
     0.6179    2.1498   12.8746 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.1451   -3.1660   16.8311 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.2374   -3.6232   16.5140 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 39  1  0  0  0  0
-  1 40  1  0  0  0  0
-  1 41  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2  4  1  0  0  0  0
-  2  5  1  0  0  0  0
-  3 42  1  0  0  0  0
-  3 43  1  0  0  0  0
-  3 44  1  0  0  0  0
-  4 45  1  0  0  0  0
-  4 46  1  0  0  0  0
-  4 47  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 38  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 48  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 49  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 37  1  0  0  0  0
-  9 10  1  0  0  0  0
-  9 50  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 18  1  0  0  0  0
- 11 12  1  0  0  0  0
- 12 13  2  0  0  0  0
- 12 19  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 51  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 18  1  0  0  0  0
- 15 16  2  0  0  0  0
- 15 52  1  0  0  0  0
- 16 17  1  0  0  0  0
- 16 53  1  0  0  0  0
- 17 18  2  0  0  0  0
- 19 20  2  0  0  0  0
- 19 36  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 54  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 55  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 56  1  0  0  0  0
- 23 24  1  0  0  0  0
- 23 36  2  0  0  0  0
- 24 25  1  0  0  0  0
- 24 57  1  0  0  0  0
- 25 26  2  0  0  0  0
- 25 27  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 32  1  0  0  0  0
- 28 29  1  0  0  0  0
- 28 58  1  0  0  0  0
- 29 30  2  0  0  0  0
- 29 59  1  0  0  0  0
- 30 31  1  0  0  0  0
- 30 33  1  0  0  0  0
- 31 32  2  0  0  0  0
- 31 60  1  0  0  0  0
- 32 61  1  0  0  0  0
- 33 34  2  0  0  0  0
- 33 35  1  0  0  0  0
- 36 62  1  0  0  0  0
- 37 38  2  0  0  0  0
- 37 63  1  0  0  0  0
- 38 64  1  0  0  0  0
+  1  2  1  0
+  1 39  1  0
+  1 40  1  0
+  1 41  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  3 42  1  0
+  3 43  1  0
+  3 44  1  0
+  4 45  1  0
+  4 46  1  0
+  4 47  1  0
+  5  6  2  0
+  5 38  1  0
+  6  7  1  0
+  6 48  1  0
+  7  8  2  0
+  7 49  1  0
+  8  9  1  0
+  8 37  1  0
+  9 10  1  0
+  9 50  1  0
+ 10 11  2  0
+ 10 18  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 19  1  0
+ 13 14  1  0
+ 13 51  1  0
+ 14 15  1  0
+ 14 18  1  0
+ 15 16  2  0
+ 15 52  1  0
+ 16 17  1  0
+ 16 53  1  0
+ 17 18  2  0
+ 19 20  2  0
+ 19 36  1  0
+ 20 21  1  0
+ 20 54  1  0
+ 21 22  2  0
+ 21 55  1  0
+ 22 23  1  0
+ 22 56  1  0
+ 23 24  1  0
+ 23 36  2  0
+ 24 25  1  0
+ 24 57  1  0
+ 25 26  2  0
+ 25 27  1  0
+ 27 28  2  0
+ 27 32  1  0
+ 28 29  1  0
+ 28 58  1  0
+ 29 30  2  0
+ 29 59  1  0
+ 30 31  1  0
+ 30 33  1  0
+ 31 32  2  0
+ 31 60  1  0
+ 32 61  1  0
+ 33 34  2  0
+ 33 35  1  0
+ 36 62  1  0
+ 37 38  2  0
+ 37 63  1  0
+ 38 64  1  0
+M  CHG  1  35  -1
 M  END
+>  <AmberAM1BCCCache>  (38) 
+gASVGwUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDuOGsad/e+/lIaUUpRoA2gJQwh/JnBuxKWsv5SGlFKUaANoCUMIO44axp3977+UhpRSlGgDaAlDCDuOGsad/e+/lIaUUpRoA2gJQwgLhhvg8Anxv5SGlFKUaANoCUMIAW8cgu//87+UhpRSlGgDaAlDCJWcqUtkZPy/lIaUUpRoA2gJQwjQlwDZK7L6P5SGlFKUaANoCUMIb4Yf6rCUIMCUhpRSlGgDaAlDCA4GUFbSGiBAlIaUUpRoA2gJQwjfKNQgIL0gwJSGlFKUaANoCUMIa3l/rke5FUCUhpRSlGgDaAlDCOgFtlxtJQTAlIaUUpRoA2gJQwghCpxQkxbgP5SGlFKUaANoCUMIXQITG6NJBMCUhpRSlGgDaAlDCNXFyuoYdLO/lIaUUpRoA2gJQwievDcQxBEHwJSGlFKUaANoCUMINWmKiowvAMCUhpRSlGgDaAlDCOUzKjxvW/a/lIaUUpRoA2gJQwgm4aNAVaj5v5SGlFKUaANoCUMIolIEdZ0h9b+UhpRSlGgDaAlDCAmMWxlfDf2/lIaUUpRoA2gJQwgOdj3qA9XxP5SGlFKUaANoCUMI6kef51yjFsCUhpRSlGgDaAlDCBM+oUJLbCBAlIaUUpRoA2gJQwhVtaJOCnwcwJSGlFKUaANoCUMIA0Goou3JAcCUhpRSlGgDaAlDCP46cL8DE/a/lIaUUpRoA2gJQwjlMyo8b1v2v5SGlFKUaANoCUMI90fSFvx48b+UhpRSlGgDaAlDCOUzKjxvW/a/lIaUUpRoA2gJQwj+OnC/AxP2v5SGlFKUaANoCUMIPwLQzp9cJUCUhpRSlGgDaAlDCEfBNOrIViPAlIaUUpRoA2gJQwhHwTTqyFYjwJSGlFKUaANoCUMIim6jOd0DAsCUhpRSlGgDaAlDCJWcqUtkZPy/lIaUUpRoA2gJQwgBbxyC7//zv5SGlFKUaANoCUMIaAccIwGl2j+UhpRSlGgDaAlDCGgHHCMBpdo/lIaUUpRoA2gJQwhoBxwjAaXaP5SGlFKUaANoCUMIaAccIwGl2j+UhpRSlGgDaAlDCGgHHCMBpdo/lIaUUpRoA2gJQwhoBxwjAaXaP5SGlFKUaANoCUMIaAccIwGl2j+UhpRSlGgDaAlDCGgHHCMBpdo/lIaUUpRoA2gJQwhoBxwjAaXaP5SGlFKUaANoCUMIszJtpEOa+D+UhpRSlGgDaAlDCD0PDxRdBPo/lIaUUpRoA2gJQwg/n59qCjcUQJSGlFKUaANoCUMI9CFxMDMQAUCUhpRSlGgDaAlDCGgRI/4tuQFAlIaUUpRoA2gJQwj0IXEwMxABQJSGlFKUaANoCUMIyAUHZexk+j+UhpRSlGgDaAlDCBA1L9Afgvg/lIaUUpRoA2gJQwivJvWH698AQJSGlFKUaANoCUMIx9V2LN1PDkCUhpRSlGgDaAlDCBRp25ILb/Y/lIaUUpRoA2gJQwg1p7aOhSr+P5SGlFKUaANoCUMINae2joUq/j+UhpRSlGgDaAlDCBRp25ILb/Y/lIaUUpRoA2gJQwgQNS/QH4L4P5SGlFKUaANoCUMIPQ8PFF0E+j+UhpRSlGgDaAlDCLMybaRDmvg/lIaUUpRlLg==
+
 $$$$
 CHEMBL3264995
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  60 64  0  0  0  0  0  0  0  0999 V2000
    -4.2785   -3.0684   13.6701 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4285,7 +4402,7 @@ CHEMBL3264995
    -2.7750    5.3698   13.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.3811    6.4009   12.8957 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.2147    6.1964   11.9817 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.5795    7.0748   13.9338 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -6.5795    7.0748   13.9338 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5592   -0.8003   14.2862 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9478   -1.0590   14.1659 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.7571   -0.3019   13.3342 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4312,74 +4429,78 @@ CHEMBL3264995
    -3.0542    1.1235   11.9011 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5213    0.2666   11.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7665    1.4838   13.0469 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 39  1  0  0  0  0
-  1 40  1  0  0  0  0
-  1 41  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 36  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 42  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 43  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 35  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 44  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 45  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 46  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 47  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 48  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 49  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 50  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 51  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 52  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 53  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 54  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 55  1  0  0  0  0
- 31 56  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 34  1  0  0  0  0
- 35 36  2  0  0  0  0
- 35 57  1  0  0  0  0
- 36 37  1  0  0  0  0
- 37 38  1  0  0  0  0
- 38 58  1  0  0  0  0
- 38 59  1  0  0  0  0
- 38 60  1  0  0  0  0
+  1  2  1  0
+  1 39  1  0
+  1 40  1  0
+  1 41  1  0
+  2  3  1  0
+  3  4  2  0
+  3 36  1  0
+  4  5  1  0
+  4 42  1  0
+  5  6  2  0
+  5 43  1  0
+  6  7  1  0
+  6 35  1  0
+  7  8  1  0
+  7 44  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 45  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 46  1  0
+ 14 15  1  0
+ 14 47  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 48  1  0
+ 19 20  2  0
+ 19 49  1  0
+ 20 21  1  0
+ 20 50  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 51  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 52  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 53  1  0
+ 28 29  2  0
+ 28 54  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 55  1  0
+ 31 56  1  0
+ 32 33  2  0
+ 32 34  1  0
+ 35 36  2  0
+ 35 57  1  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 58  1  0
+ 38 59  1  0
+ 38 60  1  0
+M  CHG  1  34  -1
 M  END
+>  <AmberAM1BCCCache>  (39) 
+gASVzwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCB0Yw5vdEPU/lIaUUpRoA2gJQwgPYxWljfAMwJSGlFKUaANoCUMIDAJkFq647z+UhpRSlGgDaAlDCEEpSeCqa/2/lIaUUpRoA2gJQwi5Zv1RB/j6v5SGlFKUaANoCUMIUv+WaZgj+j+UhpRSlGgDaAlDCNy7zoNfjiDAlIaUUpRoA2gJQwhEzt6QRzkgQJSGlFKUaANoCUMIzNctQjH5IMCUhpRSlGgDaAlDCHoUhuiQiRVAlIaUUpRoA2gJQwgR5XpymKsDwJSGlFKUaANoCUMIxrywZBob4D+UhpRSlGgDaAlDCOLjmVyqtwPAlIaUUpRoA2gJQwixMCVK4E+zv5SGlFKUaANoCUMI9I8yS6IQB8CUhpRSlGgDaAlDCNE3AW6yXgDAlIaUUpRoA2gJQwiIPhtqaJL8v5SGlFKUaANoCUMIyxftB1mN7r+UhpRSlGgDaAlDCM9T7fMlufu/lIaUUpRoA2gJQwg9QLYLJ0vyv5SGlFKUaANoCUMI3BmTKlHz+b+UhpRSlGgDaAlDCIhQHSL9Sey/lIaUUpRoA2gJQwhOOOUj6lYfQJSGlFKUaANoCUMIRydHBfwmHMCUhpRSlGgDaAlDCDvWW6ugLBXAlIaUUpRoA2gJQwgnyZW5Qvy/P5SGlFKUaANoCUMIbVLspsBZAcCUhpRSlGgDaAlDCJxczhh5KfG/lIaUUpRoA2gJQwjFLKOIMjL5v5SGlFKUaANoCUMInFzOGHkp8b+UhpRSlGgDaAlDCG1S7KbAWQHAlIaUUpRoA2gJQwijyz8fA28lQJSGlFKUaANoCUMIf7AGkdWPI8CUhpRSlGgDaAlDCH+wBpHVjyPAlIaUUpRoA2gJQwgmPRodAzMCwJSGlFKUaANoCUMI+2Qtw5MV9j+UhpRSlGgDaAlDCLJgU3mxCA3AlIaUUpRoA2gJQwjZHEfzleD0P5SGlFKUaANoCUMIdoxxJxZ13z+UhpRSlGgDaAlDCHaMcScWdd8/lIaUUpRoA2gJQwh2jHEnFnXfP5SGlFKUaANoCUMIG18R7y9n+j+UhpRSlGgDaAlDCOpQhegG+Po/lIaUUpRoA2gJQwiUNSJNmzcUQJSGlFKUaANoCUMI40nynZxBAUCUhpRSlGgDaAlDCFc5pGuX6gFAlIaUUpRoA2gJQwhATLTJeCkBQJSGlFKUaANoCUMIdUd9OZZY+z+UhpRSlGgDaAlDCHp7KfyBRfk/lIaUUpRoA2gJQwgvTAGRTij7P5SGlFKUaANoCUMIuA5NH/Kb/T+UhpRSlGgDaAlDCOYl2oHl5gxAlIaUUpRoA2gJQwgHps0P/ZL3P5SGlFKUaANoCUMILBhVzmI7/T+UhpRSlGgDaAlDCCwYVc5iO/0/lIaUUpRoA2gJQwgHps0P/ZL3P5SGlFKUaANoCUMIAD51iiW5+z+UhpRSlGgDaAlDCLFqYi2CW+A/lIaUUpRoA2gJQwixamItglvgP5SGlFKUaANoCUMIsWpiLYJb4D+UhpRSlGUu
+
 $$$$
 docked CHEMBL3265004
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  65 70  0  0  0  0  0  0  0  0999 V2000
    -4.3574   -2.7664   13.4483 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4447,80 +4568,83 @@ docked CHEMBL3265004
    -2.9481    0.9192   11.7193 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8593    1.3922   13.0198 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3179    0.2625   11.7547 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 41  1  0  0  0  0
-  1 42  1  0  0  0  0
-  1 43  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 38  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 44  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 45  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 37  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 46  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 47  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 48  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 49  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 50  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 51  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 52  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 53  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 54  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 55  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 56  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 57  1  0  0  0  0
- 31 58  1  0  0  0  0
- 32 33  1  0  0  0  0
- 32 36  2  0  0  0  0
- 33 34  2  0  0  0  0
- 33 59  1  0  0  0  0
- 34 35  1  0  0  0  0
- 35 36  1  0  0  0  0
- 35 60  1  0  0  0  0
- 36 61  1  0  0  0  0
- 37 38  2  0  0  0  0
- 37 62  1  0  0  0  0
- 38 39  1  0  0  0  0
- 39 40  1  0  0  0  0
- 40 63  1  0  0  0  0
- 40 64  1  0  0  0  0
- 40 65  1  0  0  0  0
+  1  2  1  0
+  1 41  1  0
+  1 42  1  0
+  1 43  1  0
+  2  3  1  0
+  3  4  2  0
+  3 38  1  0
+  4  5  1  0
+  4 44  1  0
+  5  6  2  0
+  5 45  1  0
+  6  7  1  0
+  6 37  1  0
+  7  8  1  0
+  7 46  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 47  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 48  1  0
+ 14 15  1  0
+ 14 49  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 50  1  0
+ 19 20  2  0
+ 19 51  1  0
+ 20 21  1  0
+ 20 52  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 53  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 54  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 55  1  0
+ 28 29  2  0
+ 28 56  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 57  1  0
+ 31 58  1  0
+ 32 33  1  0
+ 32 36  2  0
+ 33 34  2  0
+ 33 59  1  0
+ 34 35  1  0
+ 35 36  1  0
+ 35 60  1  0
+ 36 61  1  0
+ 37 38  2  0
+ 37 62  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 63  1  0
+ 40 64  1  0
+ 40 65  1  0
 M  END
+>  <AmberAM1BCCCache>  (40) 
+gASVLgUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCF4ekIQc3vQ/lIaUUpRoA2gJQwjB63gLO5EMwJSGlFKUaANoCUMIzslKgjkd8j+UhpRSlGgDaAlDCFwL6EHSj/6/lIaUUpRoA2gJQwhOhlAli6j5v5SGlFKUaANoCUMI2zSMvQoO+D+UhpRSlGgDaAlDCE6Z44XSpiDAlIaUUpRoA2gJQwg5Yy6ToqsgQJSGlFKUaANoCUMIvS7tywZUIcCUhpRSlGgDaAlDCGdYe868ZBVAlIaUUpRoA2gJQwjCU4j3z1UEwJSGlFKUaANoCUMIdqWlyhGq3j+UhpRSlGgDaAlDCB9j9RPnuAPAlIaUUpRoA2gJQwjaG1laNJadv5SGlFKUaANoCUMIvh/cNORoBsCUhpRSlGgDaAlDCPavFqJaqADAlIaUUpRoA2gJQwjBdQLzhVH6v5SGlFKUaANoCUMIPIa7GZQL6r+UhpRSlGgDaAlDCO5pOBg5yvq/lIaUUpRoA2gJQwj+Oeki6H3yv5SGlFKUaANoCUMI3tqVJ25p/L+UhpRSlGgDaAlDCFFzq7uyzOq/lIaUUpRoA2gJQwh7MwRArAUgQJSGlFKUaANoCUMIoPgjqY1yG8CUhpRSlGgDaAlDCJKAN32BBhbAlIaUUpRoA2gJQwiCvRKO0FjoP5SGlFKUaANoCUMIiv8dZ4UI/7+UhpRSlGgDaAlDCCouH0ib9vK/lIaUUpRoA2gJQwjR7ZVZoTfIv5SGlFKUaANoCUMIKi4fSJv28r+UhpRSlGgDaAlDCIr/HWeFCP+/lIaUUpRoA2gJQwjlE8nAVMwCwJSGlFKUaANoCUMIPTwbgLIODUCUhpRSlGgDaAlDCPyUl2k+RhjAlIaUUpRoA2gJQwhj83AESVXQv5SGlFKUaANoCUMI9UyLs07n+b+UhpRSlGgDaAlDCMHYjeGREgHAlIaUUpRoA2gJQwg7a/qr0uL1P5SGlFKUaANoCUMIB+f0s4LBDMCUhpRSlGgDaAlDCBkjFNzUrfQ/lIaUUpRoA2gJQwhctjrYtnbgP5SGlFKUaANoCUMIXLY62LZ24D+UhpRSlGgDaAlDCFy2Oti2duA/lIaUUpRoA2gJQwjkW9Yo/pT6P5SGlFKUaANoCUMIW2Xe1240+j+UhpRSlGgDaAlDCKZvxHxcdxRAlIaUUpRoA2gJQwgz2+QYZZcAQJSGlFKUaANoCUMI1L7MCxO5AUCUhpRSlGgDaAlDCI/DUGPLiAFAlIaUUpRoA2gJQwiyGZ5f6Tj9P5SGlFKUaANoCUMI5FvWKP6U+j+UhpRSlGgDaAlDCBVqYi8nBPo/lIaUUpRoA2gJQwg9EJaweJn9P5SGlFKUaANoCUMISopmvVYHDkCUhpRSlGgDaAlDCFYxMhWDR/w/lIaUUpRoA2gJQwgXhLgQnfr4P5SGlFKUaANoCUMIF4S4EJ36+D+UhpRSlGgDaAlDCFYxMhWDR/w/lIaUUpRoA2gJQwjsdS/j5f3gP5SGlFKUaANoCUMIUxxgMZZUDkCUhpRSlGgDaAlDCDPb5BhllwBAlIaUUpRoA2gJQwgRNrZsOxf8P5SGlFKUaANoCUMIh/V4sW334D+UhpRSlGgDaAlDCIf1eLFt9+A/lIaUUpRoA2gJQwiH9XixbffgP5SGlFKUZS4=
+
 $$$$
 CHEMBL3265001
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  62 67  0  0  0  0  0  0  0  0999 V2000
    -4.2787   -3.0724   13.6807 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4555,7 +4679,7 @@ CHEMBL3265001
    -4.7317    4.8272   11.8784 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4417    4.3734   11.6301 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.3685    6.1606   13.2234 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.4369    5.4687   12.9182 N   0  5  0  0  0  0  0  0  0  0  0  0
+   -7.4369    5.4687   12.9182 N   0  0  0  0  0  0  0  0  0  0  0  0
    -8.4966    6.2443   13.3150 N   0  0  0  0  0  0  0  0  0  0  0  0
    -7.9900    7.3941   13.8529 N   0  0  0  0  0  0  0  0  0  0  0  0
    -6.6228    7.3173   13.7830 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4585,77 +4709,81 @@ CHEMBL3265001
    -2.7073    1.2663   12.0155 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2483    0.2469   12.0303 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5553    1.3808   13.3676 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 41  1  0  0  0  0
-  1 42  1  0  0  0  0
-  1 43  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 38  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 44  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 45  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 37  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 46  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 47  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 48  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 49  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 50  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 51  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 52  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 53  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 54  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 55  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 56  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 57  1  0  0  0  0
- 31 58  1  0  0  0  0
- 32 36  2  0  0  0  0
- 32 33  1  0  0  0  0
- 33 34  1  0  0  0  0
- 34 35  2  0  0  0  0
- 35 36  1  0  0  0  0
- 37 38  2  0  0  0  0
- 37 59  1  0  0  0  0
- 38 39  1  0  0  0  0
- 39 40  1  0  0  0  0
- 40 60  1  0  0  0  0
- 40 61  1  0  0  0  0
- 40 62  1  0  0  0  0
+  1  2  1  0
+  1 41  1  0
+  1 42  1  0
+  1 43  1  0
+  2  3  1  0
+  3  4  2  0
+  3 38  1  0
+  4  5  1  0
+  4 44  1  0
+  5  6  2  0
+  5 45  1  0
+  6  7  1  0
+  6 37  1  0
+  7  8  1  0
+  7 46  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 47  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 48  1  0
+ 14 15  1  0
+ 14 49  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 50  1  0
+ 19 20  2  0
+ 19 51  1  0
+ 20 21  1  0
+ 20 52  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 53  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 54  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 55  1  0
+ 28 29  2  0
+ 28 56  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 57  1  0
+ 31 58  1  0
+ 32 36  2  0
+ 32 33  1  0
+ 33 34  1  0
+ 34 35  2  0
+ 35 36  1  0
+ 37 38  2  0
+ 37 59  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 60  1  0
+ 40 61  1  0
+ 40 62  1  0
+M  CHG  1  33  -1
 M  END
+>  <AmberAM1BCCCache>  (41) 
+gASV9QQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCF5XS8l2D/U/lIaUUpRoA2gJQwjNRRM6HdkMwJSGlFKUaANoCUMIjDs24TcL8D+UhpRSlGgDaAlDCAHqwLIRbf2/lIaUUpRoA2gJQwg0LPl7Jsn6v5SGlFKUaANoCUMIkj4flzEi+j+UhpRSlGgDaAlDCPOzHV6MjiDAlIaUUpRoA2gJQwiUVZ+rIz8gQJSGlFKUaANoCUMITE+MEWf/IMCUhpRSlGgDaAlDCEkk6DM3iRVAlIaUUpRoA2gJQwhyxbbbS6wDwJSGlFKUaANoCUMIdomS3Xpv3z+UhpRSlGgDaAlDCEPE1cVduAPAlIaUUpRoA2gJQwivPKFxTWazv5SGlFKUaANoCUMIsXIw4DH5BsCUhpRSlGgDaAlDCDEYPddlXwDAlIaUUpRoA2gJQwgDBBeUh2P8v5SGlFKUaANoCUMISpncrCaQ7r+UhpRSlGgDaAlDCI8UZcaMuvu/lIaUUpRoA2gJQwj9AC7ejUzyv5SGlFKUaANoCUMInNoK/bf0+b+UhpRSlGgDaAlDCP8/E1OL/+u/lIaUUpRoA2gJQwggSEdvkFYfQJSGlFKUaANoCUMIdxfluVUnHMCUhpRSlGgDaAlDCHNY89M5ehXAlIaUUpRoA2gJQwixjPAKln2Yv5SGlFKUaANoCUMIjOC4A6HN/b+UhpRSlGgDaAlDCDp6+x+IrPe/lIaUUpRoA2gJQwg8lGrjOpfwP5SGlFKUaANoCUMIOnr7H4is97+UhpRSlGgDaAlDCIzguAOhzf2/lIaUUpRoA2gJQwi+yC2VbaoHQJSGlFKUaANoCUMI6ntRZCAQFMCUhpRSlGgDaAlDCIpRAkmiIADAlIaUUpRoA2gJQwiKUQJJoiAAwJSGlFKUaANoCUMI6ntRZCAQFMCUhpRSlGgDaAlDCOQfGLKSGwLAlIaUUpRoA2gJQwg8pLXwLBT2P5SGlFKUaANoCUMIEkGP4mQJDcCUhpRSlGgDaAlDCBhczyAv3/Q/lIaUUpRoA2gJQwh2iZLdem/fP5SGlFKUaANoCUMIdomS3Xpv3z+UhpRSlGgDaAlDCHaJkt16b98/lIaUUpRoA2gJQwhanpkcyWX6P5SGlFKUaANoCUMI5JSRbVjG+j+UhpRSlGgDaAlDCGNFhJhBNxRAlIaUUpRoA2gJQwiDabY06UABQJSGlFKUaANoCUMI9lhoAuTpAUCUhpRSlGgDaAlDCOBreGDFKAFAlIaUUpRoA2gJQwj6gYEPd4f7P5SGlFKUaANoCUMI/7Ut0mJ0+T+UhpRSlGgDaAlDCG+Lib7nJvs/lIaUUpRoA2gJQwj3TdVMi5r9P5SGlFKUaANoCUMIhkWeGDLmDECUhpRSlGgDaAlDCF3SRd+0Uvg/lIaUUpRoA2gJQwj5ZysuAZH8P5SGlFKUaANoCUMI+WcrLgGR/D+UhpRSlGgDaAlDCF3SRd+0Uvg/lIaUUpRoA2gJQwhAff23vrf7P5SGlFKUaANoCUMIMelyiLRY4D+UhpRSlGgDaAlDCDHpcoi0WOA/lIaUUpRoA2gJQwgx6XKItFjgP5SGlFKUZS4=
+
 $$$$
 CHEMBL3264996
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  64 68  0  0  0  0  0  0  0  0999 V2000
    -8.4473    6.2468   12.5392 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4722,78 +4850,81 @@ CHEMBL3264996
    -0.1636   -0.0052   13.7300 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7585    6.1324   14.0479 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.0412    6.9785   14.4762 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 40  1  0  0  0  0
-  1 41  1  0  0  0  0
-  1 42  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3  5  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 39  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 43  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7 44  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 38  1  0  0  0  0
-  9 10  1  0  0  0  0
-  9 45  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 12  1  0  0  0  0
- 12 13  2  0  0  0  0
- 12 17  1  0  0  0  0
- 13 14  1  0  0  0  0
- 13 46  1  0  0  0  0
- 14 15  2  0  0  0  0
- 14 47  1  0  0  0  0
- 15 16  1  0  0  0  0
- 15 48  1  0  0  0  0
- 16 17  2  0  0  0  0
- 16 18  1  0  0  0  0
- 17 49  1  0  0  0  0
- 18 19  2  0  0  0  0
- 18 37  1  0  0  0  0
- 19 20  1  0  0  0  0
- 19 50  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 24  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 51  1  0  0  0  0
- 22 23  1  0  0  0  0
- 22 52  1  0  0  0  0
- 23 24  2  0  0  0  0
- 24 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 37  2  0  0  0  0
- 26 27  1  0  0  0  0
- 26 53  1  0  0  0  0
- 27 28  2  0  0  0  0
- 27 36  1  0  0  0  0
- 28 29  1  0  0  0  0
- 28 54  1  0  0  0  0
- 29 30  2  0  0  0  0
- 29 55  1  0  0  0  0
- 30 31  1  0  0  0  0
- 30 33  1  0  0  0  0
- 31 32  1  0  0  0  0
- 32 56  1  0  0  0  0
- 32 57  1  0  0  0  0
- 32 58  1  0  0  0  0
- 33 34  1  0  0  0  0
- 33 36  2  0  0  0  0
- 34 35  1  0  0  0  0
- 35 59  1  0  0  0  0
- 35 60  1  0  0  0  0
- 35 61  1  0  0  0  0
- 36 62  1  0  0  0  0
- 38 39  2  0  0  0  0
- 38 63  1  0  0  0  0
- 39 64  1  0  0  0  0
+  1  2  1  0
+  1 40  1  0
+  1 41  1  0
+  1 42  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  2  0
+  5 39  1  0
+  6  7  1  0
+  6 43  1  0
+  7  8  2  0
+  7 44  1  0
+  8  9  1  0
+  8 38  1  0
+  9 10  1  0
+  9 45  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  2  0
+ 12 17  1  0
+ 13 14  1  0
+ 13 46  1  0
+ 14 15  2  0
+ 14 47  1  0
+ 15 16  1  0
+ 15 48  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 17 49  1  0
+ 18 19  2  0
+ 18 37  1  0
+ 19 20  1  0
+ 19 50  1  0
+ 20 21  1  0
+ 20 24  1  0
+ 21 22  2  0
+ 21 51  1  0
+ 22 23  1  0
+ 22 52  1  0
+ 23 24  2  0
+ 24 25  1  0
+ 25 26  1  0
+ 25 37  2  0
+ 26 27  1  0
+ 26 53  1  0
+ 27 28  2  0
+ 27 36  1  0
+ 28 29  1  0
+ 28 54  1  0
+ 29 30  2  0
+ 29 55  1  0
+ 30 31  1  0
+ 30 33  1  0
+ 31 32  1  0
+ 32 56  1  0
+ 32 57  1  0
+ 32 58  1  0
+ 33 34  1  0
+ 33 36  2  0
+ 34 35  1  0
+ 35 59  1  0
+ 35 60  1  0
+ 35 61  1  0
+ 36 62  1  0
+ 38 39  2  0
+ 38 63  1  0
+ 39 64  1  0
 M  END
+>  <AmberAM1BCCCache>  (42) 
+gASVGwUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCChDIWXGRfg/lIaUUpRoA2gJQwiGpvqmRdMUwJSGlFKUaANoCUMI5uhcEuehHkCUhpRSlGgDaAlDCPFCAJp70RnAlIaUUpRoA2gJQwjbC3T418v/v5SGlFKUaANoCUMIC41dKH4H4L+UhpRSlGgDaAlDCCJlaMMtOgLAlIaUUpRoA2gJQwhUDbabEUv0P5SGlFKUaANoCUMIjh6eOQ8qFsCUhpRSlGgDaAlDCPHgLSAbGCBAlIaUUpRoA2gJQwgaPzd5Bv4awJSGlFKUaANoCUMIx1IwGaX3/L+UhpRSlGgDaAlDCBbADxtIe/K/lIaUUpRoA2gJQwjC9OJnUZf6v5SGlFKUaANoCUMIV6UYaDVF6b+UhpRSlGgDaAlDCFAFMZpW7vm/lIaUUpRoA2gJQwj5iABb42bqv5SGlFKUaANoCUMID7hS5lJZFUCUhpRSlGgDaAlDCM+Wm/N/VATAlIaUUpRoA2gJQwgSjQvqkbTeP5SGlFKUaANoCUMILaYIEJe3A8CUhpRSlGgDaAlDCCii+mMy7py/lIaUUpRoA2gJQwgoZbFccE8GwJSGlFKUaANoCUMIA/MpngqnAMCUhpRSlGgDaAlDCEiRSH4IuCBAlIaUUpRoA2gJQwgRauiEfqYgwJSGlFKUaANoCUMIe7PpHGPg9z+UhpRSlGgDaAlDCCIR+3Sjdfm/lIaUUpRoA2gJQwi8jIrieb3+v5SGlFKUaANoCUMIPHEfIclZ8j+UhpRSlGgDaAlDCM4ujAfrjwzAlIaUUpRoA2gJQwhFmGmMvOD0P5SGlFKUaANoCUMIHhzX+dK+9T+UhpRSlGgDaAlDCBQqCLAywAzAlIaUUpRoA2gJQwj/nO3jdLD0P5SGlFKUaANoCUMILB5jCR75AMCUhpRSlGgDaAlDCFL+ELXEXyHAlIaUUpRoA2gJQwgiZWjDLToCwJSGlFKUaANoCUMIC41dKH4H4L+UhpRSlGgDaAlDCAvzQNBzGeM/lIaUUpRoA2gJQwgL80DQcxnjP5SGlFKUaANoCUMIC/NA0HMZ4z+UhpRSlGgDaAlDCGiF62BgzP0/lIaUUpRoA2gJQwgjim+4GJz9P5SGlFKUaANoCUMIJkANPhJRDkCUhpRSlGgDaAlDCPvjOzfHBvo/lIaUUpRoA2gJQwiTNSq2Ndv6P5SGlFKUaANoCUMI3Y7zD9Fr/T+UhpRSlGgDaAlDCOcg7YMQuf0/lIaUUpRoA2gJQwiDmpNIkYAAQJSGlFKUaANoCUMIx3u5D2O6AUCUhpRSlGgDaAlDCIGAPWcbigFAlIaUUpRoA2gJQwhWzSRwEIAUQJSGlFKUaANoCUMIQd+33w43+j+UhpRSlGgDaAlDCMrVrzCel/o/lIaUUpRoA2gJQwgqqu3n9nvgP5SGlFKUaANoCUMIKqrt5/Z74D+UhpRSlGgDaAlDCCqq7ef2e+A/lIaUUpRoA2gJQwieTpcB7hzhP5SGlFKUaANoCUMInk6XAe4c4T+UhpRSlGgDaAlDCJ5OlwHuHOE/lIaUUpRoA2gJQwj3r4902xn8P5SGlFKUaANoCUMII4pvuBic/T+UhpRSlGgDaAlDCGiF62BgzP0/lIaUUpRlLg==
+
 $$$$
 intermediate_1
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  58 62  0  0  0  0  0  0  0  0999 V2000
    -4.2787   -3.0724   13.6807 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4854,72 +4985,75 @@ intermediate_1
    -1.2483    0.2469   12.0303 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5553    1.3808   13.3676 H   0  0  0  0  0  0  0  0  0  0  0  0
    -5.9786    6.0235   13.1483 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 36  1  0  0  0  0
-  1 37  1  0  0  0  0
-  1 38  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 33  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 39  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 40  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 32  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 41  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 42  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 43  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 44  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 45  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 46  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 47  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 48  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 49  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 50  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 51  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 58  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 52  1  0  0  0  0
- 31 53  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 54  1  0  0  0  0
- 33 34  1  0  0  0  0
- 34 35  1  0  0  0  0
- 35 55  1  0  0  0  0
- 35 56  1  0  0  0  0
- 35 57  1  0  0  0  0
+  1  2  1  0
+  1 36  1  0
+  1 37  1  0
+  1 38  1  0
+  2  3  1  0
+  3  4  2  0
+  3 33  1  0
+  4  5  1  0
+  4 39  1  0
+  5  6  2  0
+  5 40  1  0
+  6  7  1  0
+  6 32  1  0
+  7  8  1  0
+  7 41  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 42  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 43  1  0
+ 14 15  1  0
+ 14 44  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 45  1  0
+ 19 20  2  0
+ 19 46  1  0
+ 20 21  1  0
+ 20 47  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 48  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 49  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 50  1  0
+ 28 29  2  0
+ 28 51  1  0
+ 29 30  1  0
+ 29 58  1  0
+ 30 31  2  0
+ 30 52  1  0
+ 31 53  1  0
+ 32 33  2  0
+ 32 54  1  0
+ 33 34  1  0
+ 34 35  1  0
+ 35 55  1  0
+ 35 56  1  0
+ 35 57  1  0
 M  END
+>  <AmberAM1BCCCache>  (43) 
+gASVqQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCBVol0XB3/Q/lIaUUpRoA2gJQwjmRvWqaJAMwJSGlFKUaANoCUMIhBNSQ94e8j+UhpRSlGgDaAlDCKfB4IAtjv6/lIaUUpRoA2gJQwiYPElk5qb5v5SGlFKUaANoCUMIkX6Tfq8P+D+UhpRSlGgDaAlDCBewwu2dpiDAlIaUUpRoA2gJQwhxTE8r16sgQJSGlFKUaANoCUMIhkXMM9JTIcCUhpRSlGgDaAlDCNQqvf4lZRVAlIaUUpRoA2gJQwjnrgSX/VQEwJSGlFKUaANoCUMIUMzCzqSw3j+UhpRSlGgDaAlDCEW+cbMUuAPAlIaUUpRoA2gJQwg8roYYBC2dv5SGlFKUaANoCUMI43pY1BFoBsCUhpRSlGgDaAlDCBwLk0GIpwDAlIaUUpRoA2gJQwgLLPsx4U/6v5SGlFKUaANoCUMIz/Ksl0oI6r+UhpRSlGgDaAlDCDggMVeUyPq/lIaUUpRoA2gJQwhH8OFhQ3zyv5SGlFKUaANoCUMIKJGOZsln/L+UhpRSlGgDaAlDCOTfnDlpyeq/lIaUUpRoA2gJQwixHCXY4AUgQJSGlFKUaANoCUMIMibieCRyG8CUhpRSlGgDaAlDCMirMyE8HhbAlIaUUpRoA2gJQwiONAkDyH3pP5SGlFKUaANoCUMIjaBEHCPg/7+UhpRSlGgDaAlDCIrRBykVtvO/lIaUUpRoA2gJQwhL2XQ2x5z9v5SGlFKUaANoCUMIitEHKRW287+UhpRSlGgDaAlDCI2gRBwj4P+/lIaUUpRoA2gJQwjnMwqBvxEBwJSGlFKUaANoCUMI8rQBbXfk9T+UhpRSlGgDaAlDCCxCcVOwwAzAlIaUUpRoA2gJQwjPbBudea/0P5SGlFKUaANoCUMIyUlJWgB64D+UhpRSlGgDaAlDCMlJSVoAeuA/lIaUUpRoA2gJQwjJSUlaAHrgP5SGlFKUaANoCUMImqXd6aKW+j+UhpRSlGgDaAlDCBGv5ZgTNvo/lIaUUpRoA2gJQwh5QlG0v3MUQJSGlFKUaANoCUMIDYBoeTeYAECUhpRSlGgDaAlDCK9jUGzluQFAlIaUUpRoA2gJQwhpaNTDnYkBQJSGlFKUaANoCUMIaGOlII46/T+UhpRSlGgDaAlDCJql3emilvo/lIaUUpRoA2gJQwjLs2nwywX6P5SGlFKUaANoCUMI81mdcR2b/T+UhpRSlGgDaAlDCCUv6h0pCA5AlIaUUpRoA2gJQwhpffsBBDH8P5SGlFKUaANoCUMIb8v9pWUU+T+UhpRSlGgDaAlDCG/L/aVlFPk/lIaUUpRoA2gJQwhpffsBBDH8P5SGlFKUaANoCUMIx3+9LeAY/D+UhpRSlGgDaAlDCPSIhzO3+uA/lIaUUpRoA2gJQwj0iIczt/rgP5SGlFKUaANoCUMI9IiHM7f64D+UhpRSlGgDaAlDCG/L/aVlFPk/lIaUUpRlLg==
+
 $$$$
 docked CHEMBL3264999 adjust
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  62 66  0  0  0  0  0  0  0  0999 V2000
    -4.3579   -2.7576   13.4432 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4984,76 +5118,79 @@ docked CHEMBL3264999 adjust
    -2.9946    0.8237   11.6966 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.0183    1.4533   13.0128 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2990    0.3721   11.7844 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 39  1  0  0  0  0
-  1 40  1  0  0  0  0
-  1 41  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 36  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 42  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 43  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 35  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 44  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 45  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 46  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 47  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 48  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 49  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 50  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 51  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 52  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 53  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 54  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 55  1  0  0  0  0
- 31 56  1  0  0  0  0
- 32 33  2  0  0  0  0
- 32 34  1  0  0  0  0
- 34 57  1  0  0  0  0
- 34 58  1  0  0  0  0
- 35 36  2  0  0  0  0
- 35 59  1  0  0  0  0
- 36 37  1  0  0  0  0
- 37 38  1  0  0  0  0
- 38 60  1  0  0  0  0
- 38 61  1  0  0  0  0
- 38 62  1  0  0  0  0
+  1  2  1  0
+  1 39  1  0
+  1 40  1  0
+  1 41  1  0
+  2  3  1  0
+  3  4  2  0
+  3 36  1  0
+  4  5  1  0
+  4 42  1  0
+  5  6  2  0
+  5 43  1  0
+  6  7  1  0
+  6 35  1  0
+  7  8  1  0
+  7 44  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 45  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 46  1  0
+ 14 15  1  0
+ 14 47  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 48  1  0
+ 19 20  2  0
+ 19 49  1  0
+ 20 21  1  0
+ 20 50  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 51  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 52  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 53  1  0
+ 28 29  2  0
+ 28 54  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 55  1  0
+ 31 56  1  0
+ 32 33  2  0
+ 32 34  1  0
+ 34 57  1  0
+ 34 58  1  0
+ 35 36  2  0
+ 35 59  1  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 60  1  0
+ 38 61  1  0
+ 38 62  1  0
 M  END
+>  <AmberAM1BCCCache>  (44) 
+gASV9QQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEMQCGU53/Q/lIaUUpRoA2gJQwjP8jybrJAMwJSGlFKUaANoCUMI+LY+C55O8j+UhpRSlGgDaAlDCL4U7An9vv6/lIaUUpRoA2gJQwhqlNhEbqf5v5SGlFKUaANoCUMIvyYEnicP+D+UhpRSlGgDaAlDCBGb1OmupiDAlIaUUpRoA2gJQwhugBjcVbYgQJSGlFKUaANoCUMIUi/9GfVfIcCUhpRSlGgDaAlDCFuW8qHtVRVAlIaUUpRoA2gJQwhn2zySOE8EwJSGlFKUaANoCUMIBm2FTIWu3j+UhpRSlGgDaAlDCMbqqa5PsgPAlIaUUpRoA2gJQwjPolw8/E6dv5SGlFKUaANoCUMIKSli8DFQBsCUhpRSlGgDaAlDCAW32jHMpwDAlIaUUpRoA2gJQwiBjnPXx+P5v5SGlFKUaANoCUMI6KvTB8uo6b+UhpRSlGgDaAlDCAp4wDccyfq/lIaUUpRoA2gJQwjqRpAs3Yjyv5SGlFKUaANoCUMIht8VmODI/L+UhpRSlGgDaAlDCP6Yw6npaeq/lIaUUpRoA2gJQwiIMDLG4REgQJSGlFKUaANoCUMIuUSlj8QaG8CUhpRSlGgDaAlDCKu/DXN9MxbAlIaUUpRoA2gJQwgnxcoRx73xP5SGlFKUaANoCUMIrVu+JEI8AcCUhpRSlGgDaAlDCOvff8q2lee/lIaUUpRoA2gJQwgcviC1YF8AwJSGlFKUaANoCUMI699/yraV57+UhpRSlGgDaAlDCK1bviRCPAHAlIaUUpRoA2gJQwhXaYslRs8fQJSGlFKUaANoCUMIw5rxhkDHHMCUhpRSlGgDaAlDCPCneICT0x/AlIaUUpRoA2gJQwj/4DKH8QUBwJSGlFKUaANoCUMITl5Tot3X9T+UhpRSlGgDaAlDCBTuuEP0wAzAlIaUUpRoA2gJQwj9FIy88a70P5SGlFKUaANoCUMIJJoqmfB44D+UhpRSlGgDaAlDCCSaKpnweOA/lIaUUpRoA2gJQwgkmiqZ8HjgP5SGlFKUaANoCUMIyE1OCRuW+j+UhpRSlGgDaAlDCD9XVriLNfo/lIaUUpRoA2gJQwhXa0ymr38UQJSGlFKUaANoCUMI61XyqdiFAECUhpRSlGgDaAlDCMa3CHyhuQFAlIaUUpRoA2gJQwiAvIzTWYkBQJSGlFKUaANoCUMI2waS6E1q/T+UhpRSlGgDaAlDCA5JyrFixvo/lIaUUpRoA2gJQwgoXbslMvn5P5SGlFKUaANoCUMIZv2JOd3K/T+UhpRSlGgDaAlDCIN+HtYsOA5AlIaUUpRoA2gJQwigiGMJM1j9P5SGlFKUaANoCUMIo69k2+PJ+z+UhpRSlGgDaAlDCKOvZNvjyfs/lIaUUpRoA2gJQwigiGMJM1j9P5SGlFKUaANoCUMI+JTRddhSDUCUhpRSlGgDaAlDCPiU0XXYUg1AlIaUUpRoA2gJQwj0Jy5NWBj8P5SGlFKUaANoCUMIorKDgrcB4T+UhpRSlGgDaAlDCKKyg4K3AeE/lIaUUpRoA2gJQwiisoOCtwHhP5SGlFKUZS4=
+
 $$$$
 redocked CHEMBL3265000 ground state
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  67 71  0  0  0  0  0  0  0  0999 V2000
    -4.2888   -3.0799   13.6145 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5088,7 +5225,7 @@ redocked CHEMBL3265000 ground state
    -4.1707    5.8036   13.4300 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.8614    5.3542   13.2668 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.5868    5.9887   12.6815 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.9127    6.4383   13.7815 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -6.9127    6.4383   13.7815 O   0  0  0  0  0  0  0  0  0  0  0  0
    -7.3412    5.9507   11.6051 N   0  0  0  0  0  0  0  0  0  0  0  0
    -8.7283    6.6959   11.5519 S   0  0  0  0  0  0  0  0  0  0  0  0
    -9.4109    6.4700   10.2713 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5123,81 +5260,85 @@ redocked CHEMBL3265000 ground state
    -3.0091    1.0137   11.7599 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4300    0.1576   11.7454 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7774    1.3798   13.0151 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 43  1  0  0  0  0
-  1 44  1  0  0  0  0
-  1 45  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 40  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 46  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 47  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 39  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 48  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 49  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 50  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 51  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 52  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 53  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 54  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 55  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 56  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 57  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 58  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 59  1  0  0  0  0
- 31 60  1  0  0  0  0
- 32 33  1  0  0  0  0
- 32 34  2  0  0  0  0
- 34 35  1  0  0  0  0
- 35 36  2  0  0  0  0
- 35 37  2  0  0  0  0
- 35 38  1  0  0  0  0
- 38 61  1  0  0  0  0
- 38 62  1  0  0  0  0
- 38 63  1  0  0  0  0
- 39 40  2  0  0  0  0
- 39 64  1  0  0  0  0
- 40 41  1  0  0  0  0
- 41 42  1  0  0  0  0
- 42 65  1  0  0  0  0
- 42 66  1  0  0  0  0
- 42 67  1  0  0  0  0
+  1  2  1  0
+  1 43  1  0
+  1 44  1  0
+  1 45  1  0
+  2  3  1  0
+  3  4  2  0
+  3 40  1  0
+  4  5  1  0
+  4 46  1  0
+  5  6  2  0
+  5 47  1  0
+  6  7  1  0
+  6 39  1  0
+  7  8  1  0
+  7 48  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 49  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 50  1  0
+ 14 15  1  0
+ 14 51  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 52  1  0
+ 19 20  2  0
+ 19 53  1  0
+ 20 21  1  0
+ 20 54  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 55  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 56  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 57  1  0
+ 28 29  2  0
+ 28 58  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 59  1  0
+ 31 60  1  0
+ 32 33  1  0
+ 32 34  2  0
+ 34 35  1  0
+ 35 36  2  0
+ 35 37  2  0
+ 35 38  1  0
+ 38 61  1  0
+ 38 62  1  0
+ 38 63  1  0
+ 39 40  2  0
+ 39 64  1  0
+ 40 41  1  0
+ 41 42  1  0
+ 42 65  1  0
+ 42 66  1  0
+ 42 67  1  0
+M  CHG  1  33  -1
 M  END
+>  <AmberAM1BCCCache>  (45) 
+gASVVAUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCG52TL6yBvU/lIaUUpRoA2gJQwgPsnKcaQgNwJSGlFKUaANoCUMI5EtHG6iY8D+UhpRSlGgDaAlDCD28zwIKDP6/lIaUUpRoA2gJQwjxJ+R2VMD5v5SGlFKUaANoCUMIT4DoDWC3+D+UhpRSlGgDaAlDCGYQPJBKjCDAlIaUUpRoA2gJQwhIeF4UHUogQJSGlFKUaANoCUMIj6rJLTcJIcCUhpRSlGgDaAlDCF5tIvSceRVAlIaUUpRoA2gJQwiAMqxMjNMDwJSGlFKUaANoCUMI/vam9p7i3z+UhpRSlGgDaAlDCEI1uX9itwPAlIaUUpRoA2gJQwj1ZE/0D/Gyv5SGlFKUaANoCUMIeuSpqCrwBsCUhpRSlGgDaAlDCOCHJs7TawDAlIaUUpRoA2gJQwhb7VXldhb8v5SGlFKUaANoCUMIpXmCoYtq7b+UhpRSlGgDaAlDCHr/zzRkXfu/lIaUUpRoA2gJQwi153ipTxryv5SGlFKUaANoCUMINqolx4Ku+r+UhpRSlGgDaAlDCLmkimmpsuu/lIaUUpRoA2gJQwich2DT3KgfQJSGlFKUaANoCUMI19L89lYJHMCUhpRSlGgDaAlDCGF2ksmogxXAlIaUUpRoA2gJQwjrxCi/UszdP5SGlFKUaANoCUMIup8E1AuDAcCUhpRSlGgDaAlDCB23NhPo9uq/lIaUUpRoA2gJQwiuJfJe3sH1v5SGlFKUaANoCUMIHbc2E+j26r+UhpRSlGgDaAlDCLqfBNQLgwHAlIaUUpRoA2gJQwj87o0hIzEiQJSGlFKUaANoCUMIBPnZNAJ7IcCUhpRSlGgDaAlDCCVQsfAyrybAlIaUUpRoA2gJQwjrliPEQVQzQJSGlFKUaANoCUMIdbgvVbWAIcCUhpRSlGgDaAlDCHW4L1W1gCHAlIaUUpRoA2gJQwj2nmGHLNYPwJSGlFKUaANoCUMIQa0Teen4AMCUhpRSlGgDaAlDCOLZgjK9JPU/lIaUUpRoA2gJQwhXre5EsTgNwJSGlFKUaANoCUMI9HawclUB9T+UhpRSlGgDaAlDCO1kMoFU1N8/lIaUUpRoA2gJQwjtZDKBVNTfP5SGlFKUaANoCUMI7WQygVTU3z+UhpRSlGgDaAlDCK64FrpMjfo/lIaUUpRoA2gJQwiyrqpWOfP6P5SGlFKUaANoCUMI5YySO783FECUhpRSlGgDaAlDCKz2dAOrVAFAlIaUUpRoA2gJQwjB6BpX0+IBQJSGlFKUaANoCUMI1fnMPXs0AUCUhpRSlGgDaAlDCKGYQr6H1Ps/lIaUUpRoA2gJQwgTy8Jji9H5P5SGlFKUaANoCUMI96km/4Aj+z+UhpRSlGgDaAlDCEhyvk0iXP0/lIaUUpRoA2gJQwjgxpIMp3INQJSGlFKUaANoCUMIzM9Gu0Oh+T+UhpRSlGgDaAlDCDJmwhiE1/0/lIaUUpRoA2gJQwgyZsIYhNf9P5SGlFKUaANoCUMIzM9Gu0Oh+T+UhpRSlGgDaAlDCLr0M/JKq+w/lIaUUpRoA2gJQwi69DPySqvsP5SGlFKUaANoCUMIuvQz8kqr7D+UhpRSlGgDaAlDCOeTvmbPBPw/lIaUUpRoA2gJQwiGTe4uTE7gP5SGlFKUaANoCUMIhk3uLkxO4D+UhpRSlGgDaAlDCIZN7i5MTuA/lIaUUpRlLg==
+
 $$$$
 CHEMBL3265003 tautomer 2
-  PyMOL3.0          3D                             0
+     RDKit          3D
 
  65 70  0  0  0  0  0  0  0  0999 V2000
    -4.2787   -3.0724   13.6807 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5265,75 +5406,78 @@ CHEMBL3265003 tautomer 2
    -3.0202    1.1828   11.9382 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4680    0.2829   11.8507 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7488    1.4628   13.1758 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1 41  1  0  0  0  0
-  1 42  1  0  0  0  0
-  1 43  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3 38  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4 44  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5 45  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6 37  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7 46  1  0  0  0  0
-  8  9  2  0  0  0  0
-  8 16  1  0  0  0  0
-  9 10  1  0  0  0  0
- 10 11  2  0  0  0  0
- 10 17  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 47  1  0  0  0  0
- 12 13  1  0  0  0  0
- 12 16  1  0  0  0  0
- 13 14  2  0  0  0  0
- 13 48  1  0  0  0  0
- 14 15  1  0  0  0  0
- 14 49  1  0  0  0  0
- 15 16  2  0  0  0  0
- 17 18  2  0  0  0  0
- 17 22  1  0  0  0  0
- 18 19  1  0  0  0  0
- 18 50  1  0  0  0  0
- 19 20  2  0  0  0  0
- 19 51  1  0  0  0  0
- 20 21  1  0  0  0  0
- 20 52  1  0  0  0  0
- 21 22  2  0  0  0  0
- 21 23  1  0  0  0  0
- 22 53  1  0  0  0  0
- 23 24  2  0  0  0  0
- 23 25  1  0  0  0  0
- 25 26  1  0  0  0  0
- 25 54  1  0  0  0  0
- 26 27  2  0  0  0  0
- 26 31  1  0  0  0  0
- 27 28  1  0  0  0  0
- 27 55  1  0  0  0  0
- 28 29  2  0  0  0  0
- 28 56  1  0  0  0  0
- 29 30  1  0  0  0  0
- 29 32  1  0  0  0  0
- 30 31  2  0  0  0  0
- 30 57  1  0  0  0  0
- 31 58  1  0  0  0  0
- 32 36  1  0  0  0  0
- 32 33  2  0  0  0  0
- 33 34  1  0  0  0  0
- 33 59  1  0  0  0  0
- 34 60  1  0  0  0  0
- 34 35  2  0  0  0  0
- 35 36  1  0  0  0  0
- 36 61  1  0  0  0  0
- 37 38  2  0  0  0  0
- 37 62  1  0  0  0  0
- 38 39  1  0  0  0  0
- 39 40  1  0  0  0  0
- 40 63  1  0  0  0  0
- 40 64  1  0  0  0  0
- 40 65  1  0  0  0  0
+  1  2  1  0
+  1 41  1  0
+  1 42  1  0
+  1 43  1  0
+  2  3  1  0
+  3  4  2  0
+  3 38  1  0
+  4  5  1  0
+  4 44  1  0
+  5  6  2  0
+  5 45  1  0
+  6  7  1  0
+  6 37  1  0
+  7  8  1  0
+  7 46  1  0
+  8  9  2  0
+  8 16  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 47  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 13 14  2  0
+ 13 48  1  0
+ 14 15  1  0
+ 14 49  1  0
+ 15 16  2  0
+ 17 18  2  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 50  1  0
+ 19 20  2  0
+ 19 51  1  0
+ 20 21  1  0
+ 20 52  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 53  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 25 54  1  0
+ 26 27  2  0
+ 26 31  1  0
+ 27 28  1  0
+ 27 55  1  0
+ 28 29  2  0
+ 28 56  1  0
+ 29 30  1  0
+ 29 32  1  0
+ 30 31  2  0
+ 30 57  1  0
+ 31 58  1  0
+ 32 36  1  0
+ 32 33  2  0
+ 33 34  1  0
+ 33 59  1  0
+ 34 60  1  0
+ 34 35  2  0
+ 35 36  1  0
+ 36 61  1  0
+ 37 38  2  0
+ 37 62  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 63  1  0
+ 40 64  1  0
+ 40 65  1  0
 M  END
+>  <AmberAM1BCCCache>  (46) 
+gASVLgUAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCODypjLY3/Q/lIaUUpRoA2gJQwiAgW00XZAMwJSGlFKUaANoCUMIlpnd2DxP8j+UhpRSlGgDaAlDCN//zU22tP6/lIaUUpRoA2gJQwiKf7qIJ535v5SGlFKUaANoCUMI2qSkjnb89z+UhpRSlGgDaAlDCL6+IBCbpiDAlIaUUpRoA2gJQwgzvQD+4rEgQJSGlFKUaANoCUMIt2x5QqxeIcCUhpRSlGgDaAlDCLYO4s8ZWRVAlIaUUpRoA2gJQwiB6Xwg8lQEwJSGlFKUaANoCUMIfvcAgwCx3j+UhpRSlGgDaAlDCN/46TwJuAPAlIaUUpRoA2gJQwhb+6PUSCedv5SGlFKUaANoCUMI2reSieJPBsCUhpRSlGgDaAlDCLVFC8t8pwDAlIaUUpRoA2gJQwi0qvPzOu/5v5SGlFKUaANoCUMIrOaVbI2n6b+UhpRSlGgDaAlDCGyVIWp9yPq/lIaUUpRoA2gJQwh7ZdJ0LHzyv5SGlFKUaANoCUMI4zN6EKKh/L+UhpRSlGgDaAlDCMLThQ6saOq/lIaUUpRoA2gJQwjcDOaf9REgQJSGlFKUaANoCUMI6q0BCBVJG8CUhpRSlGgDaAlDCIT8T2rMGxbAlIaUUpRoA2gJQwgg4s9XHqTtP5SGlFKUaANoCUMI4a50JuDk/7+UhpRSlGgDaAlDCKyNtFzL4fC/lIaUUpRoA2gJQwhbmi5q6nziv5SGlFKUaANoCUMIrI20XMvh8L+UhpRSlGgDaAlDCOGudCbg5P+/lIaUUpRoA2gJQwi/FJQokLvjv5SGlFKUaANoCUMIbK7Tc7TFCsCUhpRSlGgDaAlDCJE1yUdbcAtAlIaUUpRoA2gJQwjYFhXELx8YwJSGlFKUaANoCUMInwH5GMb0xr+UhpRSlGgDaAlDCD88AxwMCAHAlIaUUpRoA2gJQwg82xJ9PtH1P5SGlFKUaANoCUMIxnzp3KTADMCUhpRSlGgDaAlDCJv3KoqQr/Q/lIaUUpRoA2gJQwhgX2g0LnrgP5SGlFKUaANoCUMIYF9oNC564D+UhpRSlGgDaAlDCGBfaDQueuA/lIaUUpRoA2gJQwhmMO3WuZb6P5SGlFKUaANoCUMI3Tn1hSo2+j+UhpRSlGgDaAlDCP0jtFnXfxRAlIaUUpRoA2gJQwgyE3EBm44AQJSGlFKUaANoCUMIFSnY4vC5AUCUhpRSlGgDaAlDCM8tXDqpiQFAlIaUUpRoA2gJQwh56TC27Gr9P5SGlFKUaANoCUMIrCtpfwHH+j+UhpRSlGgDaAlDCJc+ed3iBfo/lIaUUpRoA2gJQwi/5KxeNJv9P5SGlFKUaANoCUMITovvXywlDkCUhpRSlGgDaAlDCA6MeFwxD/0/lIaUUpRoA2gJQwjUp/sR6+j5P5SGlFKUaANoCUMI1Kf7Eevo+T+UhpRSlGgDaAlDCA6MeFwxD/0/lIaUUpRoA2gJQwiwVQpuaTr/P5SGlFKUaANoCUMInHbqmF6/3z+UhpRSlGgDaAlDCO2/MHqwFg5AlIaUUpRoA2gJQwiTCs0a9xj8P5SGlFKUaANoCUMIi56mDeX64D+UhpRSlGgDaAlDCIuepg3l+uA/lIaUUpRoA2gJQwiLnqYN5frgP5SGlFKUZS4=
+
 $$$$
