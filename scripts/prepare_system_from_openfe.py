@@ -82,7 +82,7 @@ def main():
         if os.stat(structure).st_size == 0:
             continue
         dataset_collection = Path(structure).parent.parent.name
-        collection_dir = Path(__file__).parent.parent / dataset_collection
+        collection_dir = Path(__file__).parent.parent / "datasets" / dataset_collection
         dataset_dir = collection_dir / str(Path(structure).parent.name)
         output_path = dataset_dir / f"{Path(structure).parent.name}_structure.pdb"
         prepare_system_for_tmd(structure, output_path)
