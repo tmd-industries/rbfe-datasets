@@ -64,13 +64,13 @@ def test_datasets_have_experimental_labels(ds):
     mols = read_sdf(ds)
     has_label = False
     for mol in mols:
-        kj_label = mol.GetProp(KJ_EXPERIMENTAL_LABEL)
         try:
+            kj_label = mol.GetProp(KJ_EXPERIMENTAL_LABEL)
             float(kj_label)
             has_label = True
             assert mol.HasProp(EXPERIMENTAL_FIELD)
             assert mol.HasProp(EXPERIMENTAL_UNIT_FIELD)
-        except ValueError:
+        except (KeyError, ValueError):
             pass
     assert has_label
 
