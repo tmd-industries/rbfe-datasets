@@ -8,7 +8,7 @@ from tmd.constants import DEFAULT_PROTEIN_FF, DEFAULT_WATER_FF
 from tmd.fe.utils import get_mol_name, read_sdf, read_sdf_mols_by_name
 from tmd.md.builders import build_protein_system
 
-datasets_dir = os.path.dirname(os.path.dirname(__file__))
+datasets_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "datasets")
 
 KJ_EXPERIMENTAL_LABEL = "kJ/mol experimental dG"
 EXPERIMENTAL_FIELD = "experimental dG reference field"
@@ -43,7 +43,10 @@ def test_maps_are_connected(ds):
     graph = build_graph_from_edges(edges)
     for node in graph.nodes:
         assert node in mols_by_name
-    assert nx.edge_connectivity(graph) == 3
+    if len(mols_by_name) >= 4:
+        assert nx.edge_connectivity(graph) == 3
+    else:
+        assert nx.edge_connectivity(graph) == 2
 
 
 @pytest.mark.parametrize("ds", list(files_with_ext(datasets_dir, "map.json")))
