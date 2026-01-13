@@ -36,7 +36,8 @@ def prepare_system_for_tmd(pdb_file, output_file):
                 ofs.write(f"""# {output_file.name}
 
 Retrieved from OpenFE's IndustryBenchmarks2024 repo at tag V1.0.0
-Removed Co-factors or Waters: {modified}
+
+Removed Co-factors, Waters or Ions: {modified}
 """)
         except (ValueError, AssertionError) as e:
             print(f"Failed to build and copy system: {e!s}")
@@ -46,7 +47,10 @@ Removed Co-factors or Waters: {modified}
     modeller = Modeller(host_pdb.topology, host_pdb.positions)
     residues_to_delete = []
     for res in modeller.topology.residues():
-        if res.name in ["UNK", "WAT"]:
+        if res.name in ["UNK", "WAT", "HOH"]:
+            residues_to_delete.append(res)
+        elif len(list(res.atoms())) == 1:
+            print(res.name)
             residues_to_delete.append(res)
     modeller.delete(residues_to_delete)
 
@@ -89,16 +93,17 @@ def main():
         if output_path.is_file():
             ligands_path = Path(structure.replace("protein.pdb", "ligands.sdf"))
             assert ligands_path.is_file()
-            copy2(ligands_path, output_path.parent / "ligands.sdf")
-            run(
-                [
-                    sys.executable,
-                    str(Path(__file__).parent / "assign_experimental_labels.py"),
-                    str(ligands_path),
-                    "r_exp_dg",
-                    "kcal/mol",
-                ]
-            )
+            if not (output_path.parent / "ligands.sdf").is_file():
+                copy2(ligands_path, output_path.parent / "ligands.sdf")
+                run(
+                    [
+                        sys.executable,
+                        str(Path(__file__).parent / "assign_experimental_labels.py"),
+                        str(ligands_path),
+                        "r_exp_dg",
+                        "kcal/mol",
+                    ]
+                )
         else:
             failed_structures.append(structure)
 

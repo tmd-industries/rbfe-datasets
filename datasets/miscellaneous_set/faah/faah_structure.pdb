@@ -1,4 +1,4 @@
-REMARK   1 CREATED WITH OPENMM 8.3, 2025-12-21
+REMARK   1 CREATED WITH OPENMM 8.3, 2026-01-13
 HETATM    1  CH3 ACE A  31     -53.037  12.945  27.278  1.00  0.00           C  
 HETATM    2  C   ACE A  31     -54.338  12.176  27.505  1.00  0.00           C  
 HETATM    3  O   ACE A  31     -54.553  11.649  28.594  1.00  0.00           O  
@@ -8440,13 +8440,6 @@ HETATM 8438  H1  NME A 574A    -12.539  21.680  63.589  1.00  0.00           H
 HETATM 8439  H2  NME A 574A    -14.195  22.313  64.005  1.00  0.00           H  
 HETATM 8440  H3  NME A 574A    -13.933  20.530  63.815  1.00  0.00           H  
 TER    8441      NME A 574
-HETATM 8442  O   HOH A 701      -2.376   5.763  26.737  1.00  0.00           O  
-HETATM 8443  H1  HOH A 701      -3.123   5.345  27.255  1.00  0.00           H  
-HETATM 8444  H2  HOH A 701      -1.701   6.141  27.371  1.00  0.00           H  
-HETATM 8445  O   HOH A 702     -45.102  -0.970  47.054  1.00  0.00           O  
-HETATM 8446  H1  HOH A 702     -45.302  -1.034  48.032  1.00  0.00           H  
-HETATM 8447  H2  HOH A 702     -45.434  -0.095  46.702  1.00  0.00           H  
-TER    8448      HOH A 702
 CONECT    1    2    4    5    6
 CONECT    2    1    3    7
 CONECT    3    2
