@@ -1,30 +1,30 @@
-# Bace1 Map
+# Ftase Map
 
 ![Retrospective dG performance](dg_plot.png)
 
 ## Statistics Summary
-- MUE: 1.09
-- RMSE: 1.19
-- R²: 0.76
-- Kendall 𝜏: 1.00
-- Spearman ρ: 1.00
+- MUE: 1.54
+- RMSE: 2.08
+- R²: 0.13
+- Kendall 𝜏: 0.20
+- Spearman ρ: 0.30
 
 ## System Details
-- Ligands: 3
-- Host Atoms: 6049
+- Ligands: 5
+- Host Atoms: 11627
 - Map Details:
-  - Edges: 3
-  - Min Dummy Atoms: 1
-  - Max Dummy Atoms: 6
-  - Mean Dummy Atoms: 4.0
-  - Median Dummy Atoms: 5.0
+  - Edges: 8
+  - Min Dummy Atoms: 3
+  - Max Dummy Atoms: 54
+  - Mean Dummy Atoms: 33.9
+  - Median Dummy Atoms: 37.5
 
 ## Simulation Details
 - TMD Sha: [be54a617e0ca39fba04baa293394cc65f12327f5](https://github.com/tmd-industries/tmd/tree/be54a617e0ca39fba04baa293394cc65f12327f5)
 - GPU: RTX 5090, RTX 5080
 - MPS Processes: 12
-- Total Wallclock Time: 1.99 Hours
-- Total Nanoseconds Simulated: 360.80
+- Total Wallclock Time: 4.64 Hours
+- Total Nanoseconds Simulated: 1638.00
 - TMD Forcefield: smirnoff_2_0_0_amber_am1bcc.py
 - Ligand Charges: Amber AM1BCC ELF10
 - Simulation Details:

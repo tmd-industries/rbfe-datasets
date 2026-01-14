@@ -11,7 +11,7 @@
 
 ## System Details
 - Ligands: 8
-- Host Atoms: 2499
+- Host Atoms: 2109
 - Map Details:
   - Edges: 13
   - Min Dummy Atoms: 2

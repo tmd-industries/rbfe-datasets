@@ -1,30 +1,30 @@
-# Bace1 Map
+# Thrombin Map
 
 ![Retrospective dG performance](dg_plot.png)
 
 ## Statistics Summary
-- MUE: 1.09
-- RMSE: 1.19
-- R²: 0.76
-- Kendall 𝜏: 1.00
-- Spearman ρ: 1.00
+- MUE: 0.77
+- RMSE: 1.00
+- R²: 0.73
+- Kendall 𝜏: 0.75
+- Spearman ρ: 0.87
 
 ## System Details
-- Ligands: 3
-- Host Atoms: 6049
+- Ligands: 11
+- Host Atoms: 4784
 - Map Details:
-  - Edges: 3
-  - Min Dummy Atoms: 1
+  - Edges: 19
+  - Min Dummy Atoms: 0
   - Max Dummy Atoms: 6
-  - Mean Dummy Atoms: 4.0
-  - Median Dummy Atoms: 5.0
+  - Mean Dummy Atoms: 2.2
+  - Median Dummy Atoms: 3.0
 
 ## Simulation Details
 - TMD Sha: [be54a617e0ca39fba04baa293394cc65f12327f5](https://github.com/tmd-industries/tmd/tree/be54a617e0ca39fba04baa293394cc65f12327f5)
 - GPU: RTX 5090, RTX 5080
 - MPS Processes: 12
-- Total Wallclock Time: 1.99 Hours
-- Total Nanoseconds Simulated: 360.80
+- Total Wallclock Time: 1.61 Hours
+- Total Nanoseconds Simulated: 1392.00
 - TMD Forcefield: smirnoff_2_0_0_amber_am1bcc.py
 - Ligand Charges: Amber AM1BCC ELF10
 - Simulation Details:
