@@ -1,9 +1,9 @@
 # Summary Dec 28 2025
-- Number of Datasets: 52
-- Number of Ligands: 846
-- Number of Edges: 1490
-- Total Wallclock Time: 230.77 Hours
-- Average Time Per Edge: 0.15 Hours
+- Number of Datasets: 53
+- Number of Ligands: 854
+- Number of Edges: 1502
+- Total Wallclock Time: 233.87 Hours
+- Average Time Per Edge: 0.16 Hours
 - TMD Sha: [be54a617e0ca39fba04baa293394cc65f12327f5](https://github.com/tmd-industries/tmd/tree/be54a617e0ca39fba04baa293394cc65f12327f5)
 
 ![Retrospective dG performance](dg_plot.png)
