@@ -1,0 +1,4 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+4d,CCN(C)C(=O)[C@H]1CC[C@H](NC(=O)c2cc3cc(Cl)ccc3[nH]2)[C@H](NC(=O)c2nc3c(s2)C[N@H+](C)CC3)C1,-13.024469956206136,0.03955092585909275,-11.72
+4c,CN(C)C(=O)[C@H]1CC[C@H](NC(=O)c2cc3cc(Cl)ccc3[nH]2)[C@H](NC(=O)c2nc3c(s2)C[N@H+](C)CC3)C1,-13.136651706781183,0.03521230207608989,-11.79
+Edoxaban,CN(C)C(=O)[C@H]1CC[C@H](NC(=O)C(=O)Nc2ccc(Cl)cn2)[C@H](NC(=O)c2nc3c(s2)C[N@H+](C)CC3)C1,-9.938878337012676,0.043174283634994176,-12.59

@@ -1,0 +1,813 @@
+2
+     RDKit          3D
+
+ 17 18  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1014  -51.2476    6.8034 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672  -47.1915    5.4787 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4 12  2  0
+  5  6  1  0
+  6  7  1  0
+  6 11  2  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 10 16  1  0
+ 11 12  1  0
+ 12 17  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (1) 
+-5.33
+
+>  <experimental dG reference units>  (1) 
+kcal/mol
+
+>  <experimental dG reference field>  (1) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (1) 
+-22.300720000000002
+
+>  <kcal/mol experimental dG>  (1) 
+-5.33
+
+>  <AmberAM1BCCCache>  (1) 
+gASVngEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCEWN+apszyLAlIaUUpRoA2gJQwiepyFssfYlQJSGlFKUaANoCUMIRY35qmzPIsCUhpRSlGgDaAlDCPrY5SMWBOW/lIaUUpRoA2gJQwjEfey3MGnVP5SGlFKUaANoCUMIbQLsJebX87+UhpRSlGgDaAlDCAui3Ei2j/G/lIaUUpRoA2gJQwjgfOMWEUH9v5SGlFKUaANoCUMIhJR3zKpP/L+UhpRSlGgDaAlDCKyFxDtksfK/lIaUUpRoA2gJQwjbWfwNuPXjv5SGlFKUaANoCUMIKggauUhX2r+UhpRSlGgDaAlDCMduS+bom/Y/lIaUUpRoA2gJQwhWme/5Y+n0P5SGlFKUaANoCUMInJRroqsZ9T+UhpRSlGgDaAlDCAo2G8xE3/g/lIaUUpRoA2gJQwhHC199vnLxv5SGlFKUZS4=
+
+$$$$
+3
+     RDKit          3D
+
+ 17 18  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1014  -51.2476    6.8034 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4447  -47.6105    5.1176 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672  -47.1915    5.4787 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4 12  2  0
+  5  6  1  0
+  6  7  1  0
+  6 11  2  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 10 16  1  0
+ 11 12  1  0
+ 12 17  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (2) 
+-6.39
+
+>  <experimental dG reference units>  (2) 
+kcal/mol
+
+>  <experimental dG reference field>  (2) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (2) 
+-26.73576
+
+>  <kcal/mol experimental dG>  (2) 
+-6.39
+
+>  <AmberAM1BCCCache>  (2) 
+gASVngEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCOpdm6JFvyLAlIaUUpRoA2gJQwjdl+gEy/0lQJSGlFKUaANoCUMI6l2bokW/IsCUhpRSlGgDaAlDCBtaDrTDeem/lIaUUpRoA2gJQwjXX6R/oTPkP5SGlFKUaANoCUMI0mggqn+Q9L+UhpRSlGgDaAlDCBQgpYLpVvG/lIaUUpRoA2gJQwjTDbyuJUf8v5SGlFKUaANoCUMIAhxItU62+7+UhpRSlGgDaAlDCJYtJZH5KeQ/lIaUUpRoA2gJQwgAabuvCn3fv5SGlFKUaANoCUMIt4SsMj8s1L+UhpRSlGgDaAlDCI/i9qWMZfc/lIaUUpRoA2gJQwipA5MKlxP2P5SGlFKUaANoCUMIX9Rqn2P29z+UhpRSlGgDaAlDCHkvWzhDz/S/lIaUUpRoA2gJQwjcvN+8z6nrv5SGlFKUZS4=
+
+$$$$
+4
+     RDKit          3D
+
+ 17 18  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1014  -51.2476    6.8034 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2451  -52.5264    6.3669 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672  -47.1915    5.4787 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4 12  2  0
+  5  6  1  0
+  6  7  1  0
+  6 11  2  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 10 16  1  0
+ 11 12  1  0
+ 12 17  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (3) 
+-5.81
+
+>  <experimental dG reference units>  (3) 
+kcal/mol
+
+>  <experimental dG reference field>  (3) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (3) 
+-24.30904
+
+>  <kcal/mol experimental dG>  (3) 
+-5.81
+
+>  <AmberAM1BCCCache>  (3) 
+gASVngEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCK8/vbza5iLAlIaUUpRoA2gJQwiedG1PTOUlQJSGlFKUaANoCUMIrz+9vNrmIsCUhpRSlGgDaAlDCB0AJGUKVfC/lIaUUpRoA2gJQwiCKTD82cPyP5SGlFKUaANoCUMIQFhVQvoG97+UhpRSlGgDaAlDCFlpppkSOPC/lIaUUpRoA2gJQwjwMsrdz42qP5SGlFKUaANoCUMIcz8pELUZ/L+UhpRSlGgDaAlDCFlpppkSOPC/lIaUUpRoA2gJQwiX8r7o/hTrv5SGlFKUaANoCUMIkTYkhldUxr+UhpRSlGgDaAlDCHdz1dKgBvo/lIaUUpRoA2gJQwgPxcNRD9v6v5SGlFKUaANoCUMIBZ555htU+D+UhpRSlGgDaAlDCDJ4WSpZ1vk/lIaUUpRoA2gJQwgzDaohDRDsv5SGlFKUZS4=
+
+$$$$
+5
+     RDKit          3D
+
+ 20 21  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1014  -51.2476    6.8034 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672  -47.1915    5.4787 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0854  -52.3941    6.3511 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0304  -51.8759    6.0505 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9109  -53.2712    5.6786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1739  -52.7470    7.4091 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4 12  2  0
+  5  6  1  0
+  6  7  1  0
+  6 11  2  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 17  1  0
+  9 10  2  0
+  9 14  1  0
+ 10 11  1  0
+ 10 15  1  0
+ 11 12  1  0
+ 12 16  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (4) 
+-6.04
+
+>  <experimental dG reference units>  (4) 
+kcal/mol
+
+>  <experimental dG reference field>  (4) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (4) 
+-25.27136
+
+>  <kcal/mol experimental dG>  (4) 
+-6.04
+
+>  <AmberAM1BCCCache>  (4) 
+gASV1wEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNiFzXa70SLAlIaUUpRoA2gJQwjBbtUaZ/clQJSGlFKUaANoCUMI2IXNdrvRIsCUhpRSlGgDaAlDCNNmqTi7+OS/lIaUUpRoA2gJQwgTYmWO5n/VP5SGlFKUaANoCUMIFM7RB/Gh87+UhpRSlGgDaAlDCJuA0oiimPC/lIaUUpRoA2gJQwhq7UCYt2z0v5SGlFKUaANoCUMIn2llXSa5+7+UhpRSlGgDaAlDCA1WLnUnS/K/lIaUUpRoA2gJQwjK1K/Ee6vkv5SGlFKUaANoCUMIxjaxQHR/2b+UhpRSlGgDaAlDCCGjZQTe0fY/lIaUUpRoA2gJQwiwzQkYWR/1P5SGlFKUaANoCUMIHm+5QfLk+D+UhpRSlGgDaAlDCDPSwAcRbfG/lIaUUpRoA2gJQwg12GBqDUXdv5SGlFKUaANoCUMIA3S1e3To1j+UhpRSlGgDaAlDCAN0tXt06NY/lIaUUpRoA2gJQwgDdLV7dOjWP5SGlFKUZS4=
+
+$$$$
+7
+     RDKit          3D
+
+ 20 21  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7588  -49.6474    5.4066 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0431  -51.1556    6.7681 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6400  -47.3891    5.5379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3429  -46.9544    5.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0558  -46.7976    6.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3533  -47.3527    4.6766 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 16  1  0
+  5  6  2  0
+  5 10  1  0
+  5 16  1  0
+  6  7  1  0
+  6 12  1  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 11 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (5) 
+-5.88
+
+>  <experimental dG reference units>  (5) 
+kcal/mol
+
+>  <experimental dG reference field>  (5) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (5) 
+-24.60192
+
+>  <kcal/mol experimental dG>  (5) 
+-5.88
+
+>  <AmberAM1BCCCache>  (5) 
+gASV1wEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNLDUAmcvCLAlIaUUpRoA2gJQwh78NkCiw8mQJSGlFKUaANoCUMI0sNQCZy8IsCUhpRSlGgDaAlDCFAr7wKj0dg/lIaUUpRoA2gJQwgaSltuVsLfP5SGlFKUaANoCUMICdIlqQdB9r+UhpRSlGgDaAlDCI1gxXS/x/q/lIaUUpRoA2gJQwiqWhdu1u62v5SGlFKUaANoCUMIVjX61iZL8r+UhpRSlGgDaAlDCO6mfnB5Ge6/lIaUUpRoA2gJQwg9mWNc3lkAwJSGlFKUaANoCUMIimDFdL/H+j+UhpRSlGgDaAlDCASeeeYbVPg/lIaUUpRoA2gJQwixqKtEvfz7v5SGlFKUaANoCUMIRWVJzHeX+j+UhpRSlGgDaAlDCJgcYNdmiP+/lIaUUpRoA2gJQwinwm/zrcjSv5SGlFKUaANoCUMIErhh+hZ13z+UhpRSlGgDaAlDCBK4YfoWdd8/lIaUUpRoA2gJQwgSuGH6FnXfP5SGlFKUZS4=
+
+$$$$
+8
+     RDKit          3D
+
+ 20 21  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2451  -52.5264    6.3669 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0431  -51.1556    6.7681 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6400  -47.3891    5.5379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3429  -46.9544    5.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0558  -46.7976    6.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3533  -47.3527    4.6766 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 16  1  0
+  5  6  2  0
+  5 10  1  0
+  5 16  1  0
+  6  7  1  0
+  6 12  1  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 11 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (6) 
+-6.37
+
+>  <experimental dG reference units>  (6) 
+kcal/mol
+
+>  <experimental dG reference field>  (6) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (6) 
+-26.65208
+
+>  <kcal/mol experimental dG>  (6) 
+-6.37
+
+>  <AmberAM1BCCCache>  (6) 
+gASV1wEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCOOMGvz8uCLAlIaUUpRoA2gJQwi2Z4iVJRAmQJSGlFKUaANoCUMI44wa/Py4IsCUhpRSlGgDaAlDCMb/rfoTptk/lIaUUpRoA2gJQwjTBQUE86vgP5SGlFKUaANoCUMIpiG6wqPb9b+UhpRSlGgDaAlDCKYfoFUmnbM/lIaUUpRoA2gJQwgNWxFnZcf9v5SGlFKUaANoCUMITm36OinX8r+UhpRSlGgDaAlDCFQgh+fu0O6/lIaUUpRoA2gJQwiWtyW6u4cAwJSGlFKUaANoCUMIG+sQn2Cv/D+UhpRSlGgDaAlDCDcLULw61vq/lIaUUpRoA2gJQwgMZnmCGcj3P5SGlFKUaANoCUMI3Vfte/BY+D+UhpRSlGgDaAlDCHlncJlKU/+/lIaUUpRoA2gJQwgx7rD7PPTRv5SGlFKUaANoCUMInEPNvpkH3z+UhpRSlGgDaAlDCJxDzb6ZB98/lIaUUpRoA2gJQwicQ82+mQffP5SGlFKUZS4=
+
+$$$$
+9
+     RDKit          3D
+
+ 23 24  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0431  -51.1556    6.7681 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6400  -47.3891    5.5379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3429  -46.9544    5.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0558  -46.7976    6.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3533  -47.3527    4.6766 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3916  -53.2794    7.0301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3616  -53.8367    7.0476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6822  -53.7874    6.3297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9522  -53.2631    8.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 15  1  0
+  5  6  2  0
+  5 10  1  0
+  5 15  1  0
+  6  7  1  0
+  6 20  1  0
+  7  8  2  0
+  7 12  1  0
+  8  9  1  0
+  8 13  1  0
+  9 10  2  0
+  9 14  1  0
+ 10 11  1  0
+ 11 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 20 23  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (7) 
+-5.48
+
+>  <experimental dG reference units>  (7) 
+kcal/mol
+
+>  <experimental dG reference field>  (7) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (7) 
+-22.928320000000003
+
+>  <kcal/mol experimental dG>  (7) 
+-5.48
+
+>  <AmberAM1BCCCache>  (7) 
+gASVEAIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCGPl/v891yLAlIaUUpRoA2gJQwhBjPFaERAmQJSGlFKUaANoCUMIY+X+/z3XIsCUhpRSlGgDaAlDCMLvIn7z3dU/lIaUUpRoA2gJQwiITpdar6rgP5SGlFKUaANoCUMIjh6xsf/967+UhpRSlGgDaAlDCEBhbE+CFfy/lIaUUpRoA2gJQwgOHzSGbbn+v5SGlFKUaANoCUMIZh4N/E+K9L+UhpRSlGgDaAlDCKDX9JAy0u6/lIaUUpRoA2gJQwhpJYGkDIgAwJSGlFKUaANoCUMIVNF+zkTz9D+UhpRSlGgDaAlDCIPfCtVtYvQ/lIaUUpRoA2gJQwhQndILWQb3P5SGlFKUaANoCUMIA5HFBPFSAMCUhpRSlGgDaAlDCLFvnKylNdG/lIaUUpRoA2gJQwjZ+hEo1YLdP5SGlFKUaANoCUMI2foRKNWC3T+UhpRSlGgDaAlDCNn6ESjVgt0/lIaUUpRoA2gJQwhzSC47XRzgv5SGlFKUaANoCUMIhLLYSnSE3j+UhpRSlGgDaAlDCISy2Ep0hN4/lIaUUpRoA2gJQwiEsthKdITeP5SGlFKUZS4=
+
+$$$$
+10
+     RDKit          3D
+
+ 26 27  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0431  -51.1556    6.7681 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6400  -47.3891    5.5379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3429  -46.9544    5.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0558  -46.7976    6.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3533  -47.3527    4.6766 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0854  -52.3941    6.3511 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0304  -51.8759    6.0505 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9109  -53.2712    5.6786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1739  -52.7470    7.4091 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3916  -53.2794    7.0301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3616  -53.8367    7.0476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6822  -53.7874    6.3297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9522  -53.2631    8.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 14  1  0
+  5  6  2  0
+  5 10  1  0
+  5 14  1  0
+  6  7  1  0
+  6 23  1  0
+  7  8  2  0
+  7 19  1  0
+  8  9  1  0
+  8 12  1  0
+  9 10  2  0
+  9 13  1  0
+ 10 11  1  0
+ 11 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 15 18  1  0
+ 19 20  1  0
+ 19 21  1  0
+ 19 22  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 23 26  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (8) 
+-5.04
+
+>  <experimental dG reference units>  (8) 
+kcal/mol
+
+>  <experimental dG reference field>  (8) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (8) 
+-21.08736
+
+>  <kcal/mol experimental dG>  (8) 
+-5.04
+
+>  <AmberAM1BCCCache>  (8) 
+gASVSQIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCNzunwqJ1yLAlIaUUpRoA2gJQwhfA0FbvQkmQJSGlFKUaANoCUMI3O6fConXIsCUhpRSlGgDaAlDCFv5MUQ2kdM/lIaUUpRoA2gJQwj2toaw/qXgP5SGlFKUaANoCUMI89vhF3OA6r+UhpRSlGgDaAlDCKpWcJsuSfO/lIaUUpRoA2gJQwh8gtCQX8r9v5SGlFKUaANoCUMILmoVUaiM9L+UhpRSlGgDaAlDCKZ4DepTdu6/lIaUUpRoA2gJQwjxSEOjXKEAwJSGlFKUaANoCUMIAI9+KF2Q9D+UhpRSlGgDaAlDCM1MRl9INPc/lIaUUpRoA2gJQwjotkkvHVQAwJSGlFKUaANoCUMI68j4zxJFob+UhpRSlGgDaAlDCN30Fytb9Nk/lIaUUpRoA2gJQwjd9BcrW/TZP5SGlFKUaANoCUMI3fQXK1v02T+UhpRSlGgDaAlDCIYx3v5ju9u/lIaUUpRoA2gJQwhuU2gBwi7WP5SGlFKUaANoCUMIblNoAcIu1j+UhpRSlGgDaAlDCG5TaAHCLtY/lIaUUpRoA2gJQwgF4D7lDSHgv5SGlFKUaANoCUMIohREB2K73j+UhpRSlGgDaAlDCKIURAdiu94/lIaUUpRoA2gJQwiiFEQHYrveP5SGlFKUZS4=
+
+$$$$
+11
+     RDKit          3D
+
+ 17 18  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2451  -52.5264    6.3669 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4767  -47.4624    5.0663 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5823  -47.8088    5.6638 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0431  -51.1556    6.7681 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 17  1  0
+  5  6  2  0
+  5 10  1  0
+  5 17  1  0
+  6  7  1  0
+  6 12  1  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 11 16  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (9) 
+-5.55
+
+>  <experimental dG reference units>  (9) 
+kcal/mol
+
+>  <experimental dG reference field>  (9) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (9) 
+-23.2212
+
+>  <kcal/mol experimental dG>  (9) 
+-5.55
+
+>  <AmberAM1BCCCache>  (9) 
+gASVngEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCBf5E39pkCLAlIaUUpRoA2gJQwg7ABNqcQgmQJSGlFKUaANoCUMIF/kTf2mQIsCUhpRSlGgDaAlDCEAgqMDvfeA/lIaUUpRoA2gJQwgrVY2zBB7eP5SGlFKUaANoCUMIHamllsoU87+UhpRSlGgDaAlDCG+6jpx0voK/lIaUUpRoA2gJQwjmMsEKysv3v5SGlFKUaANoCUMIPdoGAEFLhj+UhpRSlGgDaAlDCDKqxnL1W+S/lIaUUpRoA2gJQwj2N0vejukFwJSGlFKUaANoCUMI7pJNNm2T/T+UhpRSlGgDaAlDCH2Er4k4oPi/lIaUUpRoA2gJQwjb2QlXOr/6P5SGlFKUaANoCUMIahzF0dub9L+UhpRSlGgDaAlDCC6a/i+DrABAlIaUUpRoA2gJQwi+rCOkXDD/v5SGlFKUZS4=
+
+$$$$
+14
+     RDKit          3D
+
+ 21 22  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9082  -49.6031    5.3701 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5823  -47.8088    5.6638 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9818  -51.0595    6.7312 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7240  -52.2212    7.1775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0235  -53.0837    7.3085 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000  -52.4834    6.4152 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2218  -51.9934    8.1533 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 17  1  0
+  5  6  2  0
+  5 10  1  0
+  5 17  1  0
+  6  7  1  0
+  6 12  1  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 11 16  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 18 21  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (10) 
+-5.61
+
+>  <experimental dG reference units>  (10) 
+kcal/mol
+
+>  <experimental dG reference field>  (10) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (10) 
+-23.472240000000003
+
+>  <kcal/mol experimental dG>  (10) 
+-5.61
+
+>  <AmberAM1BCCCache>  (10) 
+gASV6gEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCAUzmFiUMiPAlIaUUpRoA2gJQwjlOdSqAuUlQJSGlFKUaANoCUMIBTOYWJQyI8CUhpRSlGgDaAlDCFqs3jjCiOq/lIaUUpRoA2gJQwj0B9iLtNbkv5SGlFKUaANoCUMIbCN/OyuL+7+UhpRSlGgDaAlDCC6QWxi7NPe/lIaUUpRoA2gJQwiIJRpIN77nv5SGlFKUaANoCUMI9jF5ehxK6b+UhpRSlGgDaAlDCMjrVGutgvG/lIaUUpRoA2gJQwjklUDQOrsDwJSGlFKUaANoCUMIVOlLJtn/9j+UhpRSlGgDaAlDCFTpSybZ//Y/lIaUUpRoA2gJQwhEjZbHy3L9v5SGlFKUaANoCUMIlrAbDDVD+T+UhpRSlGgDaAlDCLsio8qa6/4/lIaUUpRoA2gJQwg0pQaDqKbiv5SGlFKUaANoCUMIPSJcRlXW3T+UhpRSlGgDaAlDCLiSDoTT+uI/lIaUUpRoA2gJQwi4kg6E0/riP5SGlFKUaANoCUMIuJIOhNP64j+UhpRSlGUu
+
+$$$$
+15
+     RDKit          3D
+
+ 31 33  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9818  -51.0595    6.7312 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4992  -51.8692    7.0423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3916  -53.2794    7.0301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3616  -53.8367    7.0476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6822  -53.7874    6.3297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9522  -53.2631    8.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0070  -44.7214    4.7383 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2399  -45.1423    5.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4234  -46.4761    5.6289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6400  -47.3891    5.5379 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8870  -46.9683    5.0472 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0705  -45.6344    4.6473 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512  -43.6735    4.4242 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0753  -44.4249    5.3005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4030  -46.8067    6.0144 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7223  -47.6856    4.9758 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0501  -45.3038    4.2618 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  2  0
+  4 15  1  0
+  5  6  2  0
+  5 10  1  0
+  5 15  1  0
+  6  7  1  0
+  6 17  1  0
+  7  8  2  0
+  7 12  1  0
+  8  9  1  0
+  8 13  1  0
+  9 10  2  0
+  9 14  1  0
+ 10 11  1  0
+ 11 24  1  0
+ 15 16  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+ 21 22  2  0
+ 21 26  1  0
+ 21 27  1  0
+ 22 23  1  0
+ 22 28  1  0
+ 23 24  2  0
+ 23 29  1  0
+ 24 25  1  0
+ 25 26  2  0
+ 25 30  1  0
+ 26 31  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (11) 
+-5.31
+
+>  <experimental dG reference units>  (11) 
+kcal/mol
+
+>  <experimental dG reference field>  (11) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (11) 
+-22.21704
+
+>  <kcal/mol experimental dG>  (11) 
+-5.31
+
+>  <AmberAM1BCCCache>  (11) 
+gASVqAIAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCL/vo085BSPAlIaUUpRoA2gJQwgwwsSQEd8lQJSGlFKUaANoCUMIv++jTzkFI8CUhpRSlGgDaAlDCNVDL2beote/lIaUUpRoA2gJQwgKQZdjsdnnv5SGlFKUaANoCUMIJpT+sXiL8r+UhpRSlGgDaAlDCLX4jsFNyfq/lIaUUpRoA2gJQwhtNQvA2TgAwJSGlFKUaANoCUMIH7GrFmNu87+UhpRSlGgDaAlDCBtlikswdOi/lIaUUpRoA2gJQwh+WAlH5Qz7v5SGlFKUaANoCUMIKGmEx6xc9D+UhpRSlGgDaAlDCChphMesXPQ/lIaUUpRoA2gJQwhRD7hI/vH3P5SGlFKUaANoCUMIjN2gYyz0/7+UhpRSlGgDaAlDCGX4Em3y6gxAlIaUUpRoA2gJQwgmkJZogc3ev5SGlFKUaANoCUMI7JJYJhnl2D+UhpRSlGgDaAlDCOySWCYZ5dg/lIaUUpRoA2gJQwjsklgmGeXYP5SGlFKUaANoCUMI3p7CQp9e/r+UhpRSlGgDaAlDCIbqArskWvu/lIaUUpRoA2gJQwjRM4EHzm34v5SGlFKUaANoCUMIyFYUPcA/1T+UhpRSlGgDaAlDCNEzgQfObfi/lIaUUpRoA2gJQwiG6gK7JFr7v5SGlFKUaANoCUMInXKMdh388z+UhpRSlGgDaAlDCPla+MCD7fQ/lIaUUpRoA2gJQwhGc7MAOyv+P5SGlFKUaANoCUMIRnOzADsr/j+UhpRSlGgDaAlDCPla+MCD7fQ/lIaUUpRlLg==
+
+$$$$
+13 flipped
+     RDKit          3D
+
+ 21 22  0  0  1  0  0  0  0  0999 V2000
+    3.8095  -50.1107    6.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9489  -49.2039    6.5816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033  -47.9830    6.6909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5355  -49.5918    6.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5785  -50.9357    6.4465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6346  -51.8525    6.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9169  -51.4257    6.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1440  -50.1267    5.8008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0985  -49.2120    5.6728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7807  -49.5940    6.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4412  -48.8345    5.9712 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4621  -52.8651    6.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7463  -52.1131    6.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1502  -49.8280    5.5552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3146  -48.2123    5.3262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6305  -47.4584    5.5587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9818  -51.0595    6.7312 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3268  -47.0344    5.2555 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0356  -46.8817    6.3903 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3253  -47.4224    4.7197 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6612  -51.8329    7.0580 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4 11  1  0
+  4 17  2  0
+  5  6  2  0
+  5 10  1  0
+  5 17  1  0
+  6  7  1  0
+  6 12  1  0
+  7  8  2  0
+  7 13  1  0
+  8  9  1  0
+  8 14  1  0
+  9 10  2  0
+  9 15  1  0
+ 10 11  1  0
+ 11 16  1  0
+ 16 18  1  0
+ 16 19  1  0
+ 16 20  1  0
+ 17 21  1  0
+M  CHG  1   3  -1
+M  END
+>  <r_exp_dg>  (12) 
+-5.21
+
+>  <experimental dG reference units>  (12) 
+kcal/mol
+
+>  <experimental dG reference field>  (12) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (12) 
+-21.798640000000002
+
+>  <kcal/mol experimental dG>  (12) 
+-5.21
+
+>  <AmberAM1BCCCache>  (12) 
+gASV6gEAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCGitaQEcRCPAlIaUUpRoA2gJQwi7PTHhleUlQJSGlFKUaANoCUMIaK1pARxEI8CUhpRSlGgDaAlDCE6LJuDgXem/lIaUUpRoA2gJQwjO5RnprPfvv5SGlFKUaANoCUMIxdRHk0A687+UhpRSlGgDaAlDCFY0SSDn3wDAlIaUUpRoA2gJQwjN8YYqsEf8v5SGlFKUaANoCUMILA6fNwIm+7+UhpRSlGgDaAlDCDkzhzV21uq/lIaUUpRoA2gJQwjgVCa/k17jv5SGlFKUaANoCUMIaSRM5sTi9T+UhpRSlGgDaAlDCCZdfABpn/M/lIaUUpRoA2gJQwgmXXwAaZ/zP5SGlFKUaANoCUMIIynQPX2y9T+UhpRSlGgDaAlDCNfrHIN8GcY/lIaUUpRoA2gJQwj9dX7E6GEEwJSGlFKUaANoCUMITg8dw72E4z+UhpRSlGgDaAlDCE4PHcO9hOM/lIaUUpRoA2gJQwhODx3DvYTjP5SGlFKUaANoCUMI5UqTLKWP/j+UhpRSlGUu
+
+$$$$

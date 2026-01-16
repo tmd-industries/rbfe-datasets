@@ -1,0 +1,817 @@
+lig 2, deprot
+     RDKit          3D
+
+ 49 52  0  0  1  0  0  0  0  0999 V2000
+   18.5610  135.2050   -0.0600 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2650  135.6440    0.4650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7520  135.2070    0.7900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9500  135.8920   -1.2990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3280  135.0430   -0.5960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5950  134.1260    1.8570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8720  135.6640   -2.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5930  135.2440   -2.0230 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1020  132.8670    1.7040 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9610  134.2450    3.0400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1540  135.8470   -3.5710 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5650  135.0040   -2.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8650  132.3200    0.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8100  132.1530    2.7740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0960  132.9550    3.6550 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0300  133.7270   -2.8320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0300  135.9470   -3.8520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0510  132.2060   -0.7400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9770  133.3250   -3.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9670  135.5450   -4.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6160  132.5930   -1.9770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7370  131.7180   -0.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4400  134.2320   -4.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3840  131.7160   -3.4630 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   19.8810  132.4840   -3.1800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0080  131.6100   -1.9240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5870  131.9950   -3.1560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8950  131.8790   -4.2840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2860  131.7730   -5.2800 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1195  135.2316    1.4743 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2411  136.7428    0.5110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6409  134.9993    0.1762 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8590  136.1915    1.2689 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0450  136.9707   -1.1058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9142  135.4962   -1.6505 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3049  133.9486   -0.4871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3137  135.4464   -0.4602 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5012  135.1829    3.3143 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7243  132.9727    0.3436 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2241  131.3099    0.8037 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1283  131.1230    2.8393 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4285  133.0153   -2.1242 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4403  136.9443   -3.9110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5564  136.2375   -5.4129 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6240  132.9790   -2.0131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2752  131.4198    0.1947 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6262  133.9273   -5.2323 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3298  132.7823   -4.1159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9969  131.2309   -1.9050 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2 30  1  0
+  2 31  1  0
+  3  6  1  0
+  3 32  1  0
+  3 33  1  0
+  4  7  1  0
+  4 34  1  0
+  4 35  1  0
+  5  8  1  0
+  5 36  1  0
+  5 37  1  0
+  6  9  1  0
+  6 10  2  0
+  7  8  1  0
+  7 11  2  0
+  8 12  1  0
+  9 13  1  0
+  9 14  1  0
+ 10 15  1  0
+ 10 38  1  0
+ 12 16  2  0
+ 12 17  1  0
+ 13 18  1  0
+ 13 39  1  0
+ 13 40  1  0
+ 14 15  2  0
+ 14 41  1  0
+ 16 19  1  0
+ 16 42  1  0
+ 17 20  2  0
+ 17 43  1  0
+ 18 21  2  0
+ 18 22  1  0
+ 19 23  2  0
+ 19 24  1  0
+ 20 23  1  0
+ 20 44  1  0
+ 21 25  1  0
+ 21 45  1  0
+ 22 26  2  0
+ 22 46  1  0
+ 23 47  1  0
+ 25 27  2  0
+ 25 48  1  0
+ 26 27  1  0
+ 26 49  1  0
+ 27 28  1  0
+ 28 29  3  0
+M  END
+>  <i_m_Source_File_Index>  (1) 
+1
+
+>  <b_m_subgroup_collapsed>  (1) 
+0
+
+>  <r_exp_dg>  (1) 
+-12.41
+
+>  <s_m_Source_File>  (1) 
+ftase_extraligs_custcore_stereo_ligands.sdf
+
+>  <s_m_Source_Path>  (1) 
+path\input_structures\original_structures\bayer_macrocycles
+
+>  <s_m_entry_id>  (1) 
+1
+
+>  <s_m_entry_name>  (1) 
+ftase_extraligs_custcore_stereo_ligands.1
+
+>  <s_m_subgroup_title>  (1) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <s_m_subgroupid>  (1) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <experimental dG reference units>  (1) 
+kcal/mol
+
+>  <experimental dG reference field>  (1) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (1) 
+-51.92344
+
+>  <kcal/mol experimental dG>  (1) 
+-12.41
+
+>  <AmberAM1BCCCache>  (1) 
+gASV/gMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDhvpmjMNiHAlIaUUpRoA2gJQwjuNnDextD8P5SGlFKUaANoCUMI/dN4KYNiB0CUhpRSlGgDaAlDCKvkWtU6zfE/lIaUUpRoA2gJQwhN4pipXuXxP5SGlFKUaANoCUMITpr5kVxPCcCUhpRSlGgDaAlDCEJyxygarSBAlIaUUpRoA2gJQwh6Yry4T+4RwJSGlFKUaANoCUMI2NH//M8CA8CUhpRSlGgDaAlDCOPcfbPgJw1AlIaUUpRoA2gJQwjuk1s8fDsdwJSGlFKUaANoCUMIHp7qDN0d6z+UhpRSlGgDaAlDCMqoHGt+xu4/lIaUUpRoA2gJQwiwlo4ncxkTQJSGlFKUaANoCUMI4Zayv/AnH8CUhpRSlGgDaAlDCL3ECSwlify/lIaUUpRoA2gJQwj/EN/7Qon7v5SGlFKUaANoCUMI8SqjqjNV8r+UhpRSlGgDaAlDCBD4J7JMUto/lIaUUpRoA2gJQwg+nsLlRNzzv5SGlFKUaANoCUMIFe6DkG/N9r+UhpRSlGgDaAlDCBXug5Bvzfa/lIaUUpRoA2gJQwgjjXGOLKv6v5SGlFKUaANoCUMIAqDvuYi/8b+UhpRSlGgDaAlDCHPtpZ+Us/C/lIaUUpRoA2gJQwhz7aWflLPwv5SGlFKUaANoCUMIGpLglGjYtL+UhpRSlGgDaAlDCCZqYZ3iegVAlIaUUpRoA2gJQwhZBSo+P4oQwJSGlFKUaANoCUMIiMG2aj6J4T+UhpRSlGgDaAlDCIjBtmo+ieE/lIaUUpRoA2gJQwhcIcMiW/fpP5SGlFKUaANoCUMIXCHDIlv36T+UhpRSlGgDaAlDCI5Z8Bfs2e0/lIaUUpRoA2gJQwiOWfAX7NntP5SGlFKUaANoCUMIM8zoyN8x5T+UhpRSlGgDaAlDCDPM6MjfMeU/lIaUUpRoA2gJQwi9mD8rBx/hP5SGlFKUaANoCUMI2qJuZJXt6j+UhpRSlGgDaAlDCNqibmSV7eo/lIaUUpRoA2gJQwjWRCGzQY3oP5SGlFKUaANoCUMIKIacMVm9/T+UhpRSlGgDaAlDCKwE8e8ex/w/lIaUUpRoA2gJQwiGDWRH92H6P5SGlFKUaANoCUMI4fXPkV1T+z+UhpRSlGgDaAlDCOH1z5FdU/s/lIaUUpRoA2gJQwgXfP8qUBn8P5SGlFKUaANoCUMIE6ZXgHV3/D+UhpRSlGgDaAlDCBOmV4B1d/w/lIaUUpRlLg==
+
+$$$$
+lig 66, deprot
+     RDKit          3D
+
+ 57 62  0  0  1  0  0  0  0  0999 V2000
+   15.3890  134.4744   -3.4827 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7580  135.8421   -3.7591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0710  133.9790   -3.8402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2570  133.5600   -2.8648 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0670  136.3575   -3.4346 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7970  136.6915   -4.3849 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7040  132.6183   -3.5719 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1470  134.8554   -4.4611 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9200  132.1993   -2.5954 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4420  137.0116   -2.2443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2000  136.2366   -4.3365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5050  136.1992   -4.7284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6310  131.7249   -2.9550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8400  131.2789   -2.0205 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9740  137.2256   -2.2825 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.7320  137.2636   -1.2895 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3920  136.2445   -3.3995 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2280  131.6148   -2.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6300  136.9319   -0.9732 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0130  131.8046   -3.2781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8600  131.7721   -0.7980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3470  135.6196   -0.3319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3820  132.1567   -3.1584 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4240  131.6443   -4.5879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2480  132.1182   -0.7004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1100  135.4339    0.9673 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9900  132.3140   -1.8896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8870  131.5093   -5.6068 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9680  132.2865    0.6175 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7910  134.2377    1.8095 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1570  132.9165    1.6558 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0330  134.2298    2.9555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6090  132.2136    2.7025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9140  132.9864    3.5168 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2456  133.8732   -2.5631 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0458  137.7196   -4.6031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7194  132.2622   -3.8369 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1642  134.4996   -4.7329 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1177  135.2984   -4.9048 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2066  137.0878   -5.0331 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7853  136.8530   -5.1985 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3489  130.6997   -2.7662 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2940  138.2657   -2.4435 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5649  135.2275   -3.0176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2839  136.5883   -3.9437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7227  136.9615   -1.0958 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2725  135.5448   -0.1084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6368  134.8075   -1.0150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1856  135.3512    0.7522 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9327  136.2987    1.6235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0336  132.5869   -1.8362 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2748  131.3004    0.9962 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8580  132.9162    0.4713 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6018  135.1489    3.3240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7728  131.1491    2.7827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2925  131.6303    0.1099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9797  132.3098   -4.0448 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  2  5  1  0
+  2  6  2  0
+  3  7  2  0
+  3  8  1  0
+  4  9  1  0
+  4 35  1  0
+  5 10  1  0
+  5 11  1  0
+  6 12  1  0
+  6 36  1  0
+  7 13  1  0
+  7 37  1  0
+  8 12  2  0
+  8 38  1  0
+  9 13  2  0
+  9 14  1  0
+ 10 15  1  0
+ 10 16  2  0
+ 11 17  1  0
+ 11 39  1  0
+ 11 40  1  0
+ 12 41  1  0
+ 13 42  1  0
+ 14 18  1  0
+ 15 17  1  0
+ 15 19  1  0
+ 15 43  1  6
+ 17 44  1  0
+ 17 45  1  0
+ 18 20  2  0
+ 18 21  1  0
+ 19 22  1  0
+ 19 46  1  0
+ 20 23  1  0
+ 20 24  1  0
+ 21 25  2  0
+ 21 56  1  0
+ 22 26  1  0
+ 22 47  1  0
+ 22 48  1  0
+ 23 27  2  0
+ 23 57  1  0
+ 24 28  3  0
+ 25 27  1  0
+ 25 29  1  0
+ 26 30  1  0
+ 26 49  1  0
+ 26 50  1  0
+ 27 51  1  0
+ 29 31  1  0
+ 29 52  1  0
+ 29 53  1  0
+ 30 31  1  0
+ 30 32  2  0
+ 31 33  1  0
+ 32 34  1  0
+ 32 54  1  0
+ 33 34  2  0
+ 33 55  1  0
+M  END
+>  <i_m_Source_File_Index>  (2) 
+2
+
+>  <b_m_subgroup_collapsed>  (2) 
+0
+
+>  <r_exp_dg>  (2) 
+-12.29
+
+>  <s_m_Source_File>  (2) 
+ftase_extraligs_custcore_stereo_ligands.sdf
+
+>  <s_m_Source_Path>  (2) 
+path\input_structures\original_structures\bayer_macrocycles
+
+>  <s_m_entry_id>  (2) 
+2
+
+>  <s_m_entry_name>  (2) 
+ftase_extraligs_custcore_stereo_ligands.2
+
+>  <s_m_subgroup_title>  (2) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <s_m_subgroupid>  (2) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <experimental dG reference units>  (2) 
+kcal/mol
+
+>  <experimental dG reference field>  (2) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (2) 
+-51.42136
+
+>  <kcal/mol experimental dG>  (2) 
+-12.29
+
+>  <AmberAM1BCCCache>  (2) 
+gASVlgQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCBcVmp0UbsG/lIaUUpRoA2gJQwg6qgkOw2vqP5SGlFKUaANoCUMIm0RLfenR2r+UhpRSlGgDaAlDCK9Ihf+1W/a/lIaUUpRoA2gJQwitjR0KI4gSwJSGlFKUaANoCUMIBMmYxERz+7+UhpRSlGgDaAlDCOFwZ+dUwfS/lIaUUpRoA2gJQwj2XVeJc4L1v5SGlFKUaANoCUMI0ouGOjgi8D+UhpRSlGgDaAlDCD5/XiZ1BCBAlIaUUpRoA2gJQwia6wDAz2XwP5SGlFKUaANoCUMIl0E/fCGk9r+UhpRSlGgDaAlDCGlNCVduK/a/lIaUUpRoA2gJQwi+7WSxjpYIwJSGlFKUaANoCUMI2X4k4z+89D+UhpRSlGgDaAlDCIaPJaouqxzAlIaUUpRoA2gJQwitHuQQTujxv5SGlFKUaANoCUMIwocpbZ2B+j+UhpRSlGgDaAlDCFr2pCviHCPAlIaUUpRoA2gJQwj0V/nwRvnIv5SGlFKUaANoCUMIZhldlII++L+UhpRSlGgDaAlDCOVkYDRP8P0/lIaUUpRoA2gJQwinC0xYB6Htv5SGlFKUaANoCUMICG1oVNfXBkCUhpRSlGgDaAlDCICPucUdf+6/lIaUUpRoA2gJQwjNXOJXlrrTv5SGlFKUaANoCUMIZhldlII++L+UhpRSlGgDaAlDCEJsEi0rzRDAlIaUUpRoA2gJQwgFNCWCwiLvP5SGlFKUaANoCUMIFgo0JZ5fA8CUhpRSlGgDaAlDCEULFTuMUwPAlIaUUpRoA2gJQwiHJWB1tLwLQJSGlFKUaANoCUMIqWwO7I1zEkCUhpRSlGgDaAlDCN5QkCLkKh/AlIaUUpRoA2gJQwg+niWmi7H9P5SGlFKUaANoCUMIowhAVz9z+T+UhpRSlGgDaAlDCKLu6XXJfPo/lIaUUpRoA2gJQwh0+rNQFgT6P5SGlFKUaANoCUMIh3iNRC485D+UhpRSlGgDaAlDCId4jUQuPOQ/lIaUUpRoA2gJQwgu/zeoztP5P5SGlFKUaANoCUMI+aKp/UOB/T+UhpRSlGgDaAlDCAfTgE361eo/lIaUUpRoA2gJQwghDnOTenroP5SGlFKUaANoCUMIIQ5zk3p66D+UhpRSlGgDaAlDCEAcAYMNkxFAlIaUUpRoA2gJQwjhRqOtHjfmP5SGlFKUaANoCUMI4UajrR435j+UhpRSlGgDaAlDCJxLJwXXBuY/lIaUUpRoA2gJQwicSycF1wbmP5SGlFKUaANoCUMI/NZVwC9u+z+UhpRSlGgDaAlDCKi2aECo9+s/lIaUUpRoA2gJQwiotmhAqPfrP5SGlFKUaANoCUMID2bVZSy43z+UhpRSlGgDaAlDCFn/UTW5Buc/lIaUUpRoA2gJQwjhm2N6r8n9P5SGlFKUaANoCUMInbo9s92P/D+UhpRSlGUu
+
+$$$$
+lig 68, deprot
+     RDKit          3D
+
+ 60 65  0  0  1  0  0  0  0  0999 V2000
+   15.3890  134.4744   -3.4827 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7580  135.8421   -3.7591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0710  133.9790   -3.8402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2570  133.5600   -2.8648 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0670  136.3575   -3.4346 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7970  136.6915   -4.3849 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7040  132.6183   -3.5719 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1470  134.8554   -4.4611 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9200  132.1993   -2.5954 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4420  137.0116   -2.2443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2000  136.2366   -4.3365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5050  136.1992   -4.7284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6310  131.7249   -2.9550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8400  131.2789   -2.0205 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9740  137.2256   -2.2825 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.7320  137.2636   -1.2895 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3920  136.2445   -3.3995 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2280  131.6148   -2.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6300  136.9319   -0.9732 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0130  131.8046   -3.2781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8600  131.7721   -0.7980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3470  135.6196   -0.3319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3820  132.1567   -3.1584 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4240  131.6443   -4.5879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2480  132.1182   -0.7004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1100  135.4339    0.9673 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9900  132.3140   -1.8896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8870  131.5093   -5.6068 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9680  132.2865    0.6175 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7910  134.2377    1.8095 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1570  132.9165    1.6558 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0330  134.2298    2.9555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6090  132.2136    2.7025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9140  132.9864    3.5168 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2456  133.8732   -2.5631 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0458  137.7196   -4.6031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7194  132.2622   -3.8369 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1642  134.4996   -4.7329 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1177  135.2984   -4.9048 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2066  137.0878   -5.0331 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7853  136.8530   -5.1985 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3489  130.6997   -2.7662 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2940  138.2657   -2.4435 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5649  135.2275   -3.0176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2839  136.5883   -3.9437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1400  136.9729   -1.1426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2725  135.5448   -0.1084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6368  134.8075   -1.0150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1856  135.3512    0.7522 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9327  136.2987    1.6235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0336  132.5869   -1.8362 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2748  131.3004    0.9962 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8580  132.9162    0.4713 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6018  135.1489    3.3240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7728  131.1491    2.7827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2925  131.6303    0.1099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9797  132.3098   -4.0448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4303  137.9227   -1.6153 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4605  136.1341   -1.7780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6218  136.8914   -0.1571 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  2  5  1  0
+  2  6  2  0
+  3  7  2  0
+  3  8  1  0
+  4  9  1  0
+  4 35  1  0
+  5 10  1  0
+  5 11  1  0
+  6 12  1  0
+  6 36  1  0
+  7 13  1  0
+  7 37  1  0
+  8 12  2  0
+  8 38  1  0
+  9 13  2  0
+  9 14  1  0
+ 10 15  1  0
+ 10 16  2  0
+ 11 17  1  0
+ 11 39  1  0
+ 11 40  1  0
+ 12 41  1  0
+ 13 42  1  0
+ 14 18  1  0
+ 15 17  1  0
+ 15 19  1  0
+ 15 43  1  6
+ 17 44  1  0
+ 17 45  1  0
+ 18 20  2  0
+ 18 21  1  0
+ 19 22  1  0
+ 19 46  1  0
+ 20 23  1  0
+ 20 24  1  0
+ 21 25  2  0
+ 21 56  1  0
+ 22 26  1  0
+ 22 47  1  0
+ 22 48  1  0
+ 23 27  2  0
+ 23 57  1  0
+ 24 28  3  0
+ 25 27  1  0
+ 25 29  1  0
+ 26 30  1  0
+ 26 49  1  0
+ 26 50  1  0
+ 27 51  1  0
+ 29 31  1  0
+ 29 52  1  0
+ 29 53  1  0
+ 30 31  1  0
+ 30 32  2  0
+ 31 33  1  0
+ 32 34  1  0
+ 32 54  1  0
+ 33 34  2  0
+ 33 55  1  0
+ 46 58  1  0
+ 46 59  1  0
+ 46 60  1  0
+M  END
+>  <i_m_Source_File_Index>  (3) 
+3
+
+>  <b_m_subgroup_collapsed>  (3) 
+0
+
+>  <r_exp_dg>  (3) 
+-12.11
+
+>  <s_m_Source_File>  (3) 
+ftase_extraligs_custcore_stereo_ligands.sdf
+
+>  <s_m_Source_Path>  (3) 
+path\input_structures\original_structures\bayer_macrocycles
+
+>  <s_m_entry_id>  (3) 
+3
+
+>  <s_m_entry_name>  (3) 
+ftase_extraligs_custcore_stereo_ligands.3
+
+>  <s_m_subgroup_title>  (3) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <s_m_subgroupid>  (3) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <experimental dG reference units>  (3) 
+kcal/mol
+
+>  <experimental dG reference field>  (3) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (3) 
+-50.66824
+
+>  <kcal/mol experimental dG>  (3) 
+-12.11
+
+>  <AmberAM1BCCCache>  (3) 
+gASVzwQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCDKJ2m0LHre/lIaUUpRoA2gJQwijDd0yugDqP5SGlFKUaANoCUMIPfORIXjY4L+UhpRSlGgDaAlDCAToBseVi/2/lIaUUpRoA2gJQwhxlH04RhgTwJSGlFKUaANoCUMIqVy/Na7k+L+UhpRSlGgDaAlDCD/vu84ADPO/lIaUUpRoA2gJQwgzsNs/vI/1v5SGlFKUaANoCUMIr+MjTgWC8z+UhpRSlGgDaAlDCPJoHjGCfSBAlIaUUpRoA2gJQwh0hmyrpRnxP5SGlFKUaANoCUMI8ovnoOEB97+UhpRSlGgDaAlDCH2C3/FwYve/lIaUUpRoA2gJQwioPj7t1wYHwJSGlFKUaANoCUMIj9NpvDw8+D+UhpRSlGgDaAlDCG40bwaJBxzAlIaUUpRoA2gJQwgqHuLLfEL1v5SGlFKUaANoCUMILQprlOUu/D+UhpRSlGgDaAlDCEK3m8h3cyHAlIaUUpRoA2gJQwiWhoVYThjRv5SGlFKUaANoCUMIfVQTnKgHAMCUhpRSlGgDaAlDCGHRUzPTLAFAlIaUUpRoA2gJQwi+8GBxxSfrv5SGlFKUaANoCUMIvEJF40TdBkCUhpRSlGgDaAlDCPK5XuLAQem/lIaUUpRoA2gJQwg2+KhiEcbGv5SGlFKUaANoCUMImUZXnfzF+b+UhpRSlGgDaAlDCL8F3bUynhDAlIaUUpRoA2gJQwgXhhRmwGjvP5SGlFKUaANoCUMIRDwzKLkJA8CUhpRSlGgDaAlDCO4qT+e/ugPAlIaUUpRoA2gJQwhKBPqrmGULQJSGlFKUaANoCUMInl2HJOg3EkCUhpRSlGgDaAlDCNFlfFcwKh/AlIaUUpRoA2gJQwhBVj+tpzv9P5SGlFKUaANoCUMIL537zXRn+j+UhpRSlGgDaAlDCHOYd3a8l/o/lIaUUpRoA2gJQwjKqVu3teb5P5SGlFKUaANoCUMIPeIQ3sWQ4z+UhpRSlGgDaAlDCD3iEN7FkOM/lIaUUpRoA2gJQwg4qC+azfb5P5SGlFKUaANoCUMIXk5jGx+M/T+UhpRSlGgDaAlDCJY5rKzBSuo/lIaUUpRoA2gJQwjwfjywpobnP5SGlFKUaANoCUMI8H48sKaG5z+UhpRSlGgDaAlDCG/ROnpBcv4/lIaUUpRoA2gJQwiDvUq9zTLdP5SGlFKUaANoCUMIg71Kvc0y3T+UhpRSlGgDaAlDCI8ueOBou+o/lIaUUpRoA2gJQwiPLnjgaLvqP5SGlFKUaANoCUMI+1rDBGAL/T+UhpRSlGgDaAlDCMETjPD+zOs/lIaUUpRoA2gJQwjBE4zw/szrP5SGlFKUaANoCUMIHB3EiwmD3z+UhpRSlGgDaAlDCN9aScgn7OY/lIaUUpRoA2gJQwhXQy9Pxvz9P5SGlFKUaANoCUMItl9HXBjb/D+UhpRSlGgDaAlDCJuqOl/s890/lIaUUpRoA2gJQwibqjpf7PPdP5SGlFKUaANoCUMIm6o6X+zz3T+UhpRSlGUu
+
+$$$$
+lig 51 stereo
+     RDKit          3D
+
+ 57 62  0  0  1  0  0  0  0  0999 V2000
+   15.2678  134.4032   -2.9325 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5351  135.7802   -2.6667 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1023  134.0136   -3.6542 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1914  133.4211   -2.4885 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6834  136.2508   -1.9689 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6254  136.7359   -3.1760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8739  132.6464   -3.8997 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2165  135.0063   -4.1154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9429  132.0572   -2.7740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5894  137.2274   -2.5610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9498  136.0548   -0.6656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4758  136.3629   -3.8859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7850  131.6746   -3.4656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8144  131.0601   -2.3947 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7589  137.3294   -1.5766 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1677  136.8792   -0.2373 C   0  0  2  0  0  0  0  0  0  0  0  0
+   18.1497  131.3559   -2.2627 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9955  131.5385   -3.3849 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6811  131.4773   -0.9628 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5597  134.8716    0.3540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3538  131.8651   -3.1868 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4982  131.3970   -4.7466 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0401  131.8078   -0.7643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2109  133.9291    1.4637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8740  132.0009   -1.8850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1081  131.2863   -5.8309 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6135  131.9469    0.6403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7097  132.6291    1.5528 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3827  134.0961    2.5547 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1965  132.1229    2.6830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3945  132.9454    3.3405 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3468  135.3086    0.1035 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1827  136.2525    0.6443 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0799  133.6923   -1.9434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7991  137.7878   -3.0038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9931  132.3362   -4.4423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3300  134.7230   -4.6645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0862  138.1907   -2.6528 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9138  136.9160   -3.5550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7931  137.1162   -4.2512 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6019  130.6308   -3.6729 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1669  138.3403   -1.5365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5599  136.6595   -1.8929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7535  137.7450    0.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0240  131.3328   -0.1168 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1337  134.5102   -0.5829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6389  134.8553    0.1999 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0035  132.0091   -4.0392 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9182  132.2494   -1.7532 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5555  132.4960    0.6198 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8334  130.9525    1.0315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7970  134.9600    2.8365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4148  131.1249    3.0344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4179  137.1239    0.8044 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1332  136.6246    1.4579 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8737  137.2918   -0.1714 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1337  138.0811    1.2417 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  2  5  1  0
+  2  6  2  0
+  3  7  2  0
+  3  8  1  0
+  4  9  1  0
+  4 34  1  0
+  5 10  1  0
+  5 11  1  0
+  6 12  1  0
+  6 35  1  0
+  7 13  1  0
+  7 36  1  0
+  8 12  2  0
+  8 37  1  0
+  9 13  2  0
+  9 14  1  0
+ 10 15  1  0
+ 10 38  1  0
+ 10 39  1  0
+ 11 16  1  0
+ 11 32  2  0
+ 12 40  1  0
+ 13 41  1  0
+ 14 17  1  0
+ 15 16  1  0
+ 15 42  1  0
+ 15 43  1  0
+ 16 33  1  0
+ 16 44  1  1
+ 17 18  2  0
+ 17 19  1  0
+ 18 21  1  0
+ 18 22  1  0
+ 19 23  2  0
+ 19 45  1  0
+ 20 24  1  0
+ 20 33  1  0
+ 20 46  1  0
+ 20 47  1  0
+ 21 25  2  0
+ 21 48  1  0
+ 22 26  3  0
+ 23 25  1  0
+ 23 27  1  0
+ 24 28  1  0
+ 24 29  2  0
+ 25 49  1  0
+ 27 28  1  0
+ 27 50  1  0
+ 27 51  1  0
+ 28 30  1  0
+ 29 31  1  0
+ 29 52  1  0
+ 30 31  2  0
+ 30 53  1  0
+ 33 54  1  0
+ 54 55  1  0
+ 54 56  1  0
+ 54 57  1  0
+M  END
+>  <i_m_Source_File_Index>  (4) 
+4
+
+>  <b_m_subgroup_collapsed>  (4) 
+0
+
+>  <r_exp_dg>  (4) 
+-11.4
+
+>  <s_m_Source_File>  (4) 
+ftase_extraligs_custcore_stereo_ligands.sdf
+
+>  <s_m_Source_Path>  (4) 
+path\input_structures\original_structures\bayer_macrocycles
+
+>  <s_m_entry_id>  (4) 
+4
+
+>  <s_m_entry_name>  (4) 
+ftase_extraligs_custcore_stereo_ligands.4
+
+>  <s_m_subgroup_title>  (4) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <s_m_subgroupid>  (4) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <experimental dG reference units>  (4) 
+kcal/mol
+
+>  <experimental dG reference field>  (4) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (4) 
+-47.6976
+
+>  <kcal/mol experimental dG>  (4) 
+-11.4
+
+>  <AmberAM1BCCCache>  (4) 
+gASVlgQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCKo4Y+EcneO/lIaUUpRoA2gJQwjtmOMH4h7pP5SGlFKUaANoCUMI7YKIDOAa0r+UhpRSlGgDaAlDCGTWL59t6fu/lIaUUpRoA2gJQwi3//qg6cgQwJSGlFKUaANoCUMIUh3svzoV+b+UhpRSlGgDaAlDCC6rZAHVbPO/lIaUUpRoA2gJQwgjD2C5Eab5v5SGlFKUaANoCUMIQRn3zHA27j+UhpRSlGgDaAlDCEH5YLKMPOM/lIaUUpRoA2gJQwgL0rm1XmsgQJSGlFKUaANoCUMILqtkAdVs87+UhpRSlGgDaAlDCFZRmIImAve/lIaUUpRoA2gJQwiGe/ahN4kIwJSGlFKUaANoCUMIeJl+UiQ3+L+UhpRSlGgDaAlDCFscReEgq/c/lIaUUpRoA2gJQwimdQ47vDv6P5SGlFKUaANoCUMIXlLPPdAsrr+UhpRSlGgDaAlDCGkK3GFZ1vm/lIaUUpRoA2gJQwgbBUC5M3gJQJSGlFKUaANoCUMI9RxyXujt7r+UhpRSlGgDaAlDCLXo3hKfhAZAlIaUUpRoA2gJQwgtvffYUKruv5SGlFKUaANoCUMIrW/jLajsBMCUhpRSlGgDaAlDCMcm9G6rtPi/lIaUUpRoA2gJQwjKPURq3lkQwJSGlFKUaANoCUMIKmkd1lGF8D+UhpRSlGgDaAlDCFKHd+NB+wPAlIaUUpRoA2gJQwiMYkGsMekNQJSGlFKUaANoCUMIFys61uhDEkCUhpRSlGgDaAlDCIiZqrsdEh/AlIaUUpRoA2gJQwgmdUhbsWobwJSGlFKUaANoCUMIDcj10vfDIcCUhpRSlGgDaAlDCFXOQj2/x/o/lIaUUpRoA2gJQwjEb/JmWI3+P5SGlFKUaANoCUMIVc5CPb/H+j+UhpRSlGgDaAlDCEDhUpugBvo/lIaUUpRoA2gJQwgFB+Ek3lnwP5SGlFKUaANoCUMIBQfhJN5Z8D+UhpRSlGgDaAlDCEDhUpugBvo/lIaUUpRoA2gJQwitggLFOcz9P5SGlFKUaANoCUMIkRsnxsfz5T+UhpRSlGgDaAlDCJEbJ8bH8+U/lIaUUpRoA2gJQwgC8YKyTKbnP5SGlFKUaANoCUMIUpqWetPa/D+UhpRSlGgDaAlDCA2Nh/oPbeE/lIaUUpRoA2gJQwgNjYf6D23hP5SGlFKUaANoCUMI3ZCOy2I7/T+UhpRSlGgDaAlDCODEOo5OKPs/lIaUUpRoA2gJQwj+vNbvYLnpP5SGlFKUaANoCUMI/rzW72C56T+UhpRSlGgDaAlDCPg06E+l5eI/lIaUUpRoA2gJQwjb358or0rmP5SGlFKUaANoCUMIb/8pr7vy/j+UhpRSlGgDaAlDCBFc1SeCW+A/lIaUUpRoA2gJQwgRXNUnglvgP5SGlFKUaANoCUMIEVzVJ4Jb4D+UhpRSlGUu
+
+$$$$
+lig 49 stereo
+     RDKit          3D
+
+ 54 59  0  0  1  0  0  0  0  0999 V2000
+   15.2678  134.4032   -2.9325 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5351  135.7802   -2.6667 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1023  134.0136   -3.6542 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1914  133.4211   -2.4885 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6834  136.2508   -1.9689 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6254  136.7359   -3.1760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8739  132.6464   -3.8997 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2165  135.0063   -4.1154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9429  132.0572   -2.7740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5894  137.2274   -2.5610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9498  136.0548   -0.6656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4758  136.3629   -3.8859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7850  131.6746   -3.4656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8144  131.0601   -2.3947 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7589  137.3294   -1.5766 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1677  136.8792   -0.2373 C   0  0  2  0  0  0  0  0  0  0  0  0
+   18.1497  131.3559   -2.2627 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9955  131.5385   -3.3849 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6811  131.4773   -0.9628 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5597  134.8716    0.3540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3538  131.8651   -3.1868 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4982  131.3970   -4.7466 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0401  131.8078   -0.7643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2109  133.9291    1.4637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8740  132.0009   -1.8850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1081  131.2863   -5.8309 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6135  131.9469    0.6403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7097  132.6291    1.5528 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3827  134.0961    2.5547 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1965  132.1229    2.6830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3945  132.9454    3.3405 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3468  135.3086    0.1035 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1827  136.2525    0.6443 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0799  133.6923   -1.9434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7991  137.7878   -3.0038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9931  132.3362   -4.4423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3300  134.7230   -4.6645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0862  138.1907   -2.6528 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9138  136.9160   -3.5550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7931  137.1162   -4.2512 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6019  130.6308   -3.6729 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1669  138.3403   -1.5365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5599  136.6595   -1.8929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7535  137.7450    0.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0240  131.3328   -0.1168 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1337  134.5102   -0.5829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6389  134.8553    0.1999 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0035  132.0091   -4.0392 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9182  132.2494   -1.7532 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5555  132.4960    0.6198 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8334  130.9525    1.0315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7970  134.9600    2.8365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4148  131.1249    3.0344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0028  136.8311    0.7506 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  2  5  1  0
+  2  6  2  0
+  3  7  2  0
+  3  8  1  0
+  4  9  1  0
+  4 34  1  0
+  5 10  1  0
+  5 11  1  0
+  6 12  1  0
+  6 35  1  0
+  7 13  1  0
+  7 36  1  0
+  8 12  2  0
+  8 37  1  0
+  9 13  2  0
+  9 14  1  0
+ 10 15  1  0
+ 10 38  1  0
+ 10 39  1  0
+ 11 16  1  0
+ 11 32  2  0
+ 12 40  1  0
+ 13 41  1  0
+ 14 17  1  0
+ 15 16  1  0
+ 15 42  1  0
+ 15 43  1  0
+ 16 33  1  0
+ 16 44  1  1
+ 17 18  2  0
+ 17 19  1  0
+ 18 21  1  0
+ 18 22  1  0
+ 19 23  2  0
+ 19 45  1  0
+ 20 24  1  0
+ 20 33  1  0
+ 20 46  1  0
+ 20 47  1  0
+ 21 25  2  0
+ 21 48  1  0
+ 22 26  3  0
+ 23 25  1  0
+ 23 27  1  0
+ 24 28  1  0
+ 24 29  2  0
+ 25 49  1  0
+ 27 28  1  0
+ 27 50  1  0
+ 27 51  1  0
+ 28 30  1  0
+ 29 31  1  0
+ 29 52  1  0
+ 30 31  2  0
+ 30 53  1  0
+ 33 54  1  0
+M  END
+>  <i_m_Source_File_Index>  (5) 
+5
+
+>  <b_m_subgroup_collapsed>  (5) 
+0
+
+>  <r_exp_dg>  (5) 
+-11.6
+
+>  <s_m_Source_File>  (5) 
+ftase_extraligs_custcore_stereo_ligands.sdf
+
+>  <s_m_Source_Path>  (5) 
+path\input_structures\original_structures\bayer_macrocycles
+
+>  <s_m_entry_id>  (5) 
+5
+
+>  <s_m_entry_name>  (5) 
+ftase_extraligs_custcore_stereo_ligands.5
+
+>  <s_m_subgroup_title>  (5) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <s_m_subgroupid>  (5) 
+Bayer_macrocycles->Ftase->ftase_extraligs_custcore_stereo_ligands
+
+>  <experimental dG reference units>  (5) 
+kcal/mol
+
+>  <experimental dG reference field>  (5) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (5) 
+-48.5344
+
+>  <kcal/mol experimental dG>  (5) 
+-11.6
+
+>  <AmberAM1BCCCache>  (5) 
+gASVXQQAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCCDmiA+RDMK/lIaUUpRoA2gJQwhJjQ7iLjvkP5SGlFKUaANoCUMIKtKwSGrY4r+UhpRSlGgDaAlDCKUKrwi9lwDAlIaUUpRoA2gJQwgperQzr/MSwJSGlFKUaANoCUMIHYaXu6R58r+UhpRSlGgDaAlDCJKPn2oVGfK/lIaUUpRoA2gJQwi9aX+uUpvzv5SGlFKUaANoCUMIeztkIGjF9D+UhpRSlGgDaAlDCHj3bFCKW/E/lIaUUpRoA2gJQwhRdLGS6KEgQJSGlFKUaANoCUMIE+qSc+Gy+L+UhpRSlGgDaAlDCEL4HnoKIvi/lIaUUpRoA2gJQwjSDjA7Yo0GwJSGlFKUaANoCUMIKuGN6YPt8r+UhpRSlGgDaAlDCOeycluZF/Q/lIaUUpRoA2gJQwiGjE96w7/7P5SGlFKUaANoCUMIyPiCLq0c2L+UhpRSlGgDaAlDCF8PM2B1ZwDAlIaUUpRoA2gJQwhN/bw1x+MFQJSGlFKUaANoCUMIBhUQnJxj6r+UhpRSlGgDaAlDCN94AwpbFgdAlIaUUpRoA2gJQwhMhUYhtNPhv5SGlFKUaANoCUMIPeRCjqQqBMCUhpRSlGgDaAlDCCSj1lIUh/u/lIaUUpRoA2gJQwic4cD6MN4QwJSGlFKUaANoCUMIaJc9G70J7j+UhpRSlGgDaAlDCLYh9/8AtwHAlIaUUpRoA2gJQwiOMtxAJu8LQJSGlFKUaANoCUMI/36WrBMUEkCUhpRSlGgDaAlDCHFEbc8ETh/AlIaUUpRoA2gJQwiwA/NhRsgcwJSGlFKUaANoCUMIHSsXpb5hI8CUhpRSlGgDaAlDCJHN78YsPf0/lIaUUpRoA2gJQwgf+JPap4r7P5SGlFKUaANoCUMIxA8okEGZ+j+UhpRSlGgDaAlDCPUdtJZqCPo/lIaUUpRoA2gJQwjPugl5HnXkP5SGlFKUaANoCUMIz7oJeR515D+UhpRSlGgDaAlDCDoZMD+yOPo/lIaUUpRoA2gJQwgcxOcXvJ39P5SGlFKUaANoCUMIPVy5orc66D+UhpRSlGgDaAlDCD1cuaK3Oug/lIaUUpRoA2gJQwhBkGVloyfmP5SGlFKUaANoCUMIvqfPCmq//j+UhpRSlGgDaAlDCOJzTVhRSec/lIaUUpRoA2gJQwjic01YUUnnP5SGlFKUaANoCUMIe+D/JA58/D+UhpRSlGgDaAlDCHvg/yQOfPw/lIaUUpRoA2gJQwganxj26cXvP5SGlFKUaANoCUMIGp8Y9unF7z+UhpRSlGgDaAlDCBX01X19yd8/lIaUUpRoA2gJQwjnPEoS8W/nP5SGlFKUaANoCUMIZiD9PGrEEUCUhpRSlGUu
+
+$$$$
