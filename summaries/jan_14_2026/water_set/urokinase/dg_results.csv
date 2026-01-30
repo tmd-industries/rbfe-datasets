@@ -1,5 +1,5 @@
 mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
-11417 (no water pose),NC(=[NH2+])c1cc2cc(-c3cccc(-c4ccccc4)c3[O-])[nH]c2cc1F,-9.945762064898764,0.028116509508675776,-10.5656
-8696 (no water pose),NC(=[NH2+])c1ccc2[nH]c(-c3cccc(-c4ccccc4)c3[O-])cc2c1,-9.05506841669383,0.02372227975624934,-9.80217
-"10302 (1GJ7, no water pose)",NC(=[NH2+])c1cc2cc(-c3cccc(-c4ccccc4)c3[O-])[nH]c2cc1Cl,-11.672934911101642,0.0283456449262917,-10.8224
-7806 (no water pose),NC(=[NH2+])c1ccc2[nH]c(-c3cccc(-c4ccccc4)c3[O-])nc2c1,-9.167904607305763,0.03141740639285438,-8.6515
+"10302 (1GJ7, no water pose)",NC(=[NH2+])c1cc2cc(-c3cccc(-c4ccccc4)c3[O-])[nH]c2cc1Cl,-11.672934911071666,0.027364758398047334,-10.8224
+11417 (no water pose),NC(=[NH2+])c1cc2cc(-c3cccc(-c4ccccc4)c3[O-])[nH]c2cc1F,-9.945762064890314,0.028398553512486907,-10.5656
+7806 (no water pose),NC(=[NH2+])c1ccc2[nH]c(-c3cccc(-c4ccccc4)c3[O-])nc2c1,-9.167904607338896,0.026280693312731626,-8.6515
+8696 (no water pose),NC(=[NH2+])c1ccc2[nH]c(-c3cccc(-c4ccccc4)c3[O-])cc2c1,-9.055068416699118,0.025261339980652615,-9.80217

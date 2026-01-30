@@ -1,9 +1,9 @@
 mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
-cmpd 3 (Allyl),C=CCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.531998497216623,0.030033129410905027,-8.34
-cmpd 4 (Crotyl),C/C=C/Cn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-9.143155136556192,0.03764566425474139,-8.71
-cmpd 2 (methyl),CN(C)C(=O)c1cccc(-c2cn(C)c(=O)c3[nH]ccc23)c1,-8.135990756278442,0.03955853839775967,-9.86
-cmpd 6 (ethyl),CCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-7.789959468101048,0.04019851117280089,-8.53
-cmpd 7 (n-propyl),CCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.471079258933642,0.03640111059190267,-8.12
-cmpd 8 (n-Butyl),CCCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.947358948666174,0.03483685568413628,-8.28
-cmpd 5 (1-Butenyl),C=CCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-9.549422373562232,0.04071652569354047,-10.0
-cmpd 9 (methoxyethyl),COCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.961035560685634,0.04562533996940357,-7.690000000000001
+cmpd 2 (methyl),CN(C)C(=O)c1cccc(-c2cn(C)c(=O)c3[nH]ccc23)c1,-8.13599075714996,0.04069163516697785,-9.86
+cmpd 3 (Allyl),C=CCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.53199849705265,0.03314154739638979,-8.34
+cmpd 6 (ethyl),CCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-7.7899594683332065,0.04031014216076179,-8.53
+cmpd 7 (n-propyl),CCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.471079259156893,0.0386250604223193,-8.12
+cmpd 4 (Crotyl),C/C=C/Cn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-9.143155136662415,0.03874842457284893,-8.71
+cmpd 8 (n-Butyl),CCCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.947358948276936,0.034169029974187685,-8.28
+cmpd 5 (1-Butenyl),C=CCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-9.549422372823864,0.042313847940177375,-10.0
+cmpd 9 (methoxyethyl),COCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.961035560544076,0.041731611933562285,-7.690000000000001
