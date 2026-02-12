@@ -1,0 +1,7 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+17,Cc1nc(N)nc2c1/C(=N/O)C[C@@H](c1ccccc1-c1cccnc1)C2,-8.677918590860594,0.03198186811695411,-9.92
+19,Cc1nc(N)nc2c1/C(=N/O)C[C@@H](c1ccc(F)cc1-c1cccnc1)C2,-10.91755550863086,0.0307144743072796,-10.26
+18,Cc1nc(N)nc2c1/C(=N/O)C[C@@H](c1ccc(F)cc1-c1ccccc1)C2,-11.51434691548182,0.028746345551089427,-8.96
+15,Cc1nc(N)nc2c1/C(=N/O)C[C@@H](c1ccccc1-c1ccccc1)C2,-9.35119994354701,0.031773512549098604,-9.88
+16,Cc1nc(N)nc2c1/C(=N/O)C[C@@H](c1ccccc1-c1ccncc1)C2,-6.486818477552324,0.02893949647453926,-8.12
+14,Nc1ncc2c(n1)C[C@H](c1ccccc1-c1ccccc1)C/C2=N\O,-8.912160563927399,0.04074731301403412,-8.72
