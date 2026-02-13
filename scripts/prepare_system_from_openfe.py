@@ -27,7 +27,7 @@ def prepare_system_for_tmd(pdb_file, output_file):
     # if output_file.is_file():
     #     return
 
-    def verify_and_copy_file(path, modified=False):
+    def verify_and_copy_file(path, modified=False) -> bool:
         try:
             assert build_protein_system(str(path), DEFAULT_PROTEIN_FF, DEFAULT_WATER_FF) is not None
             output_file.parent.mkdir(parents=True, exist_ok=True)
@@ -39,18 +39,20 @@ Retrieved from OpenFE's IndustryBenchmarks2024 repo at tag V1.0.0
 
 Removed Co-factors, Waters or Ions: {modified}
 """)
+                return True
         except (ValueError, AssertionError) as e:
             print(f"Failed to build and copy system: {e!s}")
+        return False
 
-    verify_and_copy_file(pdb_file)
+    if verify_and_copy_file(pdb_file):
+        return
     host_pdb = PDBFile(pdb_file)
     modeller = Modeller(host_pdb.topology, host_pdb.positions)
     residues_to_delete = []
     for res in modeller.topology.residues():
-        if res.name in ["UNK", "WAT", "HOH"]:
+        if res.name in ["UNK"]:
             residues_to_delete.append(res)
         elif len(list(res.atoms())) == 1:
-            print(res.name)
             residues_to_delete.append(res)
     modeller.delete(residues_to_delete)
 
