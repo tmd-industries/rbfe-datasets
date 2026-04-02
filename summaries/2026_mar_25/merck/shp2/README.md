@@ -3,11 +3,11 @@
 ![Retrospective dG performance](dg_plot.png)
 
 ## Statistics Summary
-- MUE: 1.68
-- RMSE: 2.14
-- R²: 0.13
-- Kendall 𝜏: 0.13
-- Spearman ρ: 0.22
+- MUE: 1.61
+- RMSE: 2.06
+- R²: 0.16
+- Kendall 𝜏: 0.18
+- Spearman ρ: 0.28
 
 ## System Details
 - Ligands: 26
@@ -23,9 +23,9 @@
 - TMD Sha: [d90311ea6b8fd4d5bddae32b2925ef72d57ec45e](https://github.com/tmd-industries/tmd/tree/d90311ea6b8fd4d5bddae32b2925ef72d57ec45e)
 - GPU: RTX 4090
 - MPS Processes: 12
-- Total Wallclock Time: 13.87 Hours
-- Average Time Per Edge: 0.30 Hours
-- Total Nanoseconds Simulated: 4643.80
+- Total Wallclock Time: 56.72 Hours
+- Average Time Per Edge: 1.23 Hours
+- Total Nanoseconds Simulated: 5048.20
 - TMD Forcefield: smirnoff_2_0_0_amber_am1bcc.py
 - Ligand Charges: Amber AM1BCC ELF10
 - Simulation Details:

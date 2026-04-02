@@ -4,7 +4,7 @@
 
 ## Statistics Summary
 - MUE: 0.86
-- RMSE: 1.08
+- RMSE: 1.09
 - R²: 0.39
 - Kendall 𝜏: 0.43
 - Spearman ρ: 0.59
@@ -23,9 +23,9 @@
 - TMD Sha: [d90311ea6b8fd4d5bddae32b2925ef72d57ec45e](https://github.com/tmd-industries/tmd/tree/d90311ea6b8fd4d5bddae32b2925ef72d57ec45e)
 - GPU: RTX 4090
 - MPS Processes: 12
-- Total Wallclock Time: 19.25 Hours
-- Average Time Per Edge: 0.27 Hours
-- Total Nanoseconds Simulated: 6871.20
+- Total Wallclock Time: 73.44 Hours
+- Average Time Per Edge: 1.03 Hours
+- Total Nanoseconds Simulated: 7007.40
 - TMD Forcefield: smirnoff_2_0_0_amber_am1bcc.py
 - Ligand Charges: Amber AM1BCC ELF10
 - Simulation Details:
