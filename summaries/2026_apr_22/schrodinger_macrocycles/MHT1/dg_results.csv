@@ -1,0 +1,4 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+5AN26_ligand,COCCOc1nc(N)c2[nH]c(=O)n(Cc3ccccc3)c2n1,-7.413336212557783,0.03647038822303089,-7.57
+5ANT_A_ligand,CNc1nc(OCCOC)nc2c1[nH]c(=O)n2Cc1ccccc1,-8.38584960504613,0.038615665088852134,-8.55
+5ANU_ligand,CNc1nc2nc3c1[nH]c(=O)n3Cc1cccc(c1)OCCOCCO2,-13.280814182396089,0.041552646008076115,-12.96
