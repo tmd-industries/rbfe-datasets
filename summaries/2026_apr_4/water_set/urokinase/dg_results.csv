@@ -1,0 +1,5 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+"10302 (1GJ7, no water pose)",NC(=[NH2+])c1cc2cc(-c3cccc(-c4ccccc4)c3[O-])[nH]c2cc1Cl,-12.004619732375579,0.027848714103413583,-10.8224
+11417 (no water pose),NC(=[NH2+])c1cc2cc(-c3cccc(-c4ccccc4)c3[O-])[nH]c2cc1F,-9.960072024750389,0.02824531359550424,-10.5656
+7806 (no water pose),NC(=[NH2+])c1ccc2[nH]c(-c3cccc(-c4ccccc4)c3[O-])nc2c1,-8.943517815451907,0.026675299037624313,-8.6515
+8696 (no water pose),NC(=[NH2+])c1ccc2[nH]c(-c3cccc(-c4ccccc4)c3[O-])cc2c1,-8.933460427422126,0.025614971486608996,-9.80217

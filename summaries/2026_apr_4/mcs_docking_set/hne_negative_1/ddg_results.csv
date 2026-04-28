@@ -1,0 +1,2 @@
+mol_a,mol_b,complex_pred_dg (kcal/mol),complex_pred_dg_err (kcal/mol),solvent_pred_dg (kcal/mol),solvent_pred_dg_err (kcal/mol),exp_ddg (kcal/mol),pred_ddg (kcal/mol),pred_ddg_err (kcal/mol),mle_ddg (kcal/mol),mle_ddg_err (kcal/mol)
+16,19,-9.114866029824917,0.05296782555658935,-9.563345707510143,0.05683395676972341,0.3026,0.4484796776852261,0.07768969807056833,0.448479677685226,0.05975201939429994
