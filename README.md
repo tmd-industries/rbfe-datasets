@@ -15,15 +15,15 @@ Available datasets:
 
 | Dataset | Description |
 |---|---|
-| `merck/` | Merck FEP benchmark datasets |
+| `merck/` | Merck datasets |
 | `bayer_macrocycles/` | Bayer macrocycle datasets |
 | `jacs_set/` | JACS publication datasets |
-| `janssen_bace/` | BMS BACE datasets |
-| `mcs_docking_set/` | MCS docking datasets (hne, renin) |
+| `janssen_bace/` | Janssen BACE datasets |
+| `mcs_docking_set/` | MCS docking datasets |
 | `scaffold_hopping_set/` | Scaffold hopping datasets |
 | `schrodinger_macrocycles/` | Schrödinger macrocycle datasets |
 | `water_set/` | Water reference datasets |
-| `miscellaneous_set/` | Miscellaneous datasets (malt1, faah, btk) |
+| `miscellaneous_set/` | Miscellaneous datasets |
 | `fragments/` | Fragment-based datasets |
 | `gpcrs/` | GPCR datasets |
 
