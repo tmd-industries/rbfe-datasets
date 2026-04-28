@@ -1,0 +1,438 @@
+ligand_5
+     RDKit          3D
+
+ 39 41  0  0  1  0  0  0  0  0999 V2000
+   -1.0460    9.2600   21.2900 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1090    8.2940   20.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4440    8.7930   20.3060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4340    8.0080   19.5980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0770    6.7300   19.0270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1330    6.0570   18.3540 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3160    4.6560   18.5660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7046    4.2458   17.7017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2543    4.7010   16.1415 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8630    5.0290   15.6600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7680    5.5460   16.9870 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0520    6.9050   17.2770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0940    7.6420   16.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3700    8.9870   16.8630 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6460    9.6420   17.8770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6080    8.9360   18.6090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8760    9.5560   19.6200 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5840    9.3980   20.0670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1980   10.0980   21.0080 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7380    8.4450   19.4450 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3240    7.5750   18.3000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9154    7.0029   15.4738 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5327    6.4829   14.6448 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6990    6.2490   19.1790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2800    7.0300   19.8830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6994    9.7490   20.7396 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4207    4.4249   19.6269 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4556    4.1102   18.1782 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4769    4.4691   18.4366 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7264    3.1564   17.6953 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8455    3.9818   15.4320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6923    5.6107   15.9166 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5057    4.1526   15.5755 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9476    5.7477   14.8440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8913   10.6741   18.0812 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3407   10.3200   20.0841 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2517    7.8720   18.7849 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4127    5.2990   18.7541 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2939    6.6750   19.9940 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2 25  2  0
+  2  3  1  0
+  3  4  2  0
+  3 26  1  0
+  4 20  1  0
+  4  5  1  0
+  5  6  1  0
+  5 24  2  0
+  6  7  1  0
+  7  8  1  0
+  7 27  1  0
+  7 28  1  0
+  8  9  1  0
+  8 29  1  0
+  8 30  1  0
+  9 10  1  0
+  9 31  1  0
+  9 32  1  0
+ 10 11  1  0
+ 10 33  1  0
+ 10 34  1  0
+ 11 12  1  0
+ 12 21  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 22  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 35  1  0
+ 16 17  1  0
+ 16 21  1  0
+ 17 18  1  0
+ 17 36  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 20 37  1  0
+ 22 23  3  0
+ 24 25  1  0
+ 24 38  1  0
+ 25 39  1  0
+M  END
+>  <r_exp_dg>  (1) 
+-11.18
+
+>  <experimental dG reference units>  (1) 
+kcal/mol
+
+>  <experimental dG reference field>  (1) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (1) 
+-46.777120000000004
+
+>  <kcal/mol experimental dG>  (1) 
+-11.18
+
+>  <AmberAM1BCCCache>  (1) 
+gASVQAMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCPGGKAGUD++/lIaUUpRoA2gJQwg6cUnoVr7aP5SGlFKUaANoCUMI4aaMk/Pm+7+UhpRSlGgDaAlDCE2s6aZQKOw/lIaUUpRoA2gJQwhNv92+PczfP5SGlFKUaANoCUMIA1dKz4ZmEMCUhpRSlGgDaAlDCEipoEZWCfg/lIaUUpRoA2gJQwjJj/sCbbL2v5SGlFKUaANoCUMIXO5L2dPs8r+UhpRSlGgDaAlDCP55eNsi7Pk/lIaUUpRoA2gJQwjSw7jemzoUwJSGlFKUaANoCUMIVxF65W9yHECUhpRSlGgDaAlDCKNq22kLhQ1AlIaUUpRoA2gJQwj3V5c4T40ZwJSGlFKUaANoCUMI3IzGsX78A0CUhpRSlGgDaAlDCBMGsy82xRZAlIaUUpRoA2gJQwiL7TPuWLYZwJSGlFKUaANoCUMIorUQGHOOIkCUhpRSlGgDaAlDCH/4iyulVhzAlIaUUpRoA2gJQwi6vHJbB4MUwJSGlFKUaANoCUMIOCUZ3qEmIsCUhpRSlGgDaAlDCGSJLpF8ZP0/lIaUUpRoA2gJQwgBeaFq1BAQwJSGlFKUaANoCUMIpkcVM2999b+UhpRSlGgDaAlDCCvWtP4mBPq/lIaUUpRoA2gJQwi2iI4YHBwCQJSGlFKUaANoCUMII3FlLktZ5j+UhpRSlGgDaAlDCCNxZS5LWeY/lIaUUpRoA2gJQwiYem3du/jlP5SGlFKUaANoCUMImHpt3bv45T+UhpRSlGgDaAlDCPNi2Sci6uY/lIaUUpRoA2gJQwjzYtknIurmP5SGlFKUaANoCUMIePF489lw6z+UhpRSlGgDaAlDCHjxePPZcOs/lIaUUpRoA2gJQwhznTYWCoriP5SGlFKUaANoCUMI5g7d7ctKEECUhpRSlGgDaAlDCP0IeIAlhxBAlIaUUpRoA2gJQwgE2MWMdkz8P5SGlFKUaANoCUMI1Mk5hk3d/D+UhpRSlGUu
+
+$$$$
+ligand_7
+     RDKit          3D
+
+ 45 47  0  0  1  0  0  0  0  0999 V2000
+   -0.9862    9.2656   21.2927 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1563    8.3289   20.4006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4920    8.7579   20.2930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4542    7.9649   19.6191 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0551    6.7326   19.0423 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0103    5.9256   18.4619 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8827    4.5267   18.7247 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0386    3.7365   18.1039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7852    3.1966   16.7135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0259    3.0107   15.7995 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5024    3.4272   16.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9515    4.8982   15.8453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5750    5.6968   16.9571 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9811    7.0033   17.1642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0857    7.7306   16.6098 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3295    9.0122   16.9967 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5258    9.5613   17.9309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4681    8.8494   18.5275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7380    9.5607   19.5218 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5023    9.3688   20.0131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0669   10.1255   20.8872 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8237    8.3322   19.4900 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2187    7.5738   18.1364 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1593    7.1413   15.8218 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0459    6.6821   15.2325 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6921    6.3500   19.0952 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2481    7.1339   19.7854 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7496    9.6966   20.7539 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9388    4.4097   19.8058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9362    4.1074   18.3920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8702    4.4158   18.0729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2888    2.8680   18.7138 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2350    2.2579   16.7963 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0770    3.8645   16.2156 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8754    2.3934   14.9164 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8091    3.8921   15.1933 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8720    3.0383   16.9961 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0770    2.8876   15.3081 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0329    4.8532   15.7593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5736    5.3241   14.9164 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7376   10.5812   18.2208 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1797   10.4049   19.8750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3399    7.7542   18.8303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3438    5.4419   18.6234 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2747    6.8044   19.8495 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2 27  2  0
+  2  3  1  0
+  3  4  2  0
+  3 28  1  0
+  4 22  1  0
+  4  5  1  0
+  5  6  1  0
+  5 26  2  0
+  6  7  1  0
+  7  8  1  0
+  7 29  1  0
+  7 30  1  0
+  8  9  1  0
+  8 31  1  0
+  8 32  1  0
+  9 10  1  0
+  9 33  1  0
+  9 34  1  0
+ 10 11  1  0
+ 10 35  1  0
+ 10 36  1  0
+ 11 12  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 12 13  1  0
+ 12 39  1  0
+ 12 40  1  0
+ 13 14  1  0
+ 14 23  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 24  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 41  1  0
+ 18 19  1  0
+ 18 23  1  0
+ 19 20  1  0
+ 19 42  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 22 43  1  0
+ 24 25  3  0
+ 26 27  1  0
+ 26 44  1  0
+ 27 45  1  0
+M  END
+>  <r_exp_dg>  (2) 
+-10.27
+
+>  <experimental dG reference units>  (2) 
+kcal/mol
+
+>  <experimental dG reference field>  (2) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (2) 
+-42.96968
+
+>  <kcal/mol experimental dG>  (2) 
+-10.27
+
+>  <AmberAM1BCCCache>  (2) 
+gASVsgMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCFduXEscBfC/lIaUUpRoA2gJQwj9CIp+9zq8P5SGlFKUaANoCUMIyFMDRZM097+UhpRSlGgDaAlDCMAmzfHVFd0/lIaUUpRoA2gJQwix/lmODXn0P5SGlFKUaANoCUMIkOSUKMG5D8CUhpRSlGgDaAlDCMVmREZqffg/lIaUUpRoA2gJQwjIQ7g3obfxv5SGlFKUaANoCUMIUfRMTNIY77+UhpRSlGgDaAlDCJ5XIXrxIuu/lIaUUpRoA2gJQwgKC4gd/frzv5SGlFKUaANoCUMIqitSAOrY+j+UhpRSlGgDaAlDCOfQLJ3MQRTAlIaUUpRoA2gJQwgwJMF1WyUbQJSGlFKUaANoCUMI83hRiyGeEECUhpRSlGgDaAlDCEPJ4/QksBrAlIaUUpRoA2gJQwgz2nwuJAMKQJSGlFKUaANoCUMIAjqWJCwmFECUhpRSlGgDaAlDCIonDuzg8hfAlIaUUpRoA2gJQwjaBQLegaIhQJSGlFKUaANoCUMIxC3i0XTDGsCUhpRSlGgDaAlDCDcvoC3LmRXAlIaUUpRoA2gJQwiDgn5i4UEhwJSGlFKUaANoCUMItWzyTFNW/D+UhpRSlGgDaAlDCIobmG4hkw/AlIaUUpRoA2gJQwhHlKBs6df+v5SGlFKUaANoCUMIh6aJQK3n87+UhpRSlGgDaAlDCJNOrWu9lP8/lIaUUpRoA2gJQwg+W0s239LiP5SGlFKUaANoCUMIPltLNt/S4j+UhpRSlGgDaAlDCGk1K3ocVeQ/lIaUUpRoA2gJQwhpNSt6HFXkP5SGlFKUaANoCUMIDk2/L7Zj4z+UhpRSlGgDaAlDCA5Nvy+2Y+M/lIaUUpRoA2gJQwj8k3tQg4/gP5SGlFKUaANoCUMI/JN7UIOP4D+UhpRSlGgDaAlDCK0WUUHujuU/lIaUUpRoA2gJQwitFlFB7o7lP5SGlFKUaANoCUMI1byEwj8k6T+UhpRSlGgDaAlDCNW8hMI/JOk/lIaUUpRoA2gJQwgJlA2DCLroP5SGlFKUaANoCUMIHWiHokOFDECUhpRSlGgDaAlDCOsy+slppA5AlIaUUpRoA2gJQwiDr79tALf7P5SGlFKUaANoCUMIgZVpjIrA/D+UhpRSlGUu
+
+$$$$
+ligand_4
+     RDKit          3D
+
+ 41 43  0  0  1  0  0  0  0  0999 V2000
+   -0.8500    9.0821   21.2723 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3118    8.1796   20.3718 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6192    8.6791   20.2090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5705    7.9333   19.4634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2061    6.7051   18.8696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1563    6.0431   18.1176 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1829    4.6258   18.2246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5671    4.0792   17.8385 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7864    3.6608   16.3522 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5013    4.6534   15.3755 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9760    4.9888   15.7212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0985    5.5338   17.0271 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2095    6.8957   17.1576 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1320    7.6933   16.4362 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2948    9.0112   16.7020 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5397    9.5249   17.6984 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5944    8.7509   18.4078 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8893    9.4348   19.4270 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6300    9.2985   19.8592 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1994   10.0568   20.7195 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9155    8.3314   19.2643 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4425    7.4277   18.1376 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8935    6.2162   19.0471 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0491    6.9460   19.7979 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596    9.6309   20.6557 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0049    4.3676   19.2711 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3859    4.1670   17.6409 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3321    4.7459   18.2310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6867    3.1653   18.4216 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3812    2.7476   16.3626 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8222    3.3708   15.9268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4748    4.2424   14.3640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9287    5.5871   15.3311 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5754    4.0794   15.7044 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3908    5.6471   14.9587 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7817    7.2766   15.6815 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6843   10.5712   17.9297 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3572   10.2297   19.8356 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4346    7.7314   18.6327 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5897    5.2829   18.5994 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0565    6.5741   19.9231 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2 24  2  0
+  2  3  1  0
+  3  4  2  0
+  3 25  1  0
+  4 21  1  0
+  4  5  1  0
+  5  6  1  0
+  5 23  2  0
+  6  7  1  0
+  7  8  1  0
+  7 26  1  0
+  7 27  1  0
+  8  9  1  0
+  8 28  1  0
+  8 29  1  0
+  9 10  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 11  1  0
+ 10 32  1  0
+ 10 33  1  0
+ 11 12  1  0
+ 11 34  1  0
+ 11 35  1  0
+ 12 13  1  0
+ 13 22  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 36  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 37  1  0
+ 17 18  1  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 38  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 21 39  1  0
+ 23 24  1  0
+ 23 40  1  0
+ 24 41  1  0
+M  END
+>  <r_exp_dg>  (3) 
+-10.88
+
+>  <experimental dG reference units>  (3) 
+kcal/mol
+
+>  <experimental dG reference field>  (3) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (3) 
+-45.52192000000001
+
+>  <kcal/mol experimental dG>  (3) 
+-10.88
+
+>  <AmberAM1BCCCache>  (3) 
+gASVZgMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCK2bpF+9TfC/lIaUUpRoA2gJQwicDLJl9q/LP5SGlFKUaANoCUMIlaSp6RoT9r+UhpRSlGgDaAlDCEuAOXuTVOU/lIaUUpRoA2gJQwiJE12eA6vpP5SGlFKUaANoCUMIynGS/rtnEMCUhpRSlGgDaAlDCCs+gImBBPg/lIaUUpRoA2gJQwgecQBMQgDyv5SGlFKUaANoCUMIF3B52R5Y7r+UhpRSlGgDaAlDCBo9VIlWE/S/lIaUUpRoA2gJQwhWGGDNvob5P5SGlFKUaANoCUMIJdX4XmCcFMCUhpRSlGgDaAlDCJQq3ngmXhpAlIaUUpRoA2gJQwhiKtATvcQFQJSGlFKUaANoCUMIukveldMcG8CUhpRSlGgDaAlDCGd40rceqAJAlIaUUpRoA2gJQwhk/1t00PYVQJSGlFKUaANoCUMI3gsfX1iTGcCUhpRSlGgDaAlDCMurD8KiaSJAlIaUUpRoA2gJQwhcAMT8+BgdwJSGlFKUaANoCUMImt4ADtE7FMCUhpRSlGgDaAlDCO23Mdjr8CHAlIaUUpRoA2gJQwjPAyFKn3z8v5SGlFKUaANoCUMIqpGZiznU9r+UhpRSlGgDaAlDCLRjTOy2cAFAlIaUUpRoA2gJQwhL6+iD3xrjP5SGlFKUaANoCUMIS+vog98a4z+UhpRSlGgDaAlDCBepsLrKvuU/lIaUUpRoA2gJQwgXqbC6yr7lP5SGlFKUaANoCUMIZAyF6OnI4T+UhpRSlGgDaAlDCGQMhejpyOE/lIaUUpRoA2gJQwgBvMAYrP3kP5SGlFKUaANoCUMIAbzAGKz95D+UhpRSlGgDaAlDCFY81N06Feo/lIaUUpRoA2gJQwhWPNTdOhXqP5SGlFKUaANoCUMI2qrdjg6i4z+UhpRSlGgDaAlDCJZLjOSOdd0/lIaUUpRoA2gJQwh89lbqcjEQQJSGlFKUaANoCUMIBu1OOwKSEECUhpRSlGgDaAlDCIuEOYU7Vvs/lIaUUpRoA2gJQwgsaCF46Xf8P5SGlFKUZS4=
+
+$$$$
+ligand_6
+     RDKit          3D
+
+ 42 44  0  0  1  0  0  0  0  0999 V2000
+   -0.8628    9.0955   21.2476 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2966    8.1814   20.3566 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6059    8.6726   20.1892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5621    7.9221   19.4601 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1942    6.6873   18.8809 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1525    6.0050   18.1595 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2236    4.6035   18.3877 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6215    4.0606   18.0109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8278    3.6367   16.5283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4629    4.6603   15.5612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9524    4.9548   15.7793 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2004    5.5527   17.0534 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3010    6.9249   17.1697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2795    7.7315   16.5160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3841    9.0551   16.7843 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5603    9.5692   17.7186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5979    8.7857   18.3955 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8640    9.4657   19.4036 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130    9.3029   19.8489 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1812   10.0482   20.7186 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9113    8.3205   19.2629 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4648    7.4620   18.0992 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2729    7.1860   15.5989 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0597    6.7584   14.8657 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8745    6.1996   19.0581 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0679    6.9450   19.7954 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8463    9.6224   20.6411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0665    4.4202   19.4544 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4292    4.0810   17.8526 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3768    4.7611   18.3690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7719    3.1660   18.6140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4447    2.7352   16.5067 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8641    3.3413   16.1095 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3502    4.2714   14.5471 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8980    5.5934   15.6034 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5128    4.0235   15.7215 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2873    5.5696   14.9469 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6798   10.6258   17.9274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3158   10.2629   19.8259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4398    7.7271   18.6357 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5683    5.2611   18.6261 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0735    6.5715   19.9338 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2 26  2  0
+  2  3  1  0
+  3  4  2  0
+  3 27  1  0
+  4 21  1  0
+  4  5  1  0
+  5  6  1  0
+  5 25  2  0
+  6  7  1  0
+  7  8  1  0
+  7 28  1  0
+  7 29  1  0
+  8  9  1  0
+  8 30  1  0
+  8 31  1  0
+  9 10  1  0
+  9 32  1  0
+  9 33  1  0
+ 10 11  1  0
+ 10 34  1  0
+ 10 35  1  0
+ 11 12  1  0
+ 11 36  1  0
+ 11 37  1  0
+ 12 13  1  0
+ 13 22  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 23  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 38  1  0
+ 17 18  1  0
+ 17 22  1  0
+ 18 19  1  0
+ 18 39  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 21 40  1  0
+ 23 24  3  0
+ 25 26  1  0
+ 25 41  1  0
+ 26 42  1  0
+M  END
+>  <r_exp_dg>  (4) 
+-11.09
+
+>  <experimental dG reference units>  (4) 
+kcal/mol
+
+>  <experimental dG reference field>  (4) 
+r_exp_dg
+
+>  <kJ/mol experimental dG>  (4) 
+-46.40056
+
+>  <kcal/mol experimental dG>  (4) 
+-11.09
+
+>  <AmberAM1BCCCache>  (4) 
+gASVeQMAAAAAAABdlCiMFm51bXB5Ll9jb3JlLm11bHRpYXJyYXmUjAZzY2FsYXKUk5SMBW51bXB5lIwFZHR5cGWUk5SMAmY4lImIh5RSlChLA4wBPJROTk5K/////0r/////SwB0lGJDCJ94Sxs7Eu+/lIaUUpRoA2gJQwhd/2PoUDLWP5SGlFKUaANoCUMIMF1SkqN0+b+UhpRSlGgDaAlDCOfp7vfcQuo/lIaUUpRoA2gJQwhoj/vuEKnjP5SGlFKUaANoCUMIT68pRTWjEMCUhpRSlGgDaAlDCIgdf1shyfg/lIaUUpRoA2gJQwi6Kan0ymH1v5SGlFKUaANoCUMIRsSLk8AN7L+UhpRSlGgDaAlDCNNKRVnVD/S/lIaUUpRoA2gJQwi0916fXkv6P5SGlFKUaANoCUMINiPe194uFMCUhpRSlGgDaAlDCFTbF+q51xpAlIaUUpRoA2gJQwgXFlIeCloRQJSGlFKUaANoCUMIEZU/t5nfGsCUhpRSlGgDaAlDCMACTwwCMAxAlIaUUpRoA2gJQwhABd4MWgsTQJSGlFKUaANoCUMIrZI08nriFsCUhpRSlGgDaAlDCFuf43HQkCFAlIaUUpRoA2gJQwj/kqNqaO8ZwJSGlFKUaANoCUMIBe5Q/wROFsCUhpRSlGgDaAlDCOrhVkv+myHAlIaUUpRoA2gJQwgeO8EXpLD7P5SGlFKUaANoCUMIKc2l1IDoDsCUhpRSlGgDaAlDCKVmWkEUFPm/lIaUUpRoA2gJQwgacGLwhLP4v5SGlFKUaANoCUMIetqRWJuKAUCUhpRSlGgDaAlDCKWNzhrNxeU/lIaUUpRoA2gJQwiljc4azcXlP5SGlFKUaANoCUMIGpfWyT1l5T+UhpRSlGgDaAlDCBqX1sk9ZeU/lIaUUpRoA2gJQwgh/y5PFT/hP5SGlFKUaANoCUMIIf8uTxU/4T+UhpRSlGgDaAlDCOuISsMU9uU/lIaUUpRoA2gJQwjriErDFPblP5SGlFKUaANoCUMIKRxu5oRM6j+UhpRSlGgDaAlDCCkcbuaETOo/lIaUUpRoA2gJQwii7nJPlRLqP5SGlFKUaANoCUMII+hj0/M0C0CUhpRSlGgDaAlDCEt0QXPP0w9AlIaUUpRoA2gJQwgYcsRdBIr7P5SGlFKUaANoCUMIuVWsULKr/D+UhpRSlGUu
+
+$$$$
