@@ -1,0 +1,7 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+CHEMBL3264995,COc1ccc(Nc2nc(-c3cccc(C(=O)Nc4ccc(C(=O)[O-])cc4)c3)cn3ccnc23)cc1OC,-11.694387202071612,0.056660228382044396,-12.3815
+CHEMBL3265001,COc1ccc(Nc2nc(-c3cccc(C(=O)Nc4ccc(-c5nnn[n-]5)cc4)c3)cn3ccnc23)cc1OC,-12.219493149084679,0.04806060320920866,-12.038
+CHEMBL3264997,COc1ccc(Nc2nc(-c3cccc(C(=O)Nc4cccc(C(=O)[O-])c4)c3)cn3ccnc23)cc1OC,-12.291839228565065,0.04685497118958446,-10.983
+docked CHEMBL3264998,COc1ccc(Nc2nc(-c3cccc(C(=O)Nc4ccc(CC(=O)[O-])cc4)c3)cn3ccnc23)cc1OC,-12.258139213829406,0.053002572414587806,-11.7121
+redocked CHEMBL3265000 ground state,COc1ccc(Nc2nc(-c3cccc(C(=O)Nc4ccc(/C([O-])=N/S(C)(=O)=O)cc4)c3)cn3ccnc23)cc1OC,-12.0198275369437,0.05693738935735947,-11.8111
+docked CHEMBL3264994,CC(C)(C)c1ccc(Nc2nc(-c3cccc(NC(=O)c4ccc(C(=O)[O-])cc4)c3)cn3ccnc23)cc1,-8.246973669505534,0.057166570553266315,-9.80496
