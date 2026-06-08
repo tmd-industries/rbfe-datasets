@@ -1,0 +1,4 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+25e,CCOc1cc(=O)n(C)cc1-c1cc(NS(=O)(=O)CC)ccc1Oc1ccc(F)cc1F,-10.161728821869293,0.049734524297842635,-11.3
+11,COc1cc(=O)n(C)nc1-c1ccccc1Oc1ccccc1,-8.492850108902024,0.05653614765828985,-8.2
+61a,CCS(=O)(=O)Nc1ccc2c(c1)-c1cn(C)c(=O)cc1OCCCCc1cc(F)cc(F)c1O2,-12.845421069228681,0.04611165405687811,-12.0
