@@ -1,0 +1,6 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+"lig 2, deprot",N#Cc1ccc(Cn2cncc2CN2CCN(c3cccc(Cl)c3)C(=O)C2)cc1,-12.8239781172404,0.0635475119219376,-12.41
+lig 49 stereo,N#Cc1ccc2cc1Oc1ccc3cccc(c3c1)N1CC[C@H](NCc3cncn3C2)C1=O,-10.509077759047926,0.04124680745355512,-11.6
+lig 51 stereo,CN1Cc2cncn2Cc2ccc(C#N)c(c2)Oc2ccc3cccc(c3c2)N2CC[C@H]1C2=O,-14.033441873241879,0.03849408974401541,-11.4
+"lig 66, deprot",N#Cc1ccc2cc1Oc1ccc3cccc(c3c1)N1CC[C@H](NCCc3cncn3C2)C1=O,-10.25547529539039,0.04433418746970222,-12.29
+"lig 68, deprot",CN1CCc2cncn2Cc2ccc(C#N)c(c2)Oc2ccc3cccc(c3c2)N2CC[C@H]1C2=O,-12.1880269550794,0.04458518261632952,-12.11
