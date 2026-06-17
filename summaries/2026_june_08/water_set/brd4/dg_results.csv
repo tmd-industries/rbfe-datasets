@@ -1,0 +1,9 @@
+mol,smiles,pred_dg (kcal/mol),pred_dg_err (kcal/mol),exp_dg (kcal/mol)
+cmpd 2 (methyl),CN(C)C(=O)c1cccc(-c2cn(C)c(=O)c3[nH]ccc23)c1,-6.385187735010414,0.03970377260344637,-9.59
+cmpd 6 (ethyl),CCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-6.400837037795889,0.03580554800330271,-8.59
+cmpd 3 (Allyl),C=CCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-7.229091355697237,0.034207463103351446,-7.09
+cmpd 4 (Crotyl),C/C=C/Cn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-10.230054415138088,0.03676445899714194,-8.64
+cmpd 7 (n-propyl),CCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-7.208759363893745,0.03860744843395047,-7.02
+cmpd 8 (n-Butyl),CCCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-9.654144811369449,0.03651830810502223,-7.660000000000001
+cmpd 5 (1-Butenyl),C=CCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-8.605832046008901,0.04277437659453009,-7.64
+cmpd 9 (methoxyethyl),COCCn1cc(-c2cccc(C(=O)N(C)C)c2)c2cc[nH]c2c1=O,-7.736093235086273,0.03955437633809696,-7.22
