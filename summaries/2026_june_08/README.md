@@ -77,4 +77,3 @@ Evalutes changing the REST region to only include rings that are connected to du
 | fragments | T4 Lysozyme | 12 | 0.55 | 0.79 | 0.96 | 0.62 | 0.72 |
 | fragments | Jak2 Set2 | 8 | 0.57 | 1.96 | 2.38 | 0.51 | 0.76 |
 | fragments | Liga | 11 | 0.78 | 1.64 | 2.09 | 0.94 | 0.90 |
-
