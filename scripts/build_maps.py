@@ -30,6 +30,8 @@ def main():
                 str(Path(lig_path).parent / f"{ds_name}_map.json"),
                 "--greedy_k_min_cut",
                 str(k_min_cut),
+                "--atom_map_constrain_hydrogens",
+                "1",
             ]
         )
 
